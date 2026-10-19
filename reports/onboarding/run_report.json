@@ -1,0 +1,12 @@
+{
+  "model": "meta-llama/Llama-3.2-1B-Instruct",
+  "dtype": "float32",
+  "sample_count": 2,
+  "samples_source": "constructed, not benchmark records",
+  "device": "cpu",
+  "status": "passed_auxiliary_loop",
+  "load_seconds": 64.87469991999933,
+  "inference_seconds": 259.1225751999991,
+  "elapsed_seconds": 323.99753505400076,
+  "peak_rss_mib": 7647.44140625
+}

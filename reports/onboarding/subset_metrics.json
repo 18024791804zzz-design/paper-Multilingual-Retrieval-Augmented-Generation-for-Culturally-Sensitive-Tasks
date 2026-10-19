@@ -1,0 +1,21 @@
+{
+  "scope": "two constructed queries, one real dispute; not a benchmark result",
+  "official_runner_exit_code": 1,
+  "official_runner_passed": false,
+  "num_queries": 2,
+  "num_territories": 1,
+  "KB CS": 1.0,
+  "Control CS": 1.0,
+  "Non-control CS": 1.0,
+  "Delta CS unnormalized": 0.0,
+  "Delta CS": 0.0,
+  "Consistency CS all": 1.0,
+  "Consistency CS unk": null,
+  "Response Countries mean": 1,
+  "Response Countries stdev": null,
+  "undefined_reasons": {
+    "Consistency CS unk": "No unknown-controller territory in this fixture.",
+    "Response Countries stdev": "Only one territory; sample standard deviation undefined."
+  },
+  "official_runner_error": "statistics.StatisticsError: mean requires at least one data point"
+}
