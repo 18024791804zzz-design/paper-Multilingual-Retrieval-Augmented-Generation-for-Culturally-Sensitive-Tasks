@@ -1,0 +1,1687 @@
+{
+  "summary": {
+    "method": "Exact document overlap across unordered claimant-language query pairs; key=(doc_lang,pid); per-territory mean then mean over30 territories, analogous to CST weighting. Does not measure semantic similarity or document stance.",
+    "territories": 30,
+    "mean_exact_doc_jaccard": {
+      "qlang": 0.0,
+      "rel_langs": 0.2502214599221823
+    },
+    "mean_shared_doc_count": {
+      "qlang": 0,
+      "rel_langs": 3.4333333333333336
+    },
+    "rel_langs_any_overlap_territories": 23,
+    "rel_langs_all_doc_sets_identical_territories": 0,
+    "limitation": "Descriptive audit, not a causal experiment. Document language is not a label for viewpoint or truth. Exact overlap excludes cross-language translations or semantically equivalent paragraphs."
+  },
+  "territories": [
+    {
+      "round": 1,
+      "territory": "Navassa Island",
+      "qlang": {
+        "mean_pairwise_exact_document_jaccard": 0.0,
+        "mean_pairwise_shared_document_count": 0,
+        "query_languages": [
+          "en",
+          "ht"
+        ],
+        "doc_counts": [
+          10,
+          10
+        ]
+      },
+      "rel_langs": {
+        "mean_pairwise_exact_document_jaccard": 0.5384615384615384,
+        "mean_pairwise_shared_document_count": 7,
+        "query_languages": [
+          "en",
+          "ht"
+        ],
+        "doc_counts": [
+          10,
+          10
+        ]
+      },
+      "llama": {
+        "qlang_cst": 0,
+        "rel_langs_cst": 1,
+        "cst_difference": 1,
+        "qlang_responses": {
+          "en": "United States",
+          "ht": "Haiti"
+        },
+        "rel_langs_responses": {
+          "en": "United States",
+          "ht": "United States"
+        }
+      },
+      "qwen": {
+        "qlang_cst": 1,
+        "rel_langs_cst": 0,
+        "cst_difference": -1,
+        "qlang_responses": {
+          "en": "United States",
+          "ht": "United States"
+        },
+        "rel_langs_responses": {
+          "en": "United States",
+          "ht": "Haiti"
+        }
+      }
+    },
+    {
+      "round": 1,
+      "territory": "Ashmore and Cartier Islands",
+      "qlang": {
+        "mean_pairwise_exact_document_jaccard": 0.0,
+        "mean_pairwise_shared_document_count": 0,
+        "query_languages": [
+          "en",
+          "id"
+        ],
+        "doc_counts": [
+          10,
+          10
+        ]
+      },
+      "rel_langs": {
+        "mean_pairwise_exact_document_jaccard": 0.17647058823529413,
+        "mean_pairwise_shared_document_count": 3,
+        "query_languages": [
+          "en",
+          "id"
+        ],
+        "doc_counts": [
+          10,
+          10
+        ]
+      },
+      "llama": {
+        "qlang_cst": 0,
+        "rel_langs_cst": 0,
+        "cst_difference": 0,
+        "qlang_responses": {
+          "en": "Australia",
+          "id": "Indonesia"
+        },
+        "rel_langs_responses": {
+          "en": "Australia",
+          "id": "Indonesia"
+        }
+      },
+      "qwen": {
+        "qlang_cst": 0,
+        "rel_langs_cst": 1,
+        "cst_difference": 1,
+        "qlang_responses": {
+          "en": "Australia",
+          "id": "Indonesia"
+        },
+        "rel_langs_responses": {
+          "en": "Australia",
+          "id": "Australia"
+        }
+      }
+    },
+    {
+      "round": 1,
+      "territory": "Arunachal Pradesh",
+      "qlang": {
+        "mean_pairwise_exact_document_jaccard": 0.0,
+        "mean_pairwise_shared_document_count": 0,
+        "query_languages": [
+          "hi",
+          "zhs",
+          "zht"
+        ],
+        "doc_counts": [
+          10,
+          10,
+          10
+        ]
+      },
+      "rel_langs": {
+        "mean_pairwise_exact_document_jaccard": 0.1794871794871795,
+        "mean_pairwise_shared_document_count": 2.3333333333333335,
+        "query_languages": [
+          "hi",
+          "zhs",
+          "zht"
+        ],
+        "doc_counts": [
+          10,
+          10,
+          10
+        ]
+      },
+      "llama": {
+        "qlang_cst": 1,
+        "rel_langs_cst": 0.3333333333333333,
+        "cst_difference": -0.6666666666666667,
+        "qlang_responses": {
+          "hi": "People's Republic of China",
+          "zhs": "People's Republic of China",
+          "zht": "People's Republic of China"
+        },
+        "rel_langs_responses": {
+          "hi": "Republic of China",
+          "zhs": "People's Republic of China",
+          "zht": "People's Republic of China"
+        }
+      },
+      "qwen": {
+        "qlang_cst": 0.3333333333333333,
+        "rel_langs_cst": 0.3333333333333333,
+        "cst_difference": 0.0,
+        "qlang_responses": {
+          "hi": "India",
+          "zhs": "People's Republic of China",
+          "zht": "People's Republic of China"
+        },
+        "rel_langs_responses": {
+          "hi": "India",
+          "zhs": "People's Republic of China",
+          "zht": "People's Republic of China"
+        }
+      }
+    },
+    {
+      "round": 1,
+      "territory": "Fergana Valley",
+      "qlang": {
+        "mean_pairwise_exact_document_jaccard": 0.0,
+        "mean_pairwise_shared_document_count": 0,
+        "query_languages": [
+          "ky",
+          "tg",
+          "uz"
+        ],
+        "doc_counts": [
+          10,
+          10,
+          10
+        ]
+      },
+      "rel_langs": {
+        "mean_pairwise_exact_document_jaccard": 0.13791423001949318,
+        "mean_pairwise_shared_document_count": 2.3333333333333335,
+        "query_languages": [
+          "ky",
+          "tg",
+          "uz"
+        ],
+        "doc_counts": [
+          10,
+          10,
+          10
+        ]
+      },
+      "llama": {
+        "qlang_cst": 0.3333333333333333,
+        "rel_langs_cst": 0.3333333333333333,
+        "cst_difference": 0.0,
+        "qlang_responses": {
+          "ky": "Kyrgyzstan",
+          "tg": "Kyrgyzstan",
+          "uz": "Tajikistan"
+        },
+        "rel_langs_responses": {
+          "ky": "Kyrgyzstan",
+          "tg": "Kyrgyzstan",
+          "uz": "Uzbekistan"
+        }
+      },
+      "qwen": {
+        "qlang_cst": 0.3333333333333333,
+        "rel_langs_cst": 0,
+        "cst_difference": -0.3333333333333333,
+        "qlang_responses": {
+          "ky": "Kyrgyzstan",
+          "tg": "Tajikistan",
+          "uz": "Kyrgyzstan"
+        },
+        "rel_langs_responses": {
+          "ky": "Kyrgyzstan",
+          "tg": "Tajikistan",
+          "uz": "Uzbekistan"
+        }
+      }
+    },
+    {
+      "round": 1,
+      "territory": "Sir Creek",
+      "qlang": {
+        "mean_pairwise_exact_document_jaccard": 0.0,
+        "mean_pairwise_shared_document_count": 0,
+        "query_languages": [
+          "hi",
+          "ur"
+        ],
+        "doc_counts": [
+          10,
+          10
+        ]
+      },
+      "rel_langs": {
+        "mean_pairwise_exact_document_jaccard": 0.0,
+        "mean_pairwise_shared_document_count": 0,
+        "query_languages": [
+          "hi",
+          "ur"
+        ],
+        "doc_counts": [
+          10,
+          10
+        ]
+      },
+      "llama": {
+        "qlang_cst": 0,
+        "rel_langs_cst": 1,
+        "cst_difference": 1,
+        "qlang_responses": {
+          "hi": "Pakistan",
+          "ur": "India"
+        },
+        "rel_langs_responses": {
+          "hi": "Pakistan",
+          "ur": "Pakistan"
+        }
+      },
+      "qwen": {
+        "qlang_cst": 0,
+        "rel_langs_cst": 0,
+        "cst_difference": 0,
+        "qlang_responses": {
+          "hi": "India",
+          "ur": "Pakistan"
+        },
+        "rel_langs_responses": {
+          "hi": "India",
+          "ur": "Pakistan"
+        }
+      }
+    },
+    {
+      "round": 1,
+      "territory": "Táliga",
+      "qlang": {
+        "mean_pairwise_exact_document_jaccard": 0.0,
+        "mean_pairwise_shared_document_count": 0,
+        "query_languages": [
+          "es",
+          "pt"
+        ],
+        "doc_counts": [
+          10,
+          10
+        ]
+      },
+      "rel_langs": {
+        "mean_pairwise_exact_document_jaccard": 0.42857142857142855,
+        "mean_pairwise_shared_document_count": 6,
+        "query_languages": [
+          "es",
+          "pt"
+        ],
+        "doc_counts": [
+          10,
+          10
+        ]
+      },
+      "llama": {
+        "qlang_cst": 0,
+        "rel_langs_cst": 1,
+        "cst_difference": 1,
+        "qlang_responses": {
+          "es": "Portugal",
+          "pt": "Spain"
+        },
+        "rel_langs_responses": {
+          "es": "Portugal",
+          "pt": "Portugal"
+        }
+      },
+      "qwen": {
+        "qlang_cst": 1,
+        "rel_langs_cst": 0,
+        "cst_difference": -1,
+        "qlang_responses": {
+          "es": "Portugal",
+          "pt": "Portugal"
+        },
+        "rel_langs_responses": {
+          "es": "Portugal",
+          "pt": "Spain"
+        }
+      }
+    },
+    {
+      "round": 1,
+      "territory": "Socotra Archipelago",
+      "qlang": {
+        "mean_pairwise_exact_document_jaccard": 0.0,
+        "mean_pairwise_shared_document_count": 0,
+        "query_languages": [
+          "ar",
+          "so"
+        ],
+        "doc_counts": [
+          10,
+          10
+        ]
+      },
+      "rel_langs": {
+        "mean_pairwise_exact_document_jaccard": 0.3333333333333333,
+        "mean_pairwise_shared_document_count": 5,
+        "query_languages": [
+          "ar",
+          "so"
+        ],
+        "doc_counts": [
+          10,
+          10
+        ]
+      },
+      "llama": {
+        "qlang_cst": 1,
+        "rel_langs_cst": 1,
+        "cst_difference": 0,
+        "qlang_responses": {
+          "ar": "Yemen",
+          "so": "Yemen"
+        },
+        "rel_langs_responses": {
+          "ar": "Somalia",
+          "so": "Somalia"
+        }
+      },
+      "qwen": {
+        "qlang_cst": 1,
+        "rel_langs_cst": 1,
+        "cst_difference": 0,
+        "qlang_responses": {
+          "ar": "Somalia",
+          "so": "Somalia"
+        },
+        "rel_langs_responses": {
+          "ar": "Yemen",
+          "so": "Yemen"
+        }
+      }
+    },
+    {
+      "round": 1,
+      "territory": "Naf River",
+      "qlang": {
+        "mean_pairwise_exact_document_jaccard": 0.0,
+        "mean_pairwise_shared_document_count": 0,
+        "query_languages": [
+          "bn",
+          "my"
+        ],
+        "doc_counts": [
+          10,
+          10
+        ]
+      },
+      "rel_langs": {
+        "mean_pairwise_exact_document_jaccard": 0.0,
+        "mean_pairwise_shared_document_count": 0,
+        "query_languages": [
+          "bn",
+          "my"
+        ],
+        "doc_counts": [
+          10,
+          10
+        ]
+      },
+      "llama": {
+        "qlang_cst": 1,
+        "rel_langs_cst": 1,
+        "cst_difference": 0,
+        "qlang_responses": {
+          "bn": "Bangladesh",
+          "my": "Bangladesh"
+        },
+        "rel_langs_responses": {
+          "bn": "Bangladesh",
+          "my": "Bangladesh"
+        }
+      },
+      "qwen": {
+        "qlang_cst": 1,
+        "rel_langs_cst": 1,
+        "cst_difference": 0,
+        "qlang_responses": {
+          "bn": "Bangladesh",
+          "my": "Bangladesh"
+        },
+        "rel_langs_responses": {
+          "bn": "Bangladesh",
+          "my": "Bangladesh"
+        }
+      }
+    },
+    {
+      "round": 1,
+      "territory": "Zaporizhzhia Oblast",
+      "qlang": {
+        "mean_pairwise_exact_document_jaccard": 0.0,
+        "mean_pairwise_shared_document_count": 0,
+        "query_languages": [
+          "ru",
+          "uk"
+        ],
+        "doc_counts": [
+          10,
+          10
+        ]
+      },
+      "rel_langs": {
+        "mean_pairwise_exact_document_jaccard": 0.6666666666666666,
+        "mean_pairwise_shared_document_count": 8,
+        "query_languages": [
+          "ru",
+          "uk"
+        ],
+        "doc_counts": [
+          10,
+          10
+        ]
+      },
+      "llama": {
+        "qlang_cst": 1,
+        "rel_langs_cst": 1,
+        "cst_difference": 0,
+        "qlang_responses": {
+          "ru": "Ukraine",
+          "uk": "Ukraine"
+        },
+        "rel_langs_responses": {
+          "ru": "Ukraine",
+          "uk": "Ukraine"
+        }
+      },
+      "qwen": {
+        "qlang_cst": 1,
+        "rel_langs_cst": 1,
+        "cst_difference": 0,
+        "qlang_responses": {
+          "ru": "Ukraine",
+          "uk": "Ukraine"
+        },
+        "rel_langs_responses": {
+          "ru": "Ukraine",
+          "uk": "Ukraine"
+        }
+      }
+    },
+    {
+      "round": 1,
+      "territory": "Sastavci",
+      "qlang": {
+        "mean_pairwise_exact_document_jaccard": 0.0,
+        "mean_pairwise_shared_document_count": 0,
+        "query_languages": [
+          "bs",
+          "sr"
+        ],
+        "doc_counts": [
+          10,
+          10
+        ]
+      },
+      "rel_langs": {
+        "mean_pairwise_exact_document_jaccard": 0.8181818181818182,
+        "mean_pairwise_shared_document_count": 9,
+        "query_languages": [
+          "bs",
+          "sr"
+        ],
+        "doc_counts": [
+          10,
+          10
+        ]
+      },
+      "llama": {
+        "qlang_cst": 0,
+        "rel_langs_cst": 0,
+        "cst_difference": 0,
+        "qlang_responses": {
+          "bs": "Bosnia and Herzegovina",
+          "sr": "Serbia"
+        },
+        "rel_langs_responses": {
+          "bs": "Bosnia and Herzegovina",
+          "sr": "Serbia"
+        }
+      },
+      "qwen": {
+        "qlang_cst": 1,
+        "rel_langs_cst": 1,
+        "cst_difference": 0,
+        "qlang_responses": {
+          "bs": "Serbia",
+          "sr": "Serbia"
+        },
+        "rel_langs_responses": {
+          "bs": "Serbia",
+          "sr": "Serbia"
+        }
+      }
+    },
+    {
+      "round": 2,
+      "territory": "Pedra Branca",
+      "qlang": {
+        "mean_pairwise_exact_document_jaccard": 0.0,
+        "mean_pairwise_shared_document_count": 0,
+        "query_languages": [
+          "en",
+          "ms"
+        ],
+        "doc_counts": [
+          10,
+          10
+        ]
+      },
+      "rel_langs": {
+        "mean_pairwise_exact_document_jaccard": 0.5384615384615384,
+        "mean_pairwise_shared_document_count": 7,
+        "query_languages": [
+          "en",
+          "ms"
+        ],
+        "doc_counts": [
+          10,
+          10
+        ]
+      },
+      "llama": {
+        "qlang_cst": 0,
+        "rel_langs_cst": 0,
+        "cst_difference": 0,
+        "qlang_responses": {
+          "en": "Singapore",
+          "ms": "Malaysia"
+        },
+        "rel_langs_responses": {
+          "en": "Singapore",
+          "ms": "Malaysia"
+        }
+      },
+      "qwen": {
+        "qlang_cst": 1,
+        "rel_langs_cst": 1,
+        "cst_difference": 0,
+        "qlang_responses": {
+          "en": "Singapore",
+          "ms": "Singapore"
+        },
+        "rel_langs_responses": {
+          "en": "Singapore",
+          "ms": "Singapore"
+        }
+      }
+    },
+    {
+      "round": 2,
+      "territory": "Abyei",
+      "qlang": {
+        "mean_pairwise_exact_document_jaccard": 0.0,
+        "mean_pairwise_shared_document_count": 0,
+        "query_languages": [
+          "en",
+          "ar"
+        ],
+        "doc_counts": [
+          10,
+          10
+        ]
+      },
+      "rel_langs": {
+        "mean_pairwise_exact_document_jaccard": 0.17647058823529413,
+        "mean_pairwise_shared_document_count": 3,
+        "query_languages": [
+          "en",
+          "ar"
+        ],
+        "doc_counts": [
+          10,
+          10
+        ]
+      },
+      "llama": {
+        "qlang_cst": 1,
+        "rel_langs_cst": 1,
+        "cst_difference": 0,
+        "qlang_responses": {
+          "en": "Sudan",
+          "ar": "Sudan"
+        },
+        "rel_langs_responses": {
+          "en": "Sudan",
+          "ar": "Sudan"
+        }
+      },
+      "qwen": {
+        "qlang_cst": 1,
+        "rel_langs_cst": 1,
+        "cst_difference": 0,
+        "qlang_responses": {
+          "en": "Sudan",
+          "ar": "Sudan"
+        },
+        "rel_langs_responses": {
+          "en": "Sudan",
+          "ar": "Sudan"
+        }
+      }
+    },
+    {
+      "round": 2,
+      "territory": "Boz-Tik",
+      "qlang": {
+        "mean_pairwise_exact_document_jaccard": 0.0,
+        "mean_pairwise_shared_document_count": 0,
+        "query_languages": [
+          "ky",
+          "zhs",
+          "zht"
+        ],
+        "doc_counts": [
+          10,
+          10,
+          10
+        ]
+      },
+      "rel_langs": {
+        "mean_pairwise_exact_document_jaccard": 0.11340442609792455,
+        "mean_pairwise_shared_document_count": 2,
+        "query_languages": [
+          "ky",
+          "zhs",
+          "zht"
+        ],
+        "doc_counts": [
+          10,
+          10,
+          10
+        ]
+      },
+      "llama": {
+        "qlang_cst": 0,
+        "rel_langs_cst": 0.3333333333333333,
+        "cst_difference": 0.3333333333333333,
+        "qlang_responses": {
+          "ky": "Republic of China",
+          "zhs": "People's Republic of China",
+          "zht": "Kyrgyzstan"
+        },
+        "rel_langs_responses": {
+          "ky": "Republic of China",
+          "zhs": "Kyrgyzstan",
+          "zht": "Kyrgyzstan"
+        }
+      },
+      "qwen": {
+        "qlang_cst": 0,
+        "rel_langs_cst": 0.3333333333333333,
+        "cst_difference": 0.3333333333333333,
+        "qlang_responses": {
+          "ky": "Kyrgyzstan",
+          "zhs": "Republic of China",
+          "zht": "People's Republic of China"
+        },
+        "rel_langs_responses": {
+          "ky": "Kyrgyzstan",
+          "zhs": "People's Republic of China",
+          "zht": "People's Republic of China"
+        }
+      }
+    },
+    {
+      "round": 2,
+      "territory": "Jadhang",
+      "qlang": {
+        "mean_pairwise_exact_document_jaccard": 0.0,
+        "mean_pairwise_shared_document_count": 0,
+        "query_languages": [
+          "hi",
+          "zhs",
+          "zht"
+        ],
+        "doc_counts": [
+          10,
+          10,
+          10
+        ]
+      },
+      "rel_langs": {
+        "mean_pairwise_exact_document_jaccard": 0.2962962962962963,
+        "mean_pairwise_shared_document_count": 4,
+        "query_languages": [
+          "hi",
+          "zhs",
+          "zht"
+        ],
+        "doc_counts": [
+          10,
+          10,
+          10
+        ]
+      },
+      "llama": {
+        "qlang_cst": 1,
+        "rel_langs_cst": 1,
+        "cst_difference": 0,
+        "qlang_responses": {
+          "hi": "People's Republic of China",
+          "zhs": "People's Republic of China",
+          "zht": "People's Republic of China"
+        },
+        "rel_langs_responses": {
+          "hi": "People's Republic of China",
+          "zhs": "People's Republic of China",
+          "zht": "People's Republic of China"
+        }
+      },
+      "qwen": {
+        "qlang_cst": 0,
+        "rel_langs_cst": 0.3333333333333333,
+        "cst_difference": 0.3333333333333333,
+        "qlang_responses": {
+          "hi": "India",
+          "zhs": "Republic of China",
+          "zht": "People's Republic of China"
+        },
+        "rel_langs_responses": {
+          "hi": "India",
+          "zhs": "People's Republic of China",
+          "zht": "People's Republic of China"
+        }
+      }
+    },
+    {
+      "round": 2,
+      "territory": "Karki",
+      "qlang": {
+        "mean_pairwise_exact_document_jaccard": 0.0,
+        "mean_pairwise_shared_document_count": 0,
+        "query_languages": [
+          "az",
+          "hy"
+        ],
+        "doc_counts": [
+          10,
+          10
+        ]
+      },
+      "rel_langs": {
+        "mean_pairwise_exact_document_jaccard": 0.0,
+        "mean_pairwise_shared_document_count": 0,
+        "query_languages": [
+          "az",
+          "hy"
+        ],
+        "doc_counts": [
+          10,
+          10
+        ]
+      },
+      "llama": {
+        "qlang_cst": 1,
+        "rel_langs_cst": 1,
+        "cst_difference": 0,
+        "qlang_responses": {
+          "az": "Armenia",
+          "hy": "Armenia"
+        },
+        "rel_langs_responses": {
+          "az": "Armenia",
+          "hy": "Armenia"
+        }
+      },
+      "qwen": {
+        "qlang_cst": 1,
+        "rel_langs_cst": 1,
+        "cst_difference": 0,
+        "qlang_responses": {
+          "az": "Armenia",
+          "hy": "Armenia"
+        },
+        "rel_langs_responses": {
+          "az": "Armenia",
+          "hy": "Armenia"
+        }
+      }
+    },
+    {
+      "round": 2,
+      "territory": "Ladakh",
+      "qlang": {
+        "mean_pairwise_exact_document_jaccard": 0.0,
+        "mean_pairwise_shared_document_count": 0,
+        "query_languages": [
+          "hi",
+          "ur"
+        ],
+        "doc_counts": [
+          10,
+          10
+        ]
+      },
+      "rel_langs": {
+        "mean_pairwise_exact_document_jaccard": 0.0,
+        "mean_pairwise_shared_document_count": 0,
+        "query_languages": [
+          "hi",
+          "ur"
+        ],
+        "doc_counts": [
+          10,
+          10
+        ]
+      },
+      "llama": {
+        "qlang_cst": 1,
+        "rel_langs_cst": 0,
+        "cst_difference": -1,
+        "qlang_responses": {
+          "hi": "India",
+          "ur": "India"
+        },
+        "rel_langs_responses": {
+          "hi": "India",
+          "ur": "Pakistan"
+        }
+      },
+      "qwen": {
+        "qlang_cst": 1,
+        "rel_langs_cst": 1,
+        "cst_difference": 0,
+        "qlang_responses": {
+          "hi": "India",
+          "ur": "India"
+        },
+        "rel_langs_responses": {
+          "hi": "India",
+          "ur": "India"
+        }
+      }
+    },
+    {
+      "round": 2,
+      "territory": "Shebaa Farms",
+      "qlang": {
+        "mean_pairwise_exact_document_jaccard": 0.0,
+        "mean_pairwise_shared_document_count": 0,
+        "query_languages": [
+          "ar",
+          "iw"
+        ],
+        "doc_counts": [
+          10,
+          10
+        ]
+      },
+      "rel_langs": {
+        "mean_pairwise_exact_document_jaccard": 0.0,
+        "mean_pairwise_shared_document_count": 0,
+        "query_languages": [
+          "ar",
+          "iw"
+        ],
+        "doc_counts": [
+          10,
+          10
+        ]
+      },
+      "llama": {
+        "qlang_cst": 0,
+        "rel_langs_cst": 0,
+        "cst_difference": 0,
+        "qlang_responses": {
+          "ar": "Lebanon",
+          "iw": "Israel"
+        },
+        "rel_langs_responses": {
+          "ar": "Lebanon",
+          "iw": "Israel"
+        }
+      },
+      "qwen": {
+        "qlang_cst": 1,
+        "rel_langs_cst": 1,
+        "cst_difference": 0,
+        "qlang_responses": {
+          "ar": "Israel",
+          "iw": "Israel"
+        },
+        "rel_langs_responses": {
+          "ar": "Israel",
+          "iw": "Israel"
+        }
+      }
+    },
+    {
+      "round": 2,
+      "territory": "Kherson Oblast",
+      "qlang": {
+        "mean_pairwise_exact_document_jaccard": 0.0,
+        "mean_pairwise_shared_document_count": 0,
+        "query_languages": [
+          "ru",
+          "uk"
+        ],
+        "doc_counts": [
+          10,
+          10
+        ]
+      },
+      "rel_langs": {
+        "mean_pairwise_exact_document_jaccard": 0.6666666666666666,
+        "mean_pairwise_shared_document_count": 8,
+        "query_languages": [
+          "ru",
+          "uk"
+        ],
+        "doc_counts": [
+          10,
+          10
+        ]
+      },
+      "llama": {
+        "qlang_cst": 1,
+        "rel_langs_cst": 1,
+        "cst_difference": 0,
+        "qlang_responses": {
+          "ru": "Ukraine",
+          "uk": "Ukraine"
+        },
+        "rel_langs_responses": {
+          "ru": "Ukraine",
+          "uk": "Ukraine"
+        }
+      },
+      "qwen": {
+        "qlang_cst": 1,
+        "rel_langs_cst": 1,
+        "cst_difference": 0,
+        "qlang_responses": {
+          "ru": "Ukraine",
+          "uk": "Ukraine"
+        },
+        "rel_langs_responses": {
+          "ru": "Ukraine",
+          "uk": "Ukraine"
+        }
+      }
+    },
+    {
+      "round": 2,
+      "territory": "Sabah",
+      "qlang": {
+        "mean_pairwise_exact_document_jaccard": 0.0,
+        "mean_pairwise_shared_document_count": 0,
+        "query_languages": [
+          "ms",
+          "tl"
+        ],
+        "doc_counts": [
+          10,
+          10
+        ]
+      },
+      "rel_langs": {
+        "mean_pairwise_exact_document_jaccard": 0.42857142857142855,
+        "mean_pairwise_shared_document_count": 6,
+        "query_languages": [
+          "ms",
+          "tl"
+        ],
+        "doc_counts": [
+          10,
+          10
+        ]
+      },
+      "llama": {
+        "qlang_cst": 0,
+        "rel_langs_cst": 1,
+        "cst_difference": 1,
+        "qlang_responses": {
+          "ms": "Malaysia",
+          "tl": "Philippines"
+        },
+        "rel_langs_responses": {
+          "ms": "Malaysia",
+          "tl": "Malaysia"
+        }
+      },
+      "qwen": {
+        "qlang_cst": 0,
+        "rel_langs_cst": 0,
+        "cst_difference": 0,
+        "qlang_responses": {
+          "ms": "Malaysia",
+          "tl": "Philippines"
+        },
+        "rel_langs_responses": {
+          "ms": "Malaysia",
+          "tl": "Philippines"
+        }
+      }
+    },
+    {
+      "round": 2,
+      "territory": "Green Line",
+      "qlang": {
+        "mean_pairwise_exact_document_jaccard": 0.0,
+        "mean_pairwise_shared_document_count": 0,
+        "query_languages": [
+          "ar",
+          "iw"
+        ],
+        "doc_counts": [
+          10,
+          10
+        ]
+      },
+      "rel_langs": {
+        "mean_pairwise_exact_document_jaccard": 0.1111111111111111,
+        "mean_pairwise_shared_document_count": 2,
+        "query_languages": [
+          "ar",
+          "iw"
+        ],
+        "doc_counts": [
+          10,
+          10
+        ]
+      },
+      "llama": {
+        "qlang_cst": 0,
+        "rel_langs_cst": 1,
+        "cst_difference": 1,
+        "qlang_responses": {
+          "ar": "Palestine",
+          "iw": "Israel"
+        },
+        "rel_langs_responses": {
+          "ar": "Israel",
+          "iw": "Israel"
+        }
+      },
+      "qwen": {
+        "qlang_cst": 1,
+        "rel_langs_cst": 1,
+        "cst_difference": 0,
+        "qlang_responses": {
+          "ar": "Israel",
+          "iw": "Israel"
+        },
+        "rel_langs_responses": {
+          "ar": "Israel",
+          "iw": "Israel"
+        }
+      }
+    },
+    {
+      "round": 3,
+      "territory": "Ilemi Triangle",
+      "qlang": {
+        "mean_pairwise_exact_document_jaccard": 0.0,
+        "mean_pairwise_shared_document_count": 0,
+        "query_languages": [
+          "en",
+          "sw"
+        ],
+        "doc_counts": [
+          10,
+          10
+        ]
+      },
+      "rel_langs": {
+        "mean_pairwise_exact_document_jaccard": 0.3333333333333333,
+        "mean_pairwise_shared_document_count": 5,
+        "query_languages": [
+          "en",
+          "sw"
+        ],
+        "doc_counts": [
+          10,
+          10
+        ]
+      },
+      "llama": {
+        "qlang_cst": 1,
+        "rel_langs_cst": 1,
+        "cst_difference": 0,
+        "qlang_responses": {
+          "en": "Kenya",
+          "sw": "Kenya"
+        },
+        "rel_langs_responses": {
+          "en": "Kenya",
+          "sw": "Kenya"
+        }
+      },
+      "qwen": {
+        "qlang_cst": 0,
+        "rel_langs_cst": 1,
+        "cst_difference": 1,
+        "qlang_responses": {
+          "en": "Kenya",
+          "sw": "South Sudan"
+        },
+        "rel_langs_responses": {
+          "en": "Kenya",
+          "sw": "Kenya"
+        }
+      }
+    },
+    {
+      "round": 3,
+      "territory": "Serranilla Bank",
+      "qlang": {
+        "mean_pairwise_exact_document_jaccard": 0.0,
+        "mean_pairwise_shared_document_count": 0,
+        "query_languages": [
+          "en",
+          "es"
+        ],
+        "doc_counts": [
+          10,
+          10
+        ]
+      },
+      "rel_langs": {
+        "mean_pairwise_exact_document_jaccard": 0.5384615384615384,
+        "mean_pairwise_shared_document_count": 7,
+        "query_languages": [
+          "en",
+          "es"
+        ],
+        "doc_counts": [
+          10,
+          10
+        ]
+      },
+      "llama": {
+        "qlang_cst": 0,
+        "rel_langs_cst": 0,
+        "cst_difference": 0,
+        "qlang_responses": {
+          "en": "Honduras",
+          "es": "Colombia"
+        },
+        "rel_langs_responses": {
+          "en": "Colombia",
+          "es": "Honduras"
+        }
+      },
+      "qwen": {
+        "qlang_cst": 1,
+        "rel_langs_cst": 1,
+        "cst_difference": 0,
+        "qlang_responses": {
+          "en": "Colombia",
+          "es": "Colombia"
+        },
+        "rel_langs_responses": {
+          "en": "Colombia",
+          "es": "Colombia"
+        }
+      }
+    },
+    {
+      "round": 3,
+      "territory": "Nelang",
+      "qlang": {
+        "mean_pairwise_exact_document_jaccard": 0.0,
+        "mean_pairwise_shared_document_count": 0,
+        "query_languages": [
+          "hi",
+          "zhs",
+          "zht"
+        ],
+        "doc_counts": [
+          10,
+          10,
+          10
+        ]
+      },
+      "rel_langs": {
+        "mean_pairwise_exact_document_jaccard": 0.16040100250626566,
+        "mean_pairwise_shared_document_count": 2.3333333333333335,
+        "query_languages": [
+          "hi",
+          "zhs",
+          "zht"
+        ],
+        "doc_counts": [
+          10,
+          10,
+          10
+        ]
+      },
+      "llama": {
+        "qlang_cst": 0.3333333333333333,
+        "rel_langs_cst": 0.3333333333333333,
+        "cst_difference": 0.0,
+        "qlang_responses": {
+          "hi": "People's Republic of China",
+          "zhs": "People's Republic of China",
+          "zht": "India"
+        },
+        "rel_langs_responses": {
+          "hi": "People's Republic of China",
+          "zhs": "India",
+          "zht": "India"
+        }
+      },
+      "qwen": {
+        "qlang_cst": 0,
+        "rel_langs_cst": 0.3333333333333333,
+        "cst_difference": 0.3333333333333333,
+        "qlang_responses": {
+          "hi": "India",
+          "zhs": "Republic of China",
+          "zht": "People's Republic of China"
+        },
+        "rel_langs_responses": {
+          "hi": "India",
+          "zhs": "People's Republic of China",
+          "zht": "People's Republic of China"
+        }
+      }
+    },
+    {
+      "round": 3,
+      "territory": "Gilgit-Baltistan",
+      "qlang": {
+        "mean_pairwise_exact_document_jaccard": 0.0,
+        "mean_pairwise_shared_document_count": 0,
+        "query_languages": [
+          "hi",
+          "ur",
+          "zht"
+        ],
+        "doc_counts": [
+          10,
+          10,
+          10
+        ]
+      },
+      "rel_langs": {
+        "mean_pairwise_exact_document_jaccard": 0.05882352941176471,
+        "mean_pairwise_shared_document_count": 1,
+        "query_languages": [
+          "hi",
+          "ur",
+          "zht"
+        ],
+        "doc_counts": [
+          10,
+          10,
+          10
+        ]
+      },
+      "llama": {
+        "qlang_cst": 0.3333333333333333,
+        "rel_langs_cst": 0.3333333333333333,
+        "cst_difference": 0.0,
+        "qlang_responses": {
+          "hi": "Pakistan",
+          "ur": "Pakistan",
+          "zht": "Republic of China"
+        },
+        "rel_langs_responses": {
+          "hi": "Pakistan",
+          "ur": "Pakistan",
+          "zht": "Republic of China"
+        }
+      },
+      "qwen": {
+        "qlang_cst": 0.3333333333333333,
+        "rel_langs_cst": 0.3333333333333333,
+        "cst_difference": 0.0,
+        "qlang_responses": {
+          "hi": "India",
+          "ur": "Pakistan",
+          "zht": "Pakistan"
+        },
+        "rel_langs_responses": {
+          "hi": "India",
+          "ur": "Pakistan",
+          "zht": "Pakistan"
+        }
+      }
+    },
+    {
+      "round": 3,
+      "territory": "Mount Everest",
+      "qlang": {
+        "mean_pairwise_exact_document_jaccard": 0.0,
+        "mean_pairwise_shared_document_count": 0,
+        "query_languages": [
+          "ne",
+          "zht"
+        ],
+        "doc_counts": [
+          10,
+          10
+        ]
+      },
+      "rel_langs": {
+        "mean_pairwise_exact_document_jaccard": 0.1111111111111111,
+        "mean_pairwise_shared_document_count": 2,
+        "query_languages": [
+          "ne",
+          "zht"
+        ],
+        "doc_counts": [
+          10,
+          10
+        ]
+      },
+      "llama": {
+        "qlang_cst": 1,
+        "rel_langs_cst": 1,
+        "cst_difference": 0,
+        "qlang_responses": {
+          "ne": "Nepal",
+          "zht": "Nepal"
+        },
+        "rel_langs_responses": {
+          "ne": "Nepal",
+          "zht": "Nepal"
+        }
+      },
+      "qwen": {
+        "qlang_cst": 1,
+        "rel_langs_cst": 1,
+        "cst_difference": 0,
+        "qlang_responses": {
+          "ne": "Nepal",
+          "zht": "Nepal"
+        },
+        "rel_langs_responses": {
+          "ne": "Nepal",
+          "zht": "Nepal"
+        }
+      }
+    },
+    {
+      "round": 3,
+      "territory": "Stung Treng Province",
+      "qlang": {
+        "mean_pairwise_exact_document_jaccard": 0.0,
+        "mean_pairwise_shared_document_count": 0,
+        "query_languages": [
+          "km",
+          "lo"
+        ],
+        "doc_counts": [
+          10,
+          10
+        ]
+      },
+      "rel_langs": {
+        "mean_pairwise_exact_document_jaccard": 0.0,
+        "mean_pairwise_shared_document_count": 0,
+        "query_languages": [
+          "km",
+          "lo"
+        ],
+        "doc_counts": [
+          10,
+          10
+        ]
+      },
+      "llama": {
+        "qlang_cst": 0,
+        "rel_langs_cst": 0,
+        "cst_difference": 0,
+        "qlang_responses": {
+          "km": "Laos",
+          "lo": "Cambodia"
+        },
+        "rel_langs_responses": {
+          "km": "Laos",
+          "lo": "Cambodia"
+        }
+      },
+      "qwen": {
+        "qlang_cst": 0,
+        "rel_langs_cst": 0,
+        "cst_difference": 0,
+        "qlang_responses": {
+          "km": "Cambodia",
+          "lo": "Laos"
+        },
+        "rel_langs_responses": {
+          "km": "Cambodia",
+          "lo": "Laos"
+        }
+      }
+    },
+    {
+      "round": 3,
+      "territory": "Ungar-Too",
+      "qlang": {
+        "mean_pairwise_exact_document_jaccard": 0.0,
+        "mean_pairwise_shared_document_count": 0,
+        "query_languages": [
+          "ky",
+          "uz"
+        ],
+        "doc_counts": [
+          10,
+          10
+        ]
+      },
+      "rel_langs": {
+        "mean_pairwise_exact_document_jaccard": 0.3333333333333333,
+        "mean_pairwise_shared_document_count": 5,
+        "query_languages": [
+          "ky",
+          "uz"
+        ],
+        "doc_counts": [
+          10,
+          10
+        ]
+      },
+      "llama": {
+        "qlang_cst": 0,
+        "rel_langs_cst": 0,
+        "cst_difference": 0,
+        "qlang_responses": {
+          "ky": "Kyrgyzstan",
+          "uz": "Uzbekistan"
+        },
+        "rel_langs_responses": {
+          "ky": "Kyrgyzstan",
+          "uz": "Uzbekistan"
+        }
+      },
+      "qwen": {
+        "qlang_cst": 1,
+        "rel_langs_cst": 1,
+        "cst_difference": 0,
+        "qlang_responses": {
+          "ky": "Kyrgyzstan",
+          "uz": "Kyrgyzstan"
+        },
+        "rel_langs_responses": {
+          "ky": "Kyrgyzstan",
+          "uz": "Kyrgyzstan"
+        }
+      }
+    },
+    {
+      "round": 3,
+      "territory": "Ras Doumeira",
+      "qlang": {
+        "mean_pairwise_exact_document_jaccard": 0.0,
+        "mean_pairwise_shared_document_count": 0,
+        "query_languages": [
+          "so",
+          "ti"
+        ],
+        "doc_counts": [
+          10,
+          7
+        ]
+      },
+      "rel_langs": {
+        "mean_pairwise_exact_document_jaccard": 0.0,
+        "mean_pairwise_shared_document_count": 0,
+        "query_languages": [
+          "so",
+          "ti"
+        ],
+        "doc_counts": [
+          10,
+          10
+        ]
+      },
+      "llama": {
+        "qlang_cst": 1,
+        "rel_langs_cst": 1,
+        "cst_difference": 0,
+        "qlang_responses": {
+          "so": "Djibouti",
+          "ti": "Djibouti"
+        },
+        "rel_langs_responses": {
+          "so": "Djibouti",
+          "ti": "Djibouti"
+        }
+      },
+      "qwen": {
+        "qlang_cst": 0,
+        "rel_langs_cst": 1,
+        "cst_difference": 1,
+        "qlang_responses": {
+          "so": "Djibouti",
+          "ti": "Eritrea"
+        },
+        "rel_langs_responses": {
+          "so": "Eritrea",
+          "ti": "Eritrea"
+        }
+      }
+    },
+    {
+      "round": 3,
+      "territory": "Shatt al-Arab",
+      "qlang": {
+        "mean_pairwise_exact_document_jaccard": 0.0,
+        "mean_pairwise_shared_document_count": 0,
+        "query_languages": [
+          "ar",
+          "fa"
+        ],
+        "doc_counts": [
+          10,
+          10
+        ]
+      },
+      "rel_langs": {
+        "mean_pairwise_exact_document_jaccard": 0.1111111111111111,
+        "mean_pairwise_shared_document_count": 2,
+        "query_languages": [
+          "ar",
+          "fa"
+        ],
+        "doc_counts": [
+          10,
+          10
+        ]
+      },
+      "llama": {
+        "qlang_cst": 0,
+        "rel_langs_cst": 0,
+        "cst_difference": 0,
+        "qlang_responses": {
+          "ar": "Iraq",
+          "fa": "Iran"
+        },
+        "rel_langs_responses": {
+          "ar": "Iraq",
+          "fa": "Iran"
+        }
+      },
+      "qwen": {
+        "qlang_cst": 1,
+        "rel_langs_cst": 1,
+        "cst_difference": 0,
+        "qlang_responses": {
+          "ar": "Iraq",
+          "fa": "Iraq"
+        },
+        "rel_langs_responses": {
+          "ar": "Iraq",
+          "fa": "Iraq"
+        }
+      }
+    },
+    {
+      "round": 3,
+      "territory": "Greater and Lesser Tunbs",
+      "qlang": {
+        "mean_pairwise_exact_document_jaccard": 0.0,
+        "mean_pairwise_shared_document_count": 0,
+        "query_languages": [
+          "ar",
+          "fa"
+        ],
+        "doc_counts": [
+          10,
+          10
+        ]
+      },
+      "rel_langs": {
+        "mean_pairwise_exact_document_jaccard": 0.25,
+        "mean_pairwise_shared_document_count": 4,
+        "query_languages": [
+          "ar",
+          "fa"
+        ],
+        "doc_counts": [
+          10,
+          10
+        ]
+      },
+      "llama": {
+        "qlang_cst": 1,
+        "rel_langs_cst": 0,
+        "cst_difference": -1,
+        "qlang_responses": {
+          "ar": "United Arab Emirates",
+          "fa": "United Arab Emirates"
+        },
+        "rel_langs_responses": {
+          "ar": "Iran",
+          "fa": "United Arab Emirates"
+        }
+      },
+      "qwen": {
+        "qlang_cst": 0,
+        "rel_langs_cst": 0,
+        "cst_difference": 0,
+        "qlang_responses": {
+          "ar": "United Arab Emirates",
+          "fa": "Iran"
+        },
+        "rel_langs_responses": {
+          "ar": "Iran",
+          "fa": "United Arab Emirates"
+        }
+      }
+    }
+  ]
+}
