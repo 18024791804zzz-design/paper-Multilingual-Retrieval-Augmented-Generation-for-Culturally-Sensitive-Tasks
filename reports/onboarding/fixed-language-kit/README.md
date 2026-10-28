@@ -16,3 +16,7 @@ SHA256：
 ```text
 98b705f91cfdf31cf1f5d0146552ceae6f0bb10eb4913c46d12ed307477f4e46  fixed-content-language-kit-no-gpu.zip
 ```
+
+## 大权重下载持续超时
+
+可使用 [ModelScope替代下载与固定快照校验](modelscope-fallback/README.md)。下载器使用独立环境，实验依赖不变；实际传输速度需在目标服务器验证。
