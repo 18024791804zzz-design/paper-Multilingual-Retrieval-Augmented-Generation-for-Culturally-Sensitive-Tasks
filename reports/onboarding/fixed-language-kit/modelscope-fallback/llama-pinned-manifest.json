@@ -1,0 +1,68 @@
+{
+  "repo": "meta-llama/Meta-Llama-3.1-8B-Instruct",
+  "revision": "0e9e39f249a16976918f6564b8830bc894c89659",
+  "modelscope_repo": "LLM-Research/Meta-Llama-3.1-8B-Instruct",
+  "files": [
+    {
+      "name": "config.json",
+      "size": 855,
+      "algorithm": "git-blob-sha1",
+      "digest": "0bb6fd75b3ad2fe988565929f329945262c2814e"
+    },
+    {
+      "name": "generation_config.json",
+      "size": 184,
+      "algorithm": "git-blob-sha1",
+      "digest": "cc7276afd599de091142c6ed3005faf8a74aa257"
+    },
+    {
+      "name": "model-00001-of-00004.safetensors",
+      "size": 4976698672,
+      "algorithm": "sha256",
+      "digest": "2b1879f356aed350030bb40eb45ad362c89d9891096f79a3ab323d3ba5607668"
+    },
+    {
+      "name": "model-00002-of-00004.safetensors",
+      "size": 4999802720,
+      "algorithm": "sha256",
+      "digest": "09d433f650646834a83c580877bd60c6d1f88f7755305c12576b5c7058f9af15"
+    },
+    {
+      "name": "model-00003-of-00004.safetensors",
+      "size": 4915916176,
+      "algorithm": "sha256",
+      "digest": "fc1cdddd6bfa91128d6e94ee73d0ce62bfcdb7af29e978ddcab30c66ae9ea7fa"
+    },
+    {
+      "name": "model-00004-of-00004.safetensors",
+      "size": 1168138808,
+      "algorithm": "sha256",
+      "digest": "92ecfe1a2414458b4821ac8c13cf8cb70aed66b5eea8dc5ad9eeb4ff309d6d7b"
+    },
+    {
+      "name": "model.safetensors.index.json",
+      "size": 23950,
+      "algorithm": "git-blob-sha1",
+      "digest": "0fd8120f1c6acddc268ebc2583058efaf699a771"
+    },
+    {
+      "name": "special_tokens_map.json",
+      "size": 296,
+      "algorithm": "git-blob-sha1",
+      "digest": "02ee80b6196926a5ad790a004d9efd6ab1ba6542"
+    },
+    {
+      "name": "tokenizer.json",
+      "size": 9085657,
+      "algorithm": "git-blob-sha1",
+      "digest": "5cc5f00a5b203e90a27a3bd60d1ec393b07971e8"
+    },
+    {
+      "name": "tokenizer_config.json",
+      "size": 55351,
+      "algorithm": "git-blob-sha1",
+      "digest": "db88166e2bc4c799fd5d1ae643b75e84d03ee70e"
+    }
+  ],
+  "source": "Public HF revision API with blobs=true; file download authorization must be checked separately"
+}
