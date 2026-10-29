@@ -1,0 +1,52 @@
+[
+  {
+    "doc_keys": [
+      "en/21312_p5"
+    ],
+    "issue": "Malformed source legal citation retained; no reference repaired."
+  },
+  {
+    "doc_keys": [
+      "en/1227_p0",
+      "en/1227_p2",
+      "en/334903_p36",
+      "en/350939_p0",
+      "en/494936_p0",
+      "en/3463_p0",
+      "en/3463_p66",
+      "en/5228466_p4"
+    ],
+    "issue": "Source numeric/unit omissions preserved; no missing values inferred or annotations inserted in evidence."
+  },
+  {
+    "doc_keys": [
+      "en/334903_p38",
+      "en/23033_p160"
+    ],
+    "issue": "Source chronology retained as written, including 1928/1364 statements; historical corrections are outside this translation intervention."
+  },
+  {
+    "doc_keys": [
+      "en/1227_p23",
+      "en/178710_p79",
+      "en/1946736_p6"
+    ],
+    "issue": "Source list/category/link structure retained; source oddities such as ARABOSAI are not corrected or removed."
+  },
+  {
+    "doc_keys": [
+      "en/5228466_p11",
+      "en/5228466_p16",
+      "en/3454_p76",
+      "en/494936_p14",
+      "en/494936_p2"
+    ],
+    "issue": "Source argumentative or evaluative statements translated with their original attribution or absence of attribution. They are not independently established facts by virtue of translation."
+  },
+  {
+    "doc_keys": [
+      "en/11203864_p0"
+    ],
+    "issue": "Sastavci village and neighbouring Medjurecje exclave remain distinct entities."
+  }
+]

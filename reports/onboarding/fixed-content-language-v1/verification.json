@@ -1,0 +1,13 @@
+{
+  "source_paragraphs": 100,
+  "translations": 200,
+  "queries": 30,
+  "territories": 10,
+  "source_base_byte_identical": true,
+  "all_source_hashes_match": true,
+  "duplicate_or_missing_translations": 0,
+  "offline_selfcheck": "passed",
+  "target_GPU_and_7B8B_inference": "not executed locally",
+  "translation_content_check": "Assistant paragraph-level self-check; structural tests do not certify semantic equivalence",
+  "CPU_preflight_codepath": "Passed with substitute same-family tokenizers; target tokenizers must be checked on user server"
+}
