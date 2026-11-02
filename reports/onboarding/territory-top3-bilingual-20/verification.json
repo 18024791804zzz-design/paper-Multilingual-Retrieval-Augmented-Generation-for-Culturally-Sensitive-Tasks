@@ -1,0 +1,132 @@
+{
+  "seed": 20261102,
+  "eligible_territories": 144,
+  "territories": 20,
+  "retrieval_records": 120,
+  "unique_source_paragraphs": 115,
+  "unique_raw_articles": 57,
+  "languages": {
+    "es": 18,
+    "fr": 6,
+    "pt": 9,
+    "zhs": 3,
+    "zht": 9,
+    "en": 9,
+    "ti": 3,
+    "so": 3,
+    "ms": 3,
+    "th": 6,
+    "hi": 3,
+    "ur": 3,
+    "sr": 6,
+    "hr": 6,
+    "ru": 9,
+    "ar": 6,
+    "sw": 6,
+    "uk": 3,
+    "it": 3,
+    "iw": 3,
+    "my": 3
+  },
+  "excluded_reasons": {
+    "same_assigned_language": 37,
+    "not_exactly_two_claimant_countries": 68,
+    "assigned_language_query_missing": 2
+  },
+  "checks": {
+    "two_claimant_sides_per_territory": true,
+    "three_documents_per_side": true,
+    "ranks_are_original_1_2_3": true,
+    "only_assigned_claimant_language": true,
+    "scores_nonincreasing_within_each_query": true,
+    "all_raw_paragraph_strings_exact": true,
+    "all_translations_present": true
+  },
+  "source_archive_sha256": {
+    "WJ_data.zip": "170f918a21f12871b5a82a5183adae6bba362f65a2c55e7df124bb66ed011b23",
+    "bordirlines.zip": "75cbda5ef44f6e7fbfa65a09e5f10d37cf0938a0f7b4cd58074cf6e01df88263"
+  },
+  "raw_article_file_sha256": {
+    "es/Q10643.json": "fe76736a10bf127425727a77e15822d3f1f68b581c2e58cb037d12f5d76ea5eb",
+    "fr/Q1323.json": "ad333f436c2561c75cb78698263f36ec9b94c830928e7217583cd215ef824b87",
+    "fr/Q3129358.json": "eef1ccdd80bc1c82e000b2a8210a9593d5e6d45eac519106b8737ffe28c7c1bf",
+    "es/Q972.json": "6063948f6b4bd30fbd986af21602e3add59289f84f1605583d670120fe38626a",
+    "es/Q88865.json": "b6c9841793246c371f7ad858aa212e5048ba8adf4882bc396f876911c528e816",
+    "es/Q6396.json": "87fd3835e18a1e77bde1ec8c66274537fc7b92dcf1dca8783195ae4bb31225df",
+    "pt/Q14491.json": "d2969233c1ba8045abf49c52945b6a27b62e59787d663f734b70dabf74f650bf",
+    "pt/Q1480.json": "49e166538b9e8239b362e92a8e6cec34cc84a4e120b5abc473224300b057170c",
+    "zhs/Q421.json": "4629a66c92358e118e4629da794cd28846818068aa3b29b4c5e6a5fda2436481",
+    "zht/Q421.json": "ad9ee5eed2317f0879120c78096e03866473f26fff93756be934e678a0a7735b",
+    "es/Q3929221.json": "22ba5c9941a17644dd24a284d1142b1d33bdcacb183e99fb88f1c0bd61111613",
+    "en/Q7550182.json": "6646e9ca0bae17316b4c8d4ca25a245d3909ef0cd435547a9efba38f8e51134a",
+    "en/Q31717.json": "ac1d037219be5bab4894f6ed985a7ee91c5076937a6cddb5a1dd70525fc8dd6a",
+    "ti/Q1476.json": "c1b098b5b704d7159afd68f125e8bb4cb72fa2411b0bc90f50103225de8e946a",
+    "so/Q2107.json": "23dc78e575bdb9077e1acf23267e8f9ea442db427a3acf6d19f0f36bc044641c",
+    "so/Q2407.json": "528fdd48d7cdeb126a3425c985bf75260840f5da9685571df7005101e9e8941b",
+    "ms/Q88419.json": "58e52f5f447761eef9a55c34c791ce8c87e3a904ef509a51bb0b092d848362be",
+    "th/Q277281.json": "a8f19e9000b203a23da7ff18f757d7b302fcfa105e58df552b74dfec48bd317d",
+    "th/Q1924.json": "fb1f9e9f534fabe9cc3eda26d2505f93788a274e94e9c73ef858c49d139bd9fa",
+    "hi/Q1067402.json": "4e71d60884472d4bf6f6c11824db93ca00c30d3992c5c685e4fef648b3087984",
+    "hi/Q59.json": "9daf6d0978c175d4ade8da2d373c815fb9f990f20046f9bab07ea75eb294d74c",
+    "ur/Q866322.json": "2d55170053835ee8decc7cd026546842a438227a9a3ba8d0cf772c5375ec0f96",
+    "ur/Q608.json": "fd6b2d8bf1e30e14ebc22ad4cf882432043cff341a6dda4d1af966593866bfa7",
+    "sr/Q86999.json": "69717820a3508f3da572fb4482afe9ddd9d6c2a82b6fa1d64393a998eeb2ca09",
+    "sr/Q111.json": "34dabda37859b36a775408c972e0aeb16d1e5f4e247b01e19f4fd58d5a6177c8",
+    "sr/Q1691.json": "a0be7f3ea8f91e5434b17fa9805d3f404d94a89960268664b61253bd1d831a67",
+    "hr/Q82712.json": "432ab8cd7e5d8d09227980192e53a8744ef45f22651e7c413a3c2b61d6eb5e11",
+    "es/Q496234.json": "c79617c406a484ec12356114e2ce73de9b6077f709e2d011b887bb5af386fb6c",
+    "pt/Q785.json": "4177d24c5a199a57ad8ce15ad085206a46d078177a1bb87724e917ec567e1003",
+    "pt/Q135049.json": "e0e72802649e64f265c09aa58a709a156a695a5f91d9fd4deacef1d9a5329613",
+    "ru/Q1340863.json": "aebbde505b3ced603ab2ad358866ac2614ac19dd59d8f3da85f594a220589d64",
+    "ru/Q9.json": "8cc36eb94eb92a94c18cec0a6ebbf2e3fce2bb2839e18e009ea680b1653c9a75",
+    "zht/Q36831.json": "bfa3540fcf38efc41e816de6f23e8444f370c81f04319becc93359b79db24866",
+    "hr/Q126772.json": "5a0a728b808f5c283ad08e1d6e37e7dac561f5bd82ebdf58059f40e706b7dc9b",
+    "sr/Q4162643.json": "8152083eb8de0df630120ac09138c3f7d8cf95de0e23e76c0823072512a69687",
+    "pt/Q631519.json": "c3a80fda70f008a9aba5a1e51c9de82a0b91b76b7e5c5b6be01faa6f9ea5d460",
+    "es/Q420897.json": "0c07f0792b04b2825ae70f38fad49aea9bdf2ef11be6b096ad4124f3fc913610",
+    "ar/Q3895.json": "0548bddd6cde6ed33b494ea5cfd7fc0a9cdde097f867e7275579104a6b474cf1",
+    "ar/Q891711.json": "2c0a0a7f907b647e83b1c8eee5d39d8acaa3e86349ca08393fba0dca8218d562",
+    "ar/Q293523.json": "cc6493836a26fdbe948dd95495e7af4f08c8bbfd854677cbe7dedee0ee9344c3",
+    "es/Q45549.json": "14aa1845238b32d2d324626f5679ec49b11b9366e81f19fcf2218c216a56e620",
+    "en/Q33570605.json": "d2f5624dca5f5bae3e7792b62a4b37ab3a4c398a8c4b1aa9100bfc25667ca968",
+    "sw/Q2173.json": "45d0579bedc11769bb328bfd1ee2b7d0a8669e07a711fcd7db5a35a3df5b97e0",
+    "uk/Q21358.json": "309b388a7088dd8d5cef1728f12f2c792d33eb825dd1f108910b797570d21768",
+    "uk/Q1072.json": "13187d18d2dbff9cac520115065b12be116a75f83ef970277930f11fa12c26ae",
+    "ru/Q32261.json": "cbe667b43e0a1d73d7161cdcc068a437fd6ddf5b86b6b73900075b7f524965e3",
+    "fr/Q6845.json": "ede06e2eac7a0eeeb2c51f3036c6335a42a77bc8c74defd42144a186e58015f0",
+    "it/Q19908.json": "d995eb4a905e3073775e1470e4d30d33fe393abb5340b86908fb4e49b2599d2f",
+    "iw/Q7293.json": "482c8cb0b6c7b9d9211fa3836440690d45c43965d9b96fa96f5062161c1b520c",
+    "ar/Q47022.json": "25dcc21c08ae36244dfd9466f14a7342a2762d2b3b079864b3cad746d38c600f",
+    "ar/Q3587.json": "ce75143cbb94a5dbee4e01e4d401a33f6e21ac307393f48efb19f9e98b95379e",
+    "ru/Q2594.json": "766592d4de8c54449c3195c4937508aa88bc055ba1de81e5e2eaa79c955ae88f",
+    "zht/Q26055.json": "50336f1f6d4ac15b77628d1d71832708afc9c9a7f8ce883ba0e55d7fec9534e5",
+    "en/Q10842948.json": "016c64986e8c66391704207a319f74780e8ab206b62a6e5a5e25e0f53548708e",
+    "th/Q1953.json": "de9326dc01a889f79a3a85d19054f2c593359e9c6375d8e031e0581f03d79bf0",
+    "my/Q2388.json": "475bb3f0c75763f942077a00a63581927563da0a62231c9e4678a9ff925e995d",
+    "my/Q3171.json": "aee893cee7f6b138f1cecb5469d77fba119ad3fd653c3a010c5374cd19e63660"
+  },
+  "duplicates": {
+    "es/972_p89": [
+      "T02-S1-R1",
+      "T09-S1-R3"
+    ],
+    "pt/1480_p83": [
+      "T02-S2-R2",
+      "T09-S2-R3"
+    ],
+    "sw/2173_p29": [
+      "T14-S2-R1",
+      "T19-S2-R2"
+    ],
+    "sw/2173_p0": [
+      "T14-S2-R2",
+      "T19-S2-R3"
+    ],
+    "sw/2173_p1": [
+      "T14-S2-R3",
+      "T19-S2-R1"
+    ]
+  },
+  "translation_method": "assistant_direct_translation",
+  "translation_version": "2026-11-02-v1"
+}
