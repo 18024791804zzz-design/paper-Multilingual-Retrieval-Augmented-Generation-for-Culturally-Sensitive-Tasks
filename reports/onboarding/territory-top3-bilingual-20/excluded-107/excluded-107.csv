@@ -1,0 +1,108 @@
+﻿领土原名,主要排除原因,原始原因代码,声索方与指定语言,声索方数,不同语言代码数,已存在查询语言,缺失声索方语言查询,多个声索方共用语言,涉及PRC或ROC,Controller数据集标签,至少两种可用声索语言,控制语回答可用,非控制语回答可用,完整C与N同领土配对条件
+Aarsal,两个声索方对应相同语言代码,same_assigned_language,Syria [ar]；Lebanon [ar],2,1,ar;en,,ar,否,Unknown,否,不适用：Unknown,不适用：Unknown,否
+Abagaitu Islet,多于两个声索方，不满足两方六段格式,not_exactly_two_claimant_countries,People's Republic of China [zhs]；Russia [ru]；Republic of China [zht],3,3,en;ru;zhs;zht,,,是,Unknown,是,不适用：Unknown,不适用：Unknown,否
+Aksai Chin,多于两个声索方，不满足两方六段格式,not_exactly_two_claimant_countries,India [hi]；Republic of China [zht]；People's Republic of China [zhs],3,3,en;hi;zhs;zht,,,是,People's Republic of China,是,是,是,是
+Arunachal Pradesh,多于两个声索方，不满足两方六段格式,not_exactly_two_claimant_countries,India [hi]；Republic of China [zht]；People's Republic of China [zhs],3,3,en;hi;zhs;zht,,,是,India,是,是,是,是
+Baekdu Mountain,多于两个声索方，不满足两方六段格式,not_exactly_two_claimant_countries,North Korea [ko]；Republic of China [zht]；People's Republic of China [zhs]；South Korea [ko],4,3,en;ko;zhs;zht,,ko,是,Unknown,是,不适用：Unknown,不适用：Unknown,否
+Bajo Nuevo Bank,多于两个声索方，不满足两方六段格式,not_exactly_two_claimant_countries,United States [en]；Nicaragua [es]；Jamaica [en]；Colombia [es],4,2,en;es,,en;es,否,Colombia,是,是,是,是
+Banc du Geyser,多于两个声索方，不满足两方六段格式,not_exactly_two_claimant_countries,Madagascar [mg]；France [fr]；Comoros [ar],3,3,ar;en;fr;mg,,,否,Unknown,是,不适用：Unknown,不适用：Unknown,否
+Barahoti,多于两个声索方，不满足两方六段格式,not_exactly_two_claimant_countries,Republic of China [zht]；People's Republic of China [zhs]；India [hi],3,3,en;hi;zhs;zht,,,是,Unknown,是,不适用：Unknown,不适用：Unknown,否
+Bedel pass,多于两个声索方，不满足两方六段格式,not_exactly_two_claimant_countries,People's Republic of China [zhs]；Republic of China [zht]；Kyrgyzstan [ky],3,3,en;ky;zhs;zht,,,是,Unknown,是,不适用：Unknown,不适用：Unknown,否
+Beyul Khenpajong,多于两个声索方，不满足两方六段格式,not_exactly_two_claimant_countries,Bhutan [dz]；Republic of China [zht]；People's Republic of China [zhs],3,3,en;zhs;zht,dz,,是,Bhutan,是,否,是,否
+Bhutanese exclaves,多于两个声索方，不满足两方六段格式,not_exactly_two_claimant_countries,Republic of China [zht]；Bhutan [dz]；People's Republic of China [zhs],3,3,en;zhs;zht,dz,,是,People's Republic of China,是,是,是,是
+Bolshoy Ussuriysky Island,多于两个声索方，不满足两方六段格式,not_exactly_two_claimant_countries,Republic of China [zht]；Russia [ru]；People's Republic of China [zhs],3,3,en;ru;zhs;zht,,,是,Unknown,是,不适用：Unknown,不适用：Unknown,否
+Boz-Tik,多于两个声索方，不满足两方六段格式,not_exactly_two_claimant_countries,Kyrgyzstan [ky]；People's Republic of China [zhs]；Republic of China [zht],3,3,en;ky;zhs;zht,,,是,Unknown,是,不适用：Unknown,不适用：Unknown,否
+Chagdzom,多于两个声索方，不满足两方六段格式,not_exactly_two_claimant_countries,Republic of China [zht]；People's Republic of China [zhs]；Bhutan [dz],3,3,en;zhs;zht,dz,,是,Bhutan,是,否,是,否
+Chagos Archipelago,多于两个声索方，不满足两方六段格式,not_exactly_two_claimant_countries,United Kingdom [en]；Mauritius [mfe]；Maldives [en]；Seychelles [fr],4,3,en;fr,mfe,en,否,United Kingdom,是,是,是,是
+Cherkip Gompa,多于两个声索方，不满足两方六段格式,not_exactly_two_claimant_countries,Bhutan [dz]；People's Republic of China [zhs]；Republic of China [zht],3,3,en;zhs;zht,dz,,是,People's Republic of China,是,是,是,是
+Chumar,多于两个声索方，不满足两方六段格式,not_exactly_two_claimant_countries,Republic of China [zht]；People's Republic of China [zhs]；India [hi],3,3,en;hi;zhs;zht,,,是,Unknown,是,不适用：Unknown,不适用：Unknown,否
+Conejo Island,两个声索方对应相同语言代码,same_assigned_language,El Salvador [es]；Honduras [es],2,1,en;es,,es,否,Honduras,否,是,否,否
+Darchen,多于两个声索方，不满足两方六段格式,not_exactly_two_claimant_countries,People's Republic of China [zhs]；Bhutan [dz]；Republic of China [zht],3,3,en;zhs;zht,dz,,是,People's Republic of China,是,是,是,是
+Deir El Aachayer,两个声索方对应相同语言代码,same_assigned_language,Syria [ar]；Lebanon [ar],2,1,ar;en,,ar,否,Unknown,否,不适用：Unknown,不适用：Unknown,否
+Demchok sector / Parigas region,多于两个声索方，不满足两方六段格式,not_exactly_two_claimant_countries,People's Republic of China [zhs]；India [hi]；Republic of China [zht],3,3,en;hi;zhs;zht,,,是,Unknown,是,不适用：Unknown,不适用：Unknown,否
+Depsang Plains,多于两个声索方，不满足两方六段格式,not_exactly_two_claimant_countries,Republic of China [zht]；India [hi]；People's Republic of China [zhs],3,3,en;hi;zhs;zht,,,是,People's Republic of China,是,是,是,是
+Dokdo/Takeshima,多于两个声索方，不满足两方六段格式,not_exactly_two_claimant_countries,North Korea [ko]；South Korea [ko]；Japan [ja],3,2,en;ja;ko,,ko,否,South Korea,是,是,是,是
+Doklam,多于两个声索方，不满足两方六段格式,not_exactly_two_claimant_countries,Bhutan [dz]；People's Republic of China [zhs]；Republic of China [zht],3,3,en;zhs;zht,dz,,是,People's Republic of China,是,是,是,是
+Dungmar,多于两个声索方，不满足两方六段格式,not_exactly_two_claimant_countries,People's Republic of China [zhs]；Republic of China [zht]；Bhutan [dz],3,3,en;zhs;zht,dz,,是,People's Republic of China,是,是,是,是
+Erkeshtam,多于两个声索方，不满足两方六段格式,not_exactly_two_claimant_countries,Republic of China [zht]；Kyrgyzstan [ky]；People's Republic of China [zhs],3,3,en;ky;zhs;zht,,,是,Unknown,是,不适用：Unknown,不适用：Unknown,否
+Fasht ad Dibal,两个声索方对应相同语言代码,same_assigned_language,Qatar [ar]；Bahrain [ar],2,1,ar;en,,ar,否,Bahrain,否,是,否,否
+Fergana Valley,多于两个声索方，不满足两方六段格式,not_exactly_two_claimant_countries,Tajikistan [tg]；Uzbekistan [uz]；Kyrgyzstan [ky],3,3,en;ky;tg;uz,,,否,Unknown,是,不适用：Unknown,不适用：Unknown,否
+Gesur,多于两个声索方，不满足两方六段格式,not_exactly_two_claimant_countries,Bhutan [dz]；Republic of China [zht]；People's Republic of China [zhs],3,3,en;zhs;zht,dz,,是,People's Republic of China,是,是,是,是
+Gezon,多于两个声索方，不满足两方六段格式,not_exactly_two_claimant_countries,Republic of China [zht]；Bhutan [dz]；People's Republic of China [zhs],3,3,en;zhs;zht,dz,,是,People's Republic of China,是,是,是,是
+Gilgit-Baltistan,多于两个声索方，不满足两方六段格式,not_exactly_two_claimant_countries,Pakistan [ur]；India [hi]；Republic of China [zht],3,3,en;hi;ur;zht,,,是,Unknown,是,不适用：Unknown,不适用：Unknown,否
+Glorioso Islands,多于两个声索方，不满足两方六段格式,not_exactly_two_claimant_countries,Madagascar [mg]；France [fr]；Comoros [ar],3,3,ar;en;fr;mg,,,否,France,是,是,是,是
+Gue,多于两个声索方，不满足两方六段格式,not_exactly_two_claimant_countries,Republic of China [zht]；People's Republic of China [zhs]；India [hi],3,3,en;hi;zhs;zht,,,是,Unknown,是,不适用：Unknown,不适用：Unknown,否
+Haa District,多于两个声索方，不满足两方六段格式,not_exactly_two_claimant_countries,Bhutan [dz]；People's Republic of China [zhs]；Republic of China [zht],3,3,en;zhs;zht,dz,,是,Unknown,是,不适用：Unknown,不适用：Unknown,否
+Hala'ib Triangle,两个声索方对应相同语言代码,same_assigned_language,Egypt [ar]；Sudan [ar],2,1,ar;en,,ar,否,Egypt,否,是,否,否
+Heixiazi,多于两个声索方，不满足两方六段格式,not_exactly_two_claimant_countries,Russia [ru]；Republic of China [zht]；People's Republic of China [zhs],3,3,en;ru;zhs;zht,,,是,Unknown,是,不适用：Unknown,不适用：Unknown,否
+Ingwavuma,两个声索方对应相同语言代码,same_assigned_language,South Africa [en]；Eswatini [en],2,1,en,,en,否,South Africa,否,是,否,否
+Itse Gompa,多于两个声索方，不满足两方六段格式,not_exactly_two_claimant_countries,People's Republic of China [zhs]；Bhutan [dz]；Republic of China [zht],3,3,en;zhs;zht,dz,,是,People's Republic of China,是,是,是,是
+Jadhang,多于两个声索方，不满足两方六段格式,not_exactly_two_claimant_countries,India [hi]；Republic of China [zht]；People's Republic of China [zhs],3,3,en;hi;zhs;zht,,,是,Unknown,是,不适用：Unknown,不适用：Unknown,否
+James Shoal,多于两个声索方，不满足两方六段格式,not_exactly_two_claimant_countries,Republic of China [zht]；Malaysia [ms]；People's Republic of China [zhs],3,3,en;ms;zhs;zht,,,是,Malaysia,是,是,是,是
+KaNgwane,两个声索方对应相同语言代码,same_assigned_language,Eswatini [en]；South Africa [en],2,1,en,,en,否,South Africa,否,是,否,否
+Kaurik,多于两个声索方，不满足两方六段格式,not_exactly_two_claimant_countries,India [hi]；Republic of China [zht]；People's Republic of China [zhs],3,3,en;hi;zhs;zht,,,是,Unknown,是,不适用：Unknown,不适用：Unknown,否
+Kfar Qouq,两个声索方对应相同语言代码,same_assigned_language,Syria [ar]；Lebanon [ar],2,1,ar;en,,ar,否,Unknown,否,不适用：Unknown,不适用：Unknown,否
+Khan Tengri,多于两个声索方，不满足两方六段格式,not_exactly_two_claimant_countries,People's Republic of China [zhs]；Kyrgyzstan [ky]；Republic of China [zht],3,3,en;ky;zhs;zht,,,是,Unknown,是,不适用：Unknown,不适用：Unknown,否
+Khochar,多于两个声索方，不满足两方六段格式,not_exactly_two_claimant_countries,People's Republic of China [zhs]；Republic of China [zht]；Bhutan [dz],3,3,en;zhs;zht,dz,,是,People's Republic of China,是,是,是,是
+Khuriya Muriya Islands,两个声索方对应相同语言代码,same_assigned_language,Yemen [ar]；Oman [ar],2,1,ar;en,,ar,否,Oman,否,是,否,否
+Koalou,两个声索方对应相同语言代码,same_assigned_language,Burkina Faso [fr]；Benin [fr],2,1,en;fr,,fr,否,Unknown,否,不适用：Unknown,不适用：Unknown,否
+Korean Peninsula,两个声索方对应相同语言代码,same_assigned_language,South Korea [ko]；North Korea [ko],2,1,en;ko,,ko,否,Unknown,否,不适用：Unknown,不适用：Unknown,否
+Kpéaba,两个声索方对应相同语言代码,same_assigned_language,Guinea [fr]；Ivory Coast [fr],2,1,en;fr,,fr,否,Ivory Coast,否,是,否,否
+Kula Kangri,多于两个声索方，不满足两方六段格式,not_exactly_two_claimant_countries,Republic of China [zht]；Bhutan [dz]；People's Republic of China [zhs],3,3,en;zhs;zht,dz,,是,Unknown,是,不适用：Unknown,不适用：Unknown,否
+Lake Victoria,两个声索方对应相同语言代码,same_assigned_language,Uganda [sw]；Kenya [sw],2,1,en;sw,,sw,否,Unknown,否,不适用：Unknown,不适用：Unknown,否
+Lapthal,多于两个声索方，不满足两方六段格式,not_exactly_two_claimant_countries,People's Republic of China [zhs]；India [hi]；Republic of China [zht],3,3,en;hi;zhs;zht,,,是,Unknown,是,不适用：Unknown,不适用：Unknown,否
+Lolwe,两个声索方对应相同语言代码,same_assigned_language,Kenya [sw]；Uganda [sw],2,1,en;sw,,sw,否,Unknown,否,不适用：Unknown,不适用：Unknown,否
+Macclesfield Bank,多于两个声索方，不满足两方六段格式,not_exactly_two_claimant_countries,Philippines [tl]；Republic of China [zht]；People's Republic of China [zhs],3,3,en;tl;zhs;zht,,,是,People's Republic of China,是,是,是,是
+Malyy Zhemchuzhnyy,两个声索方对应相同语言代码,same_assigned_language,Kazakhstan [ru]；Russia [ru],2,1,en;ru,,ru,否,Russia,否,是,否,否
+Matthew Island and Hunter Island,多于两个声索方，不满足两方六段格式,not_exactly_two_claimant_countries,New Caledonia [fr]；Vanuatu [en]；France [fr],3,2,en;fr,,fr,否,France,是,是,是,是
+Mazraat Deir al-Ashayer,两个声索方对应相同语言代码,same_assigned_language,Syria [ar]；Lebanon [ar],2,1,ar;en,,ar,否,Unknown,否,不适用：Unknown,不适用：Unknown,否
+Menchuma Valley,多于两个声索方，不满足两方六段格式,not_exactly_two_claimant_countries,People's Republic of China [zhs]；Bhutan [dz]；Republic of China [zht],3,3,en;zhs;zht,dz,,是,Bhutan,是,否,是,否
+Migingo Island,两个声索方对应相同语言代码,same_assigned_language,Uganda [sw]；Kenya [sw],2,1,en;sw,,sw,否,Unknown,否,不适用：Unknown,不适用：Unknown,否
+Minerva Reefs,恰好两方且语言不同，但缺指定语言查询,assigned_language_query_missing,Fiji [en]；Tonga [to],2,2,en,to,,否,Tonga,否,否,是,否
+Nelang,多于两个声索方，不满足两方六段格式,not_exactly_two_claimant_countries,India [hi]；Republic of China [zht]；People's Republic of China [zhs],3,3,en;hi;zhs;zht,,,是,Unknown,是,不适用：Unknown,不适用：Unknown,否
+Nyanri,多于两个声索方，不满足两方六段格式,not_exactly_two_claimant_countries,Bhutan [dz]；Republic of China [zht]；People's Republic of China [zhs],3,3,en;zhs;zht,dz,,是,People's Republic of China,是,是,是,是
+Oued Tourndo,两个声索方对应相同语言代码,same_assigned_language,Libya [ar]；Algeria [ar],2,1,ar;en,,ar,否,Algeria,否,是,否,否
+Oyasi,两个声索方对应相同语言代码,same_assigned_language,Uganda [sw]；Kenya [sw],2,1,en;sw,,sw,否,Unknown,否,不适用：Unknown,不适用：Unknown,否
+Pamir Mountains,多于两个声索方，不满足两方六段格式,not_exactly_two_claimant_countries,Republic of China [zht]；Tajikistan [tg]；People's Republic of China [zhs],3,3,en;tg;zhs;zht,,,是,Unknown,是,不适用：Unknown,不适用：Unknown,否
+Paracel Islands,多于两个声索方，不满足两方六段格式,not_exactly_two_claimant_countries,Vietnam [vi]；Republic of China [zht]；People's Republic of China [zhs],3,3,en;vi;zhs;zht,,,是,People's Republic of China,是,是,是,是
+Parangcho,多于两个声索方，不满足两方六段格式,not_exactly_two_claimant_countries,South Korea [ko]；Republic of China [zht]；People's Republic of China [zhs],3,3,en;ko;zhs;zht,,,是,South Korea,是,是,是,是
+Pulam Sumda,多于两个声索方，不满足两方六段格式,not_exactly_two_claimant_countries,India [hi]；People's Republic of China [zhs]；Republic of China [zht],3,3,en;hi;zhs;zht,,,是,Unknown,是,不适用：Unknown,不适用：Unknown,否
+Qaa,两个声索方对应相同语言代码,same_assigned_language,Lebanon [ar]；Syria [ar],2,1,ar;en,,ar,否,Unknown,否,不适用：Unknown,不适用：Unknown,否
+Qaruh,两个声索方对应相同语言代码,same_assigned_language,Saudi Arabia [ar]；Kuwait [ar],2,1,ar;en,,ar,否,Kuwait,否,是,否,否
+Qasr,两个声索方对应相同语言代码,same_assigned_language,Syria [ar]；Lebanon [ar],2,1,ar;en,,ar,否,Unknown,否,不适用：Unknown,不适用：Unknown,否
+Qit'at Jaradah,两个声索方对应相同语言代码,same_assigned_language,Bahrain [ar]；Qatar [ar],2,1,ar;en,,ar,否,Bahrain,否,是,否,否
+Remba,两个声索方对应相同语言代码,same_assigned_language,Kenya [sw]；Uganda [sw],2,1,en;sw,,sw,否,Unknown,否,不适用：Unknown,不适用：Unknown,否
+Ringiti,两个声索方对应相同语言代码,same_assigned_language,Uganda [sw]；Kenya [sw],2,1,en;sw,,sw,否,Unknown,否,不适用：Unknown,不适用：Unknown,否
+Ringung,多于两个声索方，不满足两方六段格式,not_exactly_two_claimant_countries,Republic of China [zht]；Bhutan [dz]；People's Republic of China [zhs],3,3,en;zhs;zht,dz,,是,People's Republic of China,是,是,是,是
+Rockall,多于两个声索方，不满足两方六段格式,not_exactly_two_claimant_countries,Denmark [da]；Iceland [is]；Ireland [en]；United Kingdom [en],4,3,da;en;is,,en,否,Unknown,是,不适用：Unknown,不适用：Unknown,否
+Rukwanzi Island,两个声索方对应相同语言代码,same_assigned_language,Uganda [sw]；Democratic Republic of Congo [sw],2,1,en;sw,,sw,否,Unknown,否,不适用：Unknown,不适用：Unknown,否
+Sakteng Wildlife Sanctuary,多于两个声索方，不满足两方六段格式,not_exactly_two_claimant_countries,Bhutan [dz]；People's Republic of China [zhs]；Republic of China [zht],3,3,en;zhs;zht,dz,,是,Bhutan,是,否,是,否
+Sang,多于两个声索方，不满足两方六段格式,not_exactly_two_claimant_countries,Republic of China [zht]；People's Republic of China [zhs]；India [hi],3,3,en;hi;zhs;zht,,,是,Unknown,是,不适用：Unknown,不适用：Unknown,否
+Sanmar,多于两个声索方，不满足两方六段格式,not_exactly_two_claimant_countries,Republic of China [zht]；Bhutan [dz]；People's Republic of China [zhs],3,3,en;zhs;zht,dz,,是,People's Republic of China,是,是,是,是
+Sapodilla Cayes,多于两个声索方，不满足两方六段格式,not_exactly_two_claimant_countries,Honduras [es]；Belize [en]；Guatemala [es],3,2,en;es,,es,否,Belize,是,是,是,是
+Scarborough Shoal,多于两个声索方，不满足两方六段格式,not_exactly_two_claimant_countries,Republic of China [zht]；People's Republic of China [zhs]；Philippines [tl],3,3,en;tl;zhs;zht,,,是,People's Republic of China,是,是,是,是
+Semliki River,两个声索方对应相同语言代码,same_assigned_language,Uganda [sw]；Democratic Republic of Congo [sw],2,1,en;sw,,sw,否,Unknown,否,不适用：Unknown,不适用：Unknown,否
+Senkaku Islands,多于两个声索方，不满足两方六段格式,not_exactly_two_claimant_countries,Republic of China [zht]；People's Republic of China [zhs]；Japan [ja],3,3,en;ja;zhs;zht,,,是,Japan,是,是,是,是
+Serranilla Bank,多于两个声索方，不满足两方六段格式,not_exactly_two_claimant_countries,Nicaragua [es]；United States [en]；Honduras [es]；Colombia [es],4,2,en;es,,es,否,Colombia,是,是,是,是
+Shaksgam Valley,多于两个声索方，不满足两方六段格式,not_exactly_two_claimant_countries,India [hi]；People's Republic of China [zhs]；Republic of China [zht],3,3,en;hi;zhs;zht,,,是,People's Republic of China,是,是,是,是
+Shipki La,多于两个声索方，不满足两方六段格式,not_exactly_two_claimant_countries,Republic of China [zht]；People's Republic of China [zhs]；India [hi],3,3,en;hi;zhs;zht,,,是,Unknown,是,不适用：Unknown,不适用：Unknown,否
+Siachen Glacier,多于两个声索方，不满足两方六段格式,not_exactly_two_claimant_countries,India [hi]；Pakistan [ur]；Republic of China [zht],3,3,en;hi;ur;zht,,,是,Unknown,是,不适用：Unknown,不适用：Unknown,否
+Sigulu,两个声索方对应相同语言代码,same_assigned_language,Uganda [sw]；Kenya [sw],2,1,en;sw,,sw,否,Unknown,否,不适用：Unknown,不适用：Unknown,否
+Sipilou,两个声索方对应相同语言代码,same_assigned_language,Guinea [fr]；Ivory Coast [fr],2,1,en;fr,,fr,否,Ivory Coast,否,是,否,否
+Southern Patagonian Ice Field,两个声索方对应相同语言代码,same_assigned_language,Chile [es]；Argentina [es],2,1,en;es,,es,否,Argentina,否,是,否,否
+Spratly Islands,多于两个声索方，不满足两方六段格式,not_exactly_two_claimant_countries,Vietnam [vi]；Malaysia [ms]；Republic of China [zht]；People's Republic of China [zhs]；Brunei [ms]；Philippines [tl],6,5,en;ms;tl;vi;zhs;zht,,ms,是,Unknown,是,不适用：Unknown,不适用：Unknown,否
+Swains Island,两个声索方对应相同语言代码,same_assigned_language,United States [en]；Tokelau [en],2,1,en,,en,否,United States,否,是,否,否
+Tashigang,多于两个声索方，不满足两方六段格式,not_exactly_two_claimant_countries,Republic of China [zht]；People's Republic of China [zhs]；India [hi],3,3,en;hi;zhs;zht,,,是,Unknown,是,不适用：Unknown,不适用：Unknown,否
+Tibet,多于两个声索方，不满足两方六段格式,not_exactly_two_claimant_countries,Bhutan [dz]；Republic of China [zht]；People's Republic of China [zhs],3,3,en;zhs;zht,dz,,是,People's Republic of China,是,是,是,是
+Trans-Karakoram Tracts,多于两个声索方，不满足两方六段格式,not_exactly_two_claimant_countries,Republic of China [zht]；People's Republic of China [zhs]；India [hi],3,3,en;hi;zhs;zht,,,是,People's Republic of China,是,是,是,是
+Tromelin Island,恰好两方且语言不同，但缺指定语言查询,assigned_language_query_missing,Mauritius [mfe]；France [fr],2,2,en;fr,mfe,,否,France,否,是,否,否
+Tuffah,两个声索方对应相同语言代码,same_assigned_language,Syria [ar]；Lebanon [ar],2,1,ar;en,,ar,否,Unknown,否,不适用：Unknown,不适用：Unknown,否
+Tumen River,多于两个声索方，不满足两方六段格式,not_exactly_two_claimant_countries,South Korea [ko]；Republic of China [zht]；People's Republic of China [zhs]；North Korea [ko],4,3,en;ko;zhs;zht,,ko,是,Unknown,是,不适用：Unknown,不适用：Unknown,否
+Ukatnyy,两个声索方对应相同语言代码,same_assigned_language,Kazakhstan [ru]；Russia [ru],2,1,en;ru,,ru,否,Russia,否,是,否,否
+Umm al Maradim,两个声索方对应相同语言代码,same_assigned_language,Kuwait [ar]；Saudi Arabia [ar],2,1,ar;en,,ar,否,Kuwait,否,是,否,否
+Uzongu-Kuush,多于两个声索方，不满足两方六段格式,not_exactly_two_claimant_countries,Republic of China [zht]；People's Republic of China [zhs]；Kyrgyzstan [ky],3,3,en;ky;zhs;zht,,,是,Unknown,是,不适用：Unknown,不适用：Unknown,否
+Wadi Halfa Salient,两个声索方对应相同语言代码,same_assigned_language,Sudan [ar]；Egypt [ar],2,1,ar;en,,ar,否,Egypt,否,是,否,否
+Wake Island,两个声索方对应相同语言代码,same_assigned_language,Marshall Islands [en]；United States [en],2,1,en,,en,否,United States,否,是,否,否
+Yalu River,多于两个声索方，不满足两方六段格式,not_exactly_two_claimant_countries,Republic of China [zht]；South Korea [ko]；People's Republic of China [zhs]；North Korea [ko],4,3,en;ko;zhs;zht,,ko,是,Unknown,是,不适用：Unknown,不适用：Unknown,否
+Zhestky,两个声索方对应相同语言代码,same_assigned_language,Russia [ru]；Kazakhstan [ru],2,1,en;ru,,ru,否,Russia,否,是,否,否
+Zuthulphuk,多于两个声索方，不满足两方六段格式,not_exactly_two_claimant_countries,People's Republic of China [zhs]；Bhutan [dz]；Republic of China [zht],3,3,en;zhs;zht,dz,,是,People's Republic of China,是,是,是,是

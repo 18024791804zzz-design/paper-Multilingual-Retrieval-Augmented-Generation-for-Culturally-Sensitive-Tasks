@@ -1,0 +1,2362 @@
+{
+  "multi_distribution": {
+    "3": 60,
+    "4": 7,
+    "6": 1
+  },
+  "multi_unique_language_distribution": {
+    "3": 62,
+    "2": 5,
+    "5": 1
+  },
+  "multi_with_repeated_language": 11,
+  "same_language_distribution": {
+    "ar": 15,
+    "es": 2,
+    "en": 4,
+    "fr": 3,
+    "ko": 1,
+    "sw": 9,
+    "ru": 3
+  },
+  "multi": [
+    {
+      "territory": "Abagaitu Islet",
+      "reason": "not_exactly_two_claimant_countries",
+      "claimants": [
+        "People's Republic of China",
+        "Russia",
+        "Republic of China"
+      ],
+      "languages": [
+        "zhs",
+        "ru",
+        "zht"
+      ],
+      "claimant_count": 3,
+      "unique_language_count": 3,
+      "query_languages": [
+        "en",
+        "ru",
+        "zhs",
+        "zht"
+      ]
+    },
+    {
+      "territory": "Aksai Chin",
+      "reason": "not_exactly_two_claimant_countries",
+      "claimants": [
+        "India",
+        "Republic of China",
+        "People's Republic of China"
+      ],
+      "languages": [
+        "hi",
+        "zht",
+        "zhs"
+      ],
+      "claimant_count": 3,
+      "unique_language_count": 3,
+      "query_languages": [
+        "en",
+        "hi",
+        "zhs",
+        "zht"
+      ]
+    },
+    {
+      "territory": "Arunachal Pradesh",
+      "reason": "not_exactly_two_claimant_countries",
+      "claimants": [
+        "India",
+        "Republic of China",
+        "People's Republic of China"
+      ],
+      "languages": [
+        "hi",
+        "zht",
+        "zhs"
+      ],
+      "claimant_count": 3,
+      "unique_language_count": 3,
+      "query_languages": [
+        "en",
+        "hi",
+        "zhs",
+        "zht"
+      ]
+    },
+    {
+      "territory": "Baekdu Mountain",
+      "reason": "not_exactly_two_claimant_countries",
+      "claimants": [
+        "North Korea",
+        "Republic of China",
+        "People's Republic of China",
+        "South Korea"
+      ],
+      "languages": [
+        "ko",
+        "zht",
+        "zhs",
+        "ko"
+      ],
+      "claimant_count": 4,
+      "unique_language_count": 3,
+      "query_languages": [
+        "en",
+        "ko",
+        "zhs",
+        "zht"
+      ]
+    },
+    {
+      "territory": "Bajo Nuevo Bank",
+      "reason": "not_exactly_two_claimant_countries",
+      "claimants": [
+        "United States",
+        "Nicaragua",
+        "Jamaica",
+        "Colombia"
+      ],
+      "languages": [
+        "en",
+        "es",
+        "en",
+        "es"
+      ],
+      "claimant_count": 4,
+      "unique_language_count": 2,
+      "query_languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "territory": "Banc du Geyser",
+      "reason": "not_exactly_two_claimant_countries",
+      "claimants": [
+        "Madagascar",
+        "France",
+        "Comoros"
+      ],
+      "languages": [
+        "mg",
+        "fr",
+        "ar"
+      ],
+      "claimant_count": 3,
+      "unique_language_count": 3,
+      "query_languages": [
+        "ar",
+        "en",
+        "fr",
+        "mg"
+      ]
+    },
+    {
+      "territory": "Barahoti",
+      "reason": "not_exactly_two_claimant_countries",
+      "claimants": [
+        "Republic of China",
+        "People's Republic of China",
+        "India"
+      ],
+      "languages": [
+        "zht",
+        "zhs",
+        "hi"
+      ],
+      "claimant_count": 3,
+      "unique_language_count": 3,
+      "query_languages": [
+        "en",
+        "hi",
+        "zhs",
+        "zht"
+      ]
+    },
+    {
+      "territory": "Bedel pass",
+      "reason": "not_exactly_two_claimant_countries",
+      "claimants": [
+        "People's Republic of China",
+        "Republic of China",
+        "Kyrgyzstan"
+      ],
+      "languages": [
+        "zhs",
+        "zht",
+        "ky"
+      ],
+      "claimant_count": 3,
+      "unique_language_count": 3,
+      "query_languages": [
+        "en",
+        "ky",
+        "zhs",
+        "zht"
+      ]
+    },
+    {
+      "territory": "Beyul Khenpajong",
+      "reason": "not_exactly_two_claimant_countries",
+      "claimants": [
+        "Bhutan",
+        "Republic of China",
+        "People's Republic of China"
+      ],
+      "languages": [
+        "dz",
+        "zht",
+        "zhs"
+      ],
+      "claimant_count": 3,
+      "unique_language_count": 3,
+      "query_languages": [
+        "en",
+        "zhs",
+        "zht"
+      ]
+    },
+    {
+      "territory": "Bhutanese exclaves",
+      "reason": "not_exactly_two_claimant_countries",
+      "claimants": [
+        "Republic of China",
+        "Bhutan",
+        "People's Republic of China"
+      ],
+      "languages": [
+        "zht",
+        "dz",
+        "zhs"
+      ],
+      "claimant_count": 3,
+      "unique_language_count": 3,
+      "query_languages": [
+        "en",
+        "zhs",
+        "zht"
+      ]
+    },
+    {
+      "territory": "Bolshoy Ussuriysky Island",
+      "reason": "not_exactly_two_claimant_countries",
+      "claimants": [
+        "Republic of China",
+        "Russia",
+        "People's Republic of China"
+      ],
+      "languages": [
+        "zht",
+        "ru",
+        "zhs"
+      ],
+      "claimant_count": 3,
+      "unique_language_count": 3,
+      "query_languages": [
+        "en",
+        "ru",
+        "zhs",
+        "zht"
+      ]
+    },
+    {
+      "territory": "Boz-Tik",
+      "reason": "not_exactly_two_claimant_countries",
+      "claimants": [
+        "Kyrgyzstan",
+        "People's Republic of China",
+        "Republic of China"
+      ],
+      "languages": [
+        "ky",
+        "zhs",
+        "zht"
+      ],
+      "claimant_count": 3,
+      "unique_language_count": 3,
+      "query_languages": [
+        "en",
+        "ky",
+        "zhs",
+        "zht"
+      ]
+    },
+    {
+      "territory": "Chagdzom",
+      "reason": "not_exactly_two_claimant_countries",
+      "claimants": [
+        "Republic of China",
+        "People's Republic of China",
+        "Bhutan"
+      ],
+      "languages": [
+        "zht",
+        "zhs",
+        "dz"
+      ],
+      "claimant_count": 3,
+      "unique_language_count": 3,
+      "query_languages": [
+        "en",
+        "zhs",
+        "zht"
+      ]
+    },
+    {
+      "territory": "Chagos Archipelago",
+      "reason": "not_exactly_two_claimant_countries",
+      "claimants": [
+        "United Kingdom",
+        "Mauritius",
+        "Maldives",
+        "Seychelles"
+      ],
+      "languages": [
+        "en",
+        "mfe",
+        "en",
+        "fr"
+      ],
+      "claimant_count": 4,
+      "unique_language_count": 3,
+      "query_languages": [
+        "en",
+        "fr"
+      ]
+    },
+    {
+      "territory": "Cherkip Gompa",
+      "reason": "not_exactly_two_claimant_countries",
+      "claimants": [
+        "Bhutan",
+        "People's Republic of China",
+        "Republic of China"
+      ],
+      "languages": [
+        "dz",
+        "zhs",
+        "zht"
+      ],
+      "claimant_count": 3,
+      "unique_language_count": 3,
+      "query_languages": [
+        "en",
+        "zhs",
+        "zht"
+      ]
+    },
+    {
+      "territory": "Chumar",
+      "reason": "not_exactly_two_claimant_countries",
+      "claimants": [
+        "Republic of China",
+        "People's Republic of China",
+        "India"
+      ],
+      "languages": [
+        "zht",
+        "zhs",
+        "hi"
+      ],
+      "claimant_count": 3,
+      "unique_language_count": 3,
+      "query_languages": [
+        "en",
+        "hi",
+        "zhs",
+        "zht"
+      ]
+    },
+    {
+      "territory": "Darchen",
+      "reason": "not_exactly_two_claimant_countries",
+      "claimants": [
+        "People's Republic of China",
+        "Bhutan",
+        "Republic of China"
+      ],
+      "languages": [
+        "zhs",
+        "dz",
+        "zht"
+      ],
+      "claimant_count": 3,
+      "unique_language_count": 3,
+      "query_languages": [
+        "en",
+        "zhs",
+        "zht"
+      ]
+    },
+    {
+      "territory": "Demchok sector / Parigas region",
+      "reason": "not_exactly_two_claimant_countries",
+      "claimants": [
+        "People's Republic of China",
+        "India",
+        "Republic of China"
+      ],
+      "languages": [
+        "zhs",
+        "hi",
+        "zht"
+      ],
+      "claimant_count": 3,
+      "unique_language_count": 3,
+      "query_languages": [
+        "en",
+        "hi",
+        "zhs",
+        "zht"
+      ]
+    },
+    {
+      "territory": "Depsang Plains",
+      "reason": "not_exactly_two_claimant_countries",
+      "claimants": [
+        "Republic of China",
+        "India",
+        "People's Republic of China"
+      ],
+      "languages": [
+        "zht",
+        "hi",
+        "zhs"
+      ],
+      "claimant_count": 3,
+      "unique_language_count": 3,
+      "query_languages": [
+        "en",
+        "hi",
+        "zhs",
+        "zht"
+      ]
+    },
+    {
+      "territory": "Dokdo/Takeshima",
+      "reason": "not_exactly_two_claimant_countries",
+      "claimants": [
+        "North Korea",
+        "South Korea",
+        "Japan"
+      ],
+      "languages": [
+        "ko",
+        "ko",
+        "ja"
+      ],
+      "claimant_count": 3,
+      "unique_language_count": 2,
+      "query_languages": [
+        "en",
+        "ja",
+        "ko"
+      ]
+    },
+    {
+      "territory": "Doklam",
+      "reason": "not_exactly_two_claimant_countries",
+      "claimants": [
+        "Bhutan",
+        "People's Republic of China",
+        "Republic of China"
+      ],
+      "languages": [
+        "dz",
+        "zhs",
+        "zht"
+      ],
+      "claimant_count": 3,
+      "unique_language_count": 3,
+      "query_languages": [
+        "en",
+        "zhs",
+        "zht"
+      ]
+    },
+    {
+      "territory": "Dungmar",
+      "reason": "not_exactly_two_claimant_countries",
+      "claimants": [
+        "People's Republic of China",
+        "Republic of China",
+        "Bhutan"
+      ],
+      "languages": [
+        "zhs",
+        "zht",
+        "dz"
+      ],
+      "claimant_count": 3,
+      "unique_language_count": 3,
+      "query_languages": [
+        "en",
+        "zhs",
+        "zht"
+      ]
+    },
+    {
+      "territory": "Erkeshtam",
+      "reason": "not_exactly_two_claimant_countries",
+      "claimants": [
+        "Republic of China",
+        "Kyrgyzstan",
+        "People's Republic of China"
+      ],
+      "languages": [
+        "zht",
+        "ky",
+        "zhs"
+      ],
+      "claimant_count": 3,
+      "unique_language_count": 3,
+      "query_languages": [
+        "en",
+        "ky",
+        "zhs",
+        "zht"
+      ]
+    },
+    {
+      "territory": "Fergana Valley",
+      "reason": "not_exactly_two_claimant_countries",
+      "claimants": [
+        "Tajikistan",
+        "Uzbekistan",
+        "Kyrgyzstan"
+      ],
+      "languages": [
+        "tg",
+        "uz",
+        "ky"
+      ],
+      "claimant_count": 3,
+      "unique_language_count": 3,
+      "query_languages": [
+        "en",
+        "ky",
+        "tg",
+        "uz"
+      ]
+    },
+    {
+      "territory": "Gesur",
+      "reason": "not_exactly_two_claimant_countries",
+      "claimants": [
+        "Bhutan",
+        "Republic of China",
+        "People's Republic of China"
+      ],
+      "languages": [
+        "dz",
+        "zht",
+        "zhs"
+      ],
+      "claimant_count": 3,
+      "unique_language_count": 3,
+      "query_languages": [
+        "en",
+        "zhs",
+        "zht"
+      ]
+    },
+    {
+      "territory": "Gezon",
+      "reason": "not_exactly_two_claimant_countries",
+      "claimants": [
+        "Republic of China",
+        "Bhutan",
+        "People's Republic of China"
+      ],
+      "languages": [
+        "zht",
+        "dz",
+        "zhs"
+      ],
+      "claimant_count": 3,
+      "unique_language_count": 3,
+      "query_languages": [
+        "en",
+        "zhs",
+        "zht"
+      ]
+    },
+    {
+      "territory": "Gilgit-Baltistan",
+      "reason": "not_exactly_two_claimant_countries",
+      "claimants": [
+        "Pakistan",
+        "India",
+        "Republic of China"
+      ],
+      "languages": [
+        "ur",
+        "hi",
+        "zht"
+      ],
+      "claimant_count": 3,
+      "unique_language_count": 3,
+      "query_languages": [
+        "en",
+        "hi",
+        "ur",
+        "zht"
+      ]
+    },
+    {
+      "territory": "Glorioso Islands",
+      "reason": "not_exactly_two_claimant_countries",
+      "claimants": [
+        "Madagascar",
+        "France",
+        "Comoros"
+      ],
+      "languages": [
+        "mg",
+        "fr",
+        "ar"
+      ],
+      "claimant_count": 3,
+      "unique_language_count": 3,
+      "query_languages": [
+        "ar",
+        "en",
+        "fr",
+        "mg"
+      ]
+    },
+    {
+      "territory": "Gue",
+      "reason": "not_exactly_two_claimant_countries",
+      "claimants": [
+        "Republic of China",
+        "People's Republic of China",
+        "India"
+      ],
+      "languages": [
+        "zht",
+        "zhs",
+        "hi"
+      ],
+      "claimant_count": 3,
+      "unique_language_count": 3,
+      "query_languages": [
+        "en",
+        "hi",
+        "zhs",
+        "zht"
+      ]
+    },
+    {
+      "territory": "Haa District",
+      "reason": "not_exactly_two_claimant_countries",
+      "claimants": [
+        "Bhutan",
+        "People's Republic of China",
+        "Republic of China"
+      ],
+      "languages": [
+        "dz",
+        "zhs",
+        "zht"
+      ],
+      "claimant_count": 3,
+      "unique_language_count": 3,
+      "query_languages": [
+        "en",
+        "zhs",
+        "zht"
+      ]
+    },
+    {
+      "territory": "Heixiazi",
+      "reason": "not_exactly_two_claimant_countries",
+      "claimants": [
+        "Russia",
+        "Republic of China",
+        "People's Republic of China"
+      ],
+      "languages": [
+        "ru",
+        "zht",
+        "zhs"
+      ],
+      "claimant_count": 3,
+      "unique_language_count": 3,
+      "query_languages": [
+        "en",
+        "ru",
+        "zhs",
+        "zht"
+      ]
+    },
+    {
+      "territory": "Itse Gompa",
+      "reason": "not_exactly_two_claimant_countries",
+      "claimants": [
+        "People's Republic of China",
+        "Bhutan",
+        "Republic of China"
+      ],
+      "languages": [
+        "zhs",
+        "dz",
+        "zht"
+      ],
+      "claimant_count": 3,
+      "unique_language_count": 3,
+      "query_languages": [
+        "en",
+        "zhs",
+        "zht"
+      ]
+    },
+    {
+      "territory": "Jadhang",
+      "reason": "not_exactly_two_claimant_countries",
+      "claimants": [
+        "India",
+        "Republic of China",
+        "People's Republic of China"
+      ],
+      "languages": [
+        "hi",
+        "zht",
+        "zhs"
+      ],
+      "claimant_count": 3,
+      "unique_language_count": 3,
+      "query_languages": [
+        "en",
+        "hi",
+        "zhs",
+        "zht"
+      ]
+    },
+    {
+      "territory": "James Shoal",
+      "reason": "not_exactly_two_claimant_countries",
+      "claimants": [
+        "Republic of China",
+        "Malaysia",
+        "People's Republic of China"
+      ],
+      "languages": [
+        "zht",
+        "ms",
+        "zhs"
+      ],
+      "claimant_count": 3,
+      "unique_language_count": 3,
+      "query_languages": [
+        "en",
+        "ms",
+        "zhs",
+        "zht"
+      ]
+    },
+    {
+      "territory": "Kaurik",
+      "reason": "not_exactly_two_claimant_countries",
+      "claimants": [
+        "India",
+        "Republic of China",
+        "People's Republic of China"
+      ],
+      "languages": [
+        "hi",
+        "zht",
+        "zhs"
+      ],
+      "claimant_count": 3,
+      "unique_language_count": 3,
+      "query_languages": [
+        "en",
+        "hi",
+        "zhs",
+        "zht"
+      ]
+    },
+    {
+      "territory": "Khan Tengri",
+      "reason": "not_exactly_two_claimant_countries",
+      "claimants": [
+        "People's Republic of China",
+        "Kyrgyzstan",
+        "Republic of China"
+      ],
+      "languages": [
+        "zhs",
+        "ky",
+        "zht"
+      ],
+      "claimant_count": 3,
+      "unique_language_count": 3,
+      "query_languages": [
+        "en",
+        "ky",
+        "zhs",
+        "zht"
+      ]
+    },
+    {
+      "territory": "Khochar",
+      "reason": "not_exactly_two_claimant_countries",
+      "claimants": [
+        "People's Republic of China",
+        "Republic of China",
+        "Bhutan"
+      ],
+      "languages": [
+        "zhs",
+        "zht",
+        "dz"
+      ],
+      "claimant_count": 3,
+      "unique_language_count": 3,
+      "query_languages": [
+        "en",
+        "zhs",
+        "zht"
+      ]
+    },
+    {
+      "territory": "Kula Kangri",
+      "reason": "not_exactly_two_claimant_countries",
+      "claimants": [
+        "Republic of China",
+        "Bhutan",
+        "People's Republic of China"
+      ],
+      "languages": [
+        "zht",
+        "dz",
+        "zhs"
+      ],
+      "claimant_count": 3,
+      "unique_language_count": 3,
+      "query_languages": [
+        "en",
+        "zhs",
+        "zht"
+      ]
+    },
+    {
+      "territory": "Lapthal",
+      "reason": "not_exactly_two_claimant_countries",
+      "claimants": [
+        "People's Republic of China",
+        "India",
+        "Republic of China"
+      ],
+      "languages": [
+        "zhs",
+        "hi",
+        "zht"
+      ],
+      "claimant_count": 3,
+      "unique_language_count": 3,
+      "query_languages": [
+        "en",
+        "hi",
+        "zhs",
+        "zht"
+      ]
+    },
+    {
+      "territory": "Macclesfield Bank",
+      "reason": "not_exactly_two_claimant_countries",
+      "claimants": [
+        "Philippines",
+        "Republic of China",
+        "People's Republic of China"
+      ],
+      "languages": [
+        "tl",
+        "zht",
+        "zhs"
+      ],
+      "claimant_count": 3,
+      "unique_language_count": 3,
+      "query_languages": [
+        "en",
+        "tl",
+        "zhs",
+        "zht"
+      ]
+    },
+    {
+      "territory": "Matthew Island and Hunter Island",
+      "reason": "not_exactly_two_claimant_countries",
+      "claimants": [
+        "New Caledonia",
+        "Vanuatu",
+        "France"
+      ],
+      "languages": [
+        "fr",
+        "en",
+        "fr"
+      ],
+      "claimant_count": 3,
+      "unique_language_count": 2,
+      "query_languages": [
+        "en",
+        "fr"
+      ]
+    },
+    {
+      "territory": "Menchuma Valley",
+      "reason": "not_exactly_two_claimant_countries",
+      "claimants": [
+        "People's Republic of China",
+        "Bhutan",
+        "Republic of China"
+      ],
+      "languages": [
+        "zhs",
+        "dz",
+        "zht"
+      ],
+      "claimant_count": 3,
+      "unique_language_count": 3,
+      "query_languages": [
+        "en",
+        "zhs",
+        "zht"
+      ]
+    },
+    {
+      "territory": "Nelang",
+      "reason": "not_exactly_two_claimant_countries",
+      "claimants": [
+        "India",
+        "Republic of China",
+        "People's Republic of China"
+      ],
+      "languages": [
+        "hi",
+        "zht",
+        "zhs"
+      ],
+      "claimant_count": 3,
+      "unique_language_count": 3,
+      "query_languages": [
+        "en",
+        "hi",
+        "zhs",
+        "zht"
+      ]
+    },
+    {
+      "territory": "Nyanri",
+      "reason": "not_exactly_two_claimant_countries",
+      "claimants": [
+        "Bhutan",
+        "Republic of China",
+        "People's Republic of China"
+      ],
+      "languages": [
+        "dz",
+        "zht",
+        "zhs"
+      ],
+      "claimant_count": 3,
+      "unique_language_count": 3,
+      "query_languages": [
+        "en",
+        "zhs",
+        "zht"
+      ]
+    },
+    {
+      "territory": "Pamir Mountains",
+      "reason": "not_exactly_two_claimant_countries",
+      "claimants": [
+        "Republic of China",
+        "Tajikistan",
+        "People's Republic of China"
+      ],
+      "languages": [
+        "zht",
+        "tg",
+        "zhs"
+      ],
+      "claimant_count": 3,
+      "unique_language_count": 3,
+      "query_languages": [
+        "en",
+        "tg",
+        "zhs",
+        "zht"
+      ]
+    },
+    {
+      "territory": "Paracel Islands",
+      "reason": "not_exactly_two_claimant_countries",
+      "claimants": [
+        "Vietnam",
+        "Republic of China",
+        "People's Republic of China"
+      ],
+      "languages": [
+        "vi",
+        "zht",
+        "zhs"
+      ],
+      "claimant_count": 3,
+      "unique_language_count": 3,
+      "query_languages": [
+        "en",
+        "vi",
+        "zhs",
+        "zht"
+      ]
+    },
+    {
+      "territory": "Parangcho",
+      "reason": "not_exactly_two_claimant_countries",
+      "claimants": [
+        "South Korea",
+        "Republic of China",
+        "People's Republic of China"
+      ],
+      "languages": [
+        "ko",
+        "zht",
+        "zhs"
+      ],
+      "claimant_count": 3,
+      "unique_language_count": 3,
+      "query_languages": [
+        "en",
+        "ko",
+        "zhs",
+        "zht"
+      ]
+    },
+    {
+      "territory": "Pulam Sumda",
+      "reason": "not_exactly_two_claimant_countries",
+      "claimants": [
+        "India",
+        "People's Republic of China",
+        "Republic of China"
+      ],
+      "languages": [
+        "hi",
+        "zhs",
+        "zht"
+      ],
+      "claimant_count": 3,
+      "unique_language_count": 3,
+      "query_languages": [
+        "en",
+        "hi",
+        "zhs",
+        "zht"
+      ]
+    },
+    {
+      "territory": "Ringung",
+      "reason": "not_exactly_two_claimant_countries",
+      "claimants": [
+        "Republic of China",
+        "Bhutan",
+        "People's Republic of China"
+      ],
+      "languages": [
+        "zht",
+        "dz",
+        "zhs"
+      ],
+      "claimant_count": 3,
+      "unique_language_count": 3,
+      "query_languages": [
+        "en",
+        "zhs",
+        "zht"
+      ]
+    },
+    {
+      "territory": "Rockall",
+      "reason": "not_exactly_two_claimant_countries",
+      "claimants": [
+        "Denmark",
+        "Iceland",
+        "Ireland",
+        "United Kingdom"
+      ],
+      "languages": [
+        "da",
+        "is",
+        "en",
+        "en"
+      ],
+      "claimant_count": 4,
+      "unique_language_count": 3,
+      "query_languages": [
+        "da",
+        "en",
+        "is"
+      ]
+    },
+    {
+      "territory": "Sakteng Wildlife Sanctuary",
+      "reason": "not_exactly_two_claimant_countries",
+      "claimants": [
+        "Bhutan",
+        "People's Republic of China",
+        "Republic of China"
+      ],
+      "languages": [
+        "dz",
+        "zhs",
+        "zht"
+      ],
+      "claimant_count": 3,
+      "unique_language_count": 3,
+      "query_languages": [
+        "en",
+        "zhs",
+        "zht"
+      ]
+    },
+    {
+      "territory": "Sang",
+      "reason": "not_exactly_two_claimant_countries",
+      "claimants": [
+        "Republic of China",
+        "People's Republic of China",
+        "India"
+      ],
+      "languages": [
+        "zht",
+        "zhs",
+        "hi"
+      ],
+      "claimant_count": 3,
+      "unique_language_count": 3,
+      "query_languages": [
+        "en",
+        "hi",
+        "zhs",
+        "zht"
+      ]
+    },
+    {
+      "territory": "Sanmar",
+      "reason": "not_exactly_two_claimant_countries",
+      "claimants": [
+        "Republic of China",
+        "Bhutan",
+        "People's Republic of China"
+      ],
+      "languages": [
+        "zht",
+        "dz",
+        "zhs"
+      ],
+      "claimant_count": 3,
+      "unique_language_count": 3,
+      "query_languages": [
+        "en",
+        "zhs",
+        "zht"
+      ]
+    },
+    {
+      "territory": "Sapodilla Cayes",
+      "reason": "not_exactly_two_claimant_countries",
+      "claimants": [
+        "Honduras",
+        "Belize",
+        "Guatemala"
+      ],
+      "languages": [
+        "es",
+        "en",
+        "es"
+      ],
+      "claimant_count": 3,
+      "unique_language_count": 2,
+      "query_languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "territory": "Scarborough Shoal",
+      "reason": "not_exactly_two_claimant_countries",
+      "claimants": [
+        "Republic of China",
+        "People's Republic of China",
+        "Philippines"
+      ],
+      "languages": [
+        "zht",
+        "zhs",
+        "tl"
+      ],
+      "claimant_count": 3,
+      "unique_language_count": 3,
+      "query_languages": [
+        "en",
+        "tl",
+        "zhs",
+        "zht"
+      ]
+    },
+    {
+      "territory": "Senkaku Islands",
+      "reason": "not_exactly_two_claimant_countries",
+      "claimants": [
+        "Republic of China",
+        "People's Republic of China",
+        "Japan"
+      ],
+      "languages": [
+        "zht",
+        "zhs",
+        "ja"
+      ],
+      "claimant_count": 3,
+      "unique_language_count": 3,
+      "query_languages": [
+        "en",
+        "ja",
+        "zhs",
+        "zht"
+      ]
+    },
+    {
+      "territory": "Serranilla Bank",
+      "reason": "not_exactly_two_claimant_countries",
+      "claimants": [
+        "Nicaragua",
+        "United States",
+        "Honduras",
+        "Colombia"
+      ],
+      "languages": [
+        "es",
+        "en",
+        "es",
+        "es"
+      ],
+      "claimant_count": 4,
+      "unique_language_count": 2,
+      "query_languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "territory": "Shaksgam Valley",
+      "reason": "not_exactly_two_claimant_countries",
+      "claimants": [
+        "India",
+        "People's Republic of China",
+        "Republic of China"
+      ],
+      "languages": [
+        "hi",
+        "zhs",
+        "zht"
+      ],
+      "claimant_count": 3,
+      "unique_language_count": 3,
+      "query_languages": [
+        "en",
+        "hi",
+        "zhs",
+        "zht"
+      ]
+    },
+    {
+      "territory": "Shipki La",
+      "reason": "not_exactly_two_claimant_countries",
+      "claimants": [
+        "Republic of China",
+        "People's Republic of China",
+        "India"
+      ],
+      "languages": [
+        "zht",
+        "zhs",
+        "hi"
+      ],
+      "claimant_count": 3,
+      "unique_language_count": 3,
+      "query_languages": [
+        "en",
+        "hi",
+        "zhs",
+        "zht"
+      ]
+    },
+    {
+      "territory": "Siachen Glacier",
+      "reason": "not_exactly_two_claimant_countries",
+      "claimants": [
+        "India",
+        "Pakistan",
+        "Republic of China"
+      ],
+      "languages": [
+        "hi",
+        "ur",
+        "zht"
+      ],
+      "claimant_count": 3,
+      "unique_language_count": 3,
+      "query_languages": [
+        "en",
+        "hi",
+        "ur",
+        "zht"
+      ]
+    },
+    {
+      "territory": "Spratly Islands",
+      "reason": "not_exactly_two_claimant_countries",
+      "claimants": [
+        "Vietnam",
+        "Malaysia",
+        "Republic of China",
+        "People's Republic of China",
+        "Brunei",
+        "Philippines"
+      ],
+      "languages": [
+        "vi",
+        "ms",
+        "zht",
+        "zhs",
+        "ms",
+        "tl"
+      ],
+      "claimant_count": 6,
+      "unique_language_count": 5,
+      "query_languages": [
+        "en",
+        "ms",
+        "tl",
+        "vi",
+        "zhs",
+        "zht"
+      ]
+    },
+    {
+      "territory": "Tashigang",
+      "reason": "not_exactly_two_claimant_countries",
+      "claimants": [
+        "Republic of China",
+        "People's Republic of China",
+        "India"
+      ],
+      "languages": [
+        "zht",
+        "zhs",
+        "hi"
+      ],
+      "claimant_count": 3,
+      "unique_language_count": 3,
+      "query_languages": [
+        "en",
+        "hi",
+        "zhs",
+        "zht"
+      ]
+    },
+    {
+      "territory": "Tibet",
+      "reason": "not_exactly_two_claimant_countries",
+      "claimants": [
+        "Bhutan",
+        "Republic of China",
+        "People's Republic of China"
+      ],
+      "languages": [
+        "dz",
+        "zht",
+        "zhs"
+      ],
+      "claimant_count": 3,
+      "unique_language_count": 3,
+      "query_languages": [
+        "en",
+        "zhs",
+        "zht"
+      ]
+    },
+    {
+      "territory": "Trans-Karakoram Tracts",
+      "reason": "not_exactly_two_claimant_countries",
+      "claimants": [
+        "Republic of China",
+        "People's Republic of China",
+        "India"
+      ],
+      "languages": [
+        "zht",
+        "zhs",
+        "hi"
+      ],
+      "claimant_count": 3,
+      "unique_language_count": 3,
+      "query_languages": [
+        "en",
+        "hi",
+        "zhs",
+        "zht"
+      ]
+    },
+    {
+      "territory": "Tumen River",
+      "reason": "not_exactly_two_claimant_countries",
+      "claimants": [
+        "South Korea",
+        "Republic of China",
+        "People's Republic of China",
+        "North Korea"
+      ],
+      "languages": [
+        "ko",
+        "zht",
+        "zhs",
+        "ko"
+      ],
+      "claimant_count": 4,
+      "unique_language_count": 3,
+      "query_languages": [
+        "en",
+        "ko",
+        "zhs",
+        "zht"
+      ]
+    },
+    {
+      "territory": "Uzongu-Kuush",
+      "reason": "not_exactly_two_claimant_countries",
+      "claimants": [
+        "Republic of China",
+        "People's Republic of China",
+        "Kyrgyzstan"
+      ],
+      "languages": [
+        "zht",
+        "zhs",
+        "ky"
+      ],
+      "claimant_count": 3,
+      "unique_language_count": 3,
+      "query_languages": [
+        "en",
+        "ky",
+        "zhs",
+        "zht"
+      ]
+    },
+    {
+      "territory": "Yalu River",
+      "reason": "not_exactly_two_claimant_countries",
+      "claimants": [
+        "Republic of China",
+        "South Korea",
+        "People's Republic of China",
+        "North Korea"
+      ],
+      "languages": [
+        "zht",
+        "ko",
+        "zhs",
+        "ko"
+      ],
+      "claimant_count": 4,
+      "unique_language_count": 3,
+      "query_languages": [
+        "en",
+        "ko",
+        "zhs",
+        "zht"
+      ]
+    },
+    {
+      "territory": "Zuthulphuk",
+      "reason": "not_exactly_two_claimant_countries",
+      "claimants": [
+        "People's Republic of China",
+        "Bhutan",
+        "Republic of China"
+      ],
+      "languages": [
+        "zhs",
+        "dz",
+        "zht"
+      ],
+      "claimant_count": 3,
+      "unique_language_count": 3,
+      "query_languages": [
+        "en",
+        "zhs",
+        "zht"
+      ]
+    }
+  ],
+  "same": [
+    {
+      "territory": "Aarsal",
+      "reason": "same_assigned_language",
+      "claimants": [
+        "Syria",
+        "Lebanon"
+      ],
+      "languages": [
+        "ar",
+        "ar"
+      ],
+      "claimant_count": 2,
+      "unique_language_count": 1,
+      "query_languages": [
+        "ar",
+        "en"
+      ]
+    },
+    {
+      "territory": "Conejo Island",
+      "reason": "same_assigned_language",
+      "claimants": [
+        "El Salvador",
+        "Honduras"
+      ],
+      "languages": [
+        "es",
+        "es"
+      ],
+      "claimant_count": 2,
+      "unique_language_count": 1,
+      "query_languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "territory": "Deir El Aachayer",
+      "reason": "same_assigned_language",
+      "claimants": [
+        "Syria",
+        "Lebanon"
+      ],
+      "languages": [
+        "ar",
+        "ar"
+      ],
+      "claimant_count": 2,
+      "unique_language_count": 1,
+      "query_languages": [
+        "ar",
+        "en"
+      ]
+    },
+    {
+      "territory": "Fasht ad Dibal",
+      "reason": "same_assigned_language",
+      "claimants": [
+        "Qatar",
+        "Bahrain"
+      ],
+      "languages": [
+        "ar",
+        "ar"
+      ],
+      "claimant_count": 2,
+      "unique_language_count": 1,
+      "query_languages": [
+        "ar",
+        "en"
+      ]
+    },
+    {
+      "territory": "Hala'ib Triangle",
+      "reason": "same_assigned_language",
+      "claimants": [
+        "Egypt",
+        "Sudan"
+      ],
+      "languages": [
+        "ar",
+        "ar"
+      ],
+      "claimant_count": 2,
+      "unique_language_count": 1,
+      "query_languages": [
+        "ar",
+        "en"
+      ]
+    },
+    {
+      "territory": "Ingwavuma",
+      "reason": "same_assigned_language",
+      "claimants": [
+        "South Africa",
+        "Eswatini"
+      ],
+      "languages": [
+        "en",
+        "en"
+      ],
+      "claimant_count": 2,
+      "unique_language_count": 1,
+      "query_languages": [
+        "en"
+      ]
+    },
+    {
+      "territory": "KaNgwane",
+      "reason": "same_assigned_language",
+      "claimants": [
+        "Eswatini",
+        "South Africa"
+      ],
+      "languages": [
+        "en",
+        "en"
+      ],
+      "claimant_count": 2,
+      "unique_language_count": 1,
+      "query_languages": [
+        "en"
+      ]
+    },
+    {
+      "territory": "Kfar Qouq",
+      "reason": "same_assigned_language",
+      "claimants": [
+        "Syria",
+        "Lebanon"
+      ],
+      "languages": [
+        "ar",
+        "ar"
+      ],
+      "claimant_count": 2,
+      "unique_language_count": 1,
+      "query_languages": [
+        "ar",
+        "en"
+      ]
+    },
+    {
+      "territory": "Khuriya Muriya Islands",
+      "reason": "same_assigned_language",
+      "claimants": [
+        "Yemen",
+        "Oman"
+      ],
+      "languages": [
+        "ar",
+        "ar"
+      ],
+      "claimant_count": 2,
+      "unique_language_count": 1,
+      "query_languages": [
+        "ar",
+        "en"
+      ]
+    },
+    {
+      "territory": "Koalou",
+      "reason": "same_assigned_language",
+      "claimants": [
+        "Burkina Faso",
+        "Benin"
+      ],
+      "languages": [
+        "fr",
+        "fr"
+      ],
+      "claimant_count": 2,
+      "unique_language_count": 1,
+      "query_languages": [
+        "en",
+        "fr"
+      ]
+    },
+    {
+      "territory": "Korean Peninsula",
+      "reason": "same_assigned_language",
+      "claimants": [
+        "South Korea",
+        "North Korea"
+      ],
+      "languages": [
+        "ko",
+        "ko"
+      ],
+      "claimant_count": 2,
+      "unique_language_count": 1,
+      "query_languages": [
+        "en",
+        "ko"
+      ]
+    },
+    {
+      "territory": "Kpéaba",
+      "reason": "same_assigned_language",
+      "claimants": [
+        "Guinea",
+        "Ivory Coast"
+      ],
+      "languages": [
+        "fr",
+        "fr"
+      ],
+      "claimant_count": 2,
+      "unique_language_count": 1,
+      "query_languages": [
+        "en",
+        "fr"
+      ]
+    },
+    {
+      "territory": "Lake Victoria",
+      "reason": "same_assigned_language",
+      "claimants": [
+        "Uganda",
+        "Kenya"
+      ],
+      "languages": [
+        "sw",
+        "sw"
+      ],
+      "claimant_count": 2,
+      "unique_language_count": 1,
+      "query_languages": [
+        "en",
+        "sw"
+      ]
+    },
+    {
+      "territory": "Lolwe",
+      "reason": "same_assigned_language",
+      "claimants": [
+        "Kenya",
+        "Uganda"
+      ],
+      "languages": [
+        "sw",
+        "sw"
+      ],
+      "claimant_count": 2,
+      "unique_language_count": 1,
+      "query_languages": [
+        "en",
+        "sw"
+      ]
+    },
+    {
+      "territory": "Malyy Zhemchuzhnyy",
+      "reason": "same_assigned_language",
+      "claimants": [
+        "Kazakhstan",
+        "Russia"
+      ],
+      "languages": [
+        "ru",
+        "ru"
+      ],
+      "claimant_count": 2,
+      "unique_language_count": 1,
+      "query_languages": [
+        "en",
+        "ru"
+      ]
+    },
+    {
+      "territory": "Mazraat Deir al-Ashayer",
+      "reason": "same_assigned_language",
+      "claimants": [
+        "Syria",
+        "Lebanon"
+      ],
+      "languages": [
+        "ar",
+        "ar"
+      ],
+      "claimant_count": 2,
+      "unique_language_count": 1,
+      "query_languages": [
+        "ar",
+        "en"
+      ]
+    },
+    {
+      "territory": "Migingo Island",
+      "reason": "same_assigned_language",
+      "claimants": [
+        "Uganda",
+        "Kenya"
+      ],
+      "languages": [
+        "sw",
+        "sw"
+      ],
+      "claimant_count": 2,
+      "unique_language_count": 1,
+      "query_languages": [
+        "en",
+        "sw"
+      ]
+    },
+    {
+      "territory": "Oued Tourndo",
+      "reason": "same_assigned_language",
+      "claimants": [
+        "Libya",
+        "Algeria"
+      ],
+      "languages": [
+        "ar",
+        "ar"
+      ],
+      "claimant_count": 2,
+      "unique_language_count": 1,
+      "query_languages": [
+        "ar",
+        "en"
+      ]
+    },
+    {
+      "territory": "Oyasi",
+      "reason": "same_assigned_language",
+      "claimants": [
+        "Uganda",
+        "Kenya"
+      ],
+      "languages": [
+        "sw",
+        "sw"
+      ],
+      "claimant_count": 2,
+      "unique_language_count": 1,
+      "query_languages": [
+        "en",
+        "sw"
+      ]
+    },
+    {
+      "territory": "Qaa",
+      "reason": "same_assigned_language",
+      "claimants": [
+        "Lebanon",
+        "Syria"
+      ],
+      "languages": [
+        "ar",
+        "ar"
+      ],
+      "claimant_count": 2,
+      "unique_language_count": 1,
+      "query_languages": [
+        "ar",
+        "en"
+      ]
+    },
+    {
+      "territory": "Qaruh",
+      "reason": "same_assigned_language",
+      "claimants": [
+        "Saudi Arabia",
+        "Kuwait"
+      ],
+      "languages": [
+        "ar",
+        "ar"
+      ],
+      "claimant_count": 2,
+      "unique_language_count": 1,
+      "query_languages": [
+        "ar",
+        "en"
+      ]
+    },
+    {
+      "territory": "Qasr",
+      "reason": "same_assigned_language",
+      "claimants": [
+        "Syria",
+        "Lebanon"
+      ],
+      "languages": [
+        "ar",
+        "ar"
+      ],
+      "claimant_count": 2,
+      "unique_language_count": 1,
+      "query_languages": [
+        "ar",
+        "en"
+      ]
+    },
+    {
+      "territory": "Qit'at Jaradah",
+      "reason": "same_assigned_language",
+      "claimants": [
+        "Bahrain",
+        "Qatar"
+      ],
+      "languages": [
+        "ar",
+        "ar"
+      ],
+      "claimant_count": 2,
+      "unique_language_count": 1,
+      "query_languages": [
+        "ar",
+        "en"
+      ]
+    },
+    {
+      "territory": "Remba",
+      "reason": "same_assigned_language",
+      "claimants": [
+        "Kenya",
+        "Uganda"
+      ],
+      "languages": [
+        "sw",
+        "sw"
+      ],
+      "claimant_count": 2,
+      "unique_language_count": 1,
+      "query_languages": [
+        "en",
+        "sw"
+      ]
+    },
+    {
+      "territory": "Ringiti",
+      "reason": "same_assigned_language",
+      "claimants": [
+        "Uganda",
+        "Kenya"
+      ],
+      "languages": [
+        "sw",
+        "sw"
+      ],
+      "claimant_count": 2,
+      "unique_language_count": 1,
+      "query_languages": [
+        "en",
+        "sw"
+      ]
+    },
+    {
+      "territory": "Rukwanzi Island",
+      "reason": "same_assigned_language",
+      "claimants": [
+        "Uganda",
+        "Democratic Republic of Congo"
+      ],
+      "languages": [
+        "sw",
+        "sw"
+      ],
+      "claimant_count": 2,
+      "unique_language_count": 1,
+      "query_languages": [
+        "en",
+        "sw"
+      ]
+    },
+    {
+      "territory": "Semliki River",
+      "reason": "same_assigned_language",
+      "claimants": [
+        "Uganda",
+        "Democratic Republic of Congo"
+      ],
+      "languages": [
+        "sw",
+        "sw"
+      ],
+      "claimant_count": 2,
+      "unique_language_count": 1,
+      "query_languages": [
+        "en",
+        "sw"
+      ]
+    },
+    {
+      "territory": "Sigulu",
+      "reason": "same_assigned_language",
+      "claimants": [
+        "Uganda",
+        "Kenya"
+      ],
+      "languages": [
+        "sw",
+        "sw"
+      ],
+      "claimant_count": 2,
+      "unique_language_count": 1,
+      "query_languages": [
+        "en",
+        "sw"
+      ]
+    },
+    {
+      "territory": "Sipilou",
+      "reason": "same_assigned_language",
+      "claimants": [
+        "Guinea",
+        "Ivory Coast"
+      ],
+      "languages": [
+        "fr",
+        "fr"
+      ],
+      "claimant_count": 2,
+      "unique_language_count": 1,
+      "query_languages": [
+        "en",
+        "fr"
+      ]
+    },
+    {
+      "territory": "Southern Patagonian Ice Field",
+      "reason": "same_assigned_language",
+      "claimants": [
+        "Chile",
+        "Argentina"
+      ],
+      "languages": [
+        "es",
+        "es"
+      ],
+      "claimant_count": 2,
+      "unique_language_count": 1,
+      "query_languages": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "territory": "Swains Island",
+      "reason": "same_assigned_language",
+      "claimants": [
+        "United States",
+        "Tokelau"
+      ],
+      "languages": [
+        "en",
+        "en"
+      ],
+      "claimant_count": 2,
+      "unique_language_count": 1,
+      "query_languages": [
+        "en"
+      ]
+    },
+    {
+      "territory": "Tuffah",
+      "reason": "same_assigned_language",
+      "claimants": [
+        "Syria",
+        "Lebanon"
+      ],
+      "languages": [
+        "ar",
+        "ar"
+      ],
+      "claimant_count": 2,
+      "unique_language_count": 1,
+      "query_languages": [
+        "ar",
+        "en"
+      ]
+    },
+    {
+      "territory": "Ukatnyy",
+      "reason": "same_assigned_language",
+      "claimants": [
+        "Kazakhstan",
+        "Russia"
+      ],
+      "languages": [
+        "ru",
+        "ru"
+      ],
+      "claimant_count": 2,
+      "unique_language_count": 1,
+      "query_languages": [
+        "en",
+        "ru"
+      ]
+    },
+    {
+      "territory": "Umm al Maradim",
+      "reason": "same_assigned_language",
+      "claimants": [
+        "Kuwait",
+        "Saudi Arabia"
+      ],
+      "languages": [
+        "ar",
+        "ar"
+      ],
+      "claimant_count": 2,
+      "unique_language_count": 1,
+      "query_languages": [
+        "ar",
+        "en"
+      ]
+    },
+    {
+      "territory": "Wadi Halfa Salient",
+      "reason": "same_assigned_language",
+      "claimants": [
+        "Sudan",
+        "Egypt"
+      ],
+      "languages": [
+        "ar",
+        "ar"
+      ],
+      "claimant_count": 2,
+      "unique_language_count": 1,
+      "query_languages": [
+        "ar",
+        "en"
+      ]
+    },
+    {
+      "territory": "Wake Island",
+      "reason": "same_assigned_language",
+      "claimants": [
+        "Marshall Islands",
+        "United States"
+      ],
+      "languages": [
+        "en",
+        "en"
+      ],
+      "claimant_count": 2,
+      "unique_language_count": 1,
+      "query_languages": [
+        "en"
+      ]
+    },
+    {
+      "territory": "Zhestky",
+      "reason": "same_assigned_language",
+      "claimants": [
+        "Russia",
+        "Kazakhstan"
+      ],
+      "languages": [
+        "ru",
+        "ru"
+      ],
+      "claimant_count": 2,
+      "unique_language_count": 1,
+      "query_languages": [
+        "en",
+        "ru"
+      ]
+    }
+  ],
+  "missing_query_cases": [
+    {
+      "territory": "Minerva Reefs",
+      "claimants": [
+        "Fiji",
+        "Tonga"
+      ],
+      "languages": [
+        "en",
+        "to"
+      ],
+      "available_query_languages": [
+        "en"
+      ],
+      "missing_query_language": "to",
+      "raw_language_directory_exists": true,
+      "raw_article_files": [
+        {
+          "file": "to/Q2975.json",
+          "title": "Ongo Teleki",
+          "paragraph_count": 3
+        },
+        {
+          "file": "to/Q1603.json",
+          "title": "Fisi",
+          "paragraph_count": 4
+        },
+        {
+          "file": "to/Q1585.json",
+          "title": "Tonga",
+          "paragraph_count": 12
+        }
+      ],
+      "precomputed_to_directory_exists": false
+    },
+    {
+      "territory": "Tromelin Island",
+      "claimants": [
+        "Mauritius",
+        "France"
+      ],
+      "languages": [
+        "mfe",
+        "fr"
+      ],
+      "available_query_languages": [
+        "en",
+        "fr"
+      ],
+      "missing_query_language": "mfe",
+      "raw_language_directory_exists": false,
+      "metadata_ids": [],
+      "metadata_not_found": [
+        "France",
+        "Mauritius",
+        "Tromelin Island"
+      ],
+      "precomputed_mfe_directory_exists": false
+    }
+  ],
+  "multi_secondary_missing_query_cases": [
+    {
+      "territory": "Beyul Khenpajong",
+      "missing_languages": [
+        "dz"
+      ]
+    },
+    {
+      "territory": "Bhutanese exclaves",
+      "missing_languages": [
+        "dz"
+      ]
+    },
+    {
+      "territory": "Chagdzom",
+      "missing_languages": [
+        "dz"
+      ]
+    },
+    {
+      "territory": "Chagos Archipelago",
+      "missing_languages": [
+        "mfe"
+      ]
+    },
+    {
+      "territory": "Cherkip Gompa",
+      "missing_languages": [
+        "dz"
+      ]
+    },
+    {
+      "territory": "Darchen",
+      "missing_languages": [
+        "dz"
+      ]
+    },
+    {
+      "territory": "Doklam",
+      "missing_languages": [
+        "dz"
+      ]
+    },
+    {
+      "territory": "Dungmar",
+      "missing_languages": [
+        "dz"
+      ]
+    },
+    {
+      "territory": "Gesur",
+      "missing_languages": [
+        "dz"
+      ]
+    },
+    {
+      "territory": "Gezon",
+      "missing_languages": [
+        "dz"
+      ]
+    },
+    {
+      "territory": "Haa District",
+      "missing_languages": [
+        "dz"
+      ]
+    },
+    {
+      "territory": "Itse Gompa",
+      "missing_languages": [
+        "dz"
+      ]
+    },
+    {
+      "territory": "Khochar",
+      "missing_languages": [
+        "dz"
+      ]
+    },
+    {
+      "territory": "Kula Kangri",
+      "missing_languages": [
+        "dz"
+      ]
+    },
+    {
+      "territory": "Menchuma Valley",
+      "missing_languages": [
+        "dz"
+      ]
+    },
+    {
+      "territory": "Nyanri",
+      "missing_languages": [
+        "dz"
+      ]
+    },
+    {
+      "territory": "Ringung",
+      "missing_languages": [
+        "dz"
+      ]
+    },
+    {
+      "territory": "Sakteng Wildlife Sanctuary",
+      "missing_languages": [
+        "dz"
+      ]
+    },
+    {
+      "territory": "Sanmar",
+      "missing_languages": [
+        "dz"
+      ]
+    },
+    {
+      "territory": "Tibet",
+      "missing_languages": [
+        "dz"
+      ]
+    },
+    {
+      "territory": "Zuthulphuk",
+      "missing_languages": [
+        "dz"
+      ]
+    }
+  ]
+}
