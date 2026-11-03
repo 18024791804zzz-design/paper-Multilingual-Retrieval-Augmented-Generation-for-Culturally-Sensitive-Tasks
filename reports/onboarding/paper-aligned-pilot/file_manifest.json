@@ -1,0 +1,48 @@
+{
+  "files": [
+    {
+      "path": "MECHANISM_PLAN.md",
+      "bytes": 8632,
+      "sha256": "4f94e719c640b035bf19286a6d4123b947198d1173a82096246d2ac1a8c65ef8"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2313,
+      "sha256": "ad5f69fee76fa99fa133111d329162dfb1200cf08e9e0c2ddc46b2a1bda2799d"
+    },
+    {
+      "path": "RESULTS.md",
+      "bytes": 8131,
+      "sha256": "8e004af1394f7d10db8c3bfeadde215b7ce575c5b29cf4ff1fbddafa21c52069"
+    },
+    {
+      "path": "document_overlap_audit.json",
+      "bytes": 38891,
+      "sha256": "43ba6ad4be5043ce5357557c84c2d70f2b5a1e0a2ddad967dfc342cd3b37aead"
+    },
+    {
+      "path": "paper-aligned-pilot-results.zip",
+      "bytes": 2774377,
+      "sha256": "42c3f70639b8e377451ce1f393d0d3208ac0012e1f9976ce407a1e1a2a55268e"
+    },
+    {
+      "path": "questions_and_answers.csv",
+      "bytes": 286924,
+      "sha256": "99322834c32d9ce03738a922df9dc135c5353a6a687e38986c27797ad55df7d3"
+    },
+    {
+      "path": "summary.csv",
+      "bytes": 5459,
+      "sha256": "503d408319747429a1eaf06975b6551e4fa071eb7a028afe59a43bb4d3a6e1f3"
+    }
+  ],
+  "checks": {
+    "answers": 540,
+    "official_cs_passed": 18,
+    "archive_crc_passed": true,
+    "archive_matches_original": true,
+    "credential_pattern_scan_passed": true,
+    "qa_csv_roundtrip_exact": true
+  },
+  "note": "The new document-overlap audit and mechanism plan are adjacent to the original unchanged ZIP."
+}
