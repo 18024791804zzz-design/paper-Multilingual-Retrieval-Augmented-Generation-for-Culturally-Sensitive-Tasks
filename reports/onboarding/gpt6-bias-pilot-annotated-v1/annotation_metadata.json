@@ -1,0 +1,16 @@
+{
+  "annotator": "current_conversation_assistant",
+  "date": "2026-11-04",
+  "exact_model_snapshot": "not_independently_recorded",
+  "separate_API_model_calls": false,
+  "paid_API_calls": 0,
+  "protocol_file": "input_materials/UPLOAD_ONLY/01_INSTRUCTIONS.txt",
+  "prompt_sha256": "53b783d817577ccb4466c8ef1c295520fba64a5b19abcd587c490378e97b4cbe",
+  "blinding": "提交材料不含旧标签/Controller；当前对话曾讨论部分实例，因此不是独立盲标。",
+  "scope": "10领土120段目的性试标；排除声索方含PRC/ROC；不外推总体比例。",
+  "core_output": "labels.json中的类型::方向；中文理由和证据另存供核查。",
+  "original_text_modified": false,
+  "original_source_factuality_independently_verified": false,
+  "evidence_offsets": "未生成跨编码偏移；evidence_quote为原文逐字子串并已校验。",
+  "NONE_includes_irrelevant_background": true
+}
