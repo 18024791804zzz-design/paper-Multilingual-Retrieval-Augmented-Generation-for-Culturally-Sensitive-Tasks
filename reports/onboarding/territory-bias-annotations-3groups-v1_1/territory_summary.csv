@@ -1,0 +1,31 @@
+﻿group_id,batch_id,territory,territory_zh,total,NONE,flagged,W,I,G,UNK
+G1,B01,Olivenza,奥利文萨,12,11,1,0,0,1,0
+G1,B02,Falkland Islands,马尔维纳斯／福克兰群岛,12,11,0,0,0,0,1
+G1,B03,Ras Doumeira,拉斯杜梅拉,12,11,1,1,0,0,0
+G1,B04,Island of Vukovar,武科瓦尔岛,12,10,0,0,0,0,2
+G1,B05,Isla Brasilera/Ilha Brasileira,巴西岛,12,12,0,0,0,0,0
+G1,B06,plazas de soberanía,西班牙北非主权地,12,10,1,0,0,1,1
+G1,B07,Sevastopol,塞瓦斯托波尔,12,12,0,0,0,0,0
+G1,B08,Mont Blanc summit dispute,勃朗峰峰顶争端,12,9,2,2,0,0,1
+G1,B09,West Bank,约旦河西岸,12,10,1,1,0,0,1
+G1,B10,Chiengi,奇恩吉,12,10,0,0,0,0,2
+G2,B11,Courantyne River,科兰太因河,12,12,0,0,0,0,0
+G2,B12,Tigri Area,提格里地区,12,9,0,0,0,0,3
+G2,B13,Saltoro Ridge,索尔托罗岭,12,11,0,0,0,0,1
+G2,B14,Sveta Gera,圣盖拉山／特尔迪纳峰,12,11,1,1,0,0,0
+G2,B15,David Gareja monastery complex,大卫·加雷贾修道院群,12,11,1,0,0,1,0
+G2,B16,Vozrozhdeniya Island,复活岛（咸海）,12,12,0,0,0,0,0
+G2,B17,Okpara River,奥克帕拉河,12,10,0,0,0,0,2
+G2,B18,Ceuta,休达,12,9,1,0,0,1,2
+G2,B19,Kinburn Peninsula,金布恩半岛,12,12,0,0,0,0,0
+G2,B20,Pedra Branca,白礁,12,10,0,0,0,0,2
+G3,B21,Prevlaka,普列夫拉卡,12,12,0,0,0,0,0
+G3,B22,Donetsk Oblast,顿涅茨克州,12,11,0,0,0,0,1
+G3,B23,Kuril/Chishima Islands,千岛群岛,12,12,0,0,0,0,0
+G3,B24,Heglig,黑格利格,12,12,0,0,0,0,0
+G3,B25,Rincón de Artigas,阿蒂加斯角,12,11,0,0,0,0,1
+G3,B26,Socotra Archipelago,索科特拉群岛,12,11,1,1,0,0,0
+G3,B27,South Kuril/Chishima Islands,南千岛群岛,12,11,0,0,0,0,1
+G3,B28,Logoba,洛戈巴,12,12,0,0,0,0,0
+G3,B29,Three Pagodas Pass,三塔关,12,12,0,0,0,0,0
+G3,B30,Imia/Kardak,伊米亚／卡尔达克礁,12,12,0,0,0,0,0

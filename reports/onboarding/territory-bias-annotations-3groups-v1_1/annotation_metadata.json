@@ -1,0 +1,14 @@
+{
+  "annotator": "current_conversation_assistant",
+  "date": "2026-11-04",
+  "separate_API_model_calls": false,
+  "paid_API_calls": 0,
+  "exact_model_snapshot": "not_independently_recorded",
+  "independent_human_review_required": false,
+  "independent_gold_standard": false,
+  "group1": "Inherited v1.1 labels exactly; B10-D05 correction retained; other119 unchanged",
+  "groups2_and3": "Direct per-paragraph assistant annotation under existing W/I/G protocol; 13 UNK expanded to ±3; unchanged after recheck",
+  "blinding": "Input batches omit Controller/legacy viewpoint/rank/score. Current conversation has prior examples; no independent blind-study claim.",
+  "protocol_delta": "No automatic coercion-word rule; treat coercive historical wording symmetrically with revised group1. No protocol-v2 redesign applied.",
+  "context_warning": "Source context aids annotation; it is not guaranteed present in RAG prompts. This run does not test model output impact."
+}

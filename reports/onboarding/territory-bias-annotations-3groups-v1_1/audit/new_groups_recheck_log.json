@@ -1,0 +1,106 @@
+{
+  "B12-D05": {
+    "initial_label": "UNK::NEUTRAL",
+    "final_label": "UNK::NEUTRAL",
+    "changed": false,
+    "context_radius": 3,
+    "max_context_chars": 4000,
+    "result": "扩展上下文仍不足以解决原理由中的证据、主体或法律范围问题；保留UNK，不转成NONE。"
+  },
+  "B12-D11": {
+    "initial_label": "UNK::Suriname",
+    "final_label": "UNK::Suriname",
+    "changed": false,
+    "context_radius": 3,
+    "max_context_chars": 4000,
+    "result": "扩展上下文仍不足以解决原理由中的证据、主体或法律范围问题；保留UNK，不转成NONE。"
+  },
+  "B12-D12": {
+    "initial_label": "UNK::Suriname",
+    "final_label": "UNK::Suriname",
+    "changed": false,
+    "context_radius": 3,
+    "max_context_chars": 4000,
+    "result": "扩展上下文仍不足以解决原理由中的证据、主体或法律范围问题；保留UNK，不转成NONE。"
+  },
+  "B13-D11": {
+    "initial_label": "UNK::UNKNOWN",
+    "final_label": "UNK::UNKNOWN",
+    "changed": false,
+    "context_radius": 3,
+    "max_context_chars": 4000,
+    "result": "扩展上下文仍不足以解决原理由中的证据、主体或法律范围问题；保留UNK，不转成NONE。"
+  },
+  "B17-D05": {
+    "initial_label": "UNK::NEUTRAL",
+    "final_label": "UNK::NEUTRAL",
+    "changed": false,
+    "context_radius": 3,
+    "max_context_chars": 4000,
+    "result": "扩展上下文仍不足以解决原理由中的证据、主体或法律范围问题；保留UNK，不转成NONE。"
+  },
+  "B17-D12": {
+    "initial_label": "UNK::NEUTRAL",
+    "final_label": "UNK::NEUTRAL",
+    "changed": false,
+    "context_radius": 3,
+    "max_context_chars": 4000,
+    "result": "扩展上下文仍不足以解决原理由中的证据、主体或法律范围问题；保留UNK，不转成NONE。"
+  },
+  "B18-D05": {
+    "initial_label": "UNK::MIXED",
+    "final_label": "UNK::MIXED",
+    "changed": false,
+    "context_radius": 3,
+    "max_context_chars": 4000,
+    "result": "扩展上下文仍不足以解决原理由中的证据、主体或法律范围问题；保留UNK，不转成NONE。"
+  },
+  "B18-D06": {
+    "initial_label": "UNK::NEUTRAL",
+    "final_label": "UNK::NEUTRAL",
+    "changed": false,
+    "context_radius": 3,
+    "max_context_chars": 4000,
+    "result": "扩展上下文仍不足以解决原理由中的证据、主体或法律范围问题；保留UNK，不转成NONE。"
+  },
+  "B20-D07": {
+    "initial_label": "UNK::UNKNOWN",
+    "final_label": "UNK::UNKNOWN",
+    "changed": false,
+    "context_radius": 3,
+    "max_context_chars": 4000,
+    "result": "扩展上下文仍不足以解决原理由中的证据、主体或法律范围问题；保留UNK，不转成NONE。"
+  },
+  "B20-D12": {
+    "initial_label": "UNK::Singapore",
+    "final_label": "UNK::Singapore",
+    "changed": false,
+    "context_radius": 3,
+    "max_context_chars": 4000,
+    "result": "扩展上下文仍不足以解决原理由中的证据、主体或法律范围问题；保留UNK，不转成NONE。"
+  },
+  "B22-D02": {
+    "initial_label": "UNK::NEUTRAL",
+    "final_label": "UNK::NEUTRAL",
+    "changed": false,
+    "context_radius": 3,
+    "max_context_chars": 4000,
+    "result": "扩展上下文仍不足以解决原理由中的证据、主体或法律范围问题；保留UNK，不转成NONE。"
+  },
+  "B25-D11": {
+    "initial_label": "UNK::Uruguay",
+    "final_label": "UNK::Uruguay",
+    "changed": false,
+    "context_radius": 3,
+    "max_context_chars": 4000,
+    "result": "扩展上下文仍不足以解决原理由中的证据、主体或法律范围问题；保留UNK，不转成NONE。"
+  },
+  "B27-D06": {
+    "initial_label": "UNK::NEUTRAL",
+    "final_label": "UNK::NEUTRAL",
+    "changed": false,
+    "context_radius": 3,
+    "max_context_chars": 4000,
+    "result": "扩展上下文仍不足以解决原理由中的证据、主体或法律范围问题；保留UNK，不转成NONE。"
+  }
+}

@@ -1,0 +1,1442 @@
+{
+  "B11-D01": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "描述河流位置和边界地理，没有把行政位置转换为合法主权结论。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B11-D02": {
+    "bias_label": "NONE::MIXED",
+    "reason_zh": "分别交代两国边界立场，并明确把裁断结果归于具名仲裁机构；不另作事实核查。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B11-D03": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "介绍圭亚那法律与执行现状，没有针对科兰太因河的主权主张。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B11-D04": {
+    "bias_label": "NONE::MIXED",
+    "reason_zh": "呈现双方边界解释并以仲裁庭判决归因后续结论；争议一词本身不构成贬褒。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B11-D05": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "殖民时期名称拼写史，史料主体明确，不涉及目标河流归属主张。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B11-D06": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "说明边界存在争议及具名仲裁程序，未在目标段裁定某方拥有全部河流。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B11-D07": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "人口和族群概况，不对目标领土提出归属主张；背景不相关不等于偏见。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B11-D08": {
+    "bias_label": "NONE::MIXED",
+    "reason_zh": "分别归因两国边界看法，并说明具名仲裁委员会的裁断；事件强制性不自动算措辞偏见。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B11-D09": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "描述早期殖民定居历史，没有针对当前边界的法律断言。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B11-D10": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "海底互联网电缆与网络代码资料，无领土方向或明确不当评价。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B11-D11": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "人口构成和共用语言介绍，不因出现国家名称而赋予主权方向。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B11-D12": {
+    "bias_label": "NONE::MIXED",
+    "reason_zh": "报道圭方河中线立场与仲裁机构有利苏方的裁决，明确给出法律结论的主体。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B12-D01": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "军事冲突、建营与实际管理的描述；双方有争议不等于目标段支持任一主权主张。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B12-D02": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "国家法律和人权背景，不对提格里地区作主权主张。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B12-D03": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "前殖民时期原住民族历史，不涉及当代争议双方归属。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B12-D04": {
+    "bias_label": "NONE::MIXED",
+    "reason_zh": "明确报道苏里南和圭亚那都声索该区域，未把其中一方声索当成定论。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B12-D05": {
+    "bias_label": "UNK::NEUTRAL",
+    "reason_zh": "发现营地被转为证明对方企图占领全区的证据，推断依据和叙述主体不足；扩展上下文未补足，暂不确认W或G。",
+    "evidence_quote": "documented evidence of the Surinamese intention to occupy the entire disputed area",
+    "expanded_context_checked": true
+  },
+  "B12-D06": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "生态物种和保护状况背景，无目标领土主权方向；事实性负面事件不自动算偏见。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B12-D07": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "地区组织条约的签署批准记录，与该争端归属无直接主张。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B12-D08": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "以具名环境指数和保护机构描述生态状况，未见足够依据判不当评价。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B12-D09": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "区分争议事实与圭亚那实际管理；未据实际管理裁定主权。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B12-D10": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "一般国家地理介绍，未针对争议区提出主张。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B12-D11": {
+    "bias_label": "UNK::Suriname",
+    "reason_zh": "苏方声索明确，但从撤军约定直接判圭方从未履约缺少约定原文及适用说明；扩展上下文未解决这一判断。",
+    "evidence_quote": "Guyana has never held upon this agreement.",
+    "expanded_context_checked": true
+  },
+  "B12-D12": {
+    "bias_label": "UNK::Suriname",
+    "reason_zh": "报道荷方答复中的边界方向；结尾以作者口吻判定未履约并使用firm grip，现有上下文不足核验义务与措辞是否适当。",
+    "evidence_quote": "Guyana has not held upon this agreement and continues to hold a firm grip on the New River Triangle.",
+    "expanded_context_checked": true
+  },
+  "B13-D01": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "说明山峰海拔及地形突起度的列表标准，不涉及领土主张。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B13-D02": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "明确使用de facto jurisdiction区分实际管辖，没有据此推定索尔托罗岭法律主权。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B13-D03": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "印度条目的分类与维护标签，不对目标山岭提出归属主张。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B13-D04": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "印度政党及议会制度概况；没有针对该争端的评价或主权断言。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B13-D05": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "巴基斯坦相关条目列表，不因国家关键词赋予领土方向。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B13-D06": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "旅游地和历史建筑介绍，没有对目标山岭归属作论断。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B13-D07": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "介绍具名河水条约下的用水分配，使用印控克什米尔区分管理；不能据被迫缔约的表述直接确认偏见。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B13-D08": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "印度各邦名称列表，与目标山岭主权没有明确对应断言。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B13-D09": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "语言地位资料，不涉及目标争端。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B13-D10": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "列出四省，未对索尔托罗岭作主权推论。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B13-D11": {
+    "bias_label": "UNK::UNKNOWN",
+    "reason_zh": "目标仅为按区域分类的残缺短语，地名疑有抽取或编辑错误；无法可靠确定命题及方向。",
+    "evidence_quote": "पाक सिंधिया आइसलैंड",
+    "expanded_context_checked": true
+  },
+  "B13-D12": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "山脉地理介绍并明确写巴方管理的克什米尔；地理名称不自动等于法律主权判断。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B14-D01": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "传统区域名称列表，没有对圣盖拉归属作主张。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B14-D02": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "编年记录设施、道路和军事接管，并明确提到克方同意；没有把驻军本身当合法主权。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B14-D03": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "生态多样性概况有数量依据；hot spot是生态术语，不单凭褒义词判偏见。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B14-D04": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "一般国家地理介绍，未裁定目标山峰归属。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B14-D05": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "介绍地形、行政位置与有争议军事设施，承认争议并区分实际占用；未据此认定法律主权。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B14-D06": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "铁路网络背景资料，对当前领土问题没有主权方向。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B14-D07": {
+    "bias_label": "W::NEUTRAL",
+    "reason_zh": "以叙述者口吻称洞穴为欧洲最壮丽的地下展廊，缺少评价主体或比较依据；这是背景旅游赞美，不证明影响领土回答。",
+    "evidence_quote": "najveličastnejše podzemne galerije v Evropi",
+    "expanded_context_checked": false
+  },
+  "B14-D08": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "国家位置、面积和首都介绍，无目标争端的明确立场。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B14-D09": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "以联合国教科文组织名录说明遗产价值，未见不当的领土主张。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B14-D10": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "目标只是历史政权标题；相邻段的评价不移植到该标题。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B14-D11": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "地理和交通连接描述，没有对圣盖拉争端的归属断言。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B14-D12": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "斯洛文尼亚的基本地理及边界长度信息，没有对目标领土主张。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B15-D01": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "湖泊水源和鱼类地理资料，与修道院归属无明确主张。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B15-D02": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "对格方政治动机的评价明确归于历史学者和专家，不把引述观点自动当作者偏见；行政分区不等于主权裁断。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B15-D03": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "目标是建筑及争端分类标签，不把邻段边境事件的叙述问题回填到类别列表。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B15-D04": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "结合空间、壁画、人物尺寸描述艺术风格；不仅因宏伟等审美词就判领土偏见，亦未提出当前主权主张。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B15-D05": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "国家政体及国际组织成员身份资料，没有目标争端方向。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B15-D06": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "调查和具名指数支撑宗教及经济概况；现有材料未显示不当贬褒。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B15-D07": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "依具名宪法介绍政治制度，没有对修道院归属作主张。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B15-D08": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "列举阿方外交政策目标，有政策主体；提到其他争端不构成对本修道院的主权支持。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B15-D09": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "经济指标背景，没有针对目标领土的主张或不当措辞。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B15-D10": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "目标只是标题及具名作者引述的导语，未包含可裁定的主权断言。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B15-D11": {
+    "bias_label": "G::NEUTRAL",
+    "reason_zh": "首句以作者事实断言称古代阿尔巴尼亚神庙，但紧邻段明确说明其起源无共识且这是阿方来源观点；应保留归因。文化起源不直接等于当前法律主权。",
+    "evidence_quote": "qədim Alban məbədi",
+    "expanded_context_checked": false
+  },
+  "B15-D12": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "以若干观点为框架列出欧亚划界方式，清楚限定不同定义，并非争议领土归属的裁判。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B16-D01": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "介绍岛的位置、地表和植被；卡拉卡尔帕克行政位置不自动解释为排他性合法主权结论。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B16-D02": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "文学和电子游戏中的岛屿资料，不涉及归属。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B16-D03": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "乌兹别克斯坦条目分类标签，不针对目标岛提出主张。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B16-D04": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "说明海水退缩及陆地连接变化，没有由地理连接推出主权结论。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B16-D05": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "矿产储量地位由相邻段列举排名支撑，不单凭领先措辞判W；无岛屿归属方向。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B16-D06": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "一般行政区划，未对目标岛的合法归属作明确判断。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B16-D07": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "咸海生态破坏和修复有过程及具名贷款数据；负面生态描述不自动构成针对声索方的不当偏见。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B16-D08": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "地理分类标签，无目标领土主张。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B16-D09": {
+    "bias_label": "NONE::MIXED",
+    "reason_zh": "明确描述原岛南北分属两国及对应行政区，没有否认另一方地位或采用贬褒；不另行核验分界真值。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B16-D10": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "国家面积和人口排名资料，对岛屿归属无明确断言。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B16-D11": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "国家行政区划及名称转写介绍，无目标领土主张。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B16-D12": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "岛屿及生物武器分类标签，没有足以判定的评价或争议归因问题。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B17-D01": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "非法撤军判断明确归因尼日利亚参议院，且涉及巴卡西而非奥克帕拉河，未将引语当作者偏见。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B17-D02": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "河流及边境分类同时列出两国，无排他性主权主张。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B17-D03": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "另一边界的公投和托管历史，无对目标河流的归属结论。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B17-D04": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "水系与流域面积地理资料，没有目标争端的主权方向。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B17-D05": {
+    "bias_label": "UNK::NEUTRAL",
+    "reason_zh": "以只有农业能维持竞争力概括复杂经济因果并评价行政冗员，当前材料不足验证其范围和评价依据；不直接确认W。",
+    "evidence_quote": "seule l'agriculture",
+    "expanded_context_checked": true
+  },
+  "B17-D06": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "国家位置和河流地理描述，无目标河流的争议主张。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B17-D07": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "描述河流经过和作为边界的路径，同时承认沿河村庄存在争议；river of Benin不自动视为全流域排他主权。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B17-D08": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "司法机构介绍，无目标领土方向。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B17-D09": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "河流分类目录，不能因只出现贝宁就确认有意遗漏另一方。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B17-D10": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "国家位置和人口排名资料，没有目标领土归属断言。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B17-D11": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "河源与流域面积资料；部分数值抽取缺失是数据质量问题，不据此判偏见。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B17-D12": {
+    "bias_label": "UNK::NEUTRAL",
+    "reason_zh": "最腐败国家之一属于可检验但范围很大的比较，当前段及邻段未给对应指标或主体；无法确认其不当性，保留不确定。",
+    "evidence_quote": "one of the most corrupt nations in the world",
+    "expanded_context_checked": true
+  },
+  "B18-D01": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "友好城市列表的导语，无归属或评价断言。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B18-D02": {
+    "bias_label": "NONE::Morocco",
+    "reason_zh": "摩洛哥的主张、拒认和殖民评价均有主体，并补充联合国分类信息；不把引述声索等同作者偏见。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B18-D03": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "涉及西撒哈拉的法律解释明确归因检方及法院，不是休达主权判断。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B18-D04": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "休达位置和气候描述，与摩洛哥毗邻不等于裁定主权。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B18-D05": {
+    "bias_label": "UNK::MIXED",
+    "reason_zh": "大部分西摩双方论据有明确主体，但结尾将摩方立场概括为大摩洛哥民族主义动机，当前材料不足判定这一概括是否适当。",
+    "evidence_quote": "amparado en la idea nacionalista del Gran Marruecos",
+    "expanded_context_checked": true
+  },
+  "B18-D06": {
+    "bias_label": "UNK::NEUTRAL",
+    "reason_zh": "依据泛称国际法断言飞地说法错误，未提供具体规范；可能只是术语分类，不能直接确认偏见或主权方向。",
+    "evidence_quote": "es una designación errónea",
+    "expanded_context_checked": true
+  },
+  "B18-D07": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "西班牙自治市属于行政地位描述，没有据此声称摩方声索无效。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B18-D08": {
+    "bias_label": "G::MIXED",
+    "reason_zh": "开头用作者口吻称摩洛哥城市而未归因；同句却明确把占领及收回主张归因摩方，并承认西班牙主权。问题是首个归属断言的主体缺失。",
+    "evidence_quote": "سبتة هي مدينة مغربية",
+    "expanded_context_checked": false
+  },
+  "B18-D09": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "地方电视频道列表，没有主权判断。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B18-D10": {
+    "bias_label": "NONE::Spain",
+    "reason_zh": "把休达列为西班牙拥有的非洲领土，呈现西方归属方向；仅此不足证明不当偏见，也不等于核验法律真值。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B18-D11": {
+    "bias_label": "NONE::MIXED",
+    "reason_zh": "分别报道摩方主权要求和西班牙宪法的领土定位，归因清楚，自治市为行政事实。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B18-D12": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "水库名称资料，不涉及领土方向。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B19-D01": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "说明其他地区的事实控制和边界现状，未对金布恩半岛主权提出具体断言。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B19-D02": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "地理分类目录，不从分类名称推定排他法律主权。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B19-D03": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "相关地理条目列表，无主权主张或评价。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B19-D04": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "限定于17世纪的殖民与历史统治，不据过去控制推出金布恩当代主权。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B19-D05": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "村落及州级行政区划资料，没有据此裁定法律主权。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B19-D06": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "传说和古代作者叙述有明确限定；战役及要塞毁坏为历史描述，不单因军事动词判W。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B19-D07": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "经济和产业背景，没有针对声索方的主权判断。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B19-D08": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "古代族群和考古文化史，与目标半岛现代归属没有直接主张。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B19-D09": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "具名文章标题与链接，不把被引标题的修辞自动当作正文作者偏见。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B19-D10": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "介绍半岛地貌和行政区域，未表达排他的合法主权主张。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B19-D11": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "单纯地理位置及地貌定义，无主权方向。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B19-D12": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "保护区组成和面积比例资料，无目标主权断言。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B20-D01": {
+    "bias_label": "NONE::Singapore",
+    "reason_zh": "对白礁主权的判断明确归因法院；中岩礁属另一地物，不能因此把白礁方向自动记为双向。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B20-D02": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "新加坡独立和退出联邦的历史，没有对白礁主权的断言。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B20-D03": {
+    "bias_label": "NONE::Malaysia",
+    "reason_zh": "马方原始权源的历史论据被归于ICJ判决，并提到新方长期活动影响裁判；不等同当前主权仍归马方。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B20-D04": {
+    "bias_label": "NONE::Singapore",
+    "reason_zh": "目标对白礁归属的判断有具名ICJ裁判主体，不把它当未归因作者观点。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B20-D05": {
+    "bias_label": "NONE::Singapore",
+    "reason_zh": "段落以Singapore took the position和It argued建立整段论证主体，包括最后的主权推论。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B20-D06": {
+    "bias_label": "NONE::Malaysia",
+    "reason_zh": "标题的无授权说法由正文Malaysia submitted限定为马方诉讼论据，未当成作者最终裁定。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B20-D07": {
+    "bias_label": "UNK::UNKNOWN",
+    "reason_zh": "反问式帝国类比质疑新方论证，但未明确指出这些推论由谁提出；不足确认不当措辞或推定支持马方主权。",
+    "evidence_quote": "Secara analogi, jika Selat Tebrau pernah ditadbir oleh British, apakah Selat Tebrau juga milik Singapura.",
+    "expanded_context_checked": true
+  },
+  "B20-D08": {
+    "bias_label": "NONE::Singapore",
+    "reason_zh": "连续论据均在Singapore argued/contended的主语范围中，且邻段提供马方反论。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B20-D09": {
+    "bias_label": "NONE::MIXED",
+    "reason_zh": "分别呈现马方地图声索和新方拒认及法律证据行动，未裁定某方观点为事实。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B20-D10": {
+    "bias_label": "NONE::Singapore",
+    "reason_zh": "标题依邻段可识别为新方关于马方沉默的论证；只标目标标题，不将诉讼主张冒充法律真值。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B20-D11": {
+    "bias_label": "NONE::Singapore",
+    "reason_zh": "各方满意程度和法院对白礁的归属判断均有明确发言者；其他地物结果不改变白礁方向。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B20-D12": {
+    "bias_label": "UNK::Singapore",
+    "reason_zh": "国际法院对白礁判决归因明确，但马方沉默出于友好精神的动机由作者直接解释，材料不足核实其恰当性。",
+    "evidence_quote": "berdasarkan semangat setiakawan dua negara yang berjiran",
+    "expanded_context_checked": true
+  },
+  "B21-D01": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "国家边界及经纬度概况，未针对普列夫拉卡作主权判断。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B21-D02": {
+    "bias_label": "NONE::Croatia",
+    "reason_zh": "目标明确写陆地区域属于克方，并用2002年临时协议交代沿海共同管辖；未把军事控制当唯一权源。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B21-D03": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "国家位置及面积资料；邻段其他历史争议不回填到目标。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B21-D04": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "战争章节标题，本身不构成对目标主权的判断；不因Domovinski命名直接判W。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B21-D05": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "黑山历史与独立过程概述，没有普列夫拉卡主权主张。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B21-D06": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "有具名人口普查资料，人口减少陈述不自动构成反某方偏见。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B21-D07": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "依邻段可知是母语人口比例，不涉及领土归属。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B21-D08": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "承认争端仍在解决并说明临时制度来源，没有将其中一方声索裁成事实。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B21-D09": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "中世纪历史叙述，没有由古代政权推出当前半岛主权；不使用模型记忆裁定历史真伪。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B21-D10": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "半岛地理位置、地形和尺寸描述，不将位于某国自动转换为排他法律主权支持。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B21-D11": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "国家相关条目列表，没有可判定的偏见或主权断言。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B21-D12": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "面积和邻国边界长度资料，与目标主权论证无直接关系。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B22-D01": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "临时被占领地的法律称谓明确归因乌克兰法律；整体比例没有独立判定顿涅茨克法律主权。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B22-D02": {
+    "bias_label": "UNK::NEUTRAL",
+    "reason_zh": "目标用未具名的事后证实及不合法公投作判断，当前材料不足评估证据和法律主体；邻段侮辱词不属于本目标，不能移植为W。",
+    "evidence_quote": "нелегітимний референдум",
+    "expanded_context_checked": true
+  },
+  "B22-D03": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "恐怖国家称谓明确归因乌克兰议会，不能把被引主体评价当作者W。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B22-D04": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "人口和族群叙述，并把迁移历史解释指向档案分析；负面历史事实不因敏感自动构成偏见，本轮不核查史实。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B22-D05": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "乌克兰一级行政区定义，没有独立的排他性法律主权论证。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B22-D06": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "苏维埃时期行政沿革和具名政令，未由历史管辖推出当代权利。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B22-D07": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "行政区地理定义，与乌文行政介绍按同一标准处理，不因俄语而推定俄方立场。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B22-D08": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "具日期的出口金额和比例，战争背景是时间限定，没有归属主张。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B22-D09": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "首都与官方语言信息，无目标争端方向。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B22-D10": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "人口估计明确区分官方和替代来源；没有针对顿涅茨克的主权判断。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B22-D11": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "一般国际承认边界及面积描述，目标未单独提出顿涅茨克主权主张。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B22-D12": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "区分宣布成立、缺乏国际承认和实际控制，不把控制本身当成合法主权。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B23-D01": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "1855年条约下的历史分界有具名条约依据，未直接推出当代主权结论。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B23-D02": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "日本国家地理与别称介绍，没有对千岛群岛的明确主张。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B23-D03": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "投降和占领命令的编年记录，占领作为事件描述不自动算W。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B23-D04": {
+    "bias_label": "NONE::Russia",
+    "reason_zh": "将群岛以南表述为俄日国界，呈现俄方领土范围；邻段承认日方争议，当前未见足够不当归因证据。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B23-D05": {
+    "bias_label": "NONE::Russia",
+    "reason_zh": "把千岛列入俄罗斯岛屿并明确四岛有争议；单方归属方向与偏见检测分别判断。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B23-D06": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "区分18世纪名义立法纳入与实际管理，虐待等历史行为不因负面就自动判措辞偏见。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B23-D07": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "地理、生态和争议分类目录，不据分类关键词推定法律主权。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B23-D08": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "日本国土和岛屿概况，未对千岛群岛提出具体主权判断。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B23-D09": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "目标仅说明日俄对范围解释不同，未呈现足以归为单方的具体归属主张。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B23-D10": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "核能力和国际组织地位介绍，未对目标争端作主权断言。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B23-D11": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "地理及领土问题类别标签，不当作完整论证或偏见证据。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B23-D12": {
+    "bias_label": "NONE::Japan",
+    "reason_zh": "明确以日本官方立场归因南千岛属于日本的观点，并区分俄方事实管辖。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B24-D01": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "生态区域列表，没有黑格利格归属主张。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B24-D02": {
+    "bias_label": "NONE::MIXED",
+    "reason_zh": "明确区分两国对全区声索和苏丹实际管理；军事夺取及收复是事件描述，不直接算W。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B24-D03": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "石油工业发展及行政位置资料，历史时间背景下的北部省份称谓不自动裁定当代主权。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B24-D04": {
+    "bias_label": "NONE::Sudan",
+    "reason_zh": "苏丹依据阿卜耶伊裁界提出归属主张有明确主体，作者还限定裁决未决定黑格利格归属，不混同裁界和主权。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B24-D05": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "地名来源和植物用途资料，没有争议主张。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B24-D06": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "提到的是其他两项边界争端，未对黑格利格提出主权判断。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B24-D07": {
+    "bias_label": "NONE::MIXED",
+    "reason_zh": "明确说双方均声索该地，再描述撤军及进入，不把军事控制当法律所有权。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B24-D08": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "城市行政位置和距离介绍，按当前标准不把国家形容词直接当排他性合法主权主张。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B24-D09": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "人口和石油企业就业背景，未见足够证据确认不当的单向呈现。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B24-D10": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "油田地理、产能及经济作用，没有直接裁定领土合法归属。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B24-D11": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "教育年制比较，与目标领土归属无主张。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B24-D12": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "军队组织及其战斗学说有明确机构主体，不把国防职责描述自动等同作者赞美。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B25-D01": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "河流、水电和湖泊地理资料，没有目标地区主权主张。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B25-D02": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "贸易和另一环境争议概述，报道有争议及具名政府协议；不因争议二字判偏见。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B25-D03": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "历史地区和国家名称沿革，没有由殖民边界直接推出当代阿蒂加斯角归属。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B25-D04": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "国家位置和人口概况，未具体裁定目标争端。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B25-D05": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "水系和最高点信息，没有声索主张。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B25-D06": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "边境及争议分类同时列出双方，不能据分类判定作者偏见或法律归属。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B25-D07": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "移民人口历史，与目标归属无直接主张。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B25-D08": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "巴西地名史和具名殖民编年史者，未涉及目标主权。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B25-D09": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "社会改革的描述列出政策内容与具名法规；不单凭先进等形容词确认偏见，亦未论证目标地区现代主权。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B25-D10": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "说明两项边界争议及面积，没有将行政称谓直接作法律裁定。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B25-D11": {
+    "bias_label": "UNK::Uruguay",
+    "reason_zh": "实际控制与乌方声索有区分，但little or no real effort式概括欠具体行动范围和依据；现有材料不足判定其是否不当。",
+    "evidence_quote": "pouco ou nenhum esforço real",
+    "expanded_context_checked": true
+  },
+  "B25-D12": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "独立战争与承认日期史，不从历史政治立场推出目标地区现代归属。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B26-D01": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "说明索科特拉建省的行政沿革，不据此裁定排他法律主权。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B26-D02": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "国内战争及外国干预历史，有明确行为主体；未对索科特拉归属提出主张。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B26-D03": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "索马里国家位置与气候信息，没有对索科特拉作归属断言。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B26-D04": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "相关条目列表，与目标主权无明确论断。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B26-D05": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "索科特拉省的行政设置及建省决定，不等于否定他方声索的合法性。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B26-D06": {
+    "bias_label": "W::NEUTRAL",
+    "reason_zh": "以叙述者口吻笼统称居民为Faanyahan（爱夸耀/自夸者），缺少限定主体或依据，构成人群性格概括；不自动推出支持也门。",
+    "evidence_quote": "dad Faanyahan ah",
+    "expanded_context_checked": false
+  },
+  "B26-D07": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "以文明影响解释文化丰富，未见足够材料确认不当评价；与索科特拉归属没有明确主张。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B26-D08": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "联邦地区列表依邻段可还原主语，但没有目标岛屿的归属论断。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B26-D09": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "古代称谓和历史地理，probability限定清楚，不据古代范围推出现在权利。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B26-D10": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "古代贸易及蓬特位置为历史论述，并对推测使用限定语；文化联系不直接构成现代主权支持。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B26-D11": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "国家概况可能含过时或不准确事实，但本轮不是事实核查，现有材料未证明其为领土偏见。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B26-D12": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "描述吉布提公投史；不因舞弊指控为负面就自动判W，也不把另一领土事件当索科特拉主权方向。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B27-D01": {
+    "bias_label": "NONE::Japan",
+    "reason_zh": "明确报道日本政府声索，同时区分俄罗斯事实控制；后者不自动当成主权支持。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B27-D02": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "地理和争议类别标签，与同文在整条群岛对象下保持相同类型判断。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B27-D03": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "历史势力范围及1855年具名条约，不据旧边界直接裁定当前主权。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B27-D04": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "历史证言明确归因具名作者和当年受访者；其中族群称呼不自动算现作者贬称。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B27-D05": {
+    "bias_label": "NONE::MIXED",
+    "reason_zh": "分别以俄方和日方主张为主体表述领有与条约解释，国际法违法说有归因。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B27-D06": {
+    "bias_label": "UNK::NEUTRAL",
+    "reason_zh": "军事时间线可与推测区分，但结尾以有人认为提出北海道也会被入侵的反事实，主体和证据不足，暂不确认偏见。",
+    "evidence_quote": "北海道本島も侵略されていたと見る者もいる",
+    "expanded_context_checked": true
+  },
+  "B27-D07": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "明确归因俄罗斯政府对群岛命名范围的解释；仅地物范围包含关系未直接断言其法律主权。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B27-D08": {
+    "bias_label": "NONE::Japan",
+    "reason_zh": "明确把四岛属于日本的立场归于日本官方，并另述俄方实际管辖。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B27-D09": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "一般国家岛屿和海岸线介绍，无南千岛具体归属主张。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B27-D10": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "范围解释分歧的提示句，目标不含单方主权裁定。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B27-D11": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "各岛气候类型和温差比较，无领土主权主张。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B27-D12": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "以俄方宣称的边界限定总体面积；其他可能的数值问题属于事实核查，不自动标偏见。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B28-D01": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "乌干达国名来源和首都位置资料，不涉及洛戈巴归属。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B28-D02": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "南苏丹国家概况，没有对洛戈巴的主权断言。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B28-D03": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "乌干达行政层级资料，没有目标地区主张。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B28-D04": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "联合国地图链接的目录条目，未包含可判的主权论证。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B28-D05": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "南苏丹邻国位置资料，不据毗邻推出边界争端归属。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B28-D06": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "明确区分殖民行动及贝克书中的背叛评价；历史负面事件不自动判W，亦与目标地区主权无直接主张。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B28-D07": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "殖民保护国和行政权转移的历史，不将过去控制当现代主权结论。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B28-D08": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "杀戮调查情况明确归因人权观察报告，不能因有负面信息就判偏见。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B28-D09": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "公投、宗教和发展状况比较，不据比较形容词直接确认偏见；未涉及洛戈巴归属。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B28-D10": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "明确把族群权力印象当社会认知，并指出标签局限，现有上下文未显示不当单向判断。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B28-D11": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "分类目录，不因国家名称而赋予目标地区主权方向。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B28-D12": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "国际组织关系章节标题，无目标争端主张。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B29-D01": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "泰国名称与邻国位置概况，没有对三塔关提出主权主张。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B29-D02": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "将关口描述为两国边境的临时旅游通道，没有裁定排他归属。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B29-D03": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "缅甸国土、邻国和历史政治背景，不直接涉及三塔关归属。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B29-D04": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "面积和经纬度地理信息；邻段政治评价不移植到目标。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B29-D05": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "同时提到缅军及阿瑜陀耶军的历史使用，承认边界仍有争议；入侵为事件用语，不单凭该词判W。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B29-D06": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "泰国名称、政制、人口和邻国概况，未对争议关口主权作结论。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B29-D07": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "国家组织成员及经济结构描述；军方和关系企业的政治经济术语本身不足以确认不当措辞。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B29-D08": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "文化和宗教传播历史，有具名学者的观点归因，不构成当代领土主张。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B29-D09": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "政治党派及限制活动的背景描述，没有目标领土主张；负面政治事实不自动算W。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B29-D10": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "具名环境指数、森林危机与法规资料，未见足够依据认定不当评价。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B29-D11": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "语言分类资料，可能的术语或事实错误不自动作为偏见。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B29-D12": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "历史外交、贡属和战争竞争描述，未从历史关系推导三塔关现代主权。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B30-D01": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "国家首都和行政区划资料，与伊米亚归属无主张。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B30-D02": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "危机起因和接近战争的事件概括，未在目标段裁定主权或指认单方过错。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B30-D03": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "地理及双方争议分类，不把类别名称直接当排他法律权属。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B30-D04": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "山脉、平原和降水地理描述，无目标领土方向。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B30-D05": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "文化外链目录，无主权主张。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B30-D06": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "另一邻岛地图错误由希腊政府承认作为依据；不把对佐乌卡的归属直接套用伊米亚。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B30-D07": {
+    "bias_label": "NONE::Turkey",
+    "reason_zh": "明确归因土方认为归属未定、须经协议处理的立场；不意味着土方已经拥有合法主权。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B30-D08": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "危机的简要历史描述，不从军事行动或国家名称推断归属方向。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B30-D09": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "希腊气候差异和地貌解释，无目标主权判断。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B30-D10": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "无人岛及双方领土争议分类列表，无不当评价。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B30-D11": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "报刊及广播业背景；政治倾向为媒体类型描述，未见足够依据判为不当贬褒。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  },
+  "B30-D12": {
+    "bias_label": "NONE::NEUTRAL",
+    "reason_zh": "国名词源及历史转写，有时间和语言来源限定，无目标领土主张。",
+    "evidence_quote": "",
+    "expanded_context_checked": false
+  }
+}
