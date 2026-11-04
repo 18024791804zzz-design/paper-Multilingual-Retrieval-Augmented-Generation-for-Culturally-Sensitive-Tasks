@@ -1,0 +1,274 @@
+{
+  "protocol_version": "1.0",
+  "batch_id": "B08",
+  "territory": "Mont Blanc summit dispute",
+  "claimants": [
+    "France",
+    "Italy"
+  ],
+  "direction_basis": "explicit_sovereignty_claim",
+  "direction_definition": "判断段落明确表达或报道哪个声索方的主权/领土归属主张。仅说明实际管理而未表达主权主张，不据此推断法律主权；可用NEUTRAL。多方主张均实质呈现且无法归为单方用MIXED。",
+  "annotation_question": "Which claimant sovereignty/territorial position is asserted or reported in this paragraph about Mont Blanc summit dispute?",
+  "context_scope": "同一来源文章相邻±1段；单段上下文最多1200字符，截断已标记。不是全文、不是完整top-10，抽取文本可能缺少引用链接。",
+  "targets": [
+    {
+      "sample_id": "B08-D01",
+      "language": "fr",
+      "article_title": "France",
+      "text": "À partir de 1494, les souverains français mènent de multiples guerres en Italie, puis contre l'empereur Charles Quint. Néanmoins, les règnes de François  (1515-1547) et de son fils Henri II (1547-1559) sont surtout marqués par un renforcement du pouvoir royal, qui tend à devenir absolu, et par une Renaissance littéraire et artistique fortement influencée par l'Italie."
+    },
+    {
+      "sample_id": "B08-D02",
+      "language": "it",
+      "article_title": "Monte Bianco",
+      "text": "Le carte geografiche dell'I.G.N - (Institut Geographique National de France) mostrano la vetta del monte Bianco interamente in territorio francese, in netto contrasto con le carte geografiche dell'I.G.M - (Istituto Geografico Militare di Firenze), nelle quali il confine tra i due Stati passa esattamente sulla cima. Un trattato bilaterale concluso nel 1861, tuttora legalmente valido, indica inequivocabilmente la cima come frontaliera, cioè divisa a metà tra i due Stati. Il rapporto sulle deportazioni alla frontiera afferma che il confine corre lungo la linea di cresta del massiccio, vista dalla piazza della chiesa del paese di Courmayeur. Tuttavia, la vetta del Monte Bianco non è visibile da Courmayeur, perché troppo profonda; la linea di cresta corre più a est e più in basso, all'altezza del Monte Bianco di Courmayeur (da cui il nome). All'epoca, questo record fu mantenuto dalla Francia come base legale per il confine, sebbene nulla sia specificato nel trattato di annessione. Questo confine è ancora riportato sulle attuali carte IGN 1:25.000. La parte corrispondente al versante italiano è attribuita al comune di Saint-Gervais-les-Bains."
+    },
+    {
+      "sample_id": "B08-D03",
+      "language": "it",
+      "article_title": "Monte Bianco",
+      "text": "Nel 2002 i due enti cartografici menzionati, i rispettivi Club Alpini, le regioni frontaliere e gli Stati interessati hanno pubblicato una carta topografica condivisa. Questa nuova carta, parte del progetto Alpi senza frontiere, fa un passo avanti rispetto alle vecchie carte, ma manca ancora di chiarezza sulle vette contese e le crocette che segnano i confini appaiono volutamente distanziate, anche se le differenze con la carta \"I.G.N. top 25\" del 1998 sono evidenti. Nel settembre 2013 alcune guide francesi sbarrarono il passaggio alla vetta con un cancello che alcuni giorni dopo fu rimosso dagli italiani. "
+    },
+    {
+      "sample_id": "B08-D04",
+      "language": "it",
+      "article_title": "Italia",
+      "text": "LItalia (AFI: , ), ufficialmente Repubblica Italiana, è uno Stato membro dell'Unione europea, situato nell'Europa meridionale e occidentale, il cui territorio coincide in gran parte con l'omonima regione geografica. L'Italia è una repubblica parlamentare unitaria e conta una popolazione di circa 59 milioni di abitanti, che ne fanno il terzo Stato dell'Unione europea per numero di abitanti. La capitale è Roma."
+    },
+    {
+      "sample_id": "B08-D05",
+      "language": "it",
+      "article_title": "Monte Bianco",
+      "text": "Nella seconda metà del XIX secolo, su dei rilievi effettuati da un cartografo dell'esercito francese, il capitano J. J. Mieulet, venne pubblicata in Francia una carta topografica, che arbitrariamente inglobava la vetta in territorio francese, facendo fare al confine di stato una deviazione dalla linea spartiacque, e dando in questo modo origine alle differenze con le carte pubblicate in Italia nello stesso periodo, differenze che la cartografia ufficiale italiana sin dall'inizio mai riconobbe. Secondo gli autori di un libro apparso anni fa nelle librerie italiane e francesi, la carta topografica del 1865 è un clamoroso falso storico senza alcun valore giuridico, in contrasto con gli accordi sottoscritti tra i due Stati sin dal 1860 e ribaditi nel 1947."
+    },
+    {
+      "sample_id": "B08-D06",
+      "language": "fr",
+      "article_title": "Italie",
+      "text": "La péninsule se distingue par les œuvres littéraires de Pétrarque, Castiglione et Machiavel, les travaux d'artistes comme Michel-Ange et Léonard de Vinci et les grands travaux architecturaux, comme le Dôme de Florence et la basilique Saint-Pierre à Rome. La Renaissance italienne est aussi marquée par l'installation en France de financiers et d'artistes. Il en est ainsi des banques italiennes de Florence et Lucques, implantées à Lyon, comme la Banque Gadagne et les Capponi, qui fusionnent et prêtent aux souverains espagnols et français qui se combattent. Le banquier Albisse Del Bene, issu d'une famille d'exilés florentins, est munitionnaire des armées et contrôle la levée des impôts dans toutes les régions de France."
+    },
+    {
+      "sample_id": "B08-D07",
+      "language": "fr",
+      "article_title": "Mont Blanc",
+      "text": "Le mont Blanc est situé entre le Sud-Est de la France, dans la région Auvergne-Rhône-Alpes et le département de la Haute-Savoie, et le Nord-Ouest de l'Italie, dans la région à statut spécial de la Vallée d'Aoste. Le tracé exact de la frontière est l'objet d'une controverse. La montagne s'étend sur les territoires des communes de Chamonix-Mont-Blanc et de Courmayeur, son sommet est à environ dix kilomètres au sud du bourg de la première et à la même distance au nord-ouest du bourg de la seconde ; la partie revendiquée par la France au sud de la ligne de partage des eaux traversant le sommet constituerait une enclave de la commune de Saint-Gervais-les-Bains. Aoste est à  à l'est-sud-est, Genève à  au nord-ouest, Turin à plus de cent kilomètres au sud-est, Grenoble à  et Lyon à plus de  à l'ouest."
+    },
+    {
+      "sample_id": "B08-D08",
+      "language": "it",
+      "article_title": "Monte Bianco",
+      "text": "Storia \nUn antico documento curato in latino risalente al 1091 parla di una Rupes che a Chamonix veniva chiamata Alba e Rupes Alba è stato un toponimo del monte Bianco, che variò molte volte nel corso dei secoli. Si ha infatti notizia della denominazione di Says o Scez Blans nel 1319; nel 1532 di Mont Sainct Bernard; Glaciales Montes nel 1581; Mont Malay, Mont Malet o Montagne Maudite tra il 1606 e il 1743, ma anche La Glacière, Les Glacières o Les Glassières tra 1741 e il 1743. Ben visibile da Ginevra, in questa città era conosciuto sia come Montagne Maudite sia con il nome di Mont Maudit e con tale nome fu indicato su una carta geografica riguardante i territori intorno al lago Lemano, pubblicata ad Amsterdam nel 1606 a opera del cartografo ginevrino Jacques Goulart (1580-1622), mentre il nome attuale in francese apparve per la prima volta in Inghilterra nel 1744 su una carta geografica edita a Londra. A quei tempi l'intero massiccio era situato nel mezzo dei possedimenti di terraferma del Regno di Sardegna e i sovrani di Casa Savoia, futuri re d'Italia, per secoli ne erano stati i legittimi proprietari fino alla cessione della Savoia alla Francia nel 1861."
+    },
+    {
+      "sample_id": "B08-D09",
+      "language": "fr",
+      "article_title": "Mont Blanc",
+      "text": "Selon qu'on consulte une carte éditée en France ou en Italie, on ne lit pas le même tracé de la frontière au sommet du mont Blanc : sur les cartes italiennes, le sommet est un point de la ligne séparant les deux États, et est donc binational ; en revanche, les cartes françaises font apparaître une bande de terre française approximativement triangulaire qui pointe vers le sud au niveau du mont Blanc : selon ces cartes, le sommet du massif serait donc entièrement en France, la frontière passant par le mont Blanc de Courmayeur. Les cartes nationales suisses, couvrant aussi tout le massif, montrent de manière neutre les deux territoires contestés autour du mont Blanc ainsi qu'autour du dôme du Goûter (ceci après avoir suivi les conventions françaises jusqu'en 2018). Les tenants et aboutissants de cette situation sont liés à l'existence d'une frontière à travers le massif qui remonte à l'annexion de la Savoie par la France, donc à 1860, régie par le traité de Turin et ses protocoles annexes. La « carte au 1/ de la frontière de la Savoie depuis le mont Grapillon, du côté suisse, jusqu’au mont Thabor où la limite de la Savoie rejoint la frontière de la France » annexée à la convention de Turin (annexe III) fait clairement passer la frontière par la calotte sommitale du mont Blanc. Très tôt néanmoins, à partir de 1865, les cartes françaises présentent une nouvelle version du tracé : la carte topographique d'état-major du capitaine Jean-Joseph Mieulet fait en effet apparaître le triangle de terres françaises qui figure jusqu'à aujourd'hui sur les cartes éditées du côté français. Les cartes italiennes, notamment l'Atlas sarde de 1869 font, elles, état du tracé passant par le sommet."
+    },
+    {
+      "sample_id": "B08-D10",
+      "language": "fr",
+      "article_title": "Mont Blanc",
+      "text": "En , deux jeunes alpinistes, Jean Vincendon, un jeune parisien de , et François Henry, un jeune belge de , ont comme projet l'ascension hivernale du mont Blanc par l'éperon de la Brenva. Ils ont bien préparé leur expédition mais ils vont se heurter à une succession de malchances et de mauvais choix qui leur seront fatals, d'autant plus que la période de mauvais temps prolongée est exceptionnelle. Ils partent le . Au début de leur montée, les conditions météo se détériorent et les alpinistes décident de renoncer, lorsqu'ils croisent sur les pentes un de leurs héros, l'Italien Walter Bonatti. Cette rencontre va les inciter à reprendre leur ascension, mais la tempête qui s'installe les bloque sur un sérac en bordure du Grand Plateau."
+    },
+    {
+      "sample_id": "B08-D11",
+      "language": "fr",
+      "article_title": "Mont Blanc",
+      "text": "Le site du massif du Mont-Blanc fait l'objet d'un projet de classement sur la liste du patrimoine mondial de l'Unesco en tant que « site exceptionnel unique au monde » et en tant que haut lieu culturel, lieu de naissance et symbole de l'alpinisme. Ce projet n'est pas partagé par tous et devrait faire l'objet de demandes conjointes des trois gouvernements français, italien et suisse."
+    },
+    {
+      "sample_id": "B08-D12",
+      "language": "fr",
+      "article_title": "Mont Blanc",
+      "text": "Côté français, un arrêté du  partage le secteur du dôme du Goûter et du mont Blanc entre les trois communes de Saint-Gervais-les-Bains, Les Houches et Chamonix-Mont-Blanc. Cet arrêté adopte l'interprétation du tracé frontalier des cartes d'état-major françaises et divise d'ailleurs le triangle litigieux au sud du mont Blanc entre les deux communes de Chamonix et de Saint-Gervais. Des pièces analysées par un érudit italien montrent que la préparation de cet arrêté a été étudiée jusqu'au niveau ministériel (une note datée du  et établie par le ministère des Affaires étrangères français y a été consacrée)."
+    }
+  ],
+  "context": {
+    "B08-D01": [
+      {
+        "context_id": "fr/1095_p67",
+        "relative_position": -1,
+        "text": "De la Renaissance à la monarchie absolue () ",
+        "truncated": false,
+        "original_characters": 44
+      },
+      {
+        "context_id": "fr/1095_p69",
+        "relative_position": 1,
+        "text": "En 1539, l'ordonnance de Villers-Cotterêts fait du français la langue administrative et judiciaire du royaume. Toutefois, l'unité de la France autour de la personne du roi est bousculée dans la deuxième moitié du  par le problème religieux : entre 1562 et 1598, huit guerres de religion se succèdent entre catholiques et calvinistes. Cette crise religieuse se double d'une crise économique et surtout politique. En 1598, le roi Henri IV (1589-1610) met fin aux guerres de religion par l'édit de Nantes, qui donne une liberté de culte partielle aux protestants.",
+        "truncated": false,
+        "original_characters": 560
+      }
+    ],
+    "B08-D02": [
+      {
+        "context_id": "it/19908_p22",
+        "relative_position": -1,
+        "text": "Le disparità cartografiche ",
+        "truncated": false,
+        "original_characters": 27
+      },
+      {
+        "context_id": "it/19908_p24",
+        "relative_position": 1,
+        "text": "Tale trattato fu sospeso durante tutta la durata della seconda guerra mondiale. Il 10 febbraio 1947, con il Trattato di Parigi, le autorità francesi decisero di mettere fine alla sospensione. La Convenzione di delimitazione, dopo diversi cambiamenti, fu allora rimessa in vigore. Sul vecchio tracciato stabilito nel 1861 le autorità transalpine pretesero quattro rettificazioni.",
+        "truncated": false,
+        "original_characters": 378
+      }
+    ],
+    "B08-D03": [
+      {
+        "context_id": "it/19908_p26",
+        "relative_position": -1,
+        "text": "Nella seconda metà del XIX secolo, su dei rilievi effettuati da un cartografo dell'esercito francese, il capitano J. J. Mieulet, venne pubblicata in Francia una carta topografica, che arbitrariamente inglobava la vetta in territorio francese, facendo fare al confine di stato una deviazione dalla linea spartiacque, e dando in questo modo origine alle differenze con le carte pubblicate in Italia nello stesso periodo, differenze che la cartografia ufficiale italiana sin dall'inizio mai riconobbe. Secondo gli autori di un libro apparso anni fa nelle librerie italiane e francesi, la carta topografica del 1865 è un clamoroso falso storico senza alcun valore giuridico, in contrasto con gli accordi sottoscritti tra i due Stati sin dal 1860 e ribaditi nel 1947.",
+        "truncated": false,
+        "original_characters": 762
+      },
+      {
+        "context_id": "it/19908_p28",
+        "relative_position": 1,
+        "text": "Dal 2017 Google Earth utilizza le cartografie dell'I.G.M. e della NATO. Quest'ultima riprende i dati da quelli italiani dell'I.G.M., basati sui passati trattati ufficiali in vigore ed è essenziale a livello militare internazionale in caso di un'eventuale disputa. Il territorio che va dal rifugio Torino sino alla vetta più alta del massiccio del monte Bianco è sotto il controllo delle autorità italiane. Con gli attuali sconvolgimenti climatici, la Protezione civile italiana ha evidenziato la necessità di un chiarimento tra le due amministrazioni in modo da evitare fraintendimenti sulle competenze riguardanti la sorveglianza del ghiacciaio sulla displuviale le cui acque, in caso di scioglimento, coinvolgerebbero totalmente il territorio italiano.",
+        "truncated": false,
+        "original_characters": 754
+      }
+    ],
+    "B08-D04": [
+      {
+        "context_id": "it/2340360_p1",
+        "relative_position": 1,
+        "text": "Delimitata dall'arco alpino, l'Italia confina a nord, da ovest a est, con Francia, Svizzera, Austria e Slovenia; la penisola italiana si protende nel mar Mediterraneo, circondata dai mari Ligure, Tirreno, Ionio e Adriatico, e da numerose isole (le maggiori sono Sicilia e Sardegna), per un totale di . Gli Stati della Città del Vaticano e di San Marino sono enclavi della Repubblica, mentre Campione d'Italia è un'exclave della Repubblica Italiana e un'enclave della Confederazione Svizzera.",
+        "truncated": false,
+        "original_characters": 491
+      }
+    ],
+    "B08-D05": [
+      {
+        "context_id": "it/19908_p25",
+        "relative_position": -1,
+        "text": "La più importante di queste riguardava la valle del Roia, Briga Marittima, Tenda, e tre minori: una sul versante italiano del Colle del Monginevro, un'altra sul Colle del Moncenisio, e poi sul Piccolo San Bernardo. Sulla vetta del monte Bianco la frontiera non subì nessun cambiamento. ",
+        "truncated": false,
+        "original_characters": 286
+      },
+      {
+        "context_id": "it/19908_p27",
+        "relative_position": 1,
+        "text": "Nel 2002 i due enti cartografici menzionati, i rispettivi Club Alpini, le regioni frontaliere e gli Stati interessati hanno pubblicato una carta topografica condivisa. Questa nuova carta, parte del progetto Alpi senza frontiere, fa un passo avanti rispetto alle vecchie carte, ma manca ancora di chiarezza sulle vette contese e le crocette che segnano i confini appaiono volutamente distanziate, anche se le differenze con la carta \"I.G.N. top 25\" del 1998 sono evidenti. Nel settembre 2013 alcune guide francesi sbarrarono il passaggio alla vetta con un cancello che alcuni giorni dopo fu rimosso dagli italiani. ",
+        "truncated": false,
+        "original_characters": 614
+      }
+    ],
+    "B08-D06": [
+      {
+        "context_id": "fr/1492_p18",
+        "relative_position": -1,
+        "text": "La Renaissance italienne, qui culmine au , prend racine en Toscane (Italie centrale), concentrée autour de Florence et Sienne. Elle a des répercussions importantes à Venise puis se diffuse à Rome, où fleurit une architecture à la mode antique.",
+        "truncated": false,
+        "original_characters": 243
+      },
+      {
+        "context_id": "fr/1492_p20",
+        "relative_position": 1,
+        "text": "Du , c'est la Renaissance en Italie avec des artistes tels que Michel-Ange ou Raphaël, et des scientifiques comme Galilée qui font littéralement  l'art et la science, d'abord dans la péninsule puis dans l'Europe tout entière. À l'époque de Léonard de Vinci, l'Italie reste très morcelée sur le plan politique. Elle est constituée d'une mosaïque de principautés (duchés, cités-États…). Les princes italiens organisent chacun leur propre cour et se livrent souvent à des guerres sanglantes avec de multiples interventions extérieures, notamment de la France et de l'Espagne (guerres d'Italie). Les guerres incessantes du  dues aux ingérences des grands états européens ainsi que la montée en puissance de l'Autriche et des principautés allemandes expliquent en partie le déclin des principautés italiennes du .",
+        "truncated": false,
+        "original_characters": 808
+      }
+    ],
+    "B08-D07": [
+      {
+        "context_id": "fr/6845_p5",
+        "relative_position": -1,
+        "text": "L'oronyme de la montagne devient « mont Blanc » sur les croquis dressées en 1742 par le naturaliste genevois Pierre Martel. Le Dictionnaire historique et géographique portatif de l'Italie, paru en 1775 à Paris, possède d'ailleurs une entrée pour le mont Blanc précisant les différentes appellations avec en premier nom « Monte Maledetto, Mont Maudit, ou Mont Blanc, appelé aussi les Glacières ». Un des sommets du massif, le mont Maudit, conserve cette dénomination. La première carte à proprement parler à faire figurer le nom du mont Blanc est celle de Suisse établie par le Britannique William Faden en 1778.",
+        "truncated": false,
+        "original_characters": 611
+      },
+      {
+        "context_id": "fr/6845_p7",
+        "relative_position": 1,
+        "text": "Le sommet s'élève à  au cœur du massif du Mont-Blanc et constitue le point culminant de la chaîne des Alpes. C'est également le plus haut sommet d'Europe de l'Ouest, ce qui lui vaut le surnom de « toit de l'Europe ». Cependant, si l'on considère que ce continent s'étend jusqu'au Caucase, alors cinq sommets principaux  le dépassent au nord ou sur la ligne principale de partage des eaux entre les territoires russes et géorgiens : l'Elbrouz qui culmine à , le Dykh-Taou à , le Chkhara à , le Kochtan-Taou à  et le mont Kazbek à . Par sa hauteur de culminance de  par rapport au canal Volga-Baltique à  d'altitude en Russie, il arrive juste derrière l'Elbrouz () en Europe et en  mondiale des sommets ultra-proéminents.",
+        "truncated": false,
+        "original_characters": 719
+      }
+    ],
+    "B08-D08": [
+      {
+        "context_id": "it/19908_p20",
+        "relative_position": -1,
+        "text": "Talvolta si può osservare il volo circolare dell'avvoltoio degli agnelli, il gipeto estinto sull'arco alpino all'inizio del XX secolo e reintrodotto di recente. Sono presenti anche il fagiano di monte, il francolino di monte (nella Savoia e nel Vallese, ma non più nella Valle d'Aosta) e il corvo imperiale. Poche sono invece le specie di rettili e si trovano comunque a quote relativamente basse, tra questi la natrice dal collare, mentre dove il terreno è pietroso e soleggiato si può incontrare l'aspide.",
+        "truncated": false,
+        "original_characters": 507
+      },
+      {
+        "context_id": "it/19908_p22",
+        "relative_position": 1,
+        "text": "Le disparità cartografiche ",
+        "truncated": false,
+        "original_characters": 27
+      }
+    ],
+    "B08-D09": [
+      {
+        "context_id": "fr/6845_p47",
+        "relative_position": -1,
+        "text": "Tracé de la frontière ",
+        "truncated": false,
+        "original_characters": 22
+      },
+      {
+        "context_id": "fr/6845_p49",
+        "relative_position": 1,
+        "text": "Côté français, un arrêté du  partage le secteur du dôme du Goûter et du mont Blanc entre les trois communes de Saint-Gervais-les-Bains, Les Houches et Chamonix-Mont-Blanc. Cet arrêté adopte l'interprétation du tracé frontalier des cartes d'état-major françaises et divise d'ailleurs le triangle litigieux au sud du mont Blanc entre les deux communes de Chamonix et de Saint-Gervais. Des pièces analysées par un érudit italien montrent que la préparation de cet arrêté a été étudiée jusqu'au niveau ministériel (une note datée du  et établie par le ministère des Affaires étrangères français y a été consacrée).",
+        "truncated": false,
+        "original_characters": 610
+      }
+    ],
+    "B08-D10": [
+      {
+        "context_id": "fr/6845_p59",
+        "relative_position": -1,
+        "text": "Naufragés de 1956 et création du peloton de gendarmerie de haute montagne ",
+        "truncated": false,
+        "original_characters": 74
+      },
+      {
+        "context_id": "fr/6845_p61",
+        "relative_position": 1,
+        "text": "Un long calvaire de cinq jours commence pour les deux jeunes alpinistes, suivis aux jumelles depuis le sommet du Brévent et à la longue-vue depuis Chamonix. Plus de deux cents journalistes accourent de France et de Belgique pour couvrir l'événement. Les professionnels de la montagne déclarent le  : . Lionel Terray organise une caravane de secours sans l'accord des guides de Chamonix. Cependant, profitant d'une brève accalmie, un hélicoptère Sikorsky S-58 de l'armée française, avec deux pilotes et deux sauveteurs secouristes, tente de les sauver mais s'écrase. Lionel Terray choisit de secourir en priorité l'équipage de l'hélicoptère vers le refuge Vallot. Avant de partir, il transfère les deux jeunes alpinistes dans la carlingue de l'appareil, leur donne de la nourriture et de la benzédrine pour les aider à ne pas s'endormir. Mais la tempête s'installe et toute nouvelle expédition est rendue impossible. De leur côté, les autorités rechignent à engager des moyens militaires importants pour sauver les deux jeunes imprudents alors que le contingent est engagé dans la guerre d'Algérie. Le , les autorités déclarent la fin des opérations de secours. Cette affaire vaudra à Lionel Terray so",
+        "truncated": true,
+        "original_characters": 1294
+      }
+    ],
+    "B08-D11": [
+      {
+        "context_id": "fr/6845_p78",
+        "relative_position": -1,
+        "text": "Protection environnementale ",
+        "truncated": false,
+        "original_characters": 28
+      },
+      {
+        "context_id": "fr/6845_p80",
+        "relative_position": 1,
+        "text": "Le seuil de surfréquentation du mont Blanc est atteint, avec 300 à 400 départs par jour en été. Lors du sommet du Conseil national de la montagne qui s'est tenu à Sallanches, fin , il a été estimé que  à  se sont lancées en 2005 à la conquête du mont Blanc. Avec l'ouverture des nouveaux marchés (Russie, Chine, Inde), ce sont  à  qui pourraient demain tenter l'aventure, le chiffre de  ayant même été avancé. Ces perspectives sont cauchemardesques pour les défenseurs du site et pour certains responsables politiques de la vallée, comme le maire de Saint-Gervais-les-Bains, commune sur laquelle se situe le mont Blanc. Lors de l'été 2003, avec la sécheresse et une fréquentation accrue du site, plusieurs dizaines de tonnes de détritus et déchets divers ont été laissées par les alpinistes qui campaient dans le secteur du refuge du Goûter. L'association Pro-mont Blanc a édité en 2002 le livre Le versant noir du mont Blanc qui expose les problèmes actuels et futurs qui se posent pour conserver le site en l'état.",
+        "truncated": false,
+        "original_characters": 1016
+      }
+    ],
+    "B08-D12": [
+      {
+        "context_id": "fr/6845_p48",
+        "relative_position": -1,
+        "text": "Selon qu'on consulte une carte éditée en France ou en Italie, on ne lit pas le même tracé de la frontière au sommet du mont Blanc : sur les cartes italiennes, le sommet est un point de la ligne séparant les deux États, et est donc binational ; en revanche, les cartes françaises font apparaître une bande de terre française approximativement triangulaire qui pointe vers le sud au niveau du mont Blanc : selon ces cartes, le sommet du massif serait donc entièrement en France, la frontière passant par le mont Blanc de Courmayeur. Les cartes nationales suisses, couvrant aussi tout le massif, montrent de manière neutre les deux territoires contestés autour du mont Blanc ainsi qu'autour du dôme du Goûter (ceci après avoir suivi les conventions françaises jusqu'en 2018). Les tenants et aboutissants de cette situation sont liés à l'existence d'une frontière à travers le massif qui remonte à l'annexion de la Savoie par la France, donc à 1860, régie par le traité de Turin et ses protocoles annexes. La « carte au 1/ de la frontière de la Savoie depuis le mont Grapillon, du côté suisse, jusqu’au mont Thabor où la limite de la Savoie rejoint la frontière de la France » annexée à la convention de ",
+        "truncated": true,
+        "original_characters": 1701
+      },
+      {
+        "context_id": "fr/6845_p50",
+        "relative_position": 1,
+        "text": "Sur la fin du , la question est évoquée à plusieurs reprises dans des articles ou ouvrages érudits, particulièrement du côté italien, qui soutiennent que le tracé figurant sur les cartes françaises est sans fondement juridique. La question ayant attiré la curiosité du grand public (elle est même relayée officiellement par le député du Val d'Aoste Luciano Caveri dans une question à la chambre), les autorités italiennes font valoir en 1995 leur position aux autorités françaises par un mémoire, à l'occasion des travaux d'une commission chargée de fournir un tracé plus précis de la frontière. La France s'étant abstenue d'y répondre et le gouvernement italien n'ayant pas appuyé avec véhémence sa revendication, la situation perdure aujourd'hui encore et ne semble pas définitivement tranchée par la présentation de pièces nouvelles.",
+        "truncated": false,
+        "original_characters": 836
+      }
+    ]
+  }
+}

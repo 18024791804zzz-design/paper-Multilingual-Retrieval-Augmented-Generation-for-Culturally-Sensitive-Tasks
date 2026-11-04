@@ -1,0 +1,253 @@
+{
+  "protocol_version": "1.0",
+  "batch_id": "B04",
+  "territory": "Island of Vukovar",
+  "claimants": [
+    "Croatia",
+    "Serbia"
+  ],
+  "direction_basis": "explicit_sovereignty_claim",
+  "direction_definition": "判断段落明确表达或报道哪个声索方的主权/领土归属主张。仅说明实际管理而未表达主权主张，不据此推断法律主权；可用NEUTRAL。多方主张均实质呈现且无法归为单方用MIXED。",
+  "annotation_question": "Which claimant sovereignty/territorial position is asserted or reported in this paragraph about Island of Vukovar?",
+  "context_scope": "同一来源文章相邻±1段；单段上下文最多1200字符，截断已标记。不是全文、不是完整top-10，抽取文本可能缺少引用链接。",
+  "targets": [
+    {
+      "sample_id": "B04-D01",
+      "language": "hr",
+      "article_title": "Hrvatska",
+      "text": " Početna stranica HR\n Hrvatski web-katalog\n Hrvatska: zemlja i ljudi"
+    },
+    {
+      "sample_id": "B04-D02",
+      "language": "hr",
+      "article_title": "Hrvatska",
+      "text": "Temelji hrvatske države nalaze se u razdoblju ranog srednjeg vijeka kada su Hrvati osnovali svoje dvije kneževine: Panonsku i Primorsku Hrvatsku. Potom pod vladarskom dinastijom Trpimirović Hrvatska postaje jedinstvena kneževina, a 7. lipnja 876. godine za vrijeme vladavine kneza Branimira prvi put i nezavisna država. Godine 925. pod vodstvom kralja Tomislava Hrvatska postaje kraljevina. Posljednji hrvatski kralj bio je Petar Snačić, a nakon njega Hrvatska je ušla u personalnu uniju s Ugarskom na temelju ugovora poznata kao Pacta conventa sklopljena 1102. godine. Tim je ugovorom Hrvatska zadržala sve značajke države, jedino je kralj bio zajednički. Godine 1527., zbog Osmanlijskog napada na Hrvatsku, na hrvatsko prijestolje dolazi dinastija Habsburg. Tijekom Habsburške vladavine Hrvatska je također zadržala sve državnopravne značajke što se najviše ogleda Pragmatičkom sankcijom iz 1712. godine te Hrvatsko-ugarskom nagodbom iz 1868. godine."
+    },
+    {
+      "sample_id": "B04-D03",
+      "language": "sr",
+      "article_title": "Вуковарска ада",
+      "text": "Географија \nВуковарска ада налази се са источне стране Дунава. Од српске обале дели је узак канал ширине 20-30 метара, док је најмања удаљеност до обале Хрватске најмање 250 метара. Облик острва подсећа на бумеранг окренут врхом према Хрватској. Дужина острва је око 3,8 километара, а максимална ширина приближно 600 метара. Острво је богато пошумљено. Површина се протеже на око 32 хиљаде квадратних метара, у зависности од водостаја Дунава. Пешчана плажа је уређена за купаче."
+    },
+    {
+      "sample_id": "B04-D04",
+      "language": "hr",
+      "article_title": "Vukovarska ada",
+      "text": "Godine 1998. mirovnim sporazumom Baranja, Istočna Slavonija i zapadni Srijem su vraćeni Hrvatskoj, ali Srbija odbija vratiti Vukovarsku adu koja ostaje pod vojnom okupacijom. Pod okupacijom SR Jugoslavije ostaju i još neki otoci na lijevoj obali Dunava poput Šarengradske ade."
+    },
+    {
+      "sample_id": "B04-D05",
+      "language": "sr",
+      "article_title": "Хрватска",
+      "text": "Јадрански обални део се састоји углавном од крашких предела и има медитеранску климу. Јадранска обала Хрватске је изузетно разуђена. Хрватској припада 1246 острва, од којих је 47 насељено. Ширина обалског дела значајно варира. Док је на неким местима широка тек неколико километара (испод Велебита и Биокова), на неким местима залази дубље у копно. Велики део хрватских река које се уливају у Јадранско море је кратко, а једини изузетак је Неретва."
+    },
+    {
+      "sample_id": "B04-D06",
+      "language": "sr",
+      "article_title": "Вуковарска ада",
+      "text": "Острва на Дунаву\nСпорне територије\nВуковар"
+    },
+    {
+      "sample_id": "B04-D07",
+      "language": "hr",
+      "article_title": "Hrvatska",
+      "text": "U Hrvatskoj je autohtoni jezik hrvatski jezik te jezik predmletačkih autohtonih romanskih stanovnika poluotoka Istre (istriotski)."
+    },
+    {
+      "sample_id": "B04-D08",
+      "language": "sr",
+      "article_title": "Вуковарска ада",
+      "text": "Вуковарска ада је речно острво на Дунаву које се налази у близини Вуковара. Територија је под спором између Хрватске и Србије."
+    },
+    {
+      "sample_id": "B04-D09",
+      "language": "hr",
+      "article_title": "Vukovarska ada",
+      "text": "Kao što ime govori, nalazi se nedaleko Vukovara. Za vrijeme SFR Jugoslavije, ovaj se otok nalazio u sastavu SR Hrvatske. Tijekom Domovinskog rata JNA je osvojila ovaj otok te ga do daljnjega drži pod okupacijom."
+    },
+    {
+      "sample_id": "B04-D10",
+      "language": "sr",
+      "article_title": "Хрватска",
+      "text": "Хрвати су на подручје данашње Републике Хрватске стигли у 6. вијеку. Током 8. и 9. вијека међу словенским кнежевинама које су постојале на подручју Балкана и Панонске низије била је и кнежевина Хрватска, а њен први краљ краљ најкасније 925. године постао је Томислав (око 914-926). Краљевина Хрватска је постојала скоро два вијека, достигавши свој врхунац током власти Петра Крешимира IV и Дмитра Звонимира. Хрватска је ушла у персоналну унију са Угарском 1102. године. Године 1527, суочена са османским освајањима, Цетински сабор је поставио Фердинанда I на хрватски пријесто. Током раног 19. вијека, дио земље који је освојила Француска је постао Илирске провинције, док је остатак у саставу Аустрије постао Краљевина Хрватска и Краљевина Славонија. Након завршетка Првог свјетског рата, 1918. године простор данашње Хрватске се налазио у саставу непризнате Државе Словенаца, Хрвата и Срба која се издвојила из Аустроугарске и затим се са Србијом ујединила у Краљевство Срба, Хрвата и Словенаца. Квислиншка Независна Држава Хрватска, која је настала уз подршку фашистичке Италија и нацистичке Њемачке, постојала је током Другог свјетског рата. Послије рата, Хрватска је постала конститутивна република Федеративне Народне Републике Југославије, уставно била је социјалистичка држава. Хрватска је 25. јуна 1991. године прогласила независност од СФРЈ, која је ступила на снагу 8. октобра исте године. Након отцјепљења отпочео је Рат у Хрватској, који је трајао четири године."
+    },
+    {
+      "sample_id": "B04-D11",
+      "language": "sr",
+      "article_title": "Србија",
+      "text": "Србија, званично Република Србија, суверена је држава која се налази на раскрсници путева средње и југоисточне Европе у јужном делу Панонске низије и центру Балканског полуострва. Већим делом захвата Балканско полуострво, а мањим Панонску низију. Србија се на северу граничи са Мађарском, на североистоку са Румунијом, на истоку са Бугарском, на југу са Северном Македонијом, на југозападу са Албанијом и Црном Гором, а на западу са Босном и Херцеговином (ентитетом Република Српска) и Хрватском. Србија броји око 9 милиона становника, односно око 7 милиона без Косова и Метохије. Главни град је Београд, који спада међу најстарије и највеће градове у југоисточној Европи. Са 1.659.440 становника у широј околини, по попису из 2011. године, он је административно и економско средиште државе. Званични језик је српски, а званична валута српски динар."
+    },
+    {
+      "sample_id": "B04-D12",
+      "language": "hr",
+      "article_title": "Vukovarska ada",
+      "text": "Vukovarska ada je hrvatski riječni otok na Dunavu, na dijelu gdje ova rijeka čini granicu s Vojvodinom, odnosno sa Srbijom."
+    }
+  ],
+  "context": {
+    "B04-D01": [
+      {
+        "context_id": "hr/7_p124",
+        "relative_position": -1,
+        "text": " Zanimljivosti \n Hrvatski nacionalni cvijet je perunika. Na prijedlog HAZU 2000. godine na izložbi cvijeća Japan Flora promoviran je kao hrvatski nacionalni cvijet, glede činjenice da u Hrvatskoj raste dvanaest samoniklih vrsta perunike: hrvatska perunika (Iris croatica), patuljasta jadranska perunika (Iris adriatica), ilirska perunika (Iris illyrica), jadranska perunika (Iris pseudopallida'') i druge.",
+        "truncated": false,
+        "original_characters": 405
+      },
+      {
+        "context_id": "hr/7_p126",
+        "relative_position": 1,
+        "text": " Hrvatska enciklopedija \n Opća i nacionalna enciklopedija",
+        "truncated": false,
+        "original_characters": 57
+      }
+    ],
+    "B04-D02": [
+      {
+        "context_id": "hr/7_p0",
+        "relative_position": -1,
+        "text": "Hrvatska (službeni naziv: Republika Hrvatska) europska je država, u geopolitičkom smislu srednjoeuropska i sredozemna država, a zemljopisno smještena u južnome dijelu srednje Europe te u sjevernom dijelu Sredozemlja. Na sjeveru graniči sa Slovenijom i Mađarskom, na istoku sa Srbijom i Bosnom i Hercegovinom, na jugu s Crnom Gorom, a na zapadu s Italijom ima morsku granicu. Kopnena površina iznosi 56 594 km², a površina obalnog mora 31 067 km² što Hrvatsku svrstava među srednje velike europske zemlje. Glavni je grad Zagreb koji je političko, kulturno, znanstveno i gospodarsko središte Republike Hrvatske. Tijekom hrvatske povijesti najznačajniji kulturološki utjecaji dolazili su iz srednjoeuropskoga i sredozemnoga kulturnog kruga.",
+        "truncated": false,
+        "original_characters": 737
+      },
+      {
+        "context_id": "hr/7_p2",
+        "relative_position": 1,
+        "text": "Pri kraju Prvoga svjetskog rata, 1918. godine, Hrvatska raskida veze s Austro-Ugarskom i sudjeluje u osnivanju Države SHS. Nedugo zatim Hrvatska je (u sklopu Države SHS) uključena u Kraljevstvo SHS (kasnije Kraljevina Jugoslavija) iako Hrvatski sabor tu odluku nije nikada ratificirao. Nakon Drugoga svjetskog rata, 1945. godine, režim srpskog kralja zamijenio je komunistički režim. Tada je Hrvatska bila socijalistička republika i kao federalna jedinica tvorila SFR Jugoslaviju. Godine 1990. provedeni su prvi demokratski višestranački izbori nakon 45 godina jednostranačkog sustava, a 30. svibnja iste godine konstituiran je demokratski izabran višestranački državni sabor u Hrvatskoj. Dana 25. lipnja 1991. godine Republika Hrvatska ustavnom odlukom državnog sabora postala je samostalnom i nezavisnom državom.",
+        "truncated": false,
+        "original_characters": 814
+      }
+    ],
+    "B04-D03": [
+      {
+        "context_id": "sr/4162643_p0",
+        "relative_position": -1,
+        "text": "Вуковарска ада је речно острво на Дунаву које се налази у близини Вуковара. Територија је под спором између Хрватске и Србије.",
+        "truncated": false,
+        "original_characters": 126
+      },
+      {
+        "context_id": "sr/4162643_p2",
+        "relative_position": 1,
+        "text": "Оспорена гранична линија \nТоком 1991. године проглашена је аутономна област Славонија, Барања и Западни Срем, чији је главни град био Вуковар. Наредне године, недуго пре распада Социјалистичке Федеративне Републике Југославије, ушла је у састав Републике Српске Крајине. Рат у Хрватској, који је трајао све време до 1995. окончан је Ердутским споразумом. Читаво подручје је 1998. интегрисано у састав Републике Хрватске.",
+        "truncated": false,
+        "original_characters": 420
+      }
+    ],
+    "B04-D04": [
+      {
+        "context_id": "hr/126772_p2",
+        "relative_position": -1,
+        "text": "Godine 1992. Hrvatska postaje neovisna. Odlukom Badinterove komisije republičke granice postaju državne tako da Vukovarska ada postaje i službeno hrvatski otok pod srpskom okupacijom.",
+        "truncated": false,
+        "original_characters": 183
+      },
+      {
+        "context_id": "hr/126772_p4",
+        "relative_position": 1,
+        "text": "Godine 2004. Srbija povlači vojsku s Vukovarske ade, no i dalje je prisutna policija Srbije na tom teritoriju. Hrvatski državljani ne mogu pristupiti svojim posjedima na Vukovarskoj adi.",
+        "truncated": false,
+        "original_characters": 186
+      }
+    ],
+    "B04-D05": [
+      {
+        "context_id": "sr/111_p38",
+        "relative_position": -1,
+        "text": "Динарске планине спадају у ред средњих планина по висини и граница су између Јадранског и Црноморског слива. Овај део укључује брдски део Горског Котара од Ријеке до Карловца, долине Лику и Крбаву између планине Велебит и босанско-херцеговачке границе, као и планине Далмације (Динара (1.831 -{m}-), Камешница (1.809 -{m}-), Биоково (1.762 -{m}-) и Свилаја (1.508 -{m}-)).",
+        "truncated": false,
+        "original_characters": 372
+      },
+      {
+        "context_id": "sr/111_p40",
+        "relative_position": 1,
+        "text": "Историјски се обални део може поделити у три региона:\n Истра - полуострво на северозападу Хрватске\n Хрватско Приморје - између Ријеке и Сења са Кварнерским острвима.\n Далмација - разуђена обала Јадранског мора јужно од околине Задра, са бројним острвима и брдским залеђем и историјски важним градовима као што су Шибеник, Сплит и Дубровник.",
+        "truncated": false,
+        "original_characters": 340
+      }
+    ],
+    "B04-D06": [
+      {
+        "context_id": "sr/4162643_p5",
+        "relative_position": -1,
+        "text": "Вуковарска ада је у наредном периоду постала значајно туристичко место у летњем периоду за људе са обе стране Дунава. Међутим, спор по питању власништва два речна острва остао је на снази и током следеће деценије. Статус Шаренградске и Вуковарске аде означен је као највећа препрека на путу ка решењу проблема. И док је Хрватска инсистирала на катастарским књигама, Србија се позивала на Закон о установљењу и устројству Војводине из 1945. године. Као крајња могућност више пута је напомињана међународна арбитража.",
+        "truncated": false,
+        "original_characters": 515
+      }
+    ],
+    "B04-D07": [
+      {
+        "context_id": "hr/7_p95",
+        "relative_position": -1,
+        "text": "Jezici \nU Hrvatskoj je službeni jezik hrvatski, koji je materinski za 95 % stanovnika. Na području Istarske županije službeni je i talijanski jezik koji je 2011. godine bio materinski jezik za 18 573 stanovnika. Manjinski jezici u Hrvatskoj zaštićeni su međunarodnim sporazumima i ugovorima, ustavom, ustavnim zakonom i drugim zakonima.",
+        "truncated": false,
+        "original_characters": 336
+      },
+      {
+        "context_id": "hr/7_p97",
+        "relative_position": 1,
+        "text": "Značajniji su manjinski jezici albanski, bošnjački, bugarski, crnogorski, češki, hebrejski, mađarski, makedonski, njemački, poljski, romski, rumunjski, ruski, rusinski, slovački, slovenski, srpski, talijanski, turski, ukrajinski i vlaški.",
+        "truncated": false,
+        "original_characters": 238
+      }
+    ],
+    "B04-D08": [
+      {
+        "context_id": "sr/4162643_p1",
+        "relative_position": 1,
+        "text": "Географија \nВуковарска ада налази се са источне стране Дунава. Од српске обале дели је узак канал ширине 20-30 метара, док је најмања удаљеност до обале Хрватске најмање 250 метара. Облик острва подсећа на бумеранг окренут врхом према Хрватској. Дужина острва је око 3,8 километара, а максимална ширина приближно 600 метара. Острво је богато пошумљено. Површина се протеже на око 32 хиљаде квадратних метара, у зависности од водостаја Дунава. Пешчана плажа је уређена за купаче.",
+        "truncated": false,
+        "original_characters": 478
+      }
+    ],
+    "B04-D09": [
+      {
+        "context_id": "hr/126772_p0",
+        "relative_position": -1,
+        "text": "Vukovarska ada je hrvatski riječni otok na Dunavu, na dijelu gdje ova rijeka čini granicu s Vojvodinom, odnosno sa Srbijom.",
+        "truncated": false,
+        "original_characters": 123
+      },
+      {
+        "context_id": "hr/126772_p2",
+        "relative_position": 1,
+        "text": "Godine 1992. Hrvatska postaje neovisna. Odlukom Badinterove komisije republičke granice postaju državne tako da Vukovarska ada postaje i službeno hrvatski otok pod srpskom okupacijom.",
+        "truncated": false,
+        "original_characters": 183
+      }
+    ],
+    "B04-D10": [
+      {
+        "context_id": "sr/111_p0",
+        "relative_position": -1,
+        "text": "Хрватска (), званично Република Хрватска (), унитарна је парламентарна република на раскршћу средње и југоисточне Европе, са излазом на Јадранско море. Главни град је Загреб, који чини једну од примарних подјела земље, заједно са још двадесет жупанија. Хрватска заузима површину од 56.594 km² и има 3,87 милиона становника. На сјеверу граничи са Словенијом и Мађарском, на истоку са Србијом, на југу и истоку с Босном и Херцеговином и Црном Гором, док с Италијом има морску границу.",
+        "truncated": false,
+        "original_characters": 482
+      },
+      {
+        "context_id": "sr/111_p2",
+        "relative_position": 1,
+        "text": "Хрватска је развијена земља са високим животним стандардом. Она је у међународним односима средња сила, чланица је Европске уније, Еврозоне, Организације уједињених нација, Савјета Европе, Организације Сјеверноатлантског споразума, Свјетске трговинске организације, Шенгенске зоне и оснивач је Уније за Медитеран. Активан је учесник у мировним снагама ОУН, учествовала је у мисији НАТО-а у Авганистану и била је нестална чланица Савјета безбједности ОУН у периоду 2008—2009. Од 2009, интензивно је инвестира у инфраструктуру, нарочито у транспортне путеве и објекте дуж Паневропских коридора.",
+        "truncated": false,
+        "original_characters": 592
+      }
+    ],
+    "B04-D11": [
+      {
+        "context_id": "sr/1517_p1",
+        "relative_position": 1,
+        "text": "Након словенског досељавања на Балкан (током 6. и 7. века), Срби су у раном средњем веку основали неколико држава. Средњовековна Србија је 1217. године постала краљевина, а врхунац је достигла 1346. године, проглашењем царства. Након турске најезде, Српска деспотовина је опстала до 1459. године, када је потпала под власт Османског царства. До средине 16. века, целокупно подручје данашње Србије потпало је под османску власт. Крајем 17. и почетком 18. века, Хабзбуршка монархија је потиснула турску власт из Бачке, Срема и Баната, а привремено и из централне Србије. Почетком 19. века, Српска револуција успоставила је националну државу као прву уставну монархију у региону, која је 1878. године стекла државну независност, а 1882. године је постала краљевина. Ослобођење Старе Србије (Рашка, Косово и Метохија) остварено је 1912. године.",
+        "truncated": false,
+        "original_characters": 840
+      }
+    ],
+    "B04-D12": [
+      {
+        "context_id": "hr/126772_p1",
+        "relative_position": 1,
+        "text": "Kao što ime govori, nalazi se nedaleko Vukovara. Za vrijeme SFR Jugoslavije, ovaj se otok nalazio u sastavu SR Hrvatske. Tijekom Domovinskog rata JNA je osvojila ovaj otok te ga do daljnjega drži pod okupacijom.",
+        "truncated": false,
+        "original_characters": 211
+      }
+    ]
+  }
+}

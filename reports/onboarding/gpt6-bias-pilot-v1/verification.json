@@ -1,0 +1,12 @@
+{
+  "material_selfcheck": "passed",
+  "valid_120_labels": "passed",
+  "UNK_context_preparation": "passed",
+  "UNK_only_merge": "passed",
+  "invalid_and_duplicate_cases_rejected": 6,
+  "model_inference_performed": false,
+  "synthetic_labels_are_not_experimental_results": true,
+  "largest_batch_characters": 27486,
+  "largest_batch_file": "UPLOAD_ONLY/B08_Mont_Blanc.txt",
+  "fixture_directory": "/workspace/bias-pilot-kit/bias-pilot-validation-tjc_arwz"
+}

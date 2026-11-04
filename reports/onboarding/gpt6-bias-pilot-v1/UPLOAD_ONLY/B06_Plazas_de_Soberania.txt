@@ -1,0 +1,274 @@
+{
+  "protocol_version": "1.0",
+  "batch_id": "B06",
+  "territory": "plazas de soberanía",
+  "claimants": [
+    "Morocco",
+    "Spain"
+  ],
+  "direction_basis": "explicit_sovereignty_claim",
+  "direction_definition": "判断段落明确表达或报道哪个声索方的主权/领土归属主张。仅说明实际管理而未表达主权主张，不据此推断法律主权；可用NEUTRAL。多方主张均实质呈现且无法归为单方用MIXED。",
+  "annotation_question": "Which claimant sovereignty/territorial position is asserted or reported in this paragraph about plazas de soberanía?",
+  "context_scope": "同一来源文章相邻±1段；单段上下文最多1200字符，截断已标记。不是全文、不是完整top-10，抽取文本可能缺少引用链接。",
+  "targets": [
+    {
+      "sample_id": "B06-D01",
+      "language": "ar",
+      "article_title": "المغرب",
+      "text": "المغرب فعال على المستوى المغاربي، في العالم العربي، وفي الشؤون الأفريقية. هناك قدر كبير من العلاقات المميَّزة مع بلدان غرب أفريقيا وفي هذا الصدد تقدمت المملكة المغربية بطلب الانضمام إلى المجموعة الاقتصادية لدول غرب أفريقيا سنة 2017. كما أن للمملكة المغربية أيضًا روابط وثيقة وطويلة الأمد مع الولايات المتحدة، إذ تُعَد المملكة أول دولة بالعالم اعترفت باستقلال الولايات المتحدة، وتُعتبر المفوضية الأميركية في طنجة أول الممتلكات الأجنبية التي اشتُريت من قبل حكومة الولايات المتحدة، كما تُعَد معاهدة الصداقة المغربية الأمريكية التي أبرِمت في ديسمبر من سنة 1777 من أقدم المعاهدات المستمرة حتى اليوم."
+    },
+    {
+      "sample_id": "B06-D02",
+      "language": "ar",
+      "article_title": "المغرب",
+      "text": "حسب الحكومة المغربية والجهات المساندة لها فإن إسبانيا تَحتل مدينتي سبتة ومليلية بالإضافة إلى بعض الجُزر، ويسبب هذا النزاع أزمة في العلاقات بين البلدين من حين لآخر. كما كان المغرب قد طالب بمنطقة تندوف بعد استقلال الجزائر، ودخل في مناوشات حدودية مع هذه الأخيرة عُرفت بحرب الرمال سنة 1963 لاسترداد هذا الإقليم الذي بقي تحت السيطرة الجزائرية؛ هناك اتفاقية متعلقة برسم الحدود بين البلدين تم توقيعها بين الطرفين في 15 يونيو 1972، وصادق عليها البرلمان المغربي سنة 1992."
+    },
+    {
+      "sample_id": "B06-D03",
+      "language": "es",
+      "article_title": "Marruecos",
+      "text": "Minas \nEl suelo del sureste de Marruecos es rico en minerales valiosos: manganeso, barita, hierro oligístico, cobalto, sal, zinc, plomo, pirofilita, plata y oro. La región de Drâa-Tafilalet concentra por sí sola el 40% de los permisos de minería de Marruecos. Las condiciones de trabajo de los mineros suelen ser muy duras. La legislación es poco protectora y las empresas del sector multiplican los subterfugios para eludir las disposiciones favorables a los trabajadores. La legislación marroquí ha sido criticada por la Organización Internacional del Trabajo. En una misma explotación minera trabajan muchos subcontratistas. Además, para evitar pagar las enfermedades profesionales de sus empleados, las empresas subcontratistas pueden recurrir a los despidos. Los sindicatos y los mineros en huelga pueden estar expuestos a presiones."
+    },
+    {
+      "sample_id": "B06-D04",
+      "language": "es",
+      "article_title": "Plazas de soberanía",
+      "text": "Los territorios norteafricanos de España son reclamados por movimientos irredentistas marroquíes como parte del Gran Marruecos, pero España nunca ha negociado su soberanía puesto que son parte integrante del territorio español."
+    },
+    {
+      "sample_id": "B06-D05",
+      "language": "ar",
+      "article_title": "بلاثاس دي سوبيرانيا",
+      "text": "وتعتبر السيادة الإسبانية على «مواقع السيادة» مصدر توتر في العلاقات المغربية الإسبانية بحكم اعتبارها أراض سيادية كذلك بالنسبة للمغرب."
+    },
+    {
+      "sample_id": "B06-D06",
+      "language": "es",
+      "article_title": "España",
+      "text": "España se sitúa principalmente en el suroeste de Europa, así como también posee territorios en el norte de África. En Europa, ocupa la mayor parte de la península ibérica, conocida como España peninsular, y las islas Baleares (en el mar Mediterráneo); en África se hallan las ciudades de Ceuta y Melilla, las islas Canarias (en el océano Atlántico) y varias posesiones mediterráneas denominadas «plazas de soberanía». El municipio de Llivia, en los Pirineos, constituye un exclave rodeado totalmente por territorio francés. Completa el conjunto de territorios una serie de islas e islotes frente a las propias costas peninsulares. Tiene una extensión de 505370km², por lo que es el cuarto país más extenso del continente, y con una altitud media de  sobre el nivel del mar, uno de los países más montañosos de Europa. Su población supera los 47millones de habitantes, aunque la densidad de población es reducida. Concretamente, la población durante 2021 se redujo en 65688 habitantes, llegando hasta los , tras cuatro años de subida. El territorio peninsular comparte fronteras terrestres con Francia y con Andorra al norte, con Portugal al oeste y con Gibraltar al sur. En sus territorios africanos, comparte fronteras terrestres y marítimas con Marruecos. Comparte con Francia la soberanía sobre la isla de los Faisanes en la desembocadura del río Bidasoa y cinco facerías pirenaicas."
+    },
+    {
+      "sample_id": "B06-D07",
+      "language": "es",
+      "article_title": "Plazas de soberanía",
+      "text": "Históricamente, las plazas de soberanía eran cinco, supervivientes de las antiguas plazas fuertes de África, subdivididas habitualmente entre las ya citadas plazas mayores —Ceuta y Melilla— y las denominadas plazas menores: las islas Chafarinas, las islas Alhucemas y el peñón de Vélez de la Gomera."
+    },
+    {
+      "sample_id": "B06-D08",
+      "language": "ar",
+      "article_title": "إسبانيا",
+      "text": "يطالب المغرب بمدينتي سبتة ومليلية وبلاثاس دي سوبيرانيا قبالة الساحل الشمالي لأفريقيا. لا تعترف البرتغال بسيادة إسبانيا على منطقة أولايفينزا."
+    },
+    {
+      "sample_id": "B06-D09",
+      "language": "es",
+      "article_title": "España",
+      "text": "España es miembro de la Unión Europea desde el 1 de enero de 1986. Desde entonces, una parte importante de su política exterior se articula a través de los mecanismos europeos junto a sus socios comunitarios, hasta el punto de que el Gobierno de España considera al espacio territorial de la UE «su marco natural de desarrollo político y económico». El otro pilar fundamental de la acción exterior española es Iberoamérica, región de proyección exterior preferente para el país por sus profundos vínculos históricos de carácter cultural y económico. En este sentido, España ha tratado de ampliar sus lazos con los países de la región, especialmente en materia de cooperación política o empresarial y erigirse en puente entre Latinoamérica y Europa. Otro foco de actuación de su diplomacia ha sido históricamente el Magreb, con Marruecos y Argelia ocupando una posición preponderante en las prioridades de la política exterior española por su carácter estratégico."
+    },
+    {
+      "sample_id": "B06-D10",
+      "language": "es",
+      "article_title": "Plazas de soberanía",
+      "text": "Las plazas de soberanía se sitúan en el norte de África, ribereñas del mar Mediterráneo. Solo el peñón de Vélez de la Gomera tiene frontera terrestre con Marruecos, aunque originalmente era una isla, pero debido a un terremoto que tuvo lugar en 1930, el islote resultó unido de forma permanente a tierra firme."
+    },
+    {
+      "sample_id": "B06-D11",
+      "language": "ar",
+      "article_title": "إسبانيا",
+      "text": "وقد تكون التسمية أيضاً اشتقاقاً من إسبانية البونيقية والتي تعني «أرض الأرانب» أو «الحافة»، في إشارة إلى موقع إسبانيا على الطرف الغربي للبحر الأبيض المتوسط؛ تظهر النقود الرومانية في المنطقة من عهد هادريان شخصية أنثى وأرنب عند قدميها."
+    },
+    {
+      "sample_id": "B06-D12",
+      "language": "es",
+      "article_title": "Plazas de soberanía",
+      "text": "Plazas de soberanía es el término histórico con el que se denominan desde el  a los territorios españoles situados en el norte de África, en contraposición a las áreas que constituían el protectorado español de Marruecos. En la actualidad, esta nomenclatura sigue utilizándose para la identificación de las islas y peñones frente a la costa norte de Marruecos, pero no para referirse a las ciudades autónomas de Ceuta y Melilla, que sin embargo recibieron tradicionalmente la consideración de plazas mayores."
+    }
+  ],
+  "context": {
+    "B06-D01": [
+      {
+        "context_id": "ar/293523_p62",
+        "relative_position": -1,
+        "text": "وافقت الأطراف على مقترح لإجراء استفتاء لكنه فشل بسبب الخلافات حول تحديد هوية الناخبين ممن يحق لهم المشاركة بالتصويت. يَقترح المغرب مَنح المنطقة حكمًا ذاتيًا تحت سيادته منذ 2007؛ بدوره يدعو مجلس الأمن الأطراف المعنية إلى استئناف المفاوضات بهدف التوصل إلى حل سياسي واقعي وعملي ودائم ومقبول للطرفين على أساس من التوافق حسب قرار مجلس الأمن رقم 2602 الصادر سنة 2021.",
+        "truncated": false,
+        "original_characters": 361
+      },
+      {
+        "context_id": "ar/293523_p64",
+        "relative_position": 1,
+        "text": "المغرب عضو في الأمم المتحدة (منذ 1956)، وجامعة الدول العربية (منذ 1958)، واللجنة الدولية الأولمبية (منذ 1959)، ومنظمة التعاون الإسلامي (منذ 1969)، والمنظمة الدولية الفرانكوفونية (منذ 1981)، وهو عضو مؤسس في اتحاد المغرب العربي (منذ 1989)، ومنظمة التجارة العالمية (منذ 1995)، ومجموعة الحوار المتوسطي (منذ 1995)، ومجموعة سبعة وسبعون (منذ 2003)، ومنظمة حلف شمال الأطلسي كحليف رئيس خارجه (منذ 2004)، ثم الاتحاد من أجل المتوسط (منذ 2008)؛ وهو عضو في الاتحاد الأفريقي (منذ 2017) كما يستفيد من الخدمات التي يتيحها بنك التنمية الأفريقي.",
+        "truncated": false,
+        "original_characters": 527
+      }
+    ],
+    "B06-D02": [
+      {
+        "context_id": "ar/293523_p59",
+        "relative_position": -1,
+        "text": "يَحتل المغرب المرتبة 91 في مؤشر الازدهار لسنة 2021. تم الإعلان خلال جائحة فيروس كورونا عن حزمة اقتراحات تهدف لمعالجة آثارها الاقتصادية، من بينها تحويل مَبلغ 400 درهم مغربي (44 دولار أمريكي) شهريًا لفائدة من تفوق أعمارهم 65 سنة، على أن يصل هذا المَبلغ إلى 1000 درهم مغربي (110 دولار أمريكي) سنة 2026، مما قد يَجعل المغرب  التي تَمنح شكلًا من أشكال الدخل الأساسي لمواطنيها.",
+        "truncated": false,
+        "original_characters": 371
+      },
+      {
+        "context_id": "ar/293523_p61",
+        "relative_position": 1,
+        "text": "تراوحت السيادة المغربية على الصحراء الغربية خلال القرن الثامن عشر ما بين الاستقرار والتراجع، غير أنه مع نهايات القرن التاسع عشر كانت القبائل الصحراوية تعترف بسلاطين المغرب كحكام عليهم، هذه الروابط السيادية أكدتها محكمة العدل الدولية في رأيها الاستشاري لسنة 1975. تُعَد المنطقة اليوم ضِمن قائمة الأمم المتحدة للأقاليم غير المحكومة ذاتيًا وذلك منذ سنة 1963 بعدما قَدّم المغرب طلبًا بهذا الخصوص، ونَظم المغرب المسيرة الخضراء سنة 1975 بهدف الضغط على إسبانيا التي انسحبت بعد ذلك من الإقليم. رَفضت «البوليساريو» السيادة المغربية على إقليم الصحراء الغربية ودخلت في حرب بهدف إقامة «الجمهورية العربية الصحراوية الديمقراطية» وهي دولة أعلنت نفسها في وقت لاحق.",
+        "truncated": false,
+        "original_characters": 648
+      }
+    ],
+    "B06-D03": [
+      {
+        "context_id": "es/4718_p76",
+        "relative_position": -1,
+        "text": "Industria automotriz \nMarruecos produce y fabrica coches desde 1959, y también camiones de transporte en Casablanca, donde la sociedad marroquí SOMACA produce modelos de coches como el Dacia Logan, Peugeot Partner, Citroën Berlingo y Renault Kangoo. En febrero de 2007 más de 5000 coches marroquíes fueron exportados a España y Francia. En 2007, el grupo Renault-Nissan firmó contratos con el gobierno marroquí para la construcción de una planta de fabricación de automóviles cerca de Tánger por un valor de mil millones de euros y que garantiza la exportación de 400 000 vehículos para 2012, lo que lleva a 440 000 vehículos exportados por año. A principios de 2009, una exención de los préstamos bancarios por importe de 400 millones de dólares (en un plan de inversiones de 500 millones de dirhams) fue dirigida por SOMACA con tres bancos marroquíes. Lo que aumentará la capacidad de producción anual de 45 000 a 90 000 al fines de septiembre. Según las cifras de 2017, Marruecos es el país que más automóviles produce en el continente africano, Sudáfrica en segundo lugar. Mientras que Marruecos produjo 335000 automóviles, Sudáfrica fabricó 331000 unidades.",
+        "truncated": false,
+        "original_characters": 1162
+      },
+      {
+        "context_id": "es/4718_p78",
+        "relative_position": 1,
+        "text": "La red de autopistas de Marruecos tiene una longitud de 1808 km (agosto de 2016). La última carretera que se construyó es el tramo final de la autopista A8, entre Berrechid y Juribga con una longitud total de 77 km. Además de los 1808 km de carreteras de peaje, Marruecos cuenta con 1014 km de autopistas (2x2 o 2x3) libre para completar su red. La red de autopistas es administrada por Autopistes du Maroc (ADM).",
+        "truncated": false,
+        "original_characters": 413
+      }
+    ],
+    "B06-D04": [
+      {
+        "context_id": "es/45549_p7",
+        "relative_position": -1,
+        "text": "Estas posesiones fueron atacadas por los rifeños en la guerra del Rif, y al inicio de la sublevación del 17 y 18 de julio de 1936 quedaron desde el primer momento en manos del bando sublevado. Cuando en 1956 España se retiró de su protectorado y reconoció la independencia de Marruecos no se vieron afectadas en su estatus, puesto que nunca formaron parte de dicha entidad territorial.",
+        "truncated": false,
+        "original_characters": 385
+      },
+      {
+        "context_id": "es/45549_p9",
+        "relative_position": 1,
+        "text": "Las plazas de soberanía se sitúan en el norte de África, ribereñas del mar Mediterráneo. Solo el peñón de Vélez de la Gomera tiene frontera terrestre con Marruecos, aunque originalmente era una isla, pero debido a un terremoto que tuvo lugar en 1930, el islote resultó unido de forma permanente a tierra firme.",
+        "truncated": false,
+        "original_characters": 310
+      }
+    ],
+    "B06-D05": [
+      {
+        "context_id": "ar/891711_p1",
+        "relative_position": -1,
+        "text": "قام الجيش الإسباني منذ سقوط الأندلس بالحفاظ على مواضع عديدة في شمال أفريقيا كوسيلة للدفاع ضد شمال أفريقيا. ولكن خسرت مناطق عديدة مثل وهران، ولا زالت إسبانيا تمارس سيادتها على مناطق مثل جزر إشفارن وصخرة الحسيمة وجزيرة قميرة.",
+        "truncated": false,
+        "original_characters": 223
+      },
+      {
+        "context_id": "ar/891711_p3",
+        "relative_position": 1,
+        "text": "المواقع الجغرافية \nتتكون بلاثاس دي سوبيرانيا من:\n جزر الحسيمة: \n صخرة الحسيمة: \n جزيرةلا تييرا: \n جزيرة مار: \n جزر إشفارن: \n جزيرة كونغريسو: \n جزيرة إزابيل الثانية: \n جزيرة ري: \n جزيرة قميرة:",
+        "truncated": false,
+        "original_characters": 191
+      }
+    ],
+    "B06-D06": [
+      {
+        "context_id": "es/972_p0",
+        "relative_position": -1,
+        "text": "España, también denominado Reino de España, es un país soberano transcontinental, miembro de la Unión Europea, constituido en Estado social y democrático de derecho y cuya forma de gobierno es la monarquía parlamentaria. Su territorio, con capital en Madrid, está organizado en diecisiete comunidades autónomas, formadas a su vez por cincuenta provincias; y dos ciudades autónomas.",
+        "truncated": false,
+        "original_characters": 381
+      },
+      {
+        "context_id": "es/972_p2",
+        "relative_position": 1,
+        "text": "La Constitución, y su artículo 3.1, establece que «el castellano es la lengua española oficial del Estado. Todos los españoles tienen el deber de conocerla y el derecho a usarla». En 2012, era la lengua materna del 82 % de los españoles. Según el artículo 3.2, «las demás lenguas españolas serán también oficiales en las respectivas Comunidades Autónomas de acuerdo con sus Estatutos». El idioma español o castellano, segunda lengua materna más hablada del mundo y con casi 600 millones de hispanohablantes, es uno de los más importantes legados del acervo cultural e histórico de España en el mundo. Perteneciente culturalmente a la Europa Latina y heredero de una vasta influencia grecorromana, España alberga también la cuarta colección más numerosa del mundo de sitios declarados Patrimonio de la Humanidad por la Unesco.",
+        "truncated": false,
+        "original_characters": 825
+      }
+    ],
+    "B06-D07": [
+      {
+        "context_id": "es/45549_p0",
+        "relative_position": -1,
+        "text": "Plazas de soberanía es el término histórico con el que se denominan desde el  a los territorios españoles situados en el norte de África, en contraposición a las áreas que constituían el protectorado español de Marruecos. En la actualidad, esta nomenclatura sigue utilizándose para la identificación de las islas y peñones frente a la costa norte de Marruecos, pero no para referirse a las ciudades autónomas de Ceuta y Melilla, que sin embargo recibieron tradicionalmente la consideración de plazas mayores.",
+        "truncated": false,
+        "original_characters": 508
+      },
+      {
+        "context_id": "es/45549_p2",
+        "relative_position": 1,
+        "text": "Aparte de las anteriores, Perejil, un islote deshabitado situado cerca de la península tingitana, a pocos metros del litoral marroquí, ha sido frecuentemente calificado como una plaza de soberanía. En la actualidad, tras el incidente militar que enfrentó a España y Marruecos en 2002, fruto del acuerdo suscitado entre ambos países, en la isla no existe ni presencia militar ni ningún símbolo de soberanía. De forma similar, la isla de Alborán también ha sido erróneamente calificada como plaza de soberanía, ya que administrativamente forma parte del término municipal de la ciudad andaluza de Almería.",
+        "truncated": false,
+        "original_characters": 603
+      }
+    ],
+    "B06-D08": [
+      {
+        "context_id": "ar/3895_p79",
+        "relative_position": -1,
+        "text": "تدعي إسبانيا السيادة على جزيرة ليلى، وهي جزيرة صغيرة صخرية غير مأهولة تقع قبالة الشاطئ الجنوبي لمضيق جبل طارق. تبعد الجزيرة مسافة 250 متر عن ساحل المغرب و8 كم عن سبتة و13.5 كم عن البر الإسباني الرئيسي. سيادتها أمر متنازع عليه بين المغرب وإسبانيا وكادت تقود لحادث مسلح بين البلدين في 2002. انتهت الأزمة عندما اتفق البلدان على العودة إلى الوضع السابق الذي كان قائماً قبل دخول القوات المغربية للجزيرة. الجزيرة مهجورة حالياً دون أي علامة على السيادة.",
+        "truncated": false,
+        "original_characters": 446
+      },
+      {
+        "context_id": "ar/3895_p81",
+        "relative_position": 1,
+        "text": "يقود الملك الإسباني فيليب السادس  القوات المسلحة الإسبانية (فويرثاس أرماداس إسبانيولاس)، كما تقسم لثلاثة أقسام:\n الجيش الملكي الإسباني\n البحرية الملكية الإسبانية\n سلاح الجو الملكي الإسباني",
+        "truncated": false,
+        "original_characters": 188
+      }
+    ],
+    "B06-D09": [
+      {
+        "context_id": "es/972_p73",
+        "relative_position": -1,
+        "text": "España cuenta con una red de 215 embajadas y consulados por todo el mundo, donde prestan servicio unos 4500 funcionarios y profesionales (2020). En el último medio siglo, especialmente tras la restauración de la democracia, el país ha enfatizado en la ampliación de sus relaciones con el resto del mundo, tras el periodo de relativo aislamiento durante la dictadura.",
+        "truncated": false,
+        "original_characters": 366
+      },
+      {
+        "context_id": "es/972_p75",
+        "relative_position": 1,
+        "text": "El país forma parte de organizaciones internacionales de referencia como son la Organización de las Naciones Unidas (desde el 14 de diciembre de 1955), la Organización del Tratado del Atlántico Norte (desde el 30 de mayo de 1982) y la Organización para la Cooperación y el Desarrollo Económicos; continentales como la Organización para la Seguridad y la Cooperación en Europa, el tratado de la Unión Europea Occidental y de la Agencia Europea de Defensa; y organizaciones que estrechan lazos históricos y culturales del vínculo transatlántico como la Organización de Estados Iberoamericanos para la Educación, la Ciencia y la Cultura, la Unión Latina, la Comunidad Iberoamericana de Naciones y la ABINIA. El Gobierno español contribuye a la financiación de la ONU con un 2,14 % de su presupuesto anual para el periodo 2019-2021.",
+        "truncated": false,
+        "original_characters": 828
+      }
+    ],
+    "B06-D10": [
+      {
+        "context_id": "es/45549_p8",
+        "relative_position": -1,
+        "text": "Los territorios norteafricanos de España son reclamados por movimientos irredentistas marroquíes como parte del Gran Marruecos, pero España nunca ha negociado su soberanía puesto que son parte integrante del territorio español.",
+        "truncated": false,
+        "original_characters": 227
+      },
+      {
+        "context_id": "es/45549_p10",
+        "relative_position": 1,
+        "text": "La ubicación de las plazas es la siguiente:",
+        "truncated": false,
+        "original_characters": 43
+      }
+    ],
+    "B06-D11": [
+      {
+        "context_id": "ar/3895_p5",
+        "relative_position": -1,
+        "text": "لا يزال أصل تسمية إسبانيا بهذا الاسم محط جدل، فقد يكون الاسم الروماني القديم لأيبيريا، هسبانيا، نابعاً من الاستخدام الشعري لكلمة هيسبيريا والتي تشير إلى إسبانيا، والتي بدورها تعكس التصور اليوناني لإيطاليا بأنها «الأرض الغربية» أو «أرض غروب الشمس» (هيسبيريا) وبالتالي تكون إسبانيا هسبيريا ألتيما (أرض الغروب القاصية) كونها إلى الغرب من إيطاليا.",
+        "truncated": false,
+        "original_characters": 343
+      },
+      {
+        "context_id": "ar/3895_p7",
+        "relative_position": 1,
+        "text": "هناك أيضاً اعتقادات بأن كلمة إسبانيا مشتقة من الكلمة الباسكية إزبانا ومعناها «الحافة» أو «الحدود»، وهي إشارة أخرى إلى حقيقة أن شبه جزيرة أيبيريا تشكل الجنوب الغربي من القارة الأوروبية.",
+        "truncated": false,
+        "original_characters": 184
+      }
+    ],
+    "B06-D12": [
+      {
+        "context_id": "es/45549_p1",
+        "relative_position": 1,
+        "text": "Históricamente, las plazas de soberanía eran cinco, supervivientes de las antiguas plazas fuertes de África, subdivididas habitualmente entre las ya citadas plazas mayores —Ceuta y Melilla— y las denominadas plazas menores: las islas Chafarinas, las islas Alhucemas y el peñón de Vélez de la Gomera.",
+        "truncated": false,
+        "original_characters": 299
+      }
+    ]
+  }
+}

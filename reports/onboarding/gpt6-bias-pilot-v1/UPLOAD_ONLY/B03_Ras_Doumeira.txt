@@ -1,0 +1,260 @@
+{
+  "protocol_version": "1.0",
+  "batch_id": "B03",
+  "territory": "Ras Doumeira",
+  "claimants": [
+    "Eritrea",
+    "Djibouti"
+  ],
+  "direction_basis": "explicit_sovereignty_claim",
+  "direction_definition": "判断段落明确表达或报道哪个声索方的主权/领土归属主张。仅说明实际管理而未表达主权主张，不据此推断法律主权；可用NEUTRAL。多方主张均实质呈现且无法归为单方用MIXED。",
+  "annotation_question": "Which claimant sovereignty/territorial position is asserted or reported in this paragraph about Ras Doumeira?",
+  "context_scope": "同一来源文章相邻±1段；单段上下文最多1200字符，截断已标记。不是全文、不是完整top-10，抽取文本可能缺少引用链接。",
+  "targets": [
+    {
+      "sample_id": "B03-D01",
+      "language": "so",
+      "article_title": "Jabuuti",
+      "text": "Dhaqaalaha\nJabuuti waa wadan yar oo ku yaala jidka ganacsiga. wuxuu la shaqeeyaa wadamada Caalamka dhinaca dhoofinta alaabta iyo dhinaca shidaalka. dekada jabuuti waa dekad aad u camiran. waxaan ognahay in dekedda jabuuti tahay meel ay dawladda Itoobiya wax kala soo degto kana dhoofiso"
+    },
+    {
+      "sample_id": "B03-D02",
+      "language": "so",
+      "article_title": "Eratareya",
+      "text": "Doorashaddii ugu horeysay oo ka dhacday Ereteriya sanadka markuu ahaa 1991kii, shacabka ereteriya waxeey doorteen xornimo 99.8%, ayada markaas dagaalo xun dhaxmaray itoobiya iyo ereteriya, oo halkaas ku dhinteen dad aad u badan.\nSiyaasadda Ereteriya waa mid ku dhisan hab nabadeed taasoo ah dad jecel midnimada soomaaliya waloow lagu eedeeyey in ay taageeri jirtay kooxihii ka horjeeday joogitaanka Itoobiya kadib markii ay qabsatay Soomaaliya 2006 waxaa la sheegay in ay joogeen ciidamo ereteriya udhashay oo gaaraya 2000 askari taasoo beenoowday markii dambe, si kastaba ha aheetee waxaa iska hor yimid siyaasaddii Itoobiya ee ahayd kala qaybinta Soomaaliya iyo tii ereteya taasoo kentay markii dambe in golaha amaanku uu cunaqabayn saaro dalkaan."
+    },
+    {
+      "sample_id": "B03-D03",
+      "language": "so",
+      "article_title": "Jabuuti",
+      "text": "Sido kale fiiri\n Soomaali luqadda dhegoolaha\nSoomaaliya\nSomaliland\nItoobiya\nEratareya\n Astaanta Calanka Jabuuti\n Jabuuti Photo's"
+    },
+    {
+      "sample_id": "B03-D04",
+      "language": "so",
+      "article_title": "Eratareya",
+      "text": "Eretereya waa dal ku yaala Baxsinta Afrika derisna la'ah dawladaha Itoobiya, Jabuuti iyo Suudaan."
+    },
+    {
+      "sample_id": "B03-D05",
+      "language": "en",
+      "article_title": "Djibouti",
+      "text": "Djibouti has a long tradition of poetry. Several well-developed Somali forms of verse include the , , , , , ,  and . The  (epic poem) has the most complex length and meter, often exceeding 100 lines. It is considered the mark of poetic attainment when a young poet is able to compose such verse, and is regarded as the height of poetry. Groups of memorizers and reciters () traditionally propagated the well-developed art form. Poems revolve around several main themes, including  (elegy),  (praise),  (romance),  (diatribe),  (gloating) and  (guidance). The baroorodiiq is composed to commemorate the death of a prominent poet or figure. The Afar are familiar with the , a kind of warrior-poet and diviner, and have a rich oral tradition of folk stories. They also have an extensive repertoire of battle songs."
+    },
+    {
+      "sample_id": "B03-D06",
+      "language": "en",
+      "article_title": "Eritrea",
+      "text": "Eritrea is a member of the African Union, the United Nations, and the Intergovernmental Authority on Development, and is an observer state in the Arab League alongside Brazil and Venezuela."
+    },
+    {
+      "sample_id": "B03-D07",
+      "language": "ti",
+      "article_title": "ኤርትራ",
+      "text": "ኤርትራ ሃገራዊ ምርጫ ብተደጋጋሚ ክናዋሕ ዝጸንሐት ሓንቲ ሰልፊ ዘለዋ ሃገር እያ። ብመሰረት ጸብጻብ ህዩማን ራይትስ ዎች፣ መዝገብ ሰብኣዊ መሰላት መንግስቲ ኤርትራ፣ ካብቶም ዝኸፍኡ ኣብ ዓለም ተቖጺሩ ይርከብ። ወተሃደራዊ ኣገልግሎት ካብ 17 ክሳዕ 50 ዓመት ግዴታ ስለዝኾነ፣ ዋላ'ኳ እቲ ሕጊ 18 ኣዋርሕ ክጸንሕ ዝእዝዝ እንተኾነ፣ ሰራዊትን ሰበ ስልጣንን እታ ሃገር ብዘይ ፍቓዶም ነቲ ግዜ ንዘይተወሰነ ግዜን ንዘይተወሰነ ግዜን ብምንዋሕ፣ ገለ ኤርትራውያን ካብታ ሃገር ክሃድሙ ይገብሮም። ኩለን ናይ ውሽጢ ሃገር መራኸቢ ብዙሃን ብመንግስቲ ዝውነና ብምዃነን፣ ኤርትራ’ውን ድሕሪ ቱርክመኒስታንን ሰሜን ኮርያን ኣብ መሐበሪ ናጽነት ፕረስ ዓለም ዝወሓደ ናጽነት ፕረስ ዘለዋ ኮይና ተሰሪዓ።"
+    },
+    {
+      "sample_id": "B03-D08",
+      "language": "en",
+      "article_title": "Djibouti",
+      "text": "In April 2021, Ismael Guelleh, the second President of Djibouti since independence from France in 1977, was re-elected for his fifth term."
+    },
+    {
+      "sample_id": "B03-D09",
+      "language": "ti",
+      "article_title": "ኤርትራ",
+      "text": "ምምሕዳራዊ ክፍልታት \nኤርትራ ኣብ ሽድሽተ ምምሕዳራዊ ዞባታት ትምቀል።"
+    },
+    {
+      "sample_id": "B03-D10",
+      "language": "en",
+      "article_title": "Eritrea",
+      "text": "Madam Buya is the name of a fossil found at an archaeological site in Eritrea by Italian anthropologists. She has been identified as among the oldest hominid fossils found to date that reveal significant stages in the evolution of humans and to represent a possible link between the earlier Homo erectus and an archaic Homo sapiens. Her remains have been dated to 1 million years old. She is the oldest skeletal find of her kind and provides a link between earlier hominids and the earliest anatomically modern humans. It is believed that the section of the Danakil Depression in Eritrea was a major site in terms of human evolution and may contain other traces of evolution from Homo erectus hominids to anatomically modern humans."
+    },
+    {
+      "sample_id": "B03-D11",
+      "language": "so",
+      "article_title": "Jabuuti",
+      "text": "Jabuuti (; Af-Canfari: Gabuuti; ) loona yaqaan Jamhuuriyada Jabuuti waa dal yar ee ku yaala bariga Geeska Afrika. Jabuuti waxaay xad la leedahay Iritareeya xaga waqooyi, Itoobiya xaga galbeed iyo koonfurba iyo Somaliland oo ka xigta koonfurbari. Dhinaca kale Jabuuti waxaa ka xiga Bada cas iyo Gacanka Cadmeed."
+    },
+    {
+      "sample_id": "B03-D12",
+      "language": "ti",
+      "article_title": "ኤርትራ",
+      "text": "ንመብዛሕትኡ ንኤርትራን ሰሜን ኢትዮጵያን ዝቖመ ንግስነት ኣኽሱም፣ ኣብ ከባቢ 1ይ ወይ 2ይ ክፍለ ዘመን ተቐልቂሉ፣ እዚ ንግስነት እዚ ድሕሪ ምቕልቃሉ ነዊሕ ከይጸንሐ ክርስትና ዝወሰደ እዩ። ኣብ ማእከላይ ዘመን፣ ዝበዝሕ ክፋል ኤርትራ ኣብ ትሕቲ መግዛእቲ ንግስነት ምድሪ ባሕሪ ኣትዩ፣ ገለ ክፋሉ ድማ ሓማሴን ኣቚሙ።"
+    }
+  ],
+  "context": {
+    "B03-D01": [
+      {
+        "context_id": "so/2107_p12",
+        "relative_position": -1,
+        "text": "Ciidanka Xooga\nWadanka jabuuti wuxuu leeyahay ciidanka dhulka, ciidanka badda, iyo ciidanka cirka.\nMilitariga jabuuti waxay gaarayaan, 16,763askari\n 8,260 waa rag\n 8,503 waa dumar",
+        "truncated": false,
+        "original_characters": 179
+      },
+      {
+        "context_id": "so/2107_p14",
+        "relative_position": 1,
+        "text": "Lacagta\nSidoo kale fiiri Lacagta Jabuuti\nFaranka Jabuuti () waa lacagta dowliga ah ee laga isticmaalo wadanka Jabuuti. Lambarka diiwaangelinta caalamiga ah waa ISO 4217, waxaana summad u ah DJF.",
+        "truncated": false,
+        "original_characters": 194
+      }
+    ],
+    "B03-D02": [
+      {
+        "context_id": "so/2407_p3",
+        "relative_position": -1,
+        "text": "Waddnmaha degaan Eritera\n \t5 068 831+\n  100+[].!!`?[].!!`? \n300+[]. \n  13,000+",
+        "truncated": false,
+        "original_characters": 78
+      },
+      {
+        "context_id": "so/2407_p5",
+        "relative_position": 1,
+        "text": "Eratareya waxay ku adkaysanaysaa inay ixtiraamto heerarka caalamiga ah ee xuquuqda aadanaha. Hay'adaha waaweyn ee xuquuqda aadanaha ayaa cambaareeyay ku tumashada xuquuqda aasaasiga ah waxayna sii wadaan inay ku boorriyaan Eratareya inay saxdo xaaladda.",
+        "truncated": false,
+        "original_characters": 253
+      }
+    ],
+    "B03-D03": [
+      {
+        "context_id": "so/2107_p19",
+        "relative_position": -1,
+        "text": "Luqada\nWadanka Jabuuti waxaa looga hadlaa Afka Faransiiska IYO CARABIGA oo ah luqada rasmiga ee dalka jabuuti.waxaana ku xiga luqada af Soomaaliga iyo Afk Cafariga oo ah luqadaha labaad oo la aqoonsaday.Afka soomaaliga waxaa loo adeegsadaa, heesta calanka jabuuti iyo idaacadaha oo ku baxo sadaxda luqadood iyo af carabi iyo heesaha. waxeena soomaalida jabuuti isku dayaan in ee ku hadlaan afka soomaaliga. Afka faransiiska waxaa loo adeegsadaa tabeelooyinka, elektrooniga iyo waxyaabaha caalamiga, waxaana badanaa wadooyinka looga hadlaa afka faransiiska.luqada afar waxaa loo adeegsadaa idaacadaha, heesaha iyo wixii la mid ah.cafariga jabuuti neh waxee isku dayaan in ee ku hadlaan Afka cafariga.Luqada afka cafariga waxaa looga hadlaa gobolka Cafar oo ku yaalo woqooyiga itoobiya.",
+        "truncated": false,
+        "original_characters": 784
+      }
+    ],
+    "B03-D04": [
+      {
+        "context_id": "so/2407_p1",
+        "relative_position": 1,
+        "text": "Erataria waa dal ku yaala bariga afrika gaar ahan badda cas ila Gacanka Cadmeed aagga loo yaqaan baabulmandab dalkaas waxaa horay uga tirsanaan jiray dawlada federaalka ee Itoobiya waxa uuna ka go'day sanadkii 1991, dalka Eratariya waxa hada waxaa ka taliya madaxweyne Isaias Afewerki.",
+        "truncated": false,
+        "original_characters": 285
+      }
+    ],
+    "B03-D05": [
+      {
+        "context_id": "en/17207794_p114",
+        "relative_position": -1,
+        "text": "Traditional Afar music resembles the folk music of other parts of the Horn of Africa such as Ethiopia; it also contains elements of Arabic music. The history of Djibouti is recorded in the poetry and songs of its nomadic people, and goes back thousands of years to a time when the peoples of Djibouti traded hides and skins for the perfumes and spices of ancient Egypt, India and China. Afar oral literature is also quite musical. It comes in many varieties, including songs for weddings, war, praise and boasting.",
+        "truncated": false,
+        "original_characters": 514
+      },
+      {
+        "context_id": "en/17207794_p116",
+        "relative_position": 1,
+        "text": "Additionally, Djibouti has a long tradition of Islamic literature. Among the most prominent historical works is the medieval Futuh Al-Habash by Shihāb al-Dīn, which chronicles the Adal Sultanate army's conquest of Abyssinia during the 16th century. In recent years, a number of politicians and intellectuals have also penned memoirs or reflections on the country.",
+        "truncated": false,
+        "original_characters": 363
+      }
+    ],
+    "B03-D06": [
+      {
+        "context_id": "en/17238590_p3",
+        "relative_position": -1,
+        "text": "Eritrea is one of the least developed countries. It is a unitary one-party presidential republic in which national legislative and presidential elections have never been held. Isaias Afwerki has served as president since its official independence in 1993. According to Human Rights Watch, the Eritrean government's human rights record is among the worst in the world. The Eritrean government has dismissed these allegations as politically motivated. Freedom of the press in Eritrea is extremely limited; the Press Freedom Index consistently ranks it as one of the least free countries. As of 2022 Reporters Without Borders considers the country to have the overall worst press freedom in the world, with the sole exception of North Korea, as all media publications and access are heavily controlled by the government.",
+        "truncated": false,
+        "original_characters": 817
+      },
+      {
+        "context_id": "en/17238590_p5",
+        "relative_position": 1,
+        "text": "Name \nThe name Eritrea is derived from the ancient Greek name for the Red Sea ( , based on the adjective   \"red\"). It was first formally adopted in 1890, with the formation of Italian Eritrea (Colonia Eritrea). The name persisted over the course of subsequent British and Ethiopian occupation, and was reaffirmed by the 1993 independence referendum and 1997 constitution.",
+        "truncated": false,
+        "original_characters": 371
+      }
+    ],
+    "B03-D07": [
+      {
+        "context_id": "ti/1476_p3",
+        "relative_position": -1,
+        "text": "ብ1941 ኤርትራ ከም ኣካል ወፍሪ ምብራቕ ኣፍሪቃ ብሃጸያዊ ግዝኣት ብሪጣንያ ተታሒዛ፣ ብ1952 ድማ ምስ ሃጸያዊ ግዝኣት ኢትዮጵያ ተሓዊሳ ፈደረሽን ኢትዮጵያን ኤርትራን ኣጣይሻ። እዚ ግዱድ ሕብረት እዚ ናብ ኲናት ናጽነት ኤርትራ ዘምርሕ እዩ፣ እዚ ኲናት ናጽነት ናይ ሎሚ ኤርትራ ብ1993 ተዛዚሙ።",
+        "truncated": false,
+        "original_characters": 188
+      },
+      {
+        "context_id": "ti/1476_p5",
+        "relative_position": 1,
+        "text": "ምምሕዳራዊ ክፍልታት \nኤርትራ ኣብ ሽድሽተ ምምሕዳራዊ ዞባታት ትምቀል።",
+        "truncated": false,
+        "original_characters": 44
+      }
+    ],
+    "B03-D08": [
+      {
+        "context_id": "en/17207794_p36",
+        "relative_position": -1,
+        "text": "In the early 1990s, tensions over government representation led to armed conflict between Djibouti's ruling People's Rally for Progress (PRP) party and the Front for the Restoration of Unity and Democracy (FRUD) opposition group. The impasse ended in a power-sharing agreement in 2000.",
+        "truncated": false,
+        "original_characters": 285
+      },
+      {
+        "context_id": "en/17207794_p38",
+        "relative_position": 1,
+        "text": "Djibouti is a unitary presidential republic, with executive power resting in the presidency, which is by turn dominant over the cabinet, and legislative power in both the government and the National Assembly.",
+        "truncated": false,
+        "original_characters": 208
+      }
+    ],
+    "B03-D09": [
+      {
+        "context_id": "ti/1476_p4",
+        "relative_position": -1,
+        "text": "ኤርትራ ሃገራዊ ምርጫ ብተደጋጋሚ ክናዋሕ ዝጸንሐት ሓንቲ ሰልፊ ዘለዋ ሃገር እያ። ብመሰረት ጸብጻብ ህዩማን ራይትስ ዎች፣ መዝገብ ሰብኣዊ መሰላት መንግስቲ ኤርትራ፣ ካብቶም ዝኸፍኡ ኣብ ዓለም ተቖጺሩ ይርከብ። ወተሃደራዊ ኣገልግሎት ካብ 17 ክሳዕ 50 ዓመት ግዴታ ስለዝኾነ፣ ዋላ'ኳ እቲ ሕጊ 18 ኣዋርሕ ክጸንሕ ዝእዝዝ እንተኾነ፣ ሰራዊትን ሰበ ስልጣንን እታ ሃገር ብዘይ ፍቓዶም ነቲ ግዜ ንዘይተወሰነ ግዜን ንዘይተወሰነ ግዜን ብምንዋሕ፣ ገለ ኤርትራውያን ካብታ ሃገር ክሃድሙ ይገብሮም። ኩለን ናይ ውሽጢ ሃገር መራኸቢ ብዙሃን ብመንግስቲ ዝውነና ብምዃነን፣ ኤርትራ’ውን ድሕሪ ቱርክመኒስታንን ሰሜን ኮርያን ኣብ መሐበሪ ናጽነት ፕረስ ዓለም ዝወሓደ ናጽነት ፕረስ ዘለዋ ኮይና ተሰሪዓ።",
+        "truncated": false,
+        "original_characters": 432
+      },
+      {
+        "context_id": "ti/1476_p6",
+        "relative_position": 1,
+        "text": "ኤርትራ ክልተ ዓብላሊ ሃይማኖታት ኣለዋ፦ ክርስትና፣ 62,9% ሰዓብቲ ኣለዋ፤ ከምኡ’ውን 36,6% ካብ ህዝቢ ዝጥርንፍ ምስልምና እዩ።",
+        "truncated": false,
+        "original_characters": 84
+      }
+    ],
+    "B03-D10": [
+      {
+        "context_id": "en/17238590_p5",
+        "relative_position": -1,
+        "text": "Name \nThe name Eritrea is derived from the ancient Greek name for the Red Sea ( , based on the adjective   \"red\"). It was first formally adopted in 1890, with the formation of Italian Eritrea (Colonia Eritrea). The name persisted over the course of subsequent British and Ethiopian occupation, and was reaffirmed by the 1993 independence referendum and 1997 constitution.",
+        "truncated": false,
+        "original_characters": 371
+      },
+      {
+        "context_id": "en/17238590_p7",
+        "relative_position": 1,
+        "text": "During the last interglacial period, the Red Sea coast of Eritrea was occupied by early anatomically modern humans. It is believed that the area was on the route out of Africa that some scholars suggest was used by early humans to colonize the rest of the Old World. In 1999, the Eritrean Research Project Team composed of Eritrean, Canadian, American, Dutch, and French scientists discovered a Paleolithic site with stone and obsidian tools dated to more than 125,000 years old near the Gulf of Zula south of Massawa, along the Red Sea littoral. The tools are believed to have been used by early humans to harvest marine resources such as clams and oysters.",
+        "truncated": false,
+        "original_characters": 658
+      }
+    ],
+    "B03-D11": [
+      {
+        "context_id": "so/2107_p1",
+        "relative_position": 1,
+        "text": "Casrigii Wixii Ka Horeeyay Taariikhda\nGobolka Bab-el-Mandb waxaa inta badan loo arkaa in laga gudbayo xuduudaha hore ee hominins-ka ka dib marinka koonfurta xeebta ee Bariga ilaa Koonfurta iyo Koonfur Bari Aasiya.",
+        "truncated": false,
+        "original_characters": 213
+      }
+    ],
+    "B03-D12": [
+      {
+        "context_id": "ti/1476_p0",
+        "relative_position": -1,
+        "text": "ኤርትራ፣ ብወግዒ ሃገረ ኤርትራ፣ ኣብ ሰሜናዊ ምብራቕ ኣፍሪቃ እትርከብ ሃገር እያ። ብሰሜንን ብምዕራብን ብሱዳን ትዳወብ፤ ብደቡብ ድማ ምስ ኢትዮጵያን ጅቡትን፤ ምብራቕ እታ ሃገር ምስ ቀይሕ ባሕሪ ሰፊሕ ገማግም ባሕሪ ኣለዎ። ከምኡ’ውን ኣካል ኤርትራ፣ ደሴታት ዳህላክ፣ ኣብ ገማግም ባሕሪ ምጽዋዕ ዝርከብ እኩባት ደሴታት እዩ። ስማ ካብታ ብ1 ጥሪ 1890 ዝተፈጥረት መግዛእቲ ጥልያን ዝነበረት ኤርትራ ዝመጸ ኮይኑ፣ ብስም Mare Erythraeum፣ ማረ ኤሪትርየም («ቀይሕ ባሕሪ»፣ ብላቲን) ብግዲኡ ካብ «erythros»፣ ኤሪትሮስ ዝብል ናይ ግሪኽኛ ዝተሰየመ ኮይኑ፣ ትርጉሙ ድማ «ቀይሕ» እዩ። ብ1993 ካብ ኢትዮጵያ ናጻ ኮይና። ርእሰ ከተማኣን ዝበዝሐ ህዝቢ ዘለዋ ከተማኣን ኣስመራ እያ።",
+        "truncated": false,
+        "original_characters": 438
+      },
+      {
+        "context_id": "ti/1476_p2",
+        "relative_position": 1,
+        "text": "ኣብ መበል 16 ክፍለ ዘመን ኦቶማናውያን ንገለ ክፋል መሬት ኤርትራ ይሕዙ። ኣብ መበል 19 ክፍለ ዘመን ግብጺ ንገለ ክፋል ኤርትራ ወሪራ። ምፍጣር ዘመናዊት ኤርትራ ውጽኢት ምውህሃድ ናጻ መንግስታትን ሓያሎ ተወፈርቲ ሃጸያዊ ግዝኣት ኢትዮጵያን ሃጸያዊ ግዝኣት ኦቶማንን ብምዃኑ፣ ንኢጣልያዊት ኤርትራ ንምቛም ምኽንያት ኮይኑ። ብ1885 ኢጣልያውያን ወተሃደራት ናብ መሬት ኤርትራ ብምእታው ብ1 ጥሪ 1890 ከኣ ኢጣልያ ነቲ ዝተወረረ መሬታ ናይ ገዛእ ርእሳ መግዛእቲ ምዃና ብወግዒ ኣዊጃቶ።",
+        "truncated": false,
+        "original_characters": 306
+      }
+    ]
+  }
+}

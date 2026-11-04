@@ -1,0 +1,253 @@
+{
+  "protocol_version": "1.0",
+  "batch_id": "B05",
+  "territory": "Isla Brasilera/Ilha Brasileira",
+  "claimants": [
+    "Brazil",
+    "Uruguay"
+  ],
+  "direction_basis": "explicit_sovereignty_claim",
+  "direction_definition": "判断段落明确表达或报道哪个声索方的主权/领土归属主张。仅说明实际管理而未表达主权主张，不据此推断法律主权；可用NEUTRAL。多方主张均实质呈现且无法归为单方用MIXED。",
+  "annotation_question": "Which claimant sovereignty/territorial position is asserted or reported in this paragraph about Isla Brasilera/Ilha Brasileira?",
+  "context_scope": "同一来源文章相邻±1段；单段上下文最多1200字符，截断已标记。不是全文、不是完整top-10，抽取文本可能缺少引用链接。",
+  "targets": [
+    {
+      "sample_id": "B05-D01",
+      "language": "pt",
+      "article_title": "Ilha Brasileira",
+      "text": "Desde a década de 1930 a Ilha Brasileira tem sido alvo de contestação territorial  por parte do governo uruguaio, o qual alega que o Brasil ocupou indevidamente o território desta ilha. "
+    },
+    {
+      "sample_id": "B05-D02",
+      "language": "es",
+      "article_title": "Isla Brasilera",
+      "text": "El 8 de septiembre de 1940, luego de la ratificación de la Convención Complementaria de Límites entre Brasil y la Argentina, el Gobierno uruguayo presentó una nota de reserva al tratado ante las cancillerías de ambos países. En esa nota el Gobierno uruguayo objetó que los intereses de Uruguay no habían sido considerados, afirmando que la isla Brasilera se halla ubicada al sur de la desembocadura del Cuareim en pleno río Uruguay y considerándola no demarcada aún ya que el hito en el extremo sur de la isla fue construido en 1862 por Brasil unilateralmente."
+    },
+    {
+      "sample_id": "B05-D03",
+      "language": "pt",
+      "article_title": "Ilha Brasileira",
+      "text": "Ilha Brasileira  é uma pequena ilha fluvial localizada na foz do rio Quaraí, em uma área de tríplice fronteira, entre os municípios de Barra do Quaraí, no Brasil, Monte Caseros, na Argentina, e Bella Unión, no Uruguai. A ilha tem, aproximadamente, 4 quilômetros de extensão por 0,8 quilômetro de largura, com área total de 2,75 km². "
+    },
+    {
+      "sample_id": "B05-D04",
+      "language": "pt",
+      "article_title": "Ilha Brasileira",
+      "text": "Administrativamente, a ilha pertence ao município brasileiro de Barra do Quaraí, localizado no Rio Grande do Sul. É reclamada há mais de um século pelo Uruguai. Porém, nenhum dos países mostrou interesse ativamente pela ilha.  "
+    },
+    {
+      "sample_id": "B05-D05",
+      "language": "pt",
+      "article_title": "Uruguai",
+      "text": "Uruguai (em castelhano: Uruguay, ), oficialmente República Oriental do Uruguai (, ), é um país localizado na parte sudeste da América do Sul. Sua população é de cerca de 3,5 milhões de habitantes, dos quais 1,8 milhão vivem na capital, Montevidéu, e em sua área metropolitana. Estima-se que entre 88% e 94% da população possua ascendência principalmente europeia ou mestiça. A única fronteira terrestre do Uruguai é com o estado brasileiro do Rio Grande do Sul, no norte, sendo a segunda menor fronteira do Brasil com outro país sul-americano. Para o oeste encontra-se o rio Uruguai e a sudoeste situa-se o estuário do rio da Prata. O país faz fronteira com a Argentina apenas em alguns bancos de qualquer um dos rios citados acima, enquanto que a sudeste fica o oceano Atlântico. O Uruguai é o segundo menor país da América do Sul, sendo somente maior que o Suriname."
+    },
+    {
+      "sample_id": "B05-D06",
+      "language": "es",
+      "article_title": "Isla Brasilera",
+      "text": "Uruguay reclama desde 1940 que la isla fue erróneamente adjudicada al Brasil al ser demarcada unilateralmente la frontera entre ambos en 1862, señalando que la isla se halla en el río Uruguay y no en el río Cuareim, por lo que debería pertenecer a su departamento de Artigas, lo cual no es aceptado por Brasil. En opinión del Gobierno uruguayo la isla y el tramo del río Uruguay en que se encuentra se halla sin delimitar entre Argentina y Uruguay, pues este país y Brasil no tienen fronteras comunes en ese río. De acuerdo a esa opinión, el punto trifinio en que se encuentran los límites de los tres países debería hallarse al este de la isla y no al oeste como han acordado Argentina y Brasil."
+    },
+    {
+      "sample_id": "B05-D07",
+      "language": "pt",
+      "article_title": "Brasil",
+      "text": "Brasil (), oficialmente República Federativa do Brasil (), é o maior país da América do Sul e da região da América Latina, sendo o quinto maior do mundo em área territorial (equivalente a 47,3% do território sul-americano), com  km², e o sexto em população (com mais de 207,8 milhões de habitantes). É o único país na América onde se fala majoritariamente a língua portuguesa e o maior país lusófono do planeta, além de ser uma das nações mais multiculturais e etnicamente diversas, em decorrência da forte imigração oriunda de variados locais do mundo. Sua atual Constituição, promulgada em 1988, concebe o Brasil como uma república federativa presidencialista, formada pela união dos 26 estados, do Distrito Federal e dos  municípios."
+    },
+    {
+      "sample_id": "B05-D08",
+      "language": "es",
+      "article_title": "Brasil",
+      "text": "La población de Brasil, conforme a lo registrado en el censo de población de 2010, es de más de 190 millones de habitantes —22,31 hab/km²—, con una proporción de hombres y mujeres de 0,95:1 y 84,36% de la población definida como urbana. La población está fuertemente concentrada en las regiones Sudeste (80,3 millones de habitantes) y Noreste (53,0 millones de habitantes), mientras que las dos regiones más extensas, el Centro-Oeste y el Norte que conforman el 64,12% del territorio brasileño, cuentan con apenas 29,8 millones de habitantes."
+    },
+    {
+      "sample_id": "B05-D09",
+      "language": "pt",
+      "article_title": "Uruguai",
+      "text": "Nos últimos anos, os uruguaios enfrentaram problemas no sistema elétrico para suprir o aumento crescente da demanda de seu mercado interno. Em anos de baixa precipitação, há uma elevada dependência das importações de energia do Brasil e da Argentina. As exportações têm sido historicamente insignificantes."
+    },
+    {
+      "sample_id": "B05-D10",
+      "language": "es",
+      "article_title": "Brasil",
+      "text": "La región del actual Brasil, hasta entonces habitada por pueblos indígenas, tuvo su primer contacto con los europeos en el año 1500 d.C. a través de una expedición portuguesa liderada por Pedro Álvares Cabral. Tras el Tratado de Tordesillas, el territorio brasileño fue el segmento del continente americano que correspondió al reino de Portugal, del cual obtuvo su independencia el 7 de septiembre de 1822. Así, el país pasó de ser parte central del reino de Portugal a un imperio para finalmente convertirse en una república. Su primera capital fue Salvador de Bahía, que fue sustituida por Río de Janeiro hasta que se construyó una nueva capital, Brasilia. Su constitución actual, formulada en 1988, define a Brasil como una república federativa presidencialista. La federación está formada por la unión del Distrito Federal, los 26 estados y los 5570 municipios."
+    },
+    {
+      "sample_id": "B05-D11",
+      "language": "es",
+      "article_title": "Isla Brasilera",
+      "text": "La isla Brasilera (en portugués: ilha Brasileira), es una pequeña isla fluvial, de unos 3,7 km de largo y 0,9 km de anchura (2,8 km²), bajo administración brasileña y reclamada por Uruguay. Se encuentra ubicada a  en la desembocadura del río Cuareim en el río Uruguay en el punto de encuentro de las fronteras de la Argentina, Brasil y Uruguay. "
+    },
+    {
+      "sample_id": "B05-D12",
+      "language": "es",
+      "article_title": "Isla Brasilera",
+      "text": "Debido que el Tratado de 1961 con la Argentina definió la frontera a partir del extremo sur de la isla Brasilera, Uruguay considera que no ha definido su frontera con la Argentina al norte de ese punto en las aguas del río Uruguay que bañan a la isla. "
+    }
+  ],
+  "context": {
+    "B05-D01": [
+      {
+        "context_id": "pt/631519_p6",
+        "relative_position": -1,
+        "text": "Atualmente a Ilha Brasileira encontra-se desabitada. Localmente, existem projetos objetivando torná-la uma reserva ambiental municipal.",
+        "truncated": false,
+        "original_characters": 135
+      },
+      {
+        "context_id": "pt/631519_p8",
+        "relative_position": 1,
+        "text": "Embora as fronteiras entre os dois países tenham sido claramente definidas em um tratado firmado em 1851, à partir dos anos 1930 o Uruguai passou a ter uma interpretação distinta da acordada na ocasião da elaboração do tratado.",
+        "truncated": false,
+        "original_characters": 227
+      }
+    ],
+    "B05-D02": [
+      {
+        "context_id": "es/420897_p11",
+        "relative_position": -1,
+        "text": "En 1928, a partir de un reconocimiento hidrográfico, se concluyó en Uruguay que la isla Brasilera se hallaba en el río Uruguay y no en el Cuareim. ",
+        "truncated": false,
+        "original_characters": 147
+      },
+      {
+        "context_id": "es/420897_p13",
+        "relative_position": 1,
+        "text": "De las contestaciones de los gobiernos de Argentina y Brasil, surgió que ambos mantenían sus posiciones incambiadas.  ",
+        "truncated": false,
+        "original_characters": 118
+      }
+    ],
+    "B05-D03": [
+      {
+        "context_id": "pt/631519_p1",
+        "relative_position": 1,
+        "text": "Administrativamente, a ilha pertence ao município brasileiro de Barra do Quaraí, localizado no Rio Grande do Sul. É reclamada há mais de um século pelo Uruguai. Porém, nenhum dos países mostrou interesse ativamente pela ilha.  ",
+        "truncated": false,
+        "original_characters": 227
+      }
+    ],
+    "B05-D04": [
+      {
+        "context_id": "pt/631519_p0",
+        "relative_position": -1,
+        "text": "Ilha Brasileira  é uma pequena ilha fluvial localizada na foz do rio Quaraí, em uma área de tríplice fronteira, entre os municípios de Barra do Quaraí, no Brasil, Monte Caseros, na Argentina, e Bella Unión, no Uruguai. A ilha tem, aproximadamente, 4 quilômetros de extensão por 0,8 quilômetro de largura, com área total de 2,75 km². ",
+        "truncated": false,
+        "original_characters": 333
+      },
+      {
+        "context_id": "pt/631519_p2",
+        "relative_position": 1,
+        "text": "Similarmente à outra disputa territorial envolvendo o Brasil e o Uruguai, relacionado a um setor denominado Rincão de Artigas, a existência de tal disputa não atrapalha as atuais negociações econômicas e diplomáticas entre os dois países.",
+        "truncated": false,
+        "original_characters": 238
+      }
+    ],
+    "B05-D05": [
+      {
+        "context_id": "pt/1873_p1",
+        "relative_position": 1,
+        "text": "A Colônia do Sacramento, o mais antigo assentamento europeu no Uruguai, foi fundada pelos portugueses em janeiro de 1680. Em 1777, com o Tratado de Santo Ildefonso, a colônia tornou-se uma possessão espanhola. A cidade de Montevidéu foi fundada pelos espanhóis no  como uma fortaleza militar. O Uruguai conquistou sua independência do Império do Brasil entre 1810 e 1828, após guerras que envolveram Espanha, Portugal, Argentina, além do próprio Brasil. Atualmente, o país é uma democracia constitucional, onde o presidente cumpre o papel de chefe de Estado e chefe de governo. Segundo a Transparência Internacional, o Uruguai é classificado como o país menos corrupto da América Latina (seguido pelo  Chile em segundo).",
+        "truncated": false,
+        "original_characters": 720
+      }
+    ],
+    "B05-D06": [
+      {
+        "context_id": "es/420897_p0",
+        "relative_position": -1,
+        "text": "La isla Brasilera (en portugués: ilha Brasileira), es una pequeña isla fluvial, de unos 3,7 km de largo y 0,9 km de anchura (2,8 km²), bajo administración brasileña y reclamada por Uruguay. Se encuentra ubicada a  en la desembocadura del río Cuareim en el río Uruguay en el punto de encuentro de las fronteras de la Argentina, Brasil y Uruguay. ",
+        "truncated": false,
+        "original_characters": 345
+      },
+      {
+        "context_id": "es/420897_p2",
+        "relative_position": 1,
+        "text": "En agosto de 2009 un incendio de grandes proporciones destruyó el 40 % de la vegetación nativa de la isla. En ese momento, la isla se hallaba habitada por una familia brasileña.",
+        "truncated": false,
+        "original_characters": 177
+      }
+    ],
+    "B05-D07": [
+      {
+        "context_id": "pt/404_p1",
+        "relative_position": 1,
+        "text": "Banhado pelo Oceano Atlântico, o Brasil tem um litoral de  e faz fronteira com todos os outros países sul-americanos, exceto Chile e Equador, sendo limitado a norte pela Venezuela, Guiana, Suriname e pelo departamento ultramarino francês da Guiana Francesa; a noroeste pela Colômbia; a oeste pela Bolívia e Peru; a sudoeste pela Argentina e Paraguai e ao sul pelo Uruguai. Vários arquipélagos formam parte do território brasileiro, como o Atol das Rocas, o Arquipélago de São Pedro e São Paulo, Fernando de Noronha (o único destes habitado por civis) e Trindade e Martim Vaz. O Brasil também é o lar de uma diversidade de animais selvagens, ecossistemas e de vastos recursos naturais em uma grande variedade de habitats protegidos.",
+        "truncated": false,
+        "original_characters": 731
+      }
+    ],
+    "B05-D08": [
+      {
+        "context_id": "es/410_p120",
+        "relative_position": -1,
+        "text": "La televisión empezó oficialmente en Brasil el 18 de septiembre de 1950, introducida por Assis Chateaubriand, quien fundó el primer canal de televisión en el país, la TV Tupi. Desde entonces la industria de la televisión ha ido creciendo, al mismo tiempo que se crearon varias redes de emisoras como Globo, Record, SBT, Bandeirantes y RedeTV. La televisión aún representa un factor importante en la cultura popular moderna de la sociedad brasileña. La televisión digital comenzó el 2 de diciembre de 2007, inicialmente en la ciudad de São Paulo.",
+        "truncated": false,
+        "original_characters": 545
+      },
+      {
+        "context_id": "es/410_p122",
+        "relative_position": 1,
+        "text": "La población de Brasil aumentó significativamente entre 1940 y 1970, debido a un declive en la tasa de mortalidad, al mismo tiempo que la tasa de natalidad también presentó un ligero descenso en el mismo periodo. En la década de 1940, la tasa de crecimiento demográfico anual fue de 2,4%, subiendo a 3,0% en 1950 y permaneciendo en 2,9% en 1960; la esperanza de vida subió de 44 a 54 años y hasta 72,6 años en la década de 2010. La tasa de crecimiento demográfico tendió a disminuir desde 1960, de 3,04% entre los años 1950-1960 a 1,13% en 2011, y probablemente caerá hasta un valor negativo, de −0,29%, en 2050, completando así la transición demográfica.",
+        "truncated": false,
+        "original_characters": 655
+      }
+    ],
+    "B05-D09": [
+      {
+        "context_id": "pt/1873_p97",
+        "relative_position": -1,
+        "text": "A capacidade elétrica instalada em 2009 no Uruguai era de  MW (incluindo a Represa de Salto Grande, que é binacional). Da capacidade instalada, hidroelétrica responde por 63%, sendo o restante proveniente principalmente da energia térmica e uma pequena parcela da eólica e da biomassa. O sistema energético apresenta características e problemas de geração de base hidráulica. A margem de reserva aparentemente ampla esconde a vulnerabilidade à hidrologia. Em anos de seca, o país precisa importar mais de 25% da demanda dos mercados argentino e brasileiro. Cerca de 56% da capacidade de geração é de propriedade e operado pela UTE, a concessionária nacional. A capacidade restante corresponde à usina hidrelétrica de Salto Grande (945 MW), cogeração ou de pequenos investimentos privados em fontes renováveis.",
+        "truncated": false,
+        "original_characters": 809
+      },
+      {
+        "context_id": "pt/1873_p99",
+        "relative_position": 1,
+        "text": "Como a Argentina, o Uruguai tem cultura marcadamente europeia, com características parecidas na linguagem e nos costumes. É cultivada a tradição gaúcha nascida nos pampas argentinos, uruguaios e rio-grandenses (o que pode ser visto na Fiesta de la Patria Gaucha de Tacuarembo e no Museo del Gaucho de Montevidéu). Ao contrário de muitos países da América do Sul, a influência indígena é extremamente distante, mas muito presente na indumentária, danças e costumes gaúchos. A taxa de analfabetismo é quase nula e a imprensa é livre e atuante. São inúmeras as instituições culturais, públicas e privadas, sobretudo em Montevidéu.",
+        "truncated": false,
+        "original_characters": 627
+      }
+    ],
+    "B05-D10": [
+      {
+        "context_id": "es/410_p0",
+        "relative_position": -1,
+        "text": "Brasil o el Brasil, cuyo nombre oficial es República Federativa del Brasil (, pron. AFI ), es un país soberano de América del Sur que comprende la mitad oriental del continente y algunos grupos de pequeñas islas en el océano Atlántico. Su capital es Brasilia y su ciudad más poblada es São Paulo. Es el tercer país más grande de América.\nCon una superficie estimada en más de 8,5 millones de km², es el quinto país más grande del mundo en área total (equivalente a 50% del territorio sudamericano). Delimitado por el océano Atlántico al este, Brasil tiene una línea costera de 7491 km. Al norte limita con el departamento ultramarino francés de la Guayana Francesa, Surinam, Guyana y Venezuela; al noroeste con Colombia; al oeste con Perú y Bolivia; al suroeste con Paraguay y Argentina, y al sur con Uruguay. De este modo tiene frontera con todos los países de América del Sur, excepto Ecuador y Chile. La mayor parte del país está comprendido entre los trópicos terrestres, por lo que las estaciones climáticas no se sienten de una manera radical en gran parte de su territorio. La selva amazónica cubre 3,6 millones de km² del territorio. Gracias a su vegetación y al clima, es uno de los países c",
+        "truncated": true,
+        "original_characters": 1240
+      },
+      {
+        "context_id": "es/410_p2",
+        "relative_position": 1,
+        "text": "A pesar de que sus más de 215 millones de habitantes hacen de Brasil el séptimo país más poblado del mundo, presenta un bajo índice de densidad poblacional. Esto se debe a que la mayor parte de la población se concentra a lo largo del litoral, mientras que el interior del territorio aún está marcado por enormes vacíos demográficos. El idioma oficial y el más hablado es el portugués, que lo convierte en el mayor país lusófono del mundo. Por su parte, la religión con más seguidores es el catolicismo, siendo el país con mayor número de católicos nominales del mundo. La sociedad brasileña es considerada una sociedad multiétnica al estar formada por descendientes de europeos, indígenas, africanos y asiáticos.",
+        "truncated": false,
+        "original_characters": 713
+      }
+    ],
+    "B05-D11": [
+      {
+        "context_id": "es/420897_p1",
+        "relative_position": 1,
+        "text": "Uruguay reclama desde 1940 que la isla fue erróneamente adjudicada al Brasil al ser demarcada unilateralmente la frontera entre ambos en 1862, señalando que la isla se halla en el río Uruguay y no en el río Cuareim, por lo que debería pertenecer a su departamento de Artigas, lo cual no es aceptado por Brasil. En opinión del Gobierno uruguayo la isla y el tramo del río Uruguay en que se encuentra se halla sin delimitar entre Argentina y Uruguay, pues este país y Brasil no tienen fronteras comunes en ese río. De acuerdo a esa opinión, el punto trifinio en que se encuentran los límites de los tres países debería hallarse al este de la isla y no al oeste como han acordado Argentina y Brasil.",
+        "truncated": false,
+        "original_characters": 696
+      }
+    ],
+    "B05-D12": [
+      {
+        "context_id": "es/420897_p17",
+        "relative_position": -1,
+        "text": "Uruguay continuó enviando notas al Brasil reclamando la demarcación de la isla: el 17 de agosto de 1988, el 4 de diciembre de 1989, el 22 de octubre de 1990 y el 28 de julio de 1997, sin aceptación brasileña.",
+        "truncated": false,
+        "original_characters": 208
+      },
+      {
+        "context_id": "es/420897_p19",
+        "relative_position": 1,
+        "text": "Para Uruguay, el punto tripartito del límite Argentina-Brasil-Uruguay se encuentra indefinido, ya que al sur del extremo meridional de la isla la frontera argentino-uruguaya que sigue la línea media del río ha sido definida, pero no hacia el norte de ese punto si la isla se considerara uruguaya. El límite argentino-brasileño en el río Uruguay sigue el canal de navegación, y ha sido determinado en torno a la isla, por lo que ambos países consideran establecido el punto tripartito.",
+        "truncated": false,
+        "original_characters": 484
+      }
+    ]
+  }
+}

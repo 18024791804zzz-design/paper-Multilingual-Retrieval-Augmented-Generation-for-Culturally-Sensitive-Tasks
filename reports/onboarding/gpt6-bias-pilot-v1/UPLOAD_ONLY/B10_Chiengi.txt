@@ -1,0 +1,260 @@
+{
+  "protocol_version": "1.0",
+  "batch_id": "B10",
+  "territory": "Chiengi",
+  "claimants": [
+    "Zambia",
+    "Democratic Republic of Congo"
+  ],
+  "direction_basis": "explicit_sovereignty_claim",
+  "direction_definition": "判断段落明确表达或报道哪个声索方的主权/领土归属主张。仅说明实际管理而未表达主权主张，不据此推断法律主权；可用NEUTRAL。多方主张均实质呈现且无法归为单方用MIXED。",
+  "annotation_question": "Which claimant sovereignty/territorial position is asserted or reported in this paragraph about Chiengi?",
+  "context_scope": "同一来源文章相邻±1段；单段上下文最多1200字符，截断已标记。不是全文、不是完整top-10，抽取文本可能缺少引用链接。",
+  "targets": [
+    {
+      "sample_id": "B10-D01",
+      "language": "sw",
+      "article_title": "Jamhuri ya Kidemokrasia ya Kongo",
+      "text": "Jamhuri ya Kidemokrasia ya Kongo (au Kongo-Kinshasa) ni nchi iliyoko Afrika ya Kati; kwa ukubwa wa eneo ni ya pili barani Afrika. Ni tofauti na nchi jirani ya Jamhuri ya Kongo."
+    },
+    {
+      "sample_id": "B10-D02",
+      "language": "sw",
+      "article_title": "Jamhuri ya Kidemokrasia ya Kongo",
+      "text": "Mtawala alikuwa na cheo cha Manikongo na ufalme uligawiwa kwa majimbo sita. Baada ya kufika kwa Wareno wafalme na matabaka ya juu walikuwa Wakristo. Ufalme uliporomoka kutokana na vita vilivyosababishwa na biashara ya watumwa na kuingilia kwa wafanyabiashara ya watumwa katika siasa ya ndani. Hata hivyo, nasaba za watawala waliotumia cheo cha \"Awenekongo\" waliendelea kukaa katika mji mkuu wa kale M'banza-Kongo (iliyobadilishwa jina kuitwa San Salvador) hadi mwaka 1914 ambako Wareno walifuta mabaki ya uhuru na kufanya eneo lililobaki sehemu kamili ya koloni lao la Angola."
+    },
+    {
+      "sample_id": "B10-D03",
+      "language": "en",
+      "article_title": "Zambia",
+      "text": "Maravi Confederacy\nIn the 1200s, before the founding of the Luba-Lunda states, a group of Bantu people started migrating from the Congo Basin to Lake Mweru then finally settled around Lake Malawi. These migrants are believed to have been one of the inhabitants around the Upemba area in the Democratic Republic of Congo. By the 1400s these groups of migrants collectively called the Maravi, and among them was the Chewa people (AChewa), who started assimilating other Bantu groups like the Tumbuka."
+    },
+    {
+      "sample_id": "B10-D04",
+      "language": "sw",
+      "article_title": "Jamhuri ya Kidemokrasia ya Kongo",
+      "text": "Leo hii ni Jamhuri ya Kidemokrasia ya Kongo."
+    },
+    {
+      "sample_id": "B10-D05",
+      "language": "en",
+      "article_title": "Chiengi",
+      "text": "Chiengi boma was established during the race between Belgian King Leopold II's Congo Free State and the British South Africa Company (BSAC) of Cecil Rhodes to seize Katanga from its king, Msiri, in 1890–91. Alfred Sharpe was sent to obtain a treaty from Msiri by the BSAC from the British Commissioner's office at Zomba in Nyasaland in 1890, but he failed. On his way back to Nyasaland in early 1891 he passed the Chiengi rivulet and, since Chief Puta Chipalabwe who reigned as a Chief of the Bwile people between 1879 and 1909. Bwile people,  to the south, was amenable to a treaty, Sharpe decided to set up a boma there to secure the territory east of Mweru for the BSAC, and to act as a forward base for another attempt to wring a treaty out of Msiri. He left his second-in-command, Captain Crayshaw, with some African troops to build and staff the boma."
+    },
+    {
+      "sample_id": "B10-D06",
+      "language": "en",
+      "article_title": "Zambia",
+      "text": "After international copper prices declined in the 1970s, the socialist regime made up for falling revenue with abortive attempts at International Monetary Fund structural adjustment programs (SAPs). The policy of not trading through the main supply route and line of rail to the sea – the territory was known as Rhodesia (from 1965 to 1979), and now known as Zimbabwe – cost the economy. After the Kaunda regime, (from 1991) successive governments began limited reforms. The economy stagnated until the 1990s. In 2007 Zambia recorded its ninth consecutive year of economic growth. Inflation was 8.9%, down from 30% in 2000."
+    },
+    {
+      "sample_id": "B10-D07",
+      "language": "sw",
+      "article_title": "Jamhuri ya Kidemokrasia ya Kongo",
+      "text": "Katika miaka 1925 hadi 1946 maeneo ya Rwanda na Burundi yalitawaliwa kama sehemu za Kongo ya Kibelgiji."
+    },
+    {
+      "sample_id": "B10-D08",
+      "language": "en",
+      "article_title": "Zambia",
+      "text": "The Bemba, along with other related groups like the Lamba, Bisa, Senga, Kaonde, Swaka, Nkoya and Soli, formed parts of the Luba Kingdom in Upemba part of the Democratic Republic of Congo and have a relation to the BaLuba people. "
+    },
+    {
+      "sample_id": "B10-D09",
+      "language": "sw",
+      "article_title": "Jamhuri ya Kidemokrasia ya Kongo",
+      "text": "Nchi za Afrika\nUmoja wa Afrika\nNchi zinazotumia lugha ya Kifaransa\nJumuiya ya Afrika Mashariki\nK"
+    },
+    {
+      "sample_id": "B10-D10",
+      "language": "en",
+      "article_title": "Chiengi",
+      "text": "Chiengi or is a historic colonial boma of the British Empire in central Africa and today is a settlement in the Luapula Province of Zambia, and headquarters of Chiengi District. Chiengi is in the north-east corner of Lake Mweru, and at the foot of wooded hills dividing that lake from Lake Mweru Wantipa, and overlooking a dambo (marshy plain) stretching northwards from the lake, where the Chiengi rivulet (the origin of the name) flows down from the hills."
+    },
+    {
+      "sample_id": "B10-D11",
+      "language": "sw",
+      "article_title": "Jamhuri ya Kidemokrasia ya Kongo",
+      "text": "Jiografia \nNchi imepakana na Jamhuri ya Kongo, Jamhuri ya Afrika ya Kati, Sudan Kusini, Uganda, Rwanda, Burundi, Tanzania, Zambia na Angola. "
+    },
+    {
+      "sample_id": "B10-D12",
+      "language": "en",
+      "article_title": "Chiengi",
+      "text": "Chiengi Boma was probably the first colonial post in what was to be called North-Eastern Rhodesia (it was still referred to as part of 'Zambezia' at the time), and was one of the most remote outposts of the British Empire, a lonely posting which sent more than one colonial officer mad. For a number of years the boma was removed to the Kalungwishi River, and during this period the Belgian colonial authorities in Pweto, just across the border in DR Congo, controlled the northern end of the lake including the western extremity of Chiengi District, the so-called Lunchinda enclave west of the Lunchinda River. The British then re-established the boma at Chiengi but the eventual outcome of de facto Belgian control of the Lunchinda enclave led to it eventually being ceded to DR Congo by Zambia—see the article on the Luapula Province border dispute."
+    }
+  ],
+  "context": {
+    "B10-D01": [
+      {
+        "context_id": "sw/2173_p1",
+        "relative_position": 1,
+        "text": "Jiografia \nNchi imepakana na Jamhuri ya Kongo, Jamhuri ya Afrika ya Kati, Sudan Kusini, Uganda, Rwanda, Burundi, Tanzania, Zambia na Angola. ",
+        "truncated": false,
+        "original_characters": 141
+      }
+    ],
+    "B10-D02": [
+      {
+        "context_id": "sw/2173_p7",
+        "relative_position": -1,
+        "text": "Mnamo karne ya 15, wakati wapelelezi wa kwanza Wareno walipofika kwenye pwani za Afrika, milki kubwa katika nchi ya Kongo ya magharibi pamoja na Angola ya kaskazini ilikuwa Ufalme wa Kongo. Wakati wa uenezaji mkuu ufalme huu ulianza kwenye mwambao wa Atlantiki na kuendelea hadi mto Kwango kwenye mashariki, halafu maeneo kutoka Pointe-Noire (leo: Jamhuri ya Kongo, upande wa kaskazini ya Cabinda) upande wa kaskazini hadi mto Loje (leo: mji wa Ambriz) katika kusini.",
+        "truncated": false,
+        "original_characters": 467
+      },
+      {
+        "context_id": "sw/2173_p9",
+        "relative_position": 1,
+        "text": "Upande wa kusini, kuanzia karne ya 17, kulikuwa na ufalme ulioitwa Dola la Kazembe.",
+        "truncated": false,
+        "original_characters": 83
+      }
+    ],
+    "B10-D03": [
+      {
+        "context_id": "en/34415_p20",
+        "relative_position": -1,
+        "text": "The Chokwe eventually were defeated by the other ethnic groups and the Portuguese. This instability caused the collapse of the Luba-Lunda states and a dispersal of people into parts of Zambia from the Democratic Republic of the Congo. The majority of Zambians trace their ancestry to the Luba-Lunda and surrounding Central African states.",
+        "truncated": false,
+        "original_characters": 338
+      },
+      {
+        "context_id": "en/34415_p22",
+        "relative_position": 1,
+        "text": "In 1480 the Maravi Empire was founded by the kalonga (paramount chief of the Maravi) from the Phiri clan, one of the clans, with the others being Banda, Mwale and Nkhoma. The Maravi Empire stretched from the Indian Ocean through what later is Mozambique to Zambia and parts of Malawi. The political organization of the Maravi resembled that of the Luba and is believed to have originated from there. The primary export of the Maravi was ivory, which was transported to Swahili brokers.",
+        "truncated": false,
+        "original_characters": 485
+      }
+    ],
+    "B10-D04": [
+      {
+        "context_id": "sw/2173_p28",
+        "relative_position": -1,
+        "text": "Kati ya 27 Oktoba 1971 na 17 Mei 1997, chini ya utawala wa dikteta Mobutu, nchi ilijulikana kwa jina la \"Zaire\".",
+        "truncated": false,
+        "original_characters": 112
+      },
+      {
+        "context_id": "sw/2173_p30",
+        "relative_position": 1,
+        "text": "Nchi imegawiwa katika mikoa 26 kadiri ya Katiba mpya (2006) na utekelezaji wake wa mwaka 2015.",
+        "truncated": false,
+        "original_characters": 94
+      }
+    ],
+    "B10-D05": [
+      {
+        "context_id": "en/10842948_p1",
+        "relative_position": -1,
+        "text": "Pre-colonial history\nChiengi and the area just to its north were ravaged by the slave trade and related ivory trade in the 18th century. Numerous Arab and Swahili slave traders such as Tippu Tib operated around the north end of Lake Mweru, around Lake Mweru Wantipa and over to Lake Tanganyika.",
+        "truncated": false,
+        "original_characters": 294
+      },
+      {
+        "context_id": "en/10842948_p3",
+        "relative_position": 1,
+        "text": "However, Leopold sent the Stairs Expedition to secure Katanga which they achieved in December 1891 after killing Msiri. On the way back to the east coast of Africa, the Stairs Expedition passed close to Chiengi and exchanged messages with Crayshaw regarding the position of the border dividing CFS and BSAC territory between Lake Mweru and Lake Tanganyika.",
+        "truncated": false,
+        "original_characters": 356
+      }
+    ],
+    "B10-D06": [
+      {
+        "context_id": "en/34415_p85",
+        "relative_position": -1,
+        "text": "Zambia ranked 117th out of 128 countries on the 2007 Global Competitiveness Index, which looks at factors that affect economic growth. In the same index in 2019 Zambia slipped in ranking to 19th place in Africa and 120th globally. As  of 2020 Zambia ranks 7th in Ease of Doing Business   in Africa and 85th out of 190 countries globally. Social indicators continue to decline, particularly in measurements of life expectancy at birth (about 40.9 years) and maternal mortality (830 per 100,000 pregnancies).",
+        "truncated": false,
+        "original_characters": 506
+      },
+      {
+        "context_id": "en/34415_p87",
+        "relative_position": 1,
+        "text": "Zambia is dealing with economic reform issues such as the size of the public sector, and improving social sector delivery systems. The bureaucratic procedures surrounding the process of obtaining licences encourages the use of facilitation payments. ",
+        "truncated": false,
+        "original_characters": 250
+      }
+    ],
+    "B10-D07": [
+      {
+        "context_id": "sw/2173_p14",
+        "relative_position": -1,
+        "text": "Kati ya mwaka 1908 hadi 1960 ilikuwa koloni la Ubelgiji kwa jina la Kongo ya Kibelgiji baada ya kuhamishiwa mikononi mwa serikali ya Ubelgiji. ",
+        "truncated": false,
+        "original_characters": 143
+      },
+      {
+        "context_id": "sw/2173_p16",
+        "relative_position": 1,
+        "text": "Siasa ya wakoloni \nWabelgiji walijitahidi kuboresha hali ya maisha ya wenyeji baada ya miaka mibaya ya Leopold II. Nia ilichelewa kuonekana hali halisi kwa sababu utaratibu wa kulazimisha Waafrika kufanyia kazi kampuni na shirika kubwa iliendelea hata bila idhini ya serikali mpya ukadai vifo vingi. ",
+        "truncated": false,
+        "original_characters": 300
+      }
+    ],
+    "B10-D08": [
+      {
+        "context_id": "en/34415_p13",
+        "relative_position": -1,
+        "text": "The second mass settlement of Bantu people into Zambia was of people groups that are believed to have taken the western route of the Bantu migration through the Congo Basin. These Bantu people spent the majority of their existence in what later is the Democratic Republic of Congo.",
+        "truncated": false,
+        "original_characters": 281
+      },
+      {
+        "context_id": "en/34415_p15",
+        "relative_position": 1,
+        "text": "Over time these communities learned to use nets and harpoons, make dugout canoes, clear canals through swamps and make dams as high as 2.5 meters. As a result, they grew an economy trading fish, copper and iron items and salt for goods from other parts of Africa, like the Swahili coast and, later on, the Portuguese. From these communities arose the Luba Kingdom in the 14th century.",
+        "truncated": false,
+        "original_characters": 384
+      }
+    ],
+    "B10-D09": [
+      {
+        "context_id": "sw/2173_p43",
+        "relative_position": -1,
+        "text": " Chief of State and Cabinet Members\n Country Profile  from the BBC News\n \n Democratic Republic of the Congo  from UCB Libraries GovPubs''\n \n \n The Democratic Republic of Congo from Global Issues\n ",
+        "truncated": false,
+        "original_characters": 196
+      }
+    ],
+    "B10-D10": [
+      {
+        "context_id": "en/10842948_p1",
+        "relative_position": 1,
+        "text": "Pre-colonial history\nChiengi and the area just to its north were ravaged by the slave trade and related ivory trade in the 18th century. Numerous Arab and Swahili slave traders such as Tippu Tib operated around the north end of Lake Mweru, around Lake Mweru Wantipa and over to Lake Tanganyika.",
+        "truncated": false,
+        "original_characters": 294
+      }
+    ],
+    "B10-D11": [
+      {
+        "context_id": "sw/2173_p0",
+        "relative_position": -1,
+        "text": "Jamhuri ya Kidemokrasia ya Kongo (au Kongo-Kinshasa) ni nchi iliyoko Afrika ya Kati; kwa ukubwa wa eneo ni ya pili barani Afrika. Ni tofauti na nchi jirani ya Jamhuri ya Kongo.",
+        "truncated": false,
+        "original_characters": 176
+      },
+      {
+        "context_id": "sw/2173_p2",
+        "relative_position": 1,
+        "text": "Ina sehemu ndogo ya pwani kwenye Bahari ya Atlantiki. Sehemu hiyo inatenganisha eneo la Cabinda kutoka maeneo mengine ya Jamhuri ya Angola.",
+        "truncated": false,
+        "original_characters": 139
+      }
+    ],
+    "B10-D12": [
+      {
+        "context_id": "en/10842948_p3",
+        "relative_position": -1,
+        "text": "However, Leopold sent the Stairs Expedition to secure Katanga which they achieved in December 1891 after killing Msiri. On the way back to the east coast of Africa, the Stairs Expedition passed close to Chiengi and exchanged messages with Crayshaw regarding the position of the border dividing CFS and BSAC territory between Lake Mweru and Lake Tanganyika.",
+        "truncated": false,
+        "original_characters": 356
+      },
+      {
+        "context_id": "en/10842948_p5",
+        "relative_position": 1,
+        "text": "Chiengi Boma was finally closed in 1933 and superseded by Kawambwa and then Nchelenge bomas.",
+        "truncated": false,
+        "original_characters": 92
+      }
+    ]
+  }
+}
