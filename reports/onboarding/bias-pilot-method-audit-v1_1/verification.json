@@ -1,0 +1,11 @@
+{
+  "changed_ids": [
+    "B10-D05"
+  ],
+  "paired_labels": "UNK::NEUTRAL",
+  "original_text_hashes_match": 120,
+  "retrieval_rows": 495,
+  "distinct_query_doc_pairs": 201,
+  "independent_query_specific_judgments": false,
+  "RAG_effect_tested": false
+}

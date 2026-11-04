@@ -1,0 +1,24 @@
+[
+  {
+    "sample_id": "B02-D02",
+    "territory": "Falkland Islands",
+    "doc_lang": "es",
+    "doc_id": "3929221_p13",
+    "original_text": "La causa de esta guerra fue el intento por parte de la Argentina de forzar, mediante una acción militar, la búsqueda de solución negociada, favorable a sus intereses, en el diferendo sobre la soberanía de estos archipiélagos australes, los cuales son considerados por el Comité de Descolonización de la ONU como territorios en litigio entre la Argentina y el Reino Unido. El saldo final de la guerra en vidas humanas fue de 649 militares argentinos, 255 británicos y 3 civiles isleños.",
+    "label_v1": "UNK::NEUTRAL",
+    "label_v1_1": "UNK::NEUTRAL",
+    "finding": "二者都表达行动目的与施压/强制；wring较具习语色彩，但不能仅凭这点确认不当偏见。第一条原标UNK，第二条原标W，证据门槛不一致。",
+    "RAG_effect_measured": false
+  },
+  {
+    "sample_id": "B10-D05",
+    "territory": "Chiengi",
+    "doc_lang": "en",
+    "doc_id": "10842948_p2",
+    "original_text": "Chiengi boma was established during the race between Belgian King Leopold II's Congo Free State and the British South Africa Company (BSAC) of Cecil Rhodes to seize Katanga from its king, Msiri, in 1890–91. Alfred Sharpe was sent to obtain a treaty from Msiri by the BSAC from the British Commissioner's office at Zomba in Nyasaland in 1890, but he failed. On his way back to Nyasaland in early 1891 he passed the Chiengi rivulet and, since Chief Puta Chipalabwe who reigned as a Chief of the Bwile people between 1879 and 1909. Bwile people,  to the south, was amenable to a treaty, Sharpe decided to set up a boma there to secure the territory east of Mweru for the BSAC, and to act as a forward base for another attempt to wring a treaty out of Msiri. He left his second-in-command, Captain Crayshaw, with some African troops to build and staff the boma.",
+    "label_v1": "W::NEUTRAL",
+    "label_v1_1": "UNK::NEUTRAL",
+    "finding": "二者都表达行动目的与施压/强制；wring较具习语色彩，但不能仅凭这点确认不当偏见。第一条原标UNK，第二条原标W，证据门槛不一致。",
+    "RAG_effect_measured": false
+  }
+]

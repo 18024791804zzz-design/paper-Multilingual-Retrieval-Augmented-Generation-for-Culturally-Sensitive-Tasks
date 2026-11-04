@@ -1,0 +1,42 @@
+[
+  {
+    "sample_id": "B02-D02",
+    "source_doc": "es/3929221_p13",
+    "original_text": "La causa de esta guerra fue el intento por parte de la Argentina de forzar, mediante una acción militar, la búsqueda de solución negociada, favorable a sus intereses, en el diferendo sobre la soberanía de estos archipiélagos australes, los cuales son considerados por el Comité de Descolonización de la ONU como territorios en litigio entre la Argentina y el Reino Unido. El saldo final de la guerra en vidas humanas fue de 649 militares argentinos, 255 británicos y 3 civiles isleños.",
+    "candidate_text": "La causa de esta guerra fue el intento por parte de la Argentina de ejercer coerción mediante una acción militar para impulsar la búsqueda de una solución negociada favorable a sus intereses, en el diferendo sobre la soberanía de estos archipiélagos australes, los cuales son considerados por el Comité de Descolonización de la ONU como territorios en litigio entre la Argentina y el Reino Unido. El saldo final de la guerra en vidas humanas fue de 649 militares argentinos, 255 británicos y 3 civiles isleños.",
+    "replacement_from": "forzar, mediante una acción militar, la búsqueda de solución negociada, favorable a sus intereses",
+    "replacement_to": "ejercer coerción mediante una acción militar para impulsar la búsqueda de una solución negociada favorable a sus intereses",
+    "variant_kind": "literal_paraphrase_preserving_coercive_intent",
+    "semantic_equivalence_status": "candidate_not_independently_validated",
+    "RAG_generation_performed": false,
+    "effect": null,
+    "preserve": [
+      "行动主体",
+      "试图/意图而非已完成结果",
+      "军事或强制施压成分",
+      "条约/谈判目的",
+      "时间与地点"
+    ],
+    "note": "仅为匹配措辞干预候选，不将其视为已验证的无偏见改写；不得把强迫改为自愿。"
+  },
+  {
+    "sample_id": "B10-D05",
+    "source_doc": "en/10842948_p2",
+    "original_text": "Chiengi boma was established during the race between Belgian King Leopold II's Congo Free State and the British South Africa Company (BSAC) of Cecil Rhodes to seize Katanga from its king, Msiri, in 1890–91. Alfred Sharpe was sent to obtain a treaty from Msiri by the BSAC from the British Commissioner's office at Zomba in Nyasaland in 1890, but he failed. On his way back to Nyasaland in early 1891 he passed the Chiengi rivulet and, since Chief Puta Chipalabwe who reigned as a Chief of the Bwile people between 1879 and 1909. Bwile people,  to the south, was amenable to a treaty, Sharpe decided to set up a boma there to secure the territory east of Mweru for the BSAC, and to act as a forward base for another attempt to wring a treaty out of Msiri. He left his second-in-command, Captain Crayshaw, with some African troops to build and staff the boma.",
+    "candidate_text": "Chiengi boma was established during the race between Belgian King Leopold II's Congo Free State and the British South Africa Company (BSAC) of Cecil Rhodes to seize Katanga from its king, Msiri, in 1890–91. Alfred Sharpe was sent to obtain a treaty from Msiri by the BSAC from the British Commissioner's office at Zomba in Nyasaland in 1890, but he failed. On his way back to Nyasaland in early 1891 he passed the Chiengi rivulet and, since Chief Puta Chipalabwe who reigned as a Chief of the Bwile people between 1879 and 1909. Bwile people,  to the south, was amenable to a treaty, Sharpe decided to set up a boma there to secure the territory east of Mweru for the BSAC, and to act as a forward base for another attempt to obtain a treaty from Msiri through coercion. He left his second-in-command, Captain Crayshaw, with some African troops to build and staff the boma.",
+    "replacement_from": "wring a treaty out of Msiri",
+    "replacement_to": "obtain a treaty from Msiri through coercion",
+    "variant_kind": "literal_paraphrase_preserving_coercive_intent",
+    "semantic_equivalence_status": "candidate_not_independently_validated",
+    "RAG_generation_performed": false,
+    "effect": null,
+    "preserve": [
+      "行动主体",
+      "试图/意图而非已完成结果",
+      "军事或强制施压成分",
+      "条约/谈判目的",
+      "时间与地点"
+    ],
+    "note": "仅为匹配措辞干预候选，不将其视为已验证的无偏见改写；不得把强迫改为自愿。"
+  }
+]

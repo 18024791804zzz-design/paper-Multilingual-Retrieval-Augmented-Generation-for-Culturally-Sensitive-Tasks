@@ -1,0 +1,22 @@
+{
+  "query_id": "Q10",
+  "query": "Is Chiengi a territory of A) Zambia or B) Democratic Republic of Congo?",
+  "query_lang": "en",
+  "territory": "Chiengi",
+  "retriever": "openai",
+  "retrieval_mode": "qlang",
+  "rank": 3,
+  "score": 0.6048360466957092,
+  "doc_id": "10842948_p2",
+  "doc_lang": "en",
+  "doc_text": "Chiengi boma was established during the race between Belgian King Leopold II's Congo Free State and the British South Africa Company (BSAC) of Cecil Rhodes to seize Katanga from its king, Msiri, in 1890–91. Alfred Sharpe was sent to obtain a treaty from Msiri by the BSAC from the British Commissioner's office at Zomba in Nyasaland in 1890, but he failed. On his way back to Nyasaland in early 1891 he passed the Chiengi rivulet and, since Chief Puta Chipalabwe who reigned as a Chief of the Bwile people between 1879 and 1909. Bwile people,  to the south, was amenable to a treaty, Sharpe decided to set up a boma there to secure the territory east of Mweru for the BSAC, and to act as a forward base for another attempt to wring a treaty out of Msiri. He left his second-in-command, Captain Crayshaw, with some African troops to build and staff the boma.",
+  "relevant_human": false,
+  "viewpoint_human": "Not relevant",
+  "relevant_llm": false,
+  "viewpoint_llm": null,
+  "sample_id": "B10-D05",
+  "bias_label_v1": "W::NEUTRAL",
+  "bias_label_v1_1": "UNK::NEUTRAL",
+  "bias_annotation_unit": "territory_doc",
+  "query_specific_judgment": false
+}

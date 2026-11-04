@@ -1,0 +1,21 @@
+{
+  "revision": "1.1",
+  "date": "2026-11-04",
+  "revision_scope": "仅修正两条强迫表述的判断门槛；未按新协议重标其余119条",
+  "changed_ids": [
+    "B10-D05"
+  ],
+  "unchanged_comparison_id": "B02-D02",
+  "counts": {
+    "NONE": 106,
+    "G": 2,
+    "UNK": 8,
+    "W": 4
+  },
+  "raw_retrieval_rows_joined": 495,
+  "unique_query_doc_pairs_joined": 201,
+  "new_RAG_inference_performed": false,
+  "new_240_sample_annotation_performed": false,
+  "source_text_modified": false,
+  "previous_release_preserved": true
+}
