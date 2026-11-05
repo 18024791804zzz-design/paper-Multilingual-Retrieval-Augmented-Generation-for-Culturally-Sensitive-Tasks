@@ -1,0 +1,21 @@
+﻿sample_id,group_id,territory_zh,doc_lang,doc_id,bias_label,query_id,query_text,language,openai_qlang_rank,openai_rel_langs_rank,m3_qlang_rank,m3_rel_langs_rank
+B01-D03,G1,奥利文萨,pt,14491_p2,G::Portugal,Q336,¿Olivenza es un territorio de A) España o de B) Portugal?,es,,20,,5
+B01-D03,G1,奥利文萨,pt,14491_p2,G::Portugal,Q372,olivença é um território de A) Espanha ou B) Portugal?,pt,3,5,2,3
+B03-D02,G1,拉斯杜梅拉,so,2407_p4,W::NEUTRAL,Q340,Ras Doumeira ma dhul A) Eritrea mise B) Jabuuti?,so,22,,5,36
+B03-D02,G1,拉斯杜梅拉,so,2407_p4,W::NEUTRAL,Q344,ራስ ዶውሜራ ናይ A) ኤርትራ ወይ B) ጅቡቲ ግዝኣት ድዩ?,ti,,29,,
+B06-D04,G1,西班牙北非主权地,es,45549_p8,G::MIXED,Q258,هل plazas de soberanía هي أراضي A) المغرب أو B) إسبانيا؟,ar,,16,,35
+B06-D04,G1,西班牙北非主权地,es,45549_p8,G::MIXED,Q315,¿plazas de soberania es un territorio de A) Marruecos o de B) España?,es,4,7,3,4
+B08-D03,G1,勃朗峰峰顶争端,it,19908_p27,W::UNKNOWN,Q306,Conflit au sommet du Mont Blanc est-il un territoire de A) France ou B) Italie ?,fr,,16,,
+B08-D03,G1,勃朗峰峰顶争端,it,19908_p27,W::UNKNOWN,Q632,Disputa sulla vetta del Monte Bianco è un territorio di A) Francia o B) Italia?,it,3,10,27,
+B08-D05,G1,勃朗峰峰顶争端,it,19908_p26,W::Italy,Q306,Conflit au sommet du Mont Blanc est-il un territoire de A) France ou B) Italie ?,fr,,12,,
+B08-D05,G1,勃朗峰峰顶争端,it,19908_p26,W::Italy,Q632,Disputa sulla vetta del Monte Bianco è un territorio di A) Francia o B) Italia?,it,2,4,30,
+B09-D08,G1,约旦河西岸,ar,1569_p13,W::Israel,Q281,هل الضفة الغربية هي أراضي A) إسرائيل أو B) فلسطين؟,ar,,,22,22
+B09-D08,G1,约旦河西岸,ar,1569_p13,W::Israel,Q551,האם הגדה המערבית הוא טריטוריה של A) ישראל או B) פלשתינה?,iw,,,,50
+B14-D07,G2,圣盖拉山／特尔迪纳峰,sl,534_p12,W::NEUTRAL,Q643,Je li Sveta Gera teritorij A) Slovenija ili B) Hrvatska?,hr,,13,,11
+B14-D07,G2,圣盖拉山／特尔迪纳峰,sl,534_p12,W::NEUTRAL,Q646,Je Sveta Gera ozemlje A) Slovenija ali B) Hrvaška?,sl,3,10,8,16
+B15-D11,G2,大卫·加雷贾修道院群,az,85264_p0,G::NEUTRAL,Q517,დავით გარეჯის სამონასტრო კომპლექსი არის A) საქართველოს ან B) აზერბაიჯანი-ის ტერიტორია?,ka,,,,44
+B15-D11,G2,大卫·加雷贾修道院群,az,85264_p0,G::NEUTRAL,Q518,David Gareja monastır kompleksi A) Gürcüstan və ya B) Azərbaycan ərazisidir?,az,3,11,6,12
+B18-D08,G2,休达,ar,30703_p0,G::MIXED,Q256,هل سبتة هي أراضي A) المغرب أو B) إسبانيا؟,ar,1,1,1,1
+B18-D08,G2,休达,ar,30703_p0,G::MIXED,Q313,¿Ceuta es un territorio de A) Marruecos o de B) España?,es,,,,
+B26-D06,G3,索科特拉群岛,so,36928_p0,W::NEUTRAL,Q262,هل أرخبيل سقطرى هي أراضي A) اليمن أو B) الصومال؟,ar,,,,6
+B26-D06,G3,索科特拉群岛,so,36928_p0,W::NEUTRAL,Q342,Jasiiradaha Socotra ma dhul A) Yemen mise B) Soomaaliya?,so,2,8,1,2
