@@ -1,0 +1,45 @@
+{
+  "paper_table_9_viewpoint": [
+    {
+      "language": "English",
+      "TP": 20,
+      "FP": 66,
+      "FN": 1,
+      "TN_paper": 0,
+      "precision": 0.23255813953488372,
+      "recall": 0.9523809523809523,
+      "f1": 0.37383177570093457,
+      "positive_support": 21
+    },
+    {
+      "language": "Korean",
+      "TP": 5,
+      "FP": 51,
+      "FN": 4,
+      "TN_paper": 0,
+      "precision": 0.08928571428571429,
+      "recall": 0.5555555555555556,
+      "f1": 0.15384615384615385,
+      "positive_support": 9
+    },
+    {
+      "language": "Chinese",
+      "TP": 5,
+      "FP": 77,
+      "FN": 4,
+      "TN_paper": 0,
+      "precision": 0.06097560975609756,
+      "recall": 0.5555555555555556,
+      "f1": 0.10989010989010989,
+      "positive_support": 9
+    }
+  ],
+  "support_weighted_f1_reconstructed": 0.2621562477781026,
+  "language_macro_f1": 0.21252267981239945,
+  "pooled_micro_from_published_counts": 0.22813688212927757,
+  "limitations": [
+    "Published paper sets viewpoint TN to zero; complete multiclass confusion matrix not supplied in table9.",
+    "Support-weighted mean reconstructs approximately0.26 arithmetically; exact authors sample/label mapping not independently reproduced.",
+    "Published TSV snapshot differs in counts from cleaned543 paper sample."
+  ]
+}

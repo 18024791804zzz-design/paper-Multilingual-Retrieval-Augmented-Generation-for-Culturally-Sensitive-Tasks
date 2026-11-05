@@ -1,0 +1,1664 @@
+﻿language,category,term,status,term_id,matching_rule,indexed_occurrences,indexed_paragraphs,raw_occurrences,raw_paragraphs
+en,W1,puppet regime,assistant_proposed_unvalidated_seed,T0001,unicode_word_bounded_literal_ignorecase,2,2,2,2
+en,W1,traitor,assistant_proposed_unvalidated_seed,T0002,unicode_word_bounded_literal_ignorecase,0,0,3,2
+en,W1,barbaric,assistant_proposed_unvalidated_seed,T0003,unicode_word_bounded_literal_ignorecase,1,1,2,2
+en,W1,savage,assistant_proposed_unvalidated_seed,T0004,unicode_word_bounded_literal_ignorecase,5,5,11,9
+en,W1,rogue state,assistant_proposed_unvalidated_seed,T0005,unicode_word_bounded_literal_ignorecase,1,1,1,1
+en,W2,glorious,assistant_proposed_unvalidated_seed,T0006,unicode_word_bounded_literal_ignorecase,0,0,5,5
+en,W2,heroic,assistant_proposed_unvalidated_seed,T0007,unicode_word_bounded_literal_ignorecase,1,1,6,6
+en,W2,peace-loving,assistant_proposed_unvalidated_seed,T0008,unicode_word_bounded_literal_ignorecase,0,0,0,0
+en,W2,magnificent,assistant_proposed_unvalidated_seed,T0009,unicode_word_bounded_literal_ignorecase,10,10,16,16
+en,W3,undoubtedly,assistant_proposed_unvalidated_seed,T0010,unicode_word_bounded_literal_ignorecase,3,3,5,5
+en,W3,indisputable,assistant_proposed_unvalidated_seed,T0011,unicode_word_bounded_literal_ignorecase,2,2,2,2
+en,W3,indisputably,assistant_proposed_unvalidated_seed,T0012,unicode_word_bounded_literal_ignorecase,1,1,1,1
+en,W3,obviously,assistant_proposed_unvalidated_seed,T0013,unicode_word_bounded_literal_ignorecase,1,1,1,1
+en,W3,without doubt,assistant_proposed_unvalidated_seed,T0014,unicode_word_bounded_literal_ignorecase,1,1,1,1
+en,W4,iron fist,assistant_proposed_unvalidated_seed,T0015,unicode_word_bounded_literal_ignorecase,0,0,0,0
+en,W4,stranglehold,assistant_proposed_unvalidated_seed,T0016,unicode_word_bounded_literal_ignorecase,0,0,0,0
+en,W4,wring,assistant_proposed_unvalidated_seed,T0017,unicode_word_bounded_literal_ignorecase,1,1,1,1
+en,W4,crush,assistant_proposed_unvalidated_seed,T0018,unicode_word_bounded_literal_ignorecase,1,1,5,5
+en,W4,shattered the myth,assistant_proposed_unvalidated_seed,T0019,unicode_word_bounded_literal_ignorecase,0,0,0,0
+en,W5,so-called,assistant_proposed_unvalidated_seed,T0020,unicode_word_bounded_literal_ignorecase,39,38,79,77
+en,W5,boasted,assistant_proposed_unvalidated_seed,T0021,unicode_word_bounded_literal_ignorecase,1,1,3,3
+en,W5,pretended,assistant_proposed_unvalidated_seed,T0022,unicode_word_bounded_literal_ignorecase,0,0,0,0
+en,W5,admitted,assistant_proposed_unvalidated_seed,T0023,unicode_word_bounded_literal_ignorecase,20,20,44,42
+en,G1,belongs to,assistant_proposed_unvalidated_seed,T0024,unicode_word_bounded_literal_ignorecase,44,38,62,55
+en,G1,belong to,assistant_proposed_unvalidated_seed,T0025,unicode_word_bounded_literal_ignorecase,51,48,89,83
+en,G1,integral part,assistant_proposed_unvalidated_seed,T0026,unicode_word_bounded_literal_ignorecase,25,25,42,42
+en,G1,sovereignty,assistant_proposed_unvalidated_seed,T0027,unicode_word_bounded_literal_ignorecase,450,359,508,415
+en,G1,rightful owner,assistant_proposed_unvalidated_seed,T0028,unicode_word_bounded_literal_ignorecase,0,0,0,0
+en,G2,illegal,assistant_proposed_unvalidated_seed,T0029,unicode_word_bounded_literal_ignorecase,92,79,212,182
+en,G2,illegally,assistant_proposed_unvalidated_seed,T0030,unicode_word_bounded_literal_ignorecase,14,14,24,24
+en,G2,unlawful,assistant_proposed_unvalidated_seed,T0031,unicode_word_bounded_literal_ignorecase,9,8,13,11
+en,G2,illegitimate,assistant_proposed_unvalidated_seed,T0032,unicode_word_bounded_literal_ignorecase,6,6,10,10
+en,G2,occupation,assistant_proposed_unvalidated_seed,T0033,unicode_word_bounded_literal_ignorecase,203,179,298,263
+en,G2,occupied,assistant_proposed_unvalidated_seed,T0034,unicode_word_bounded_literal_ignorecase,351,295,438,373
+en,G2,aggression,assistant_proposed_unvalidated_seed,T0035,unicode_word_bounded_literal_ignorecase,18,18,34,33
+en,G3,with the aim of,assistant_proposed_unvalidated_seed,T0036,unicode_word_bounded_literal_ignorecase,10,10,25,25
+en,G3,in order to,assistant_proposed_unvalidated_seed,T0037,unicode_word_bounded_literal_ignorecase,69,67,139,135
+en,G3,intended to,assistant_proposed_unvalidated_seed,T0038,unicode_word_bounded_literal_ignorecase,29,28,55,54
+en,G3,political interests,assistant_proposed_unvalidated_seed,T0039,unicode_word_bounded_literal_ignorecase,1,1,2,2
+en,G4,international community,assistant_proposed_unvalidated_seed,T0040,unicode_word_bounded_literal_ignorecase,41,39,60,58
+en,G4,widely believed,assistant_proposed_unvalidated_seed,T0041,unicode_word_bounded_literal_ignorecase,3,3,4,4
+en,G4,experts agree,assistant_proposed_unvalidated_seed,T0042,unicode_word_bounded_literal_ignorecase,0,0,0,0
+en,G4,universally recognized,assistant_proposed_unvalidated_seed,T0043,unicode_word_bounded_literal_ignorecase,0,0,0,0
+en,ATTR,according to,assistant_proposed_unvalidated_seed,T0044,unicode_word_bounded_literal_ignorecase,648,595,1497,1373
+en,ATTR,claimed that,assistant_proposed_unvalidated_seed,T0045,unicode_word_bounded_literal_ignorecase,50,49,84,81
+en,ATTR,government said,assistant_proposed_unvalidated_seed,T0046,unicode_word_bounded_literal_ignorecase,3,3,6,6
+en,ATTR,court ruled,assistant_proposed_unvalidated_seed,T0047,unicode_word_bounded_literal_ignorecase,7,6,20,17
+zhs,W1,傀儡,assistant_proposed_unvalidated_seed,T0048,literal_substring_ignorecase,6,5,9,8
+zhs,W1,叛徒,assistant_proposed_unvalidated_seed,T0049,literal_substring_ignorecase,0,0,0,0
+zhs,W1,野蛮,assistant_proposed_unvalidated_seed,T0050,literal_substring_ignorecase,0,0,0,0
+zhs,W1,流氓国家,assistant_proposed_unvalidated_seed,T0051,literal_substring_ignorecase,0,0,0,0
+zhs,W2,光荣,assistant_proposed_unvalidated_seed,T0052,literal_substring_ignorecase,0,0,1,1
+zhs,W2,英勇,assistant_proposed_unvalidated_seed,T0053,literal_substring_ignorecase,0,0,0,0
+zhs,W2,爱好和平,assistant_proposed_unvalidated_seed,T0054,literal_substring_ignorecase,0,0,1,1
+zhs,W2,伟大,assistant_proposed_unvalidated_seed,T0055,literal_substring_ignorecase,2,2,4,4
+zhs,W3,毫无疑问,assistant_proposed_unvalidated_seed,T0056,literal_substring_ignorecase,0,0,0,0
+zhs,W3,毋庸置疑,assistant_proposed_unvalidated_seed,T0057,literal_substring_ignorecase,0,0,0,0
+zhs,W3,显然,assistant_proposed_unvalidated_seed,T0058,literal_substring_ignorecase,0,0,0,0
+zhs,W3,无可争议,assistant_proposed_unvalidated_seed,T0059,literal_substring_ignorecase,1,1,1,1
+zhs,W3,不可否认,assistant_proposed_unvalidated_seed,T0060,literal_substring_ignorecase,0,0,0,0
+zhs,W4,铁腕,assistant_proposed_unvalidated_seed,T0061,literal_substring_ignorecase,0,0,0,0
+zhs,W4,强迫,assistant_proposed_unvalidated_seed,T0062,literal_substring_ignorecase,5,5,5,5
+zhs,W4,强占,assistant_proposed_unvalidated_seed,T0063,literal_substring_ignorecase,0,0,0,0
+zhs,W4,粉碎,assistant_proposed_unvalidated_seed,T0064,literal_substring_ignorecase,0,0,0,0
+zhs,W4,神话,assistant_proposed_unvalidated_seed,T0065,literal_substring_ignorecase,5,3,11,9
+zhs,W5,所谓,assistant_proposed_unvalidated_seed,T0066,literal_substring_ignorecase,6,6,12,12
+zhs,W5,妄称,assistant_proposed_unvalidated_seed,T0067,literal_substring_ignorecase,0,0,0,0
+zhs,W5,吹嘘,assistant_proposed_unvalidated_seed,T0068,literal_substring_ignorecase,0,0,0,0
+zhs,W5,承认,assistant_proposed_unvalidated_seed,T0069,literal_substring_ignorecase,67,56,81,69
+zhs,W5,声称,assistant_proposed_unvalidated_seed,T0070,literal_substring_ignorecase,26,23,27,24
+zhs,G1,属于,assistant_proposed_unvalidated_seed,T0071,literal_substring_ignorecase,79,65,124,104
+zhs,G1,不可分割,assistant_proposed_unvalidated_seed,T0072,literal_substring_ignorecase,1,1,1,1
+zhs,G1,主权,assistant_proposed_unvalidated_seed,T0073,literal_substring_ignorecase,117,80,133,94
+zhs,G1,领土,assistant_proposed_unvalidated_seed,T0074,literal_substring_ignorecase,135,94,149,107
+zhs,G2,非法,assistant_proposed_unvalidated_seed,T0075,literal_substring_ignorecase,15,14,27,24
+zhs,G2,违法,assistant_proposed_unvalidated_seed,T0076,literal_substring_ignorecase,1,1,2,2
+zhs,G2,不合法,assistant_proposed_unvalidated_seed,T0077,literal_substring_ignorecase,0,0,4,3
+zhs,G2,占领,assistant_proposed_unvalidated_seed,T0078,literal_substring_ignorecase,50,36,81,57
+zhs,G2,侵略,assistant_proposed_unvalidated_seed,T0079,literal_substring_ignorecase,5,4,11,9
+zhs,G3,企图,assistant_proposed_unvalidated_seed,T0080,literal_substring_ignorecase,2,2,5,5
+zhs,G3,旨在,assistant_proposed_unvalidated_seed,T0081,literal_substring_ignorecase,2,2,4,4
+zhs,G3,为了,assistant_proposed_unvalidated_seed,T0082,literal_substring_ignorecase,19,18,48,46
+zhs,G3,政治利益,assistant_proposed_unvalidated_seed,T0083,literal_substring_ignorecase,0,0,0,0
+zhs,G4,国际社会,assistant_proposed_unvalidated_seed,T0084,literal_substring_ignorecase,7,7,18,17
+zhs,G4,普遍认为,assistant_proposed_unvalidated_seed,T0085,literal_substring_ignorecase,1,1,2,2
+zhs,G4,专家一致,assistant_proposed_unvalidated_seed,T0086,literal_substring_ignorecase,0,0,0,0
+zhs,G4,公认,assistant_proposed_unvalidated_seed,T0087,literal_substring_ignorecase,4,4,4,4
+zhs,ATTR,根据,assistant_proposed_unvalidated_seed,T0088,literal_substring_ignorecase,68,64,154,144
+zhs,ATTR,据称,assistant_proposed_unvalidated_seed,T0089,literal_substring_ignorecase,2,2,2,2
+zhs,ATTR,表示,assistant_proposed_unvalidated_seed,T0090,literal_substring_ignorecase,35,32,64,54
+zhs,ATTR,法院裁定,assistant_proposed_unvalidated_seed,T0091,literal_substring_ignorecase,1,1,1,1
+zhs,ATTR,政府认为,assistant_proposed_unvalidated_seed,T0092,literal_substring_ignorecase,3,3,4,4
+zht,W1,傀儡,assistant_proposed_unvalidated_seed,T0093,literal_substring_ignorecase,7,6,9,8
+zht,W1,叛徒,assistant_proposed_unvalidated_seed,T0094,literal_substring_ignorecase,0,0,0,0
+zht,W1,野蠻,assistant_proposed_unvalidated_seed,T0095,literal_substring_ignorecase,0,0,0,0
+zht,W1,流氓國家,assistant_proposed_unvalidated_seed,T0096,literal_substring_ignorecase,0,0,0,0
+zht,W2,光榮,assistant_proposed_unvalidated_seed,T0097,literal_substring_ignorecase,0,0,1,1
+zht,W2,英勇,assistant_proposed_unvalidated_seed,T0098,literal_substring_ignorecase,0,0,0,0
+zht,W2,愛好和平,assistant_proposed_unvalidated_seed,T0099,literal_substring_ignorecase,0,0,1,1
+zht,W2,偉大,assistant_proposed_unvalidated_seed,T0100,literal_substring_ignorecase,2,2,4,4
+zht,W3,毫無疑問,assistant_proposed_unvalidated_seed,T0101,literal_substring_ignorecase,0,0,0,0
+zht,W3,毋庸置疑,assistant_proposed_unvalidated_seed,T0102,literal_substring_ignorecase,0,0,0,0
+zht,W3,顯然,assistant_proposed_unvalidated_seed,T0103,literal_substring_ignorecase,0,0,0,0
+zht,W3,無可爭議,assistant_proposed_unvalidated_seed,T0104,literal_substring_ignorecase,1,1,1,1
+zht,W3,不可否認,assistant_proposed_unvalidated_seed,T0105,literal_substring_ignorecase,0,0,0,0
+zht,W4,鐵腕,assistant_proposed_unvalidated_seed,T0106,literal_substring_ignorecase,0,0,0,0
+zht,W4,強迫,assistant_proposed_unvalidated_seed,T0107,literal_substring_ignorecase,7,7,7,7
+zht,W4,強佔,assistant_proposed_unvalidated_seed,T0108,literal_substring_ignorecase,0,0,0,0
+zht,W4,粉碎,assistant_proposed_unvalidated_seed,T0109,literal_substring_ignorecase,0,0,0,0
+zht,W4,神話,assistant_proposed_unvalidated_seed,T0110,literal_substring_ignorecase,5,3,11,9
+zht,W5,所謂,assistant_proposed_unvalidated_seed,T0111,literal_substring_ignorecase,7,7,15,15
+zht,W5,妄稱,assistant_proposed_unvalidated_seed,T0112,literal_substring_ignorecase,0,0,0,0
+zht,W5,吹噓,assistant_proposed_unvalidated_seed,T0113,literal_substring_ignorecase,0,0,0,0
+zht,W5,承認,assistant_proposed_unvalidated_seed,T0114,literal_substring_ignorecase,120,96,135,110
+zht,W5,聲稱,assistant_proposed_unvalidated_seed,T0115,literal_substring_ignorecase,29,26,32,29
+zht,G1,屬於,assistant_proposed_unvalidated_seed,T0116,literal_substring_ignorecase,114,94,147,124
+zht,G1,不可分割,assistant_proposed_unvalidated_seed,T0117,literal_substring_ignorecase,1,1,1,1
+zht,G1,主權,assistant_proposed_unvalidated_seed,T0118,literal_substring_ignorecase,134,96,152,110
+zht,G1,領土,assistant_proposed_unvalidated_seed,T0119,literal_substring_ignorecase,204,143,220,157
+zht,G2,非法,assistant_proposed_unvalidated_seed,T0120,literal_substring_ignorecase,17,16,29,26
+zht,G2,違法,assistant_proposed_unvalidated_seed,T0121,literal_substring_ignorecase,2,2,3,3
+zht,G2,不合法,assistant_proposed_unvalidated_seed,T0122,literal_substring_ignorecase,0,0,4,3
+zht,G2,佔領,assistant_proposed_unvalidated_seed,T0123,literal_substring_ignorecase,79,63,105,79
+zht,G2,占領,assistant_proposed_unvalidated_seed,T0124,literal_substring_ignorecase,0,0,0,0
+zht,G2,侵略,assistant_proposed_unvalidated_seed,T0125,literal_substring_ignorecase,14,11,22,18
+zht,G3,企圖,assistant_proposed_unvalidated_seed,T0126,literal_substring_ignorecase,2,2,5,5
+zht,G3,旨在,assistant_proposed_unvalidated_seed,T0127,literal_substring_ignorecase,3,3,5,5
+zht,G3,為了,assistant_proposed_unvalidated_seed,T0128,literal_substring_ignorecase,20,20,37,37
+zht,G3,政治利益,assistant_proposed_unvalidated_seed,T0129,literal_substring_ignorecase,0,0,0,0
+zht,G4,國際社會,assistant_proposed_unvalidated_seed,T0130,literal_substring_ignorecase,14,13,24,23
+zht,G4,普遍認為,assistant_proposed_unvalidated_seed,T0131,literal_substring_ignorecase,1,1,2,2
+zht,G4,專家一致,assistant_proposed_unvalidated_seed,T0132,literal_substring_ignorecase,0,0,0,0
+zht,G4,公認,assistant_proposed_unvalidated_seed,T0133,literal_substring_ignorecase,6,6,6,6
+zht,ATTR,根據,assistant_proposed_unvalidated_seed,T0134,literal_substring_ignorecase,104,95,180,167
+zht,ATTR,據稱,assistant_proposed_unvalidated_seed,T0135,literal_substring_ignorecase,3,3,3,3
+zht,ATTR,表示,assistant_proposed_unvalidated_seed,T0136,literal_substring_ignorecase,65,57,97,84
+zht,ATTR,法院裁定,assistant_proposed_unvalidated_seed,T0137,literal_substring_ignorecase,2,2,3,3
+zht,ATTR,政府認為,assistant_proposed_unvalidated_seed,T0138,literal_substring_ignorecase,3,3,4,4
+es,W1,régimen títere,assistant_proposed_unvalidated_seed,T0139,unicode_word_bounded_literal_ignorecase,0,0,0,0
+es,W1,traidor,assistant_proposed_unvalidated_seed,T0140,unicode_word_bounded_literal_ignorecase,0,0,0,0
+es,W1,bárbaro,assistant_proposed_unvalidated_seed,T0141,unicode_word_bounded_literal_ignorecase,0,0,1,1
+es,W1,salvaje,assistant_proposed_unvalidated_seed,T0142,unicode_word_bounded_literal_ignorecase,1,1,2,2
+es,W2,glorioso,assistant_proposed_unvalidated_seed,T0143,unicode_word_bounded_literal_ignorecase,0,0,1,1
+es,W2,heroico,assistant_proposed_unvalidated_seed,T0144,unicode_word_bounded_literal_ignorecase,0,0,0,0
+es,W2,magnífico,assistant_proposed_unvalidated_seed,T0145,unicode_word_bounded_literal_ignorecase,0,0,0,0
+es,W3,indudablemente,assistant_proposed_unvalidated_seed,T0146,unicode_word_bounded_literal_ignorecase,0,0,0,0
+es,W3,indiscutible,assistant_proposed_unvalidated_seed,T0147,unicode_word_bounded_literal_ignorecase,0,0,0,0
+es,W3,sin duda,assistant_proposed_unvalidated_seed,T0148,unicode_word_bounded_literal_ignorecase,1,1,3,3
+es,W3,evidentemente,assistant_proposed_unvalidated_seed,T0149,unicode_word_bounded_literal_ignorecase,0,0,2,2
+es,W4,puño de hierro,assistant_proposed_unvalidated_seed,T0150,unicode_word_bounded_literal_ignorecase,0,0,1,1
+es,W4,forzar,assistant_proposed_unvalidated_seed,T0151,unicode_word_bounded_literal_ignorecase,2,2,3,3
+es,W4,aplastar,assistant_proposed_unvalidated_seed,T0152,unicode_word_bounded_literal_ignorecase,0,0,0,0
+es,W4,mito,assistant_proposed_unvalidated_seed,T0153,unicode_word_bounded_literal_ignorecase,0,0,1,1
+es,W5,supuesto,assistant_proposed_unvalidated_seed,T0154,unicode_word_bounded_literal_ignorecase,0,0,4,4
+es,W5,presunto,assistant_proposed_unvalidated_seed,T0155,unicode_word_bounded_literal_ignorecase,0,0,1,1
+es,W5,alardeó,assistant_proposed_unvalidated_seed,T0156,unicode_word_bounded_literal_ignorecase,0,0,0,0
+es,W5,admitió,assistant_proposed_unvalidated_seed,T0157,unicode_word_bounded_literal_ignorecase,0,0,3,3
+es,G1,pertenece,assistant_proposed_unvalidated_seed,T0158,unicode_word_bounded_literal_ignorecase,9,8,24,22
+es,G1,pertenecen,assistant_proposed_unvalidated_seed,T0159,unicode_word_bounded_literal_ignorecase,9,8,16,15
+es,G1,parte integrante,assistant_proposed_unvalidated_seed,T0160,unicode_word_bounded_literal_ignorecase,4,4,4,4
+es,G1,soberanía,assistant_proposed_unvalidated_seed,T0161,unicode_word_bounded_literal_ignorecase,110,85,136,110
+es,G2,ilegal,assistant_proposed_unvalidated_seed,T0162,unicode_word_bounded_literal_ignorecase,2,2,16,14
+es,G2,ilegítimo,assistant_proposed_unvalidated_seed,T0163,unicode_word_bounded_literal_ignorecase,0,0,1,1
+es,G2,ocupación,assistant_proposed_unvalidated_seed,T0164,unicode_word_bounded_literal_ignorecase,19,19,31,30
+es,G2,ocupado,assistant_proposed_unvalidated_seed,T0165,unicode_word_bounded_literal_ignorecase,9,9,15,15
+es,G2,agresión,assistant_proposed_unvalidated_seed,T0166,unicode_word_bounded_literal_ignorecase,2,2,3,3
+es,G3,con el fin de,assistant_proposed_unvalidated_seed,T0167,unicode_word_bounded_literal_ignorecase,7,7,20,20
+es,G3,con el objetivo de,assistant_proposed_unvalidated_seed,T0168,unicode_word_bounded_literal_ignorecase,0,0,8,8
+es,G3,intereses políticos,assistant_proposed_unvalidated_seed,T0169,unicode_word_bounded_literal_ignorecase,0,0,0,0
+es,G4,comunidad internacional,assistant_proposed_unvalidated_seed,T0170,unicode_word_bounded_literal_ignorecase,1,1,7,7
+es,G4,se cree ampliamente,assistant_proposed_unvalidated_seed,T0171,unicode_word_bounded_literal_ignorecase,0,0,0,0
+es,G4,universalmente reconocido,assistant_proposed_unvalidated_seed,T0172,unicode_word_bounded_literal_ignorecase,0,0,0,0
+es,ATTR,según,assistant_proposed_unvalidated_seed,T0173,unicode_word_bounded_literal_ignorecase,93,88,401,361
+es,ATTR,afirmó,assistant_proposed_unvalidated_seed,T0174,unicode_word_bounded_literal_ignorecase,0,0,5,4
+es,ATTR,considera,assistant_proposed_unvalidated_seed,T0175,unicode_word_bounded_literal_ignorecase,22,19,50,46
+es,ATTR,tribunal,assistant_proposed_unvalidated_seed,T0176,unicode_word_bounded_literal_ignorecase,17,10,72,44
+fr,W1,régime fantoche,assistant_proposed_unvalidated_seed,T0177,unicode_word_bounded_literal_ignorecase,0,0,0,0
+fr,W1,traître,assistant_proposed_unvalidated_seed,T0178,unicode_word_bounded_literal_ignorecase,0,0,0,0
+fr,W1,barbare,assistant_proposed_unvalidated_seed,T0179,unicode_word_bounded_literal_ignorecase,0,0,0,0
+fr,W1,sauvage,assistant_proposed_unvalidated_seed,T0180,unicode_word_bounded_literal_ignorecase,6,6,15,15
+fr,W2,glorieux,assistant_proposed_unvalidated_seed,T0181,unicode_word_bounded_literal_ignorecase,0,0,1,1
+fr,W2,héroïque,assistant_proposed_unvalidated_seed,T0182,unicode_word_bounded_literal_ignorecase,0,0,0,0
+fr,W2,magnifique,assistant_proposed_unvalidated_seed,T0183,unicode_word_bounded_literal_ignorecase,0,0,0,0
+fr,W3,incontestable,assistant_proposed_unvalidated_seed,T0184,unicode_word_bounded_literal_ignorecase,0,0,0,0
+fr,W3,indiscutable,assistant_proposed_unvalidated_seed,T0185,unicode_word_bounded_literal_ignorecase,0,0,0,0
+fr,W3,sans aucun doute,assistant_proposed_unvalidated_seed,T0186,unicode_word_bounded_literal_ignorecase,0,0,0,0
+fr,W3,évidemment,assistant_proposed_unvalidated_seed,T0187,unicode_word_bounded_literal_ignorecase,0,0,0,0
+fr,W4,main de fer,assistant_proposed_unvalidated_seed,T0188,unicode_word_bounded_literal_ignorecase,0,0,0,0
+fr,W4,contraindre,assistant_proposed_unvalidated_seed,T0189,unicode_word_bounded_literal_ignorecase,0,0,0,0
+fr,W4,écraser,assistant_proposed_unvalidated_seed,T0190,unicode_word_bounded_literal_ignorecase,0,0,0,0
+fr,W4,mythe,assistant_proposed_unvalidated_seed,T0191,unicode_word_bounded_literal_ignorecase,0,0,11,4
+fr,W5,soi-disant,assistant_proposed_unvalidated_seed,T0192,unicode_word_bounded_literal_ignorecase,0,0,0,0
+fr,W5,prétendu,assistant_proposed_unvalidated_seed,T0193,unicode_word_bounded_literal_ignorecase,0,0,0,0
+fr,W5,s'est vanté,assistant_proposed_unvalidated_seed,T0194,unicode_word_bounded_literal_ignorecase,0,0,0,0
+fr,W5,a admis,assistant_proposed_unvalidated_seed,T0195,unicode_word_bounded_literal_ignorecase,0,0,0,0
+fr,G1,appartient,assistant_proposed_unvalidated_seed,T0196,unicode_word_bounded_literal_ignorecase,4,4,14,14
+fr,G1,appartiennent,assistant_proposed_unvalidated_seed,T0197,unicode_word_bounded_literal_ignorecase,7,7,19,18
+fr,G1,partie intégrante,assistant_proposed_unvalidated_seed,T0198,unicode_word_bounded_literal_ignorecase,5,5,10,10
+fr,G1,souveraineté,assistant_proposed_unvalidated_seed,T0199,unicode_word_bounded_literal_ignorecase,39,36,46,43
+fr,G2,illégal,assistant_proposed_unvalidated_seed,T0200,unicode_word_bounded_literal_ignorecase,3,2,9,7
+fr,G2,illégitime,assistant_proposed_unvalidated_seed,T0201,unicode_word_bounded_literal_ignorecase,0,0,0,0
+fr,G2,occupation,assistant_proposed_unvalidated_seed,T0202,unicode_word_bounded_literal_ignorecase,11,10,17,16
+fr,G2,occupé,assistant_proposed_unvalidated_seed,T0203,unicode_word_bounded_literal_ignorecase,12,12,18,18
+fr,G2,agression,assistant_proposed_unvalidated_seed,T0204,unicode_word_bounded_literal_ignorecase,0,0,1,1
+fr,G3,afin de,assistant_proposed_unvalidated_seed,T0205,unicode_word_bounded_literal_ignorecase,8,8,34,34
+fr,G3,dans le but de,assistant_proposed_unvalidated_seed,T0206,unicode_word_bounded_literal_ignorecase,2,2,13,12
+fr,G3,intérêts politiques,assistant_proposed_unvalidated_seed,T0207,unicode_word_bounded_literal_ignorecase,0,0,0,0
+fr,G4,communauté internationale,assistant_proposed_unvalidated_seed,T0208,unicode_word_bounded_literal_ignorecase,2,2,6,6
+fr,G4,largement considéré,assistant_proposed_unvalidated_seed,T0209,unicode_word_bounded_literal_ignorecase,0,0,0,0
+fr,G4,unanimement reconnu,assistant_proposed_unvalidated_seed,T0210,unicode_word_bounded_literal_ignorecase,0,0,0,0
+fr,ATTR,selon,assistant_proposed_unvalidated_seed,T0211,unicode_word_bounded_literal_ignorecase,118,61,399,259
+fr,ATTR,d'après,assistant_proposed_unvalidated_seed,T0212,unicode_word_bounded_literal_ignorecase,12,12,40,37
+fr,ATTR,a déclaré,assistant_proposed_unvalidated_seed,T0213,unicode_word_bounded_literal_ignorecase,3,3,7,7
+fr,ATTR,tribunal,assistant_proposed_unvalidated_seed,T0214,unicode_word_bounded_literal_ignorecase,5,5,22,13
+ru,W1,марионеточный,assistant_proposed_unvalidated_seed,T0215,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ru,W1,предатель,assistant_proposed_unvalidated_seed,T0216,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ru,W1,варварский,assistant_proposed_unvalidated_seed,T0217,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ru,W1,дикари,assistant_proposed_unvalidated_seed,T0218,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ru,W2,славный,assistant_proposed_unvalidated_seed,T0219,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ru,W2,героический,assistant_proposed_unvalidated_seed,T0220,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ru,W2,миролюбивый,assistant_proposed_unvalidated_seed,T0221,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ru,W2,величественный,assistant_proposed_unvalidated_seed,T0222,unicode_word_bounded_literal_ignorecase,0,0,1,1
+ru,W3,несомненно,assistant_proposed_unvalidated_seed,T0223,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ru,W3,бесспорно,assistant_proposed_unvalidated_seed,T0224,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ru,W3,очевидно,assistant_proposed_unvalidated_seed,T0225,unicode_word_bounded_literal_ignorecase,0,0,1,1
+ru,W3,безусловно,assistant_proposed_unvalidated_seed,T0226,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ru,W4,железной рукой,assistant_proposed_unvalidated_seed,T0227,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ru,W4,заставить,assistant_proposed_unvalidated_seed,T0228,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ru,W4,сокрушить,assistant_proposed_unvalidated_seed,T0229,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ru,W4,миф,assistant_proposed_unvalidated_seed,T0230,unicode_word_bounded_literal_ignorecase,1,1,1,1
+ru,W5,так называемый,assistant_proposed_unvalidated_seed,T0231,unicode_word_bounded_literal_ignorecase,1,1,3,3
+ru,W5,якобы,assistant_proposed_unvalidated_seed,T0232,unicode_word_bounded_literal_ignorecase,0,0,1,1
+ru,W5,хвастался,assistant_proposed_unvalidated_seed,T0233,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ru,W5,признал,assistant_proposed_unvalidated_seed,T0234,unicode_word_bounded_literal_ignorecase,2,2,4,4
+ru,G1,принадлежит,assistant_proposed_unvalidated_seed,T0235,unicode_word_bounded_literal_ignorecase,8,8,17,17
+ru,G1,принадлежат,assistant_proposed_unvalidated_seed,T0236,unicode_word_bounded_literal_ignorecase,3,2,9,8
+ru,G1,неотъемлемой частью,assistant_proposed_unvalidated_seed,T0237,unicode_word_bounded_literal_ignorecase,4,4,5,5
+ru,G1,суверенитет,assistant_proposed_unvalidated_seed,T0238,unicode_word_bounded_literal_ignorecase,4,4,5,5
+ru,G2,незаконный,assistant_proposed_unvalidated_seed,T0239,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ru,G2,незаконно,assistant_proposed_unvalidated_seed,T0240,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ru,G2,оккупация,assistant_proposed_unvalidated_seed,T0241,unicode_word_bounded_literal_ignorecase,4,4,7,7
+ru,G2,оккупирован,assistant_proposed_unvalidated_seed,T0242,unicode_word_bounded_literal_ignorecase,2,2,2,2
+ru,G2,агрессия,assistant_proposed_unvalidated_seed,T0243,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ru,G3,с целью,assistant_proposed_unvalidated_seed,T0244,unicode_word_bounded_literal_ignorecase,7,7,13,13
+ru,G3,для того чтобы,assistant_proposed_unvalidated_seed,T0245,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ru,G3,политические интересы,assistant_proposed_unvalidated_seed,T0246,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ru,G4,международное сообщество,assistant_proposed_unvalidated_seed,T0247,unicode_word_bounded_literal_ignorecase,1,1,1,1
+ru,G4,широко распространено,assistant_proposed_unvalidated_seed,T0248,unicode_word_bounded_literal_ignorecase,0,0,1,1
+ru,G4,общепризнанный,assistant_proposed_unvalidated_seed,T0249,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ru,ATTR,согласно,assistant_proposed_unvalidated_seed,T0250,unicode_word_bounded_literal_ignorecase,38,38,112,108
+ru,ATTR,по словам,assistant_proposed_unvalidated_seed,T0251,unicode_word_bounded_literal_ignorecase,2,2,3,3
+ru,ATTR,заявил,assistant_proposed_unvalidated_seed,T0252,unicode_word_bounded_literal_ignorecase,6,6,10,10
+ru,ATTR,суд постановил,assistant_proposed_unvalidated_seed,T0253,unicode_word_bounded_literal_ignorecase,1,1,1,1
+ar,W1,دمية,assistant_proposed_unvalidated_seed,T0254,unicode_word_bounded_literal_ignorecase,0,0,1,1
+ar,W1,خائن,assistant_proposed_unvalidated_seed,T0255,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ar,W1,همجي,assistant_proposed_unvalidated_seed,T0256,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ar,W1,وحشي,assistant_proposed_unvalidated_seed,T0257,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ar,W2,مجيد,assistant_proposed_unvalidated_seed,T0258,unicode_word_bounded_literal_ignorecase,0,0,1,1
+ar,W2,بطولي,assistant_proposed_unvalidated_seed,T0259,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ar,W2,محب للسلام,assistant_proposed_unvalidated_seed,T0260,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ar,W2,عظيم,assistant_proposed_unvalidated_seed,T0261,unicode_word_bounded_literal_ignorecase,2,2,3,3
+ar,W3,بلا شك,assistant_proposed_unvalidated_seed,T0262,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ar,W3,لا شك,assistant_proposed_unvalidated_seed,T0263,unicode_word_bounded_literal_ignorecase,0,0,1,1
+ar,W3,بالتأكيد,assistant_proposed_unvalidated_seed,T0264,unicode_word_bounded_literal_ignorecase,2,2,2,2
+ar,W3,لا جدال,assistant_proposed_unvalidated_seed,T0265,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ar,W4,قبضة حديدية,assistant_proposed_unvalidated_seed,T0266,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ar,W4,إجبار,assistant_proposed_unvalidated_seed,T0267,unicode_word_bounded_literal_ignorecase,0,0,1,1
+ar,W4,تحطم,assistant_proposed_unvalidated_seed,T0268,unicode_word_bounded_literal_ignorecase,3,3,3,3
+ar,W4,أسطورة,assistant_proposed_unvalidated_seed,T0269,unicode_word_bounded_literal_ignorecase,2,2,3,3
+ar,W5,ما يسمى,assistant_proposed_unvalidated_seed,T0270,unicode_word_bounded_literal_ignorecase,5,5,11,11
+ar,W5,المزعوم,assistant_proposed_unvalidated_seed,T0271,unicode_word_bounded_literal_ignorecase,2,2,3,3
+ar,W5,تباهى,assistant_proposed_unvalidated_seed,T0272,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ar,W5,اعترف,assistant_proposed_unvalidated_seed,T0273,unicode_word_bounded_literal_ignorecase,4,4,8,8
+ar,G1,جزء لا يتجزأ,assistant_proposed_unvalidated_seed,T0274,unicode_word_bounded_literal_ignorecase,1,1,2,2
+ar,G1,السيادة,assistant_proposed_unvalidated_seed,T0275,unicode_word_bounded_literal_ignorecase,34,28,44,37
+ar,G1,سيادة,assistant_proposed_unvalidated_seed,T0276,unicode_word_bounded_literal_ignorecase,12,12,17,17
+ar,G1,تنتمي,assistant_proposed_unvalidated_seed,T0277,unicode_word_bounded_literal_ignorecase,5,5,8,8
+ar,G2,غير قانوني,assistant_proposed_unvalidated_seed,T0278,unicode_word_bounded_literal_ignorecase,2,2,6,6
+ar,G2,غير شرعي,assistant_proposed_unvalidated_seed,T0279,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ar,G2,احتلال,assistant_proposed_unvalidated_seed,T0280,unicode_word_bounded_literal_ignorecase,19,15,35,29
+ar,G2,محتلة,assistant_proposed_unvalidated_seed,T0281,unicode_word_bounded_literal_ignorecase,10,10,12,12
+ar,G2,عدوان,assistant_proposed_unvalidated_seed,T0282,unicode_word_bounded_literal_ignorecase,0,0,1,1
+ar,G3,بهدف,assistant_proposed_unvalidated_seed,T0283,unicode_word_bounded_literal_ignorecase,8,7,38,37
+ar,G3,من أجل,assistant_proposed_unvalidated_seed,T0284,unicode_word_bounded_literal_ignorecase,22,21,54,50
+ar,G3,مصالح سياسية,assistant_proposed_unvalidated_seed,T0285,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ar,G4,المجتمع الدولي,assistant_proposed_unvalidated_seed,T0286,unicode_word_bounded_literal_ignorecase,7,7,9,9
+ar,G4,يعتقد على نطاق واسع,assistant_proposed_unvalidated_seed,T0287,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ar,G4,إجماع,assistant_proposed_unvalidated_seed,T0288,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ar,ATTR,وفقاً,assistant_proposed_unvalidated_seed,T0289,unicode_word_bounded_literal_ignorecase,15,15,36,35
+ar,ATTR,وفقا,assistant_proposed_unvalidated_seed,T0290,unicode_word_bounded_literal_ignorecase,27,25,82,78
+ar,ATTR,بحسب,assistant_proposed_unvalidated_seed,T0291,unicode_word_bounded_literal_ignorecase,19,18,65,60
+ar,ATTR,قال,assistant_proposed_unvalidated_seed,T0292,unicode_word_bounded_literal_ignorecase,11,8,23,20
+ar,ATTR,أعلنت,assistant_proposed_unvalidated_seed,T0293,unicode_word_bounded_literal_ignorecase,30,27,52,48
+pt,W1,regime fantoche,assistant_proposed_unvalidated_seed,T0294,unicode_word_bounded_literal_ignorecase,0,0,0,0
+pt,W1,traidor,assistant_proposed_unvalidated_seed,T0295,unicode_word_bounded_literal_ignorecase,0,0,0,0
+pt,W1,bárbaro,assistant_proposed_unvalidated_seed,T0296,unicode_word_bounded_literal_ignorecase,0,0,0,0
+pt,W1,selvagem,assistant_proposed_unvalidated_seed,T0297,unicode_word_bounded_literal_ignorecase,2,2,5,4
+pt,W2,glorioso,assistant_proposed_unvalidated_seed,T0298,unicode_word_bounded_literal_ignorecase,0,0,0,0
+pt,W2,heroico,assistant_proposed_unvalidated_seed,T0299,unicode_word_bounded_literal_ignorecase,0,0,0,0
+pt,W2,magnífico,assistant_proposed_unvalidated_seed,T0300,unicode_word_bounded_literal_ignorecase,0,0,1,1
+pt,W3,indubitavelmente,assistant_proposed_unvalidated_seed,T0301,unicode_word_bounded_literal_ignorecase,0,0,0,0
+pt,W3,indiscutível,assistant_proposed_unvalidated_seed,T0302,unicode_word_bounded_literal_ignorecase,0,0,0,0
+pt,W3,sem dúvida,assistant_proposed_unvalidated_seed,T0303,unicode_word_bounded_literal_ignorecase,1,1,1,1
+pt,W3,obviamente,assistant_proposed_unvalidated_seed,T0304,unicode_word_bounded_literal_ignorecase,0,0,0,0
+pt,W4,mão de ferro,assistant_proposed_unvalidated_seed,T0305,unicode_word_bounded_literal_ignorecase,0,0,0,0
+pt,W4,forçar,assistant_proposed_unvalidated_seed,T0306,unicode_word_bounded_literal_ignorecase,0,0,0,0
+pt,W4,esmagar,assistant_proposed_unvalidated_seed,T0307,unicode_word_bounded_literal_ignorecase,0,0,0,0
+pt,W4,mito,assistant_proposed_unvalidated_seed,T0308,unicode_word_bounded_literal_ignorecase,0,0,0,0
+pt,W5,suposto,assistant_proposed_unvalidated_seed,T0309,unicode_word_bounded_literal_ignorecase,0,0,0,0
+pt,W5,alegado,assistant_proposed_unvalidated_seed,T0310,unicode_word_bounded_literal_ignorecase,0,0,0,0
+pt,W5,gabou,assistant_proposed_unvalidated_seed,T0311,unicode_word_bounded_literal_ignorecase,0,0,0,0
+pt,W5,admitiu,assistant_proposed_unvalidated_seed,T0312,unicode_word_bounded_literal_ignorecase,0,0,0,0
+pt,G1,pertence,assistant_proposed_unvalidated_seed,T0313,unicode_word_bounded_literal_ignorecase,6,6,6,6
+pt,G1,pertencem,assistant_proposed_unvalidated_seed,T0314,unicode_word_bounded_literal_ignorecase,1,1,1,1
+pt,G1,parte integrante,assistant_proposed_unvalidated_seed,T0315,unicode_word_bounded_literal_ignorecase,2,2,5,5
+pt,G1,soberania,assistant_proposed_unvalidated_seed,T0316,unicode_word_bounded_literal_ignorecase,9,9,14,14
+pt,G2,ilegal,assistant_proposed_unvalidated_seed,T0317,unicode_word_bounded_literal_ignorecase,0,0,1,1
+pt,G2,ilegítimo,assistant_proposed_unvalidated_seed,T0318,unicode_word_bounded_literal_ignorecase,0,0,0,0
+pt,G2,ocupação,assistant_proposed_unvalidated_seed,T0319,unicode_word_bounded_literal_ignorecase,3,3,4,4
+pt,G2,ocupado,assistant_proposed_unvalidated_seed,T0320,unicode_word_bounded_literal_ignorecase,4,4,4,4
+pt,G2,agressão,assistant_proposed_unvalidated_seed,T0321,unicode_word_bounded_literal_ignorecase,0,0,0,0
+pt,G3,com o objetivo de,assistant_proposed_unvalidated_seed,T0322,unicode_word_bounded_literal_ignorecase,0,0,4,4
+pt,G3,a fim de,assistant_proposed_unvalidated_seed,T0323,unicode_word_bounded_literal_ignorecase,3,3,9,9
+pt,G3,interesses políticos,assistant_proposed_unvalidated_seed,T0324,unicode_word_bounded_literal_ignorecase,1,1,1,1
+pt,G4,comunidade internacional,assistant_proposed_unvalidated_seed,T0325,unicode_word_bounded_literal_ignorecase,0,0,0,0
+pt,G4,amplamente considerado,assistant_proposed_unvalidated_seed,T0326,unicode_word_bounded_literal_ignorecase,0,0,1,1
+pt,G4,universalmente reconhecido,assistant_proposed_unvalidated_seed,T0327,unicode_word_bounded_literal_ignorecase,0,0,0,0
+pt,ATTR,segundo,assistant_proposed_unvalidated_seed,T0328,unicode_word_bounded_literal_ignorecase,33,29,67,59
+pt,ATTR,de acordo com,assistant_proposed_unvalidated_seed,T0329,unicode_word_bounded_literal_ignorecase,10,10,36,36
+pt,ATTR,alegou,assistant_proposed_unvalidated_seed,T0330,unicode_word_bounded_literal_ignorecase,1,1,1,1
+pt,ATTR,afirmou,assistant_proposed_unvalidated_seed,T0331,unicode_word_bounded_literal_ignorecase,2,2,3,3
+it,W1,regime fantoccio,assistant_proposed_unvalidated_seed,T0332,unicode_word_bounded_literal_ignorecase,0,0,0,0
+it,W1,traditore,assistant_proposed_unvalidated_seed,T0333,unicode_word_bounded_literal_ignorecase,0,0,0,0
+it,W1,barbaro,assistant_proposed_unvalidated_seed,T0334,unicode_word_bounded_literal_ignorecase,0,0,0,0
+it,W1,selvaggio,assistant_proposed_unvalidated_seed,T0335,unicode_word_bounded_literal_ignorecase,0,0,0,0
+it,W2,glorioso,assistant_proposed_unvalidated_seed,T0336,unicode_word_bounded_literal_ignorecase,0,0,0,0
+it,W2,eroico,assistant_proposed_unvalidated_seed,T0337,unicode_word_bounded_literal_ignorecase,0,0,0,0
+it,W2,magnifico,assistant_proposed_unvalidated_seed,T0338,unicode_word_bounded_literal_ignorecase,0,0,1,1
+it,W3,indubbiamente,assistant_proposed_unvalidated_seed,T0339,unicode_word_bounded_literal_ignorecase,0,0,0,0
+it,W3,indiscutibile,assistant_proposed_unvalidated_seed,T0340,unicode_word_bounded_literal_ignorecase,0,0,0,0
+it,W3,senza dubbio,assistant_proposed_unvalidated_seed,T0341,unicode_word_bounded_literal_ignorecase,0,0,1,1
+it,W3,ovviamente,assistant_proposed_unvalidated_seed,T0342,unicode_word_bounded_literal_ignorecase,0,0,1,1
+it,W4,pugno di ferro,assistant_proposed_unvalidated_seed,T0343,unicode_word_bounded_literal_ignorecase,0,0,0,0
+it,W4,costringere,assistant_proposed_unvalidated_seed,T0344,unicode_word_bounded_literal_ignorecase,0,0,0,0
+it,W4,schiacciare,assistant_proposed_unvalidated_seed,T0345,unicode_word_bounded_literal_ignorecase,0,0,0,0
+it,W4,mito,assistant_proposed_unvalidated_seed,T0346,unicode_word_bounded_literal_ignorecase,0,0,0,0
+it,W5,cosiddetto,assistant_proposed_unvalidated_seed,T0347,unicode_word_bounded_literal_ignorecase,0,0,2,2
+it,W5,presunto,assistant_proposed_unvalidated_seed,T0348,unicode_word_bounded_literal_ignorecase,0,0,0,0
+it,W5,vantava,assistant_proposed_unvalidated_seed,T0349,unicode_word_bounded_literal_ignorecase,0,0,0,0
+it,W5,ammise,assistant_proposed_unvalidated_seed,T0350,unicode_word_bounded_literal_ignorecase,0,0,0,0
+it,G1,appartiene,assistant_proposed_unvalidated_seed,T0351,unicode_word_bounded_literal_ignorecase,1,1,4,4
+it,G1,appartengono,assistant_proposed_unvalidated_seed,T0352,unicode_word_bounded_literal_ignorecase,0,0,1,1
+it,G1,parte integrante,assistant_proposed_unvalidated_seed,T0353,unicode_word_bounded_literal_ignorecase,0,0,1,1
+it,G1,sovranità,assistant_proposed_unvalidated_seed,T0354,unicode_word_bounded_literal_ignorecase,2,2,3,3
+it,G2,illegale,assistant_proposed_unvalidated_seed,T0355,unicode_word_bounded_literal_ignorecase,0,0,0,0
+it,G2,illegittimo,assistant_proposed_unvalidated_seed,T0356,unicode_word_bounded_literal_ignorecase,0,0,0,0
+it,G2,occupazione,assistant_proposed_unvalidated_seed,T0357,unicode_word_bounded_literal_ignorecase,0,0,6,4
+it,G2,occupato,assistant_proposed_unvalidated_seed,T0358,unicode_word_bounded_literal_ignorecase,0,0,0,0
+it,G2,aggressione,assistant_proposed_unvalidated_seed,T0359,unicode_word_bounded_literal_ignorecase,0,0,0,0
+it,G3,allo scopo di,assistant_proposed_unvalidated_seed,T0360,unicode_word_bounded_literal_ignorecase,0,0,0,0
+it,G3,al fine di,assistant_proposed_unvalidated_seed,T0361,unicode_word_bounded_literal_ignorecase,1,1,3,3
+it,G3,interessi politici,assistant_proposed_unvalidated_seed,T0362,unicode_word_bounded_literal_ignorecase,0,0,0,0
+it,G4,comunità internazionale,assistant_proposed_unvalidated_seed,T0363,unicode_word_bounded_literal_ignorecase,0,0,0,0
+it,G4,ampiamente ritenuto,assistant_proposed_unvalidated_seed,T0364,unicode_word_bounded_literal_ignorecase,0,0,0,0
+it,G4,universalmente riconosciuto,assistant_proposed_unvalidated_seed,T0365,unicode_word_bounded_literal_ignorecase,0,0,0,0
+it,ATTR,secondo,assistant_proposed_unvalidated_seed,T0366,unicode_word_bounded_literal_ignorecase,11,8,75,63
+it,ATTR,ha dichiarato,assistant_proposed_unvalidated_seed,T0367,unicode_word_bounded_literal_ignorecase,0,0,0,0
+it,ATTR,sostiene,assistant_proposed_unvalidated_seed,T0368,unicode_word_bounded_literal_ignorecase,0,0,2,2
+it,ATTR,tribunale,assistant_proposed_unvalidated_seed,T0369,unicode_word_bounded_literal_ignorecase,0,0,2,2
+nl,W1,marionettenregime,assistant_proposed_unvalidated_seed,T0370,unicode_word_bounded_literal_ignorecase,0,0,0,0
+nl,W1,verrader,assistant_proposed_unvalidated_seed,T0371,unicode_word_bounded_literal_ignorecase,0,0,0,0
+nl,W1,barbaars,assistant_proposed_unvalidated_seed,T0372,unicode_word_bounded_literal_ignorecase,0,0,0,0
+nl,W1,wild,assistant_proposed_unvalidated_seed,T0373,unicode_word_bounded_literal_ignorecase,0,0,0,0
+nl,W2,glorieus,assistant_proposed_unvalidated_seed,T0374,unicode_word_bounded_literal_ignorecase,0,0,0,0
+nl,W2,heldhaftig,assistant_proposed_unvalidated_seed,T0375,unicode_word_bounded_literal_ignorecase,0,0,0,0
+nl,W2,vredelievend,assistant_proposed_unvalidated_seed,T0376,unicode_word_bounded_literal_ignorecase,0,0,0,0
+nl,W2,prachtig,assistant_proposed_unvalidated_seed,T0377,unicode_word_bounded_literal_ignorecase,0,0,0,0
+nl,W3,ongetwijfeld,assistant_proposed_unvalidated_seed,T0378,unicode_word_bounded_literal_ignorecase,0,0,0,0
+nl,W3,onbetwistbaar,assistant_proposed_unvalidated_seed,T0379,unicode_word_bounded_literal_ignorecase,0,0,0,0
+nl,W3,duidelijk,assistant_proposed_unvalidated_seed,T0380,unicode_word_bounded_literal_ignorecase,1,1,2,2
+nl,W4,ijzeren vuist,assistant_proposed_unvalidated_seed,T0381,unicode_word_bounded_literal_ignorecase,0,0,0,0
+nl,W4,dwingen,assistant_proposed_unvalidated_seed,T0382,unicode_word_bounded_literal_ignorecase,0,0,0,0
+nl,W4,verpletteren,assistant_proposed_unvalidated_seed,T0383,unicode_word_bounded_literal_ignorecase,0,0,0,0
+nl,W4,mythe,assistant_proposed_unvalidated_seed,T0384,unicode_word_bounded_literal_ignorecase,0,0,0,0
+nl,W5,zogenaamde,assistant_proposed_unvalidated_seed,T0385,unicode_word_bounded_literal_ignorecase,5,5,6,6
+nl,W5,vermeende,assistant_proposed_unvalidated_seed,T0386,unicode_word_bounded_literal_ignorecase,0,0,0,0
+nl,W5,pochte,assistant_proposed_unvalidated_seed,T0387,unicode_word_bounded_literal_ignorecase,0,0,0,0
+nl,W5,erkende,assistant_proposed_unvalidated_seed,T0388,unicode_word_bounded_literal_ignorecase,0,0,0,0
+nl,G1,behoort,assistant_proposed_unvalidated_seed,T0389,unicode_word_bounded_literal_ignorecase,6,6,7,7
+nl,G1,behoren,assistant_proposed_unvalidated_seed,T0390,unicode_word_bounded_literal_ignorecase,2,2,3,3
+nl,G1,integraal onderdeel,assistant_proposed_unvalidated_seed,T0391,unicode_word_bounded_literal_ignorecase,1,1,1,1
+nl,G1,soevereiniteit,assistant_proposed_unvalidated_seed,T0392,unicode_word_bounded_literal_ignorecase,0,0,0,0
+nl,G2,illegaal,assistant_proposed_unvalidated_seed,T0393,unicode_word_bounded_literal_ignorecase,0,0,0,0
+nl,G2,onrechtmatig,assistant_proposed_unvalidated_seed,T0394,unicode_word_bounded_literal_ignorecase,0,0,0,0
+nl,G2,bezetting,assistant_proposed_unvalidated_seed,T0395,unicode_word_bounded_literal_ignorecase,0,0,0,0
+nl,G2,bezet,assistant_proposed_unvalidated_seed,T0396,unicode_word_bounded_literal_ignorecase,1,1,1,1
+nl,G2,agressie,assistant_proposed_unvalidated_seed,T0397,unicode_word_bounded_literal_ignorecase,0,0,0,0
+nl,G3,met als doel,assistant_proposed_unvalidated_seed,T0398,unicode_word_bounded_literal_ignorecase,0,0,0,0
+nl,G3,om te,assistant_proposed_unvalidated_seed,T0399,unicode_word_bounded_literal_ignorecase,1,1,1,1
+nl,G3,politieke belangen,assistant_proposed_unvalidated_seed,T0400,unicode_word_bounded_literal_ignorecase,0,0,0,0
+nl,G4,internationale gemeenschap,assistant_proposed_unvalidated_seed,T0401,unicode_word_bounded_literal_ignorecase,0,0,0,0
+nl,G4,algemeen aangenomen,assistant_proposed_unvalidated_seed,T0402,unicode_word_bounded_literal_ignorecase,0,0,0,0
+nl,G4,algemeen erkend,assistant_proposed_unvalidated_seed,T0403,unicode_word_bounded_literal_ignorecase,0,0,0,0
+nl,ATTR,volgens,assistant_proposed_unvalidated_seed,T0404,unicode_word_bounded_literal_ignorecase,5,4,11,10
+nl,ATTR,verklaarde,assistant_proposed_unvalidated_seed,T0405,unicode_word_bounded_literal_ignorecase,1,1,2,2
+nl,ATTR,stelde,assistant_proposed_unvalidated_seed,T0406,unicode_word_bounded_literal_ignorecase,2,2,2,2
+nl,ATTR,rechtbank,assistant_proposed_unvalidated_seed,T0407,unicode_word_bounded_literal_ignorecase,2,1,2,1
+uk,W1,маріонетковий,assistant_proposed_unvalidated_seed,T0408,unicode_word_bounded_literal_ignorecase,0,0,0,0
+uk,W1,зрадник,assistant_proposed_unvalidated_seed,T0409,unicode_word_bounded_literal_ignorecase,0,0,0,0
+uk,W1,варварський,assistant_proposed_unvalidated_seed,T0410,unicode_word_bounded_literal_ignorecase,0,0,0,0
+uk,W2,славний,assistant_proposed_unvalidated_seed,T0411,unicode_word_bounded_literal_ignorecase,0,0,0,0
+uk,W2,героїчний,assistant_proposed_unvalidated_seed,T0412,unicode_word_bounded_literal_ignorecase,0,0,0,0
+uk,W2,миролюбний,assistant_proposed_unvalidated_seed,T0413,unicode_word_bounded_literal_ignorecase,0,0,0,0
+uk,W3,безсумнівно,assistant_proposed_unvalidated_seed,T0414,unicode_word_bounded_literal_ignorecase,0,0,0,0
+uk,W3,безперечно,assistant_proposed_unvalidated_seed,T0415,unicode_word_bounded_literal_ignorecase,0,0,0,0
+uk,W3,очевидно,assistant_proposed_unvalidated_seed,T0416,unicode_word_bounded_literal_ignorecase,0,0,0,0
+uk,W4,залізною рукою,assistant_proposed_unvalidated_seed,T0417,unicode_word_bounded_literal_ignorecase,0,0,0,0
+uk,W4,примусити,assistant_proposed_unvalidated_seed,T0418,unicode_word_bounded_literal_ignorecase,0,0,0,0
+uk,W4,розгромити,assistant_proposed_unvalidated_seed,T0419,unicode_word_bounded_literal_ignorecase,0,0,0,0
+uk,W4,міф,assistant_proposed_unvalidated_seed,T0420,unicode_word_bounded_literal_ignorecase,0,0,0,0
+uk,W5,так звані,assistant_proposed_unvalidated_seed,T0421,unicode_word_bounded_literal_ignorecase,4,4,5,5
+uk,W5,нібито,assistant_proposed_unvalidated_seed,T0422,unicode_word_bounded_literal_ignorecase,0,0,0,0
+uk,W5,хвалився,assistant_proposed_unvalidated_seed,T0423,unicode_word_bounded_literal_ignorecase,0,0,0,0
+uk,W5,визнав,assistant_proposed_unvalidated_seed,T0424,unicode_word_bounded_literal_ignorecase,1,1,4,3
+uk,G1,належить,assistant_proposed_unvalidated_seed,T0425,unicode_word_bounded_literal_ignorecase,2,2,12,12
+uk,G1,належать,assistant_proposed_unvalidated_seed,T0426,unicode_word_bounded_literal_ignorecase,4,4,11,11
+uk,G1,невід'ємною частиною,assistant_proposed_unvalidated_seed,T0427,unicode_word_bounded_literal_ignorecase,0,0,1,1
+uk,G1,суверенітет,assistant_proposed_unvalidated_seed,T0428,unicode_word_bounded_literal_ignorecase,4,4,6,6
+uk,G2,незаконний,assistant_proposed_unvalidated_seed,T0429,unicode_word_bounded_literal_ignorecase,1,1,1,1
+uk,G2,нелегітимний,assistant_proposed_unvalidated_seed,T0430,unicode_word_bounded_literal_ignorecase,1,1,1,1
+uk,G2,окупація,assistant_proposed_unvalidated_seed,T0431,unicode_word_bounded_literal_ignorecase,3,3,3,3
+uk,G2,окупований,assistant_proposed_unvalidated_seed,T0432,unicode_word_bounded_literal_ignorecase,0,0,0,0
+uk,G2,агресія,assistant_proposed_unvalidated_seed,T0433,unicode_word_bounded_literal_ignorecase,3,3,3,3
+uk,G3,з метою,assistant_proposed_unvalidated_seed,T0434,unicode_word_bounded_literal_ignorecase,1,1,9,9
+uk,G3,для того щоб,assistant_proposed_unvalidated_seed,T0435,unicode_word_bounded_literal_ignorecase,0,0,0,0
+uk,G3,політичні інтереси,assistant_proposed_unvalidated_seed,T0436,unicode_word_bounded_literal_ignorecase,0,0,0,0
+uk,G4,міжнародна спільнота,assistant_proposed_unvalidated_seed,T0437,unicode_word_bounded_literal_ignorecase,0,0,0,0
+uk,G4,загальновизнаний,assistant_proposed_unvalidated_seed,T0438,unicode_word_bounded_literal_ignorecase,0,0,0,0
+uk,ATTR,згідно,assistant_proposed_unvalidated_seed,T0439,unicode_word_bounded_literal_ignorecase,11,10,28,27
+uk,ATTR,за словами,assistant_proposed_unvalidated_seed,T0440,unicode_word_bounded_literal_ignorecase,0,0,1,1
+uk,ATTR,заявив,assistant_proposed_unvalidated_seed,T0441,unicode_word_bounded_literal_ignorecase,1,1,2,2
+uk,ATTR,суд,assistant_proposed_unvalidated_seed,T0442,unicode_word_bounded_literal_ignorecase,3,2,7,5
+ja,W1,傀儡,assistant_proposed_unvalidated_seed,T0443,literal_substring_ignorecase,5,3,8,6
+ja,W1,裏切り者,assistant_proposed_unvalidated_seed,T0444,literal_substring_ignorecase,0,0,0,0
+ja,W1,野蛮,assistant_proposed_unvalidated_seed,T0445,literal_substring_ignorecase,0,0,2,2
+ja,W2,栄光,assistant_proposed_unvalidated_seed,T0446,literal_substring_ignorecase,0,0,1,1
+ja,W2,英雄的,assistant_proposed_unvalidated_seed,T0447,literal_substring_ignorecase,0,0,0,0
+ja,W2,平和を愛する,assistant_proposed_unvalidated_seed,T0448,literal_substring_ignorecase,0,0,0,0
+ja,W2,偉大,assistant_proposed_unvalidated_seed,T0449,literal_substring_ignorecase,1,1,7,5
+ja,W3,疑いなく,assistant_proposed_unvalidated_seed,T0450,literal_substring_ignorecase,0,0,0,0
+ja,W3,明らか,assistant_proposed_unvalidated_seed,T0451,literal_substring_ignorecase,2,2,12,12
+ja,W3,疑いの余地,assistant_proposed_unvalidated_seed,T0452,literal_substring_ignorecase,0,0,0,0
+ja,W3,紛れもなく,assistant_proposed_unvalidated_seed,T0453,literal_substring_ignorecase,0,0,0,0
+ja,W4,鉄拳,assistant_proposed_unvalidated_seed,T0454,literal_substring_ignorecase,0,0,0,0
+ja,W4,強要,assistant_proposed_unvalidated_seed,T0455,literal_substring_ignorecase,1,1,3,3
+ja,W4,強制,assistant_proposed_unvalidated_seed,T0456,literal_substring_ignorecase,1,1,39,27
+ja,W4,粉砕,assistant_proposed_unvalidated_seed,T0457,literal_substring_ignorecase,0,0,0,0
+ja,W4,神話,assistant_proposed_unvalidated_seed,T0458,literal_substring_ignorecase,0,0,5,5
+ja,W5,いわゆる,assistant_proposed_unvalidated_seed,T0459,literal_substring_ignorecase,5,5,12,12
+ja,W5,自称,assistant_proposed_unvalidated_seed,T0460,literal_substring_ignorecase,3,3,5,5
+ja,W5,認めた,assistant_proposed_unvalidated_seed,T0461,literal_substring_ignorecase,6,5,10,9
+ja,W5,豪語,assistant_proposed_unvalidated_seed,T0462,literal_substring_ignorecase,0,0,0,0
+ja,G1,領有権,assistant_proposed_unvalidated_seed,T0463,literal_substring_ignorecase,60,42,65,47
+ja,G1,主権,assistant_proposed_unvalidated_seed,T0464,literal_substring_ignorecase,15,11,27,22
+ja,G1,領土,assistant_proposed_unvalidated_seed,T0465,literal_substring_ignorecase,117,65,146,89
+ja,G1,不可分,assistant_proposed_unvalidated_seed,T0466,literal_substring_ignorecase,0,0,2,2
+ja,G2,不法,assistant_proposed_unvalidated_seed,T0467,literal_substring_ignorecase,7,4,11,8
+ja,G2,違法,assistant_proposed_unvalidated_seed,T0468,literal_substring_ignorecase,2,2,9,9
+ja,G2,不当,assistant_proposed_unvalidated_seed,T0469,literal_substring_ignorecase,0,0,2,2
+ja,G2,占領,assistant_proposed_unvalidated_seed,T0470,literal_substring_ignorecase,35,21,49,32
+ja,G2,侵略,assistant_proposed_unvalidated_seed,T0471,literal_substring_ignorecase,3,3,11,10
+ja,G3,目的として,assistant_proposed_unvalidated_seed,T0472,literal_substring_ignorecase,0,0,3,3
+ja,G3,ために,assistant_proposed_unvalidated_seed,T0473,literal_substring_ignorecase,9,7,63,59
+ja,G3,政治的利益,assistant_proposed_unvalidated_seed,T0474,literal_substring_ignorecase,0,0,0,0
+ja,G4,国際社会,assistant_proposed_unvalidated_seed,T0475,literal_substring_ignorecase,3,3,24,23
+ja,G4,広く認められ,assistant_proposed_unvalidated_seed,T0476,literal_substring_ignorecase,0,0,0,0
+ja,G4,一般に考えられ,assistant_proposed_unvalidated_seed,T0477,literal_substring_ignorecase,0,0,0,0
+ja,ATTR,によると,assistant_proposed_unvalidated_seed,T0478,literal_substring_ignorecase,4,4,61,50
+ja,ATTR,主張している,assistant_proposed_unvalidated_seed,T0479,literal_substring_ignorecase,22,16,30,22
+ja,ATTR,述べた,assistant_proposed_unvalidated_seed,T0480,literal_substring_ignorecase,2,1,9,7
+ja,ATTR,裁判所,assistant_proposed_unvalidated_seed,T0481,literal_substring_ignorecase,7,4,22,13
+ko,W1,괴뢰,assistant_proposed_unvalidated_seed,T0482,literal_substring_ignorecase,2,2,3,3
+ko,W1,배신자,assistant_proposed_unvalidated_seed,T0483,literal_substring_ignorecase,0,0,0,0
+ko,W1,야만,assistant_proposed_unvalidated_seed,T0484,literal_substring_ignorecase,1,1,5,5
+ko,W2,영광,assistant_proposed_unvalidated_seed,T0485,literal_substring_ignorecase,0,0,0,0
+ko,W2,영웅적,assistant_proposed_unvalidated_seed,T0486,literal_substring_ignorecase,0,0,0,0
+ko,W2,평화를 사랑,assistant_proposed_unvalidated_seed,T0487,literal_substring_ignorecase,0,0,0,0
+ko,W2,위대한,assistant_proposed_unvalidated_seed,T0488,literal_substring_ignorecase,1,1,2,2
+ko,W3,의심할 여지,assistant_proposed_unvalidated_seed,T0489,literal_substring_ignorecase,0,0,0,0
+ko,W3,명백,assistant_proposed_unvalidated_seed,T0490,literal_substring_ignorecase,0,0,0,0
+ko,W3,논란의 여지,assistant_proposed_unvalidated_seed,T0491,literal_substring_ignorecase,0,0,0,0
+ko,W4,철권,assistant_proposed_unvalidated_seed,T0492,literal_substring_ignorecase,0,0,0,0
+ko,W4,강요,assistant_proposed_unvalidated_seed,T0493,literal_substring_ignorecase,0,0,2,2
+ko,W4,강제,assistant_proposed_unvalidated_seed,T0494,literal_substring_ignorecase,1,1,16,11
+ko,W4,신화,assistant_proposed_unvalidated_seed,T0495,literal_substring_ignorecase,8,5,18,10
+ko,W5,소위,assistant_proposed_unvalidated_seed,T0496,literal_substring_ignorecase,0,0,2,2
+ko,W5,이른바,assistant_proposed_unvalidated_seed,T0497,literal_substring_ignorecase,1,1,18,17
+ko,W5,자칭,assistant_proposed_unvalidated_seed,T0498,literal_substring_ignorecase,1,1,2,2
+ko,W5,인정했다,assistant_proposed_unvalidated_seed,T0499,literal_substring_ignorecase,0,0,1,1
+ko,G1,주권,assistant_proposed_unvalidated_seed,T0500,literal_substring_ignorecase,8,7,15,12
+ko,G1,영유권,assistant_proposed_unvalidated_seed,T0501,literal_substring_ignorecase,23,18,24,19
+ko,G1,영토,assistant_proposed_unvalidated_seed,T0502,literal_substring_ignorecase,71,50,89,66
+ko,G1,불가분,assistant_proposed_unvalidated_seed,T0503,literal_substring_ignorecase,0,0,0,0
+ko,G2,불법,assistant_proposed_unvalidated_seed,T0504,literal_substring_ignorecase,2,2,7,6
+ko,G2,위법,assistant_proposed_unvalidated_seed,T0505,literal_substring_ignorecase,0,0,0,0
+ko,G2,점령,assistant_proposed_unvalidated_seed,T0506,literal_substring_ignorecase,11,9,18,14
+ko,G2,침략,assistant_proposed_unvalidated_seed,T0507,literal_substring_ignorecase,3,3,16,11
+ko,G3,목적으로,assistant_proposed_unvalidated_seed,T0508,literal_substring_ignorecase,4,4,15,15
+ko,G3,하기 위해,assistant_proposed_unvalidated_seed,T0509,literal_substring_ignorecase,4,4,18,18
+ko,G3,정치적 이익,assistant_proposed_unvalidated_seed,T0510,literal_substring_ignorecase,0,0,0,0
+ko,G4,국제사회,assistant_proposed_unvalidated_seed,T0511,literal_substring_ignorecase,2,2,4,3
+ko,G4,국제 사회,assistant_proposed_unvalidated_seed,T0512,literal_substring_ignorecase,1,1,5,5
+ko,G4,널리 인정,assistant_proposed_unvalidated_seed,T0513,literal_substring_ignorecase,0,0,0,0
+ko,ATTR,따르면,assistant_proposed_unvalidated_seed,T0514,literal_substring_ignorecase,2,2,33,30
+ko,ATTR,주장했다,assistant_proposed_unvalidated_seed,T0515,literal_substring_ignorecase,0,0,0,0
+ko,ATTR,밝혔다,assistant_proposed_unvalidated_seed,T0516,literal_substring_ignorecase,2,1,9,8
+ko,ATTR,법원,assistant_proposed_unvalidated_seed,T0517,literal_substring_ignorecase,3,3,58,14
+hi,W1,कठपुतली,assistant_proposed_unvalidated_seed,T0518,unicode_word_bounded_literal_ignorecase,0,0,0,0
+hi,W1,गद्दार,assistant_proposed_unvalidated_seed,T0519,unicode_word_bounded_literal_ignorecase,0,0,0,0
+hi,W1,बर्बर,assistant_proposed_unvalidated_seed,T0520,unicode_word_bounded_literal_ignorecase,0,0,0,0
+hi,W2,गौरवशाली,assistant_proposed_unvalidated_seed,T0521,unicode_word_bounded_literal_ignorecase,1,1,1,1
+hi,W2,वीर,assistant_proposed_unvalidated_seed,T0522,unicode_word_bounded_literal_ignorecase,7,6,7,6
+hi,W2,महान,assistant_proposed_unvalidated_seed,T0523,unicode_word_bounded_literal_ignorecase,4,4,5,5
+hi,W3,निस्संदेह,assistant_proposed_unvalidated_seed,T0524,unicode_word_bounded_literal_ignorecase,0,0,0,0
+hi,W3,निर्विवाद,assistant_proposed_unvalidated_seed,T0525,unicode_word_bounded_literal_ignorecase,0,0,0,0
+hi,W3,स्पष्ट रूप,assistant_proposed_unvalidated_seed,T0526,unicode_word_bounded_literal_ignorecase,2,2,2,2
+hi,W4,लोहे की मुट्ठी,assistant_proposed_unvalidated_seed,T0527,unicode_word_bounded_literal_ignorecase,0,0,0,0
+hi,W4,मजबूर,assistant_proposed_unvalidated_seed,T0528,unicode_word_bounded_literal_ignorecase,0,0,0,0
+hi,W4,कुचल,assistant_proposed_unvalidated_seed,T0529,unicode_word_bounded_literal_ignorecase,1,1,1,1
+hi,W4,मिथक,assistant_proposed_unvalidated_seed,T0530,unicode_word_bounded_literal_ignorecase,0,0,0,0
+hi,W5,तथाकथित,assistant_proposed_unvalidated_seed,T0531,unicode_word_bounded_literal_ignorecase,0,0,0,0
+hi,W5,कथित,assistant_proposed_unvalidated_seed,T0532,unicode_word_bounded_literal_ignorecase,0,0,0,0
+hi,W5,डींग,assistant_proposed_unvalidated_seed,T0533,unicode_word_bounded_literal_ignorecase,0,0,0,0
+hi,W5,स्वीकार किया,assistant_proposed_unvalidated_seed,T0534,unicode_word_bounded_literal_ignorecase,4,4,4,4
+hi,G1,संप्रभुता,assistant_proposed_unvalidated_seed,T0535,unicode_word_bounded_literal_ignorecase,2,2,2,2
+hi,G1,अभिन्न अंग,assistant_proposed_unvalidated_seed,T0536,unicode_word_bounded_literal_ignorecase,0,0,0,0
+hi,G1,का हिस्सा,assistant_proposed_unvalidated_seed,T0537,unicode_word_bounded_literal_ignorecase,11,11,14,14
+hi,G2,अवैध,assistant_proposed_unvalidated_seed,T0538,unicode_word_bounded_literal_ignorecase,2,1,2,1
+hi,G2,गैरकानूनी,assistant_proposed_unvalidated_seed,T0539,unicode_word_bounded_literal_ignorecase,0,0,0,0
+hi,G2,कब्जा,assistant_proposed_unvalidated_seed,T0540,unicode_word_bounded_literal_ignorecase,7,7,7,7
+hi,G2,कब्ज़ा,assistant_proposed_unvalidated_seed,T0541,unicode_word_bounded_literal_ignorecase,2,2,2,2
+hi,G2,आक्रमण,assistant_proposed_unvalidated_seed,T0542,unicode_word_bounded_literal_ignorecase,6,5,6,5
+hi,G3,के उद्देश्य से,assistant_proposed_unvalidated_seed,T0543,unicode_word_bounded_literal_ignorecase,0,0,0,0
+hi,G3,के लिए,assistant_proposed_unvalidated_seed,T0544,unicode_word_bounded_literal_ignorecase,89,63,97,70
+hi,G3,राजनीतिक हित,assistant_proposed_unvalidated_seed,T0545,unicode_word_bounded_literal_ignorecase,0,0,0,0
+hi,G4,अंतरराष्ट्रीय समुदाय,assistant_proposed_unvalidated_seed,T0546,unicode_word_bounded_literal_ignorecase,0,0,0,0
+hi,G4,अंतर्राष्ट्रीय समुदाय,assistant_proposed_unvalidated_seed,T0547,unicode_word_bounded_literal_ignorecase,0,0,0,0
+hi,G4,व्यापक रूप से,assistant_proposed_unvalidated_seed,T0548,unicode_word_bounded_literal_ignorecase,1,1,1,1
+hi,ATTR,के अनुसार,assistant_proposed_unvalidated_seed,T0549,unicode_word_bounded_literal_ignorecase,45,36,47,38
+hi,ATTR,दावा किया,assistant_proposed_unvalidated_seed,T0550,unicode_word_bounded_literal_ignorecase,2,2,2,2
+hi,ATTR,कहा,assistant_proposed_unvalidated_seed,T0551,unicode_word_bounded_literal_ignorecase,22,17,24,19
+hi,ATTR,न्यायालय,assistant_proposed_unvalidated_seed,T0552,unicode_word_bounded_literal_ignorecase,10,2,10,2
+ur,W1,کٹھ پتلی,assistant_proposed_unvalidated_seed,T0553,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ur,W1,غدار,assistant_proposed_unvalidated_seed,T0554,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ur,W1,وحشی,assistant_proposed_unvalidated_seed,T0555,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ur,W2,شاندار,assistant_proposed_unvalidated_seed,T0556,unicode_word_bounded_literal_ignorecase,0,0,1,1
+ur,W2,بہادر,assistant_proposed_unvalidated_seed,T0557,unicode_word_bounded_literal_ignorecase,4,2,5,3
+ur,W2,عظیم,assistant_proposed_unvalidated_seed,T0558,unicode_word_bounded_literal_ignorecase,3,2,3,2
+ur,W3,بلاشبہ,assistant_proposed_unvalidated_seed,T0559,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ur,W3,بلا شبہ,assistant_proposed_unvalidated_seed,T0560,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ur,W3,ناقابل تردید,assistant_proposed_unvalidated_seed,T0561,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ur,W4,آہنی ہاتھ,assistant_proposed_unvalidated_seed,T0562,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ur,W4,مجبور,assistant_proposed_unvalidated_seed,T0563,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ur,W4,کچل,assistant_proposed_unvalidated_seed,T0564,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ur,W4,افسانہ,assistant_proposed_unvalidated_seed,T0565,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ur,W5,نام نہاد,assistant_proposed_unvalidated_seed,T0566,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ur,W5,مبینہ,assistant_proposed_unvalidated_seed,T0567,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ur,W5,شیخی,assistant_proposed_unvalidated_seed,T0568,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ur,W5,اعتراف,assistant_proposed_unvalidated_seed,T0569,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ur,G1,خودمختاری,assistant_proposed_unvalidated_seed,T0570,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ur,G1,خود مختاری,assistant_proposed_unvalidated_seed,T0571,unicode_word_bounded_literal_ignorecase,1,1,1,1
+ur,G1,اٹوٹ انگ,assistant_proposed_unvalidated_seed,T0572,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ur,G1,حصہ,assistant_proposed_unvalidated_seed,T0573,unicode_word_bounded_literal_ignorecase,18,15,20,17
+ur,G2,غیر قانونی,assistant_proposed_unvalidated_seed,T0574,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ur,G2,ناجائز,assistant_proposed_unvalidated_seed,T0575,unicode_word_bounded_literal_ignorecase,1,1,1,1
+ur,G2,قبضہ,assistant_proposed_unvalidated_seed,T0576,unicode_word_bounded_literal_ignorecase,10,6,10,6
+ur,G2,جارحیت,assistant_proposed_unvalidated_seed,T0577,unicode_word_bounded_literal_ignorecase,0,0,1,1
+ur,G3,مقصد,assistant_proposed_unvalidated_seed,T0578,unicode_word_bounded_literal_ignorecase,2,2,2,2
+ur,G3,کے لیے,assistant_proposed_unvalidated_seed,T0579,unicode_word_bounded_literal_ignorecase,26,17,30,20
+ur,G3,سیاسی مفادات,assistant_proposed_unvalidated_seed,T0580,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ur,G4,عالمی برادری,assistant_proposed_unvalidated_seed,T0581,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ur,G4,بین الاقوامی برادری,assistant_proposed_unvalidated_seed,T0582,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ur,ATTR,کے مطابق,assistant_proposed_unvalidated_seed,T0583,unicode_word_bounded_literal_ignorecase,6,6,7,7
+ur,ATTR,دعویٰ,assistant_proposed_unvalidated_seed,T0584,unicode_word_bounded_literal_ignorecase,1,1,1,1
+ur,ATTR,کہا,assistant_proposed_unvalidated_seed,T0585,unicode_word_bounded_literal_ignorecase,9,9,10,10
+ur,ATTR,عدالت,assistant_proposed_unvalidated_seed,T0586,unicode_word_bounded_literal_ignorecase,0,0,1,1
+fa,W1,دست‌نشانده,assistant_proposed_unvalidated_seed,T0587,unicode_word_bounded_literal_ignorecase,0,0,0,0
+fa,W1,خائن,assistant_proposed_unvalidated_seed,T0588,unicode_word_bounded_literal_ignorecase,0,0,0,0
+fa,W1,وحشی,assistant_proposed_unvalidated_seed,T0589,unicode_word_bounded_literal_ignorecase,2,1,4,2
+fa,W2,باشکوه,assistant_proposed_unvalidated_seed,T0590,unicode_word_bounded_literal_ignorecase,0,0,0,0
+fa,W2,قهرمانانه,assistant_proposed_unvalidated_seed,T0591,unicode_word_bounded_literal_ignorecase,0,0,0,0
+fa,W2,صلح‌دوست,assistant_proposed_unvalidated_seed,T0592,unicode_word_bounded_literal_ignorecase,0,0,0,0
+fa,W3,بی‌شک,assistant_proposed_unvalidated_seed,T0593,unicode_word_bounded_literal_ignorecase,0,0,0,0
+fa,W3,بدون شک,assistant_proposed_unvalidated_seed,T0594,unicode_word_bounded_literal_ignorecase,0,0,0,0
+fa,W3,آشکارا,assistant_proposed_unvalidated_seed,T0595,unicode_word_bounded_literal_ignorecase,0,0,0,0
+fa,W4,مشت آهنین,assistant_proposed_unvalidated_seed,T0596,unicode_word_bounded_literal_ignorecase,0,0,0,0
+fa,W4,مجبور,assistant_proposed_unvalidated_seed,T0597,unicode_word_bounded_literal_ignorecase,1,1,6,6
+fa,W4,اسطوره,assistant_proposed_unvalidated_seed,T0598,unicode_word_bounded_literal_ignorecase,0,0,1,1
+fa,W5,به‌اصطلاح,assistant_proposed_unvalidated_seed,T0599,unicode_word_bounded_literal_ignorecase,0,0,0,0
+fa,W5,به اصطلاح,assistant_proposed_unvalidated_seed,T0600,unicode_word_bounded_literal_ignorecase,0,0,0,0
+fa,W5,لاف,assistant_proposed_unvalidated_seed,T0601,unicode_word_bounded_literal_ignorecase,0,0,0,0
+fa,W5,اعتراف,assistant_proposed_unvalidated_seed,T0602,unicode_word_bounded_literal_ignorecase,0,0,0,0
+fa,G1,حاکمیت,assistant_proposed_unvalidated_seed,T0603,unicode_word_bounded_literal_ignorecase,9,8,16,13
+fa,G1,جزء جدایی‌ناپذیر,assistant_proposed_unvalidated_seed,T0604,unicode_word_bounded_literal_ignorecase,0,0,0,0
+fa,G1,تعلق دارد,assistant_proposed_unvalidated_seed,T0605,unicode_word_bounded_literal_ignorecase,0,0,1,1
+fa,G2,غیرقانونی,assistant_proposed_unvalidated_seed,T0606,unicode_word_bounded_literal_ignorecase,4,4,7,7
+fa,G2,نامشروع,assistant_proposed_unvalidated_seed,T0607,unicode_word_bounded_literal_ignorecase,1,1,1,1
+fa,G2,اشغال,assistant_proposed_unvalidated_seed,T0608,unicode_word_bounded_literal_ignorecase,5,4,24,19
+fa,G2,تجاوز,assistant_proposed_unvalidated_seed,T0609,unicode_word_bounded_literal_ignorecase,0,0,2,2
+fa,G3,با هدف,assistant_proposed_unvalidated_seed,T0610,unicode_word_bounded_literal_ignorecase,3,3,4,4
+fa,G3,به منظور,assistant_proposed_unvalidated_seed,T0611,unicode_word_bounded_literal_ignorecase,2,2,6,6
+fa,G3,منافع سیاسی,assistant_proposed_unvalidated_seed,T0612,unicode_word_bounded_literal_ignorecase,0,0,0,0
+fa,G4,جامعه بین‌المللی,assistant_proposed_unvalidated_seed,T0613,unicode_word_bounded_literal_ignorecase,0,0,0,0
+fa,G4,به طور گسترده,assistant_proposed_unvalidated_seed,T0614,unicode_word_bounded_literal_ignorecase,0,0,0,0
+fa,ATTR,به گفته,assistant_proposed_unvalidated_seed,T0615,unicode_word_bounded_literal_ignorecase,3,2,4,3
+fa,ATTR,بر اساس,assistant_proposed_unvalidated_seed,T0616,unicode_word_bounded_literal_ignorecase,9,6,56,47
+fa,ATTR,ادعا,assistant_proposed_unvalidated_seed,T0617,unicode_word_bounded_literal_ignorecase,0,0,1,1
+fa,ATTR,دادگاه,assistant_proposed_unvalidated_seed,T0618,unicode_word_bounded_literal_ignorecase,0,0,15,9
+tr,W1,kukla,assistant_proposed_unvalidated_seed,T0619,unicode_word_bounded_literal_ignorecase,0,0,0,0
+tr,W1,hain,assistant_proposed_unvalidated_seed,T0620,unicode_word_bounded_literal_ignorecase,0,0,0,0
+tr,W1,barbar,assistant_proposed_unvalidated_seed,T0621,unicode_word_bounded_literal_ignorecase,0,0,0,0
+tr,W2,şanlı,assistant_proposed_unvalidated_seed,T0622,unicode_word_bounded_literal_ignorecase,0,0,0,0
+tr,W2,kahraman,assistant_proposed_unvalidated_seed,T0623,unicode_word_bounded_literal_ignorecase,0,0,0,0
+tr,W2,barışsever,assistant_proposed_unvalidated_seed,T0624,unicode_word_bounded_literal_ignorecase,0,0,0,0
+tr,W3,şüphesiz,assistant_proposed_unvalidated_seed,T0625,unicode_word_bounded_literal_ignorecase,0,0,0,0
+tr,W3,tartışmasız,assistant_proposed_unvalidated_seed,T0626,unicode_word_bounded_literal_ignorecase,0,0,0,0
+tr,W3,kuşkusuz,assistant_proposed_unvalidated_seed,T0627,unicode_word_bounded_literal_ignorecase,0,0,0,0
+tr,W4,demir yumruk,assistant_proposed_unvalidated_seed,T0628,unicode_word_bounded_literal_ignorecase,0,0,0,0
+tr,W4,zorlamak,assistant_proposed_unvalidated_seed,T0629,unicode_word_bounded_literal_ignorecase,0,0,0,0
+tr,W4,ezmek,assistant_proposed_unvalidated_seed,T0630,unicode_word_bounded_literal_ignorecase,0,0,0,0
+tr,W4,efsane,assistant_proposed_unvalidated_seed,T0631,unicode_word_bounded_literal_ignorecase,0,0,0,0
+tr,W5,sözde,assistant_proposed_unvalidated_seed,T0632,unicode_word_bounded_literal_ignorecase,0,0,1,1
+tr,W5,güya,assistant_proposed_unvalidated_seed,T0633,unicode_word_bounded_literal_ignorecase,0,0,0,0
+tr,W5,övündü,assistant_proposed_unvalidated_seed,T0634,unicode_word_bounded_literal_ignorecase,0,0,0,0
+tr,W5,itiraf,assistant_proposed_unvalidated_seed,T0635,unicode_word_bounded_literal_ignorecase,0,0,0,0
+tr,G1,egemenlik,assistant_proposed_unvalidated_seed,T0636,unicode_word_bounded_literal_ignorecase,1,1,3,3
+tr,G1,ayrılmaz parçası,assistant_proposed_unvalidated_seed,T0637,unicode_word_bounded_literal_ignorecase,0,0,0,0
+tr,G1,aittir,assistant_proposed_unvalidated_seed,T0638,unicode_word_bounded_literal_ignorecase,0,0,2,2
+tr,G2,yasadışı,assistant_proposed_unvalidated_seed,T0639,unicode_word_bounded_literal_ignorecase,0,0,4,3
+tr,G2,yasa dışı,assistant_proposed_unvalidated_seed,T0640,unicode_word_bounded_literal_ignorecase,0,0,1,1
+tr,G2,hukuka aykırı,assistant_proposed_unvalidated_seed,T0641,unicode_word_bounded_literal_ignorecase,0,0,0,0
+tr,G2,işgal,assistant_proposed_unvalidated_seed,T0642,unicode_word_bounded_literal_ignorecase,4,4,13,11
+tr,G2,saldırganlık,assistant_proposed_unvalidated_seed,T0643,unicode_word_bounded_literal_ignorecase,0,0,0,0
+tr,G3,amacıyla,assistant_proposed_unvalidated_seed,T0644,unicode_word_bounded_literal_ignorecase,1,1,7,7
+tr,G3,için,assistant_proposed_unvalidated_seed,T0645,unicode_word_bounded_literal_ignorecase,15,14,93,77
+tr,G3,siyasi çıkar,assistant_proposed_unvalidated_seed,T0646,unicode_word_bounded_literal_ignorecase,0,0,0,0
+tr,G4,uluslararası toplum,assistant_proposed_unvalidated_seed,T0647,unicode_word_bounded_literal_ignorecase,0,0,0,0
+tr,G4,yaygın olarak,assistant_proposed_unvalidated_seed,T0648,unicode_word_bounded_literal_ignorecase,0,0,2,2
+tr,ATTR,göre,assistant_proposed_unvalidated_seed,T0649,unicode_word_bounded_literal_ignorecase,4,4,54,39
+tr,ATTR,iddia etti,assistant_proposed_unvalidated_seed,T0650,unicode_word_bounded_literal_ignorecase,0,0,1,1
+tr,ATTR,belirtti,assistant_proposed_unvalidated_seed,T0651,unicode_word_bounded_literal_ignorecase,2,2,7,6
+tr,ATTR,mahkeme,assistant_proposed_unvalidated_seed,T0652,unicode_word_bounded_literal_ignorecase,0,0,3,2
+az,W1,kukla,assistant_proposed_unvalidated_seed,T0653,unicode_word_bounded_literal_ignorecase,0,0,1,1
+az,W1,xain,assistant_proposed_unvalidated_seed,T0654,unicode_word_bounded_literal_ignorecase,0,0,0,0
+az,W1,barbar,assistant_proposed_unvalidated_seed,T0655,unicode_word_bounded_literal_ignorecase,0,0,0,0
+az,W2,şanlı,assistant_proposed_unvalidated_seed,T0656,unicode_word_bounded_literal_ignorecase,0,0,0,0
+az,W2,qəhrəman,assistant_proposed_unvalidated_seed,T0657,unicode_word_bounded_literal_ignorecase,1,1,3,2
+az,W2,sülhsevər,assistant_proposed_unvalidated_seed,T0658,unicode_word_bounded_literal_ignorecase,0,0,0,0
+az,W3,şübhəsiz,assistant_proposed_unvalidated_seed,T0659,unicode_word_bounded_literal_ignorecase,0,0,1,1
+az,W3,mübahisəsiz,assistant_proposed_unvalidated_seed,T0660,unicode_word_bounded_literal_ignorecase,0,0,0,0
+az,W3,aşkar,assistant_proposed_unvalidated_seed,T0661,unicode_word_bounded_literal_ignorecase,6,4,22,17
+az,W4,dəmir yumruq,assistant_proposed_unvalidated_seed,T0662,unicode_word_bounded_literal_ignorecase,0,0,0,0
+az,W4,məcbur,assistant_proposed_unvalidated_seed,T0663,unicode_word_bounded_literal_ignorecase,2,2,3,3
+az,W4,əfsanə,assistant_proposed_unvalidated_seed,T0664,unicode_word_bounded_literal_ignorecase,0,0,0,0
+az,W5,qondarma,assistant_proposed_unvalidated_seed,T0665,unicode_word_bounded_literal_ignorecase,4,4,4,4
+az,W5,guya,assistant_proposed_unvalidated_seed,T0666,unicode_word_bounded_literal_ignorecase,0,0,0,0
+az,W5,öyündü,assistant_proposed_unvalidated_seed,T0667,unicode_word_bounded_literal_ignorecase,0,0,0,0
+az,W5,etiraf,assistant_proposed_unvalidated_seed,T0668,unicode_word_bounded_literal_ignorecase,1,1,1,1
+az,G1,suverenlik,assistant_proposed_unvalidated_seed,T0669,unicode_word_bounded_literal_ignorecase,1,1,1,1
+az,G1,ayrılmaz hissəsi,assistant_proposed_unvalidated_seed,T0670,unicode_word_bounded_literal_ignorecase,0,0,0,0
+az,G1,məxsusdur,assistant_proposed_unvalidated_seed,T0671,unicode_word_bounded_literal_ignorecase,2,2,2,2
+az,G2,qanunsuz,assistant_proposed_unvalidated_seed,T0672,unicode_word_bounded_literal_ignorecase,0,0,0,0
+az,G2,qeyri-qanuni,assistant_proposed_unvalidated_seed,T0673,unicode_word_bounded_literal_ignorecase,2,2,2,2
+az,G2,işğal,assistant_proposed_unvalidated_seed,T0674,unicode_word_bounded_literal_ignorecase,33,27,33,27
+az,G2,təcavüz,assistant_proposed_unvalidated_seed,T0675,unicode_word_bounded_literal_ignorecase,1,1,1,1
+az,G3,məqsədilə,assistant_proposed_unvalidated_seed,T0676,unicode_word_bounded_literal_ignorecase,3,3,4,4
+az,G3,üçün,assistant_proposed_unvalidated_seed,T0677,unicode_word_bounded_literal_ignorecase,49,35,97,73
+az,G3,siyasi maraqlar,assistant_proposed_unvalidated_seed,T0678,unicode_word_bounded_literal_ignorecase,1,1,1,1
+az,G4,beynəlxalq ictimaiyyət,assistant_proposed_unvalidated_seed,T0679,unicode_word_bounded_literal_ignorecase,0,0,0,0
+az,G4,hamılıqla,assistant_proposed_unvalidated_seed,T0680,unicode_word_bounded_literal_ignorecase,0,0,0,0
+az,ATTR,görə,assistant_proposed_unvalidated_seed,T0681,unicode_word_bounded_literal_ignorecase,75,51,111,83
+az,ATTR,iddia edir,assistant_proposed_unvalidated_seed,T0682,unicode_word_bounded_literal_ignorecase,0,0,0,0
+az,ATTR,bildirib,assistant_proposed_unvalidated_seed,T0683,unicode_word_bounded_literal_ignorecase,0,0,0,0
+az,ATTR,məhkəmə,assistant_proposed_unvalidated_seed,T0684,unicode_word_bounded_literal_ignorecase,1,1,1,1
+hy,W1,խամաճիկ,assistant_proposed_unvalidated_seed,T0685,unicode_word_bounded_literal_ignorecase,0,0,0,0
+hy,W1,դավաճան,assistant_proposed_unvalidated_seed,T0686,unicode_word_bounded_literal_ignorecase,0,0,0,0
+hy,W1,բարբարոս,assistant_proposed_unvalidated_seed,T0687,unicode_word_bounded_literal_ignorecase,0,0,0,0
+hy,W2,փառավոր,assistant_proposed_unvalidated_seed,T0688,unicode_word_bounded_literal_ignorecase,0,0,0,0
+hy,W2,հերոսական,assistant_proposed_unvalidated_seed,T0689,unicode_word_bounded_literal_ignorecase,0,0,0,0
+hy,W2,խաղաղասեր,assistant_proposed_unvalidated_seed,T0690,unicode_word_bounded_literal_ignorecase,0,0,0,0
+hy,W3,անկասկած,assistant_proposed_unvalidated_seed,T0691,unicode_word_bounded_literal_ignorecase,0,0,0,0
+hy,W3,անվիճելի,assistant_proposed_unvalidated_seed,T0692,unicode_word_bounded_literal_ignorecase,0,0,0,0
+hy,W3,ակնհայտ,assistant_proposed_unvalidated_seed,T0693,unicode_word_bounded_literal_ignorecase,0,0,1,1
+hy,W4,երկաթե բռունցք,assistant_proposed_unvalidated_seed,T0694,unicode_word_bounded_literal_ignorecase,0,0,0,0
+hy,W4,ստիպել,assistant_proposed_unvalidated_seed,T0695,unicode_word_bounded_literal_ignorecase,0,0,0,0
+hy,W4,առասպել,assistant_proposed_unvalidated_seed,T0696,unicode_word_bounded_literal_ignorecase,0,0,0,0
+hy,W5,այսպես կոչված,assistant_proposed_unvalidated_seed,T0697,unicode_word_bounded_literal_ignorecase,1,1,2,2
+hy,W5,իբր,assistant_proposed_unvalidated_seed,T0698,unicode_word_bounded_literal_ignorecase,0,0,0,0
+hy,W5,խոստովանեց,assistant_proposed_unvalidated_seed,T0699,unicode_word_bounded_literal_ignorecase,0,0,0,0
+hy,G1,ինքնիշխանություն,assistant_proposed_unvalidated_seed,T0700,unicode_word_bounded_literal_ignorecase,1,1,1,1
+hy,G1,անբաժանելի մաս,assistant_proposed_unvalidated_seed,T0701,unicode_word_bounded_literal_ignorecase,0,0,0,0
+hy,G1,պատկանում է,assistant_proposed_unvalidated_seed,T0702,unicode_word_bounded_literal_ignorecase,2,2,3,3
+hy,G2,ապօրինի,assistant_proposed_unvalidated_seed,T0703,unicode_word_bounded_literal_ignorecase,0,0,1,1
+hy,G2,անօրինական,assistant_proposed_unvalidated_seed,T0704,unicode_word_bounded_literal_ignorecase,0,0,0,0
+hy,G2,օկուպացիա,assistant_proposed_unvalidated_seed,T0705,unicode_word_bounded_literal_ignorecase,0,0,0,0
+hy,G2,ագրեսիա,assistant_proposed_unvalidated_seed,T0706,unicode_word_bounded_literal_ignorecase,0,0,0,0
+hy,G3,նպատակով,assistant_proposed_unvalidated_seed,T0707,unicode_word_bounded_literal_ignorecase,2,2,9,9
+hy,G3,քաղաքական շահեր,assistant_proposed_unvalidated_seed,T0708,unicode_word_bounded_literal_ignorecase,0,0,0,0
+hy,G4,միջազգային հանրություն,assistant_proposed_unvalidated_seed,T0709,unicode_word_bounded_literal_ignorecase,0,0,0,0
+hy,G4,համընդհանուր,assistant_proposed_unvalidated_seed,T0710,unicode_word_bounded_literal_ignorecase,0,0,1,1
+hy,ATTR,ըստ,assistant_proposed_unvalidated_seed,T0711,unicode_word_bounded_literal_ignorecase,17,16,32,31
+hy,ATTR,հայտարարել,assistant_proposed_unvalidated_seed,T0712,unicode_word_bounded_literal_ignorecase,1,1,3,3
+hy,ATTR,դատարան,assistant_proposed_unvalidated_seed,T0713,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ka,W1,მარიონეტული,assistant_proposed_unvalidated_seed,T0714,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ka,W1,მოღალატე,assistant_proposed_unvalidated_seed,T0715,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ka,W1,ბარბაროსული,assistant_proposed_unvalidated_seed,T0716,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ka,W2,დიდებული,assistant_proposed_unvalidated_seed,T0717,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ka,W2,გმირული,assistant_proposed_unvalidated_seed,T0718,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ka,W2,მშვიდობისმოყვარე,assistant_proposed_unvalidated_seed,T0719,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ka,W3,უდავოდ,assistant_proposed_unvalidated_seed,T0720,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ka,W3,უდავო,assistant_proposed_unvalidated_seed,T0721,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ka,W3,აშკარად,assistant_proposed_unvalidated_seed,T0722,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ka,W4,რკინის მუშტი,assistant_proposed_unvalidated_seed,T0723,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ka,W4,აიძულა,assistant_proposed_unvalidated_seed,T0724,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ka,W4,მითი,assistant_proposed_unvalidated_seed,T0725,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ka,W5,ეგრეთ წოდებული,assistant_proposed_unvalidated_seed,T0726,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ka,W5,თითქოს,assistant_proposed_unvalidated_seed,T0727,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ka,W5,აღიარა,assistant_proposed_unvalidated_seed,T0728,unicode_word_bounded_literal_ignorecase,1,1,1,1
+ka,G1,სუვერენიტეტი,assistant_proposed_unvalidated_seed,T0729,unicode_word_bounded_literal_ignorecase,1,1,1,1
+ka,G1,განუყოფელი ნაწილი,assistant_proposed_unvalidated_seed,T0730,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ka,G1,ეკუთვნის,assistant_proposed_unvalidated_seed,T0731,unicode_word_bounded_literal_ignorecase,2,2,3,3
+ka,G2,უკანონო,assistant_proposed_unvalidated_seed,T0732,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ka,G2,არალეგიტიმური,assistant_proposed_unvalidated_seed,T0733,unicode_word_bounded_literal_ignorecase,0,0,1,1
+ka,G2,ოკუპაცია,assistant_proposed_unvalidated_seed,T0734,unicode_word_bounded_literal_ignorecase,1,1,2,2
+ka,G2,აგრესია,assistant_proposed_unvalidated_seed,T0735,unicode_word_bounded_literal_ignorecase,0,0,1,1
+ka,G3,მიზნით,assistant_proposed_unvalidated_seed,T0736,unicode_word_bounded_literal_ignorecase,1,1,1,1
+ka,G3,პოლიტიკური ინტერესები,assistant_proposed_unvalidated_seed,T0737,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ka,G4,საერთაშორისო საზოგადოება,assistant_proposed_unvalidated_seed,T0738,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ka,G4,საყოველთაოდ,assistant_proposed_unvalidated_seed,T0739,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ka,ATTR,თანახმად,assistant_proposed_unvalidated_seed,T0740,unicode_word_bounded_literal_ignorecase,5,5,7,7
+ka,ATTR,განაცხადა,assistant_proposed_unvalidated_seed,T0741,unicode_word_bounded_literal_ignorecase,1,1,4,4
+ka,ATTR,სასამართლო,assistant_proposed_unvalidated_seed,T0742,unicode_word_bounded_literal_ignorecase,4,1,5,2
+el,W1,μαριονέτα,assistant_proposed_unvalidated_seed,T0743,unicode_word_bounded_literal_ignorecase,0,0,0,0
+el,W1,προδότης,assistant_proposed_unvalidated_seed,T0744,unicode_word_bounded_literal_ignorecase,0,0,0,0
+el,W1,βάρβαρος,assistant_proposed_unvalidated_seed,T0745,unicode_word_bounded_literal_ignorecase,0,0,1,1
+el,W2,ένδοξος,assistant_proposed_unvalidated_seed,T0746,unicode_word_bounded_literal_ignorecase,0,0,0,0
+el,W2,ηρωικός,assistant_proposed_unvalidated_seed,T0747,unicode_word_bounded_literal_ignorecase,0,0,0,0
+el,W2,ειρηνόφιλος,assistant_proposed_unvalidated_seed,T0748,unicode_word_bounded_literal_ignorecase,0,0,0,0
+el,W3,αναμφίβολα,assistant_proposed_unvalidated_seed,T0749,unicode_word_bounded_literal_ignorecase,0,0,0,0
+el,W3,αδιαμφισβήτητο,assistant_proposed_unvalidated_seed,T0750,unicode_word_bounded_literal_ignorecase,0,0,0,0
+el,W3,προφανώς,assistant_proposed_unvalidated_seed,T0751,unicode_word_bounded_literal_ignorecase,0,0,0,0
+el,W4,σιδερένια γροθιά,assistant_proposed_unvalidated_seed,T0752,unicode_word_bounded_literal_ignorecase,0,0,0,0
+el,W4,εξαναγκάσει,assistant_proposed_unvalidated_seed,T0753,unicode_word_bounded_literal_ignorecase,0,0,0,0
+el,W4,μύθος,assistant_proposed_unvalidated_seed,T0754,unicode_word_bounded_literal_ignorecase,0,0,0,0
+el,W5,λεγόμενος,assistant_proposed_unvalidated_seed,T0755,unicode_word_bounded_literal_ignorecase,0,0,0,0
+el,W5,δήθεν,assistant_proposed_unvalidated_seed,T0756,unicode_word_bounded_literal_ignorecase,0,0,0,0
+el,W5,παραδέχθηκε,assistant_proposed_unvalidated_seed,T0757,unicode_word_bounded_literal_ignorecase,0,0,0,0
+el,G1,κυριαρχία,assistant_proposed_unvalidated_seed,T0758,unicode_word_bounded_literal_ignorecase,5,5,8,8
+el,G1,αναπόσπαστο μέρος,assistant_proposed_unvalidated_seed,T0759,unicode_word_bounded_literal_ignorecase,0,0,0,0
+el,G1,ανήκει,assistant_proposed_unvalidated_seed,T0760,unicode_word_bounded_literal_ignorecase,0,0,1,1
+el,G2,παράνομη,assistant_proposed_unvalidated_seed,T0761,unicode_word_bounded_literal_ignorecase,0,0,0,0
+el,G2,παράνομο,assistant_proposed_unvalidated_seed,T0762,unicode_word_bounded_literal_ignorecase,0,0,0,0
+el,G2,κατοχή,assistant_proposed_unvalidated_seed,T0763,unicode_word_bounded_literal_ignorecase,1,1,2,2
+el,G2,επίθεση,assistant_proposed_unvalidated_seed,T0764,unicode_word_bounded_literal_ignorecase,0,0,2,2
+el,G3,με σκοπό,assistant_proposed_unvalidated_seed,T0765,unicode_word_bounded_literal_ignorecase,0,0,4,4
+el,G3,για να,assistant_proposed_unvalidated_seed,T0766,unicode_word_bounded_literal_ignorecase,4,3,13,11
+el,G3,πολιτικά συμφέροντα,assistant_proposed_unvalidated_seed,T0767,unicode_word_bounded_literal_ignorecase,0,0,0,0
+el,G4,διεθνής κοινότητα,assistant_proposed_unvalidated_seed,T0768,unicode_word_bounded_literal_ignorecase,0,0,0,0
+el,G4,ευρέως αναγνωρισμένο,assistant_proposed_unvalidated_seed,T0769,unicode_word_bounded_literal_ignorecase,0,0,0,0
+el,ATTR,σύμφωνα,assistant_proposed_unvalidated_seed,T0770,unicode_word_bounded_literal_ignorecase,7,6,34,27
+el,ATTR,δήλωσε,assistant_proposed_unvalidated_seed,T0771,unicode_word_bounded_literal_ignorecase,0,0,0,0
+el,ATTR,ισχυρίζεται,assistant_proposed_unvalidated_seed,T0772,unicode_word_bounded_literal_ignorecase,0,0,0,0
+el,ATTR,δικαστήριο,assistant_proposed_unvalidated_seed,T0773,unicode_word_bounded_literal_ignorecase,0,0,0,0
+hr,W1,marionetski,assistant_proposed_unvalidated_seed,T0774,unicode_word_bounded_literal_ignorecase,0,0,0,0
+hr,W1,izdajnik,assistant_proposed_unvalidated_seed,T0775,unicode_word_bounded_literal_ignorecase,0,0,0,0
+hr,W1,barbarski,assistant_proposed_unvalidated_seed,T0776,unicode_word_bounded_literal_ignorecase,0,0,0,0
+hr,W2,slavan,assistant_proposed_unvalidated_seed,T0777,unicode_word_bounded_literal_ignorecase,0,0,1,1
+hr,W2,herojski,assistant_proposed_unvalidated_seed,T0778,unicode_word_bounded_literal_ignorecase,0,0,0,0
+hr,W2,miroljubiv,assistant_proposed_unvalidated_seed,T0779,unicode_word_bounded_literal_ignorecase,0,0,0,0
+hr,W3,nedvojbeno,assistant_proposed_unvalidated_seed,T0780,unicode_word_bounded_literal_ignorecase,0,0,0,0
+hr,W3,nesporno,assistant_proposed_unvalidated_seed,T0781,unicode_word_bounded_literal_ignorecase,0,0,0,0
+hr,W3,očito,assistant_proposed_unvalidated_seed,T0782,unicode_word_bounded_literal_ignorecase,0,0,1,1
+hr,W4,željezna šaka,assistant_proposed_unvalidated_seed,T0783,unicode_word_bounded_literal_ignorecase,0,0,0,0
+hr,W4,prisiliti,assistant_proposed_unvalidated_seed,T0784,unicode_word_bounded_literal_ignorecase,0,0,0,0
+hr,W4,mit,assistant_proposed_unvalidated_seed,T0785,unicode_word_bounded_literal_ignorecase,0,0,0,0
+hr,W5,takozvani,assistant_proposed_unvalidated_seed,T0786,unicode_word_bounded_literal_ignorecase,0,0,0,0
+hr,W5,navodni,assistant_proposed_unvalidated_seed,T0787,unicode_word_bounded_literal_ignorecase,0,0,0,0
+hr,W5,priznao,assistant_proposed_unvalidated_seed,T0788,unicode_word_bounded_literal_ignorecase,0,0,1,1
+hr,G1,suverenitet,assistant_proposed_unvalidated_seed,T0789,unicode_word_bounded_literal_ignorecase,0,0,0,0
+hr,G1,neodvojivi dio,assistant_proposed_unvalidated_seed,T0790,unicode_word_bounded_literal_ignorecase,0,0,0,0
+hr,G1,pripada,assistant_proposed_unvalidated_seed,T0791,unicode_word_bounded_literal_ignorecase,2,2,3,3
+hr,G2,nezakonit,assistant_proposed_unvalidated_seed,T0792,unicode_word_bounded_literal_ignorecase,0,0,0,0
+hr,G2,ilegalan,assistant_proposed_unvalidated_seed,T0793,unicode_word_bounded_literal_ignorecase,0,0,0,0
+hr,G2,okupacija,assistant_proposed_unvalidated_seed,T0794,unicode_word_bounded_literal_ignorecase,1,1,1,1
+hr,G2,okupiran,assistant_proposed_unvalidated_seed,T0795,unicode_word_bounded_literal_ignorecase,0,0,0,0
+hr,G2,agresija,assistant_proposed_unvalidated_seed,T0796,unicode_word_bounded_literal_ignorecase,0,0,0,0
+hr,G3,s ciljem,assistant_proposed_unvalidated_seed,T0797,unicode_word_bounded_literal_ignorecase,0,0,0,0
+hr,G3,kako bi,assistant_proposed_unvalidated_seed,T0798,unicode_word_bounded_literal_ignorecase,2,2,2,2
+hr,G3,politički interesi,assistant_proposed_unvalidated_seed,T0799,unicode_word_bounded_literal_ignorecase,0,0,0,0
+hr,G4,međunarodna zajednica,assistant_proposed_unvalidated_seed,T0800,unicode_word_bounded_literal_ignorecase,0,0,0,0
+hr,G4,općepriznat,assistant_proposed_unvalidated_seed,T0801,unicode_word_bounded_literal_ignorecase,0,0,0,0
+hr,ATTR,prema,assistant_proposed_unvalidated_seed,T0802,unicode_word_bounded_literal_ignorecase,30,25,47,39
+hr,ATTR,izjavio,assistant_proposed_unvalidated_seed,T0803,unicode_word_bounded_literal_ignorecase,0,0,0,0
+hr,ATTR,tvrdi,assistant_proposed_unvalidated_seed,T0804,unicode_word_bounded_literal_ignorecase,0,0,0,0
+hr,ATTR,sud,assistant_proposed_unvalidated_seed,T0805,unicode_word_bounded_literal_ignorecase,1,1,27,12
+bs,W1,marionetski,assistant_proposed_unvalidated_seed,T0806,unicode_word_bounded_literal_ignorecase,0,0,0,0
+bs,W1,izdajnik,assistant_proposed_unvalidated_seed,T0807,unicode_word_bounded_literal_ignorecase,0,0,0,0
+bs,W1,barbarski,assistant_proposed_unvalidated_seed,T0808,unicode_word_bounded_literal_ignorecase,0,0,0,0
+bs,W2,slavan,assistant_proposed_unvalidated_seed,T0809,unicode_word_bounded_literal_ignorecase,0,0,0,0
+bs,W2,herojski,assistant_proposed_unvalidated_seed,T0810,unicode_word_bounded_literal_ignorecase,0,0,0,0
+bs,W2,miroljubiv,assistant_proposed_unvalidated_seed,T0811,unicode_word_bounded_literal_ignorecase,0,0,0,0
+bs,W3,nesumnjivo,assistant_proposed_unvalidated_seed,T0812,unicode_word_bounded_literal_ignorecase,0,0,0,0
+bs,W3,nesporno,assistant_proposed_unvalidated_seed,T0813,unicode_word_bounded_literal_ignorecase,0,0,0,0
+bs,W3,očigledno,assistant_proposed_unvalidated_seed,T0814,unicode_word_bounded_literal_ignorecase,0,0,0,0
+bs,W4,željezna šaka,assistant_proposed_unvalidated_seed,T0815,unicode_word_bounded_literal_ignorecase,0,0,0,0
+bs,W4,prisiliti,assistant_proposed_unvalidated_seed,T0816,unicode_word_bounded_literal_ignorecase,0,0,0,0
+bs,W4,mit,assistant_proposed_unvalidated_seed,T0817,unicode_word_bounded_literal_ignorecase,0,0,0,0
+bs,W5,takozvani,assistant_proposed_unvalidated_seed,T0818,unicode_word_bounded_literal_ignorecase,0,0,0,0
+bs,W5,navodni,assistant_proposed_unvalidated_seed,T0819,unicode_word_bounded_literal_ignorecase,0,0,0,0
+bs,W5,priznao,assistant_proposed_unvalidated_seed,T0820,unicode_word_bounded_literal_ignorecase,0,0,0,0
+bs,G1,suverenitet,assistant_proposed_unvalidated_seed,T0821,unicode_word_bounded_literal_ignorecase,0,0,0,0
+bs,G1,neodvojivi dio,assistant_proposed_unvalidated_seed,T0822,unicode_word_bounded_literal_ignorecase,0,0,0,0
+bs,G1,pripada,assistant_proposed_unvalidated_seed,T0823,unicode_word_bounded_literal_ignorecase,1,1,3,3
+bs,G2,nezakonit,assistant_proposed_unvalidated_seed,T0824,unicode_word_bounded_literal_ignorecase,0,0,0,0
+bs,G2,ilegalan,assistant_proposed_unvalidated_seed,T0825,unicode_word_bounded_literal_ignorecase,0,0,0,0
+bs,G2,okupacija,assistant_proposed_unvalidated_seed,T0826,unicode_word_bounded_literal_ignorecase,0,0,0,0
+bs,G2,okupiran,assistant_proposed_unvalidated_seed,T0827,unicode_word_bounded_literal_ignorecase,0,0,0,0
+bs,G2,agresija,assistant_proposed_unvalidated_seed,T0828,unicode_word_bounded_literal_ignorecase,0,0,0,0
+bs,G3,s ciljem,assistant_proposed_unvalidated_seed,T0829,unicode_word_bounded_literal_ignorecase,0,0,0,0
+bs,G3,kako bi,assistant_proposed_unvalidated_seed,T0830,unicode_word_bounded_literal_ignorecase,0,0,0,0
+bs,G3,politički interesi,assistant_proposed_unvalidated_seed,T0831,unicode_word_bounded_literal_ignorecase,0,0,0,0
+bs,G4,međunarodna zajednica,assistant_proposed_unvalidated_seed,T0832,unicode_word_bounded_literal_ignorecase,0,0,0,0
+bs,G4,općepriznat,assistant_proposed_unvalidated_seed,T0833,unicode_word_bounded_literal_ignorecase,0,0,0,0
+bs,ATTR,prema,assistant_proposed_unvalidated_seed,T0834,unicode_word_bounded_literal_ignorecase,22,16,32,23
+bs,ATTR,izjavio,assistant_proposed_unvalidated_seed,T0835,unicode_word_bounded_literal_ignorecase,0,0,1,1
+bs,ATTR,tvrdi,assistant_proposed_unvalidated_seed,T0836,unicode_word_bounded_literal_ignorecase,0,0,0,0
+bs,ATTR,sud,assistant_proposed_unvalidated_seed,T0837,unicode_word_bounded_literal_ignorecase,2,1,2,1
+sr,W1,марионетски,assistant_proposed_unvalidated_seed,T0838,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sr,W1,издајник,assistant_proposed_unvalidated_seed,T0839,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sr,W1,варварски,assistant_proposed_unvalidated_seed,T0840,unicode_word_bounded_literal_ignorecase,0,0,1,1
+sr,W2,славан,assistant_proposed_unvalidated_seed,T0841,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sr,W2,херојски,assistant_proposed_unvalidated_seed,T0842,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sr,W2,мирољубив,assistant_proposed_unvalidated_seed,T0843,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sr,W3,несумњиво,assistant_proposed_unvalidated_seed,T0844,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sr,W3,неспорно,assistant_proposed_unvalidated_seed,T0845,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sr,W3,очигледно,assistant_proposed_unvalidated_seed,T0846,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sr,W4,гвоздена песница,assistant_proposed_unvalidated_seed,T0847,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sr,W4,присилити,assistant_proposed_unvalidated_seed,T0848,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sr,W4,мит,assistant_proposed_unvalidated_seed,T0849,unicode_word_bounded_literal_ignorecase,1,1,1,1
+sr,W5,такозвани,assistant_proposed_unvalidated_seed,T0850,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sr,W5,наводни,assistant_proposed_unvalidated_seed,T0851,unicode_word_bounded_literal_ignorecase,0,0,1,1
+sr,W5,признао,assistant_proposed_unvalidated_seed,T0852,unicode_word_bounded_literal_ignorecase,0,0,1,1
+sr,G1,суверенитет,assistant_proposed_unvalidated_seed,T0853,unicode_word_bounded_literal_ignorecase,0,0,1,1
+sr,G1,неодвојиви део,assistant_proposed_unvalidated_seed,T0854,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sr,G1,припада,assistant_proposed_unvalidated_seed,T0855,unicode_word_bounded_literal_ignorecase,11,9,14,12
+sr,G2,незаконит,assistant_proposed_unvalidated_seed,T0856,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sr,G2,илегалан,assistant_proposed_unvalidated_seed,T0857,unicode_word_bounded_literal_ignorecase,0,0,1,1
+sr,G2,окупација,assistant_proposed_unvalidated_seed,T0858,unicode_word_bounded_literal_ignorecase,0,0,1,1
+sr,G2,окупиран,assistant_proposed_unvalidated_seed,T0859,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sr,G2,агресија,assistant_proposed_unvalidated_seed,T0860,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sr,G3,са циљем,assistant_proposed_unvalidated_seed,T0861,unicode_word_bounded_literal_ignorecase,1,1,1,1
+sr,G3,како би,assistant_proposed_unvalidated_seed,T0862,unicode_word_bounded_literal_ignorecase,1,1,2,2
+sr,G3,политички интереси,assistant_proposed_unvalidated_seed,T0863,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sr,G4,међународна заједница,assistant_proposed_unvalidated_seed,T0864,unicode_word_bounded_literal_ignorecase,0,0,1,1
+sr,G4,општепризнат,assistant_proposed_unvalidated_seed,T0865,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sr,ATTR,према,assistant_proposed_unvalidated_seed,T0866,unicode_word_bounded_literal_ignorecase,42,38,70,64
+sr,ATTR,изјавио,assistant_proposed_unvalidated_seed,T0867,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sr,ATTR,тврди,assistant_proposed_unvalidated_seed,T0868,unicode_word_bounded_literal_ignorecase,0,0,1,1
+sr,ATTR,суд,assistant_proposed_unvalidated_seed,T0869,unicode_word_bounded_literal_ignorecase,5,3,32,15
+sl,W1,marionetni,assistant_proposed_unvalidated_seed,T0870,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sl,W1,izdajalec,assistant_proposed_unvalidated_seed,T0871,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sl,W1,barbarski,assistant_proposed_unvalidated_seed,T0872,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sl,W2,slaven,assistant_proposed_unvalidated_seed,T0873,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sl,W2,junaški,assistant_proposed_unvalidated_seed,T0874,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sl,W2,miroljuben,assistant_proposed_unvalidated_seed,T0875,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sl,W3,nedvomno,assistant_proposed_unvalidated_seed,T0876,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sl,W3,nesporno,assistant_proposed_unvalidated_seed,T0877,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sl,W3,očitno,assistant_proposed_unvalidated_seed,T0878,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sl,W4,železna pest,assistant_proposed_unvalidated_seed,T0879,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sl,W4,prisiliti,assistant_proposed_unvalidated_seed,T0880,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sl,W4,mit,assistant_proposed_unvalidated_seed,T0881,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sl,W5,tako imenovani,assistant_proposed_unvalidated_seed,T0882,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sl,W5,domnevni,assistant_proposed_unvalidated_seed,T0883,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sl,W5,priznal,assistant_proposed_unvalidated_seed,T0884,unicode_word_bounded_literal_ignorecase,1,1,1,1
+sl,G1,suverenost,assistant_proposed_unvalidated_seed,T0885,unicode_word_bounded_literal_ignorecase,3,3,3,3
+sl,G1,neločljiv del,assistant_proposed_unvalidated_seed,T0886,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sl,G1,pripada,assistant_proposed_unvalidated_seed,T0887,unicode_word_bounded_literal_ignorecase,0,0,1,1
+sl,G2,nezakonit,assistant_proposed_unvalidated_seed,T0888,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sl,G2,nelegitimen,assistant_proposed_unvalidated_seed,T0889,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sl,G2,okupacija,assistant_proposed_unvalidated_seed,T0890,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sl,G2,zasedba,assistant_proposed_unvalidated_seed,T0891,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sl,G2,agresija,assistant_proposed_unvalidated_seed,T0892,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sl,G3,z namenom,assistant_proposed_unvalidated_seed,T0893,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sl,G3,da bi,assistant_proposed_unvalidated_seed,T0894,unicode_word_bounded_literal_ignorecase,1,1,1,1
+sl,G3,politični interesi,assistant_proposed_unvalidated_seed,T0895,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sl,G4,mednarodna skupnost,assistant_proposed_unvalidated_seed,T0896,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sl,G4,splošno priznan,assistant_proposed_unvalidated_seed,T0897,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sl,ATTR,po navedbah,assistant_proposed_unvalidated_seed,T0898,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sl,ATTR,izjavil,assistant_proposed_unvalidated_seed,T0899,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sl,ATTR,trdi,assistant_proposed_unvalidated_seed,T0900,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sl,ATTR,sodišče,assistant_proposed_unvalidated_seed,T0901,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sq,W1,kukull,assistant_proposed_unvalidated_seed,T0902,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sq,W1,tradhtar,assistant_proposed_unvalidated_seed,T0903,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sq,W1,barbar,assistant_proposed_unvalidated_seed,T0904,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sq,W2,lavdishëm,assistant_proposed_unvalidated_seed,T0905,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sq,W2,heroik,assistant_proposed_unvalidated_seed,T0906,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sq,W2,paqedashës,assistant_proposed_unvalidated_seed,T0907,unicode_word_bounded_literal_ignorecase,0,0,1,1
+sq,W3,padyshim,assistant_proposed_unvalidated_seed,T0908,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sq,W3,padiskutueshëm,assistant_proposed_unvalidated_seed,T0909,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sq,W3,qartazi,assistant_proposed_unvalidated_seed,T0910,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sq,W4,dorë e hekurt,assistant_proposed_unvalidated_seed,T0911,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sq,W4,detyrojë,assistant_proposed_unvalidated_seed,T0912,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sq,W4,mit,assistant_proposed_unvalidated_seed,T0913,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sq,W5,ashtuquajtur,assistant_proposed_unvalidated_seed,T0914,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sq,W5,gjoja,assistant_proposed_unvalidated_seed,T0915,unicode_word_bounded_literal_ignorecase,0,0,1,1
+sq,W5,pranoi,assistant_proposed_unvalidated_seed,T0916,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sq,G1,sovranitet,assistant_proposed_unvalidated_seed,T0917,unicode_word_bounded_literal_ignorecase,2,2,2,2
+sq,G1,pjesë e pandashme,assistant_proposed_unvalidated_seed,T0918,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sq,G1,i përket,assistant_proposed_unvalidated_seed,T0919,unicode_word_bounded_literal_ignorecase,1,1,1,1
+sq,G2,paligjshëm,assistant_proposed_unvalidated_seed,T0920,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sq,G2,paligjshme,assistant_proposed_unvalidated_seed,T0921,unicode_word_bounded_literal_ignorecase,1,1,1,1
+sq,G2,pushtim,assistant_proposed_unvalidated_seed,T0922,unicode_word_bounded_literal_ignorecase,0,0,1,1
+sq,G2,agresion,assistant_proposed_unvalidated_seed,T0923,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sq,G3,me qëllim,assistant_proposed_unvalidated_seed,T0924,unicode_word_bounded_literal_ignorecase,1,1,3,3
+sq,G3,për të,assistant_proposed_unvalidated_seed,T0925,unicode_word_bounded_literal_ignorecase,4,4,13,12
+sq,G3,interesa politike,assistant_proposed_unvalidated_seed,T0926,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sq,G4,bashkësia ndërkombëtare,assistant_proposed_unvalidated_seed,T0927,unicode_word_bounded_literal_ignorecase,1,1,1,1
+sq,G4,komuniteti ndërkombëtar,assistant_proposed_unvalidated_seed,T0928,unicode_word_bounded_literal_ignorecase,1,1,1,1
+sq,ATTR,sipas,assistant_proposed_unvalidated_seed,T0929,unicode_word_bounded_literal_ignorecase,10,8,17,15
+sq,ATTR,deklaroi,assistant_proposed_unvalidated_seed,T0930,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sq,ATTR,pretendon,assistant_proposed_unvalidated_seed,T0931,unicode_word_bounded_literal_ignorecase,2,2,2,2
+sq,ATTR,gjykata,assistant_proposed_unvalidated_seed,T0932,unicode_word_bounded_literal_ignorecase,2,2,5,4
+da,W1,marionet,assistant_proposed_unvalidated_seed,T0933,unicode_word_bounded_literal_ignorecase,0,0,0,0
+da,W1,forræder,assistant_proposed_unvalidated_seed,T0934,unicode_word_bounded_literal_ignorecase,0,0,0,0
+da,W1,barbarisk,assistant_proposed_unvalidated_seed,T0935,unicode_word_bounded_literal_ignorecase,0,0,0,0
+da,W2,glorværdig,assistant_proposed_unvalidated_seed,T0936,unicode_word_bounded_literal_ignorecase,0,0,0,0
+da,W2,heroisk,assistant_proposed_unvalidated_seed,T0937,unicode_word_bounded_literal_ignorecase,0,0,0,0
+da,W2,fredselskende,assistant_proposed_unvalidated_seed,T0938,unicode_word_bounded_literal_ignorecase,0,0,0,0
+da,W3,utvivlsomt,assistant_proposed_unvalidated_seed,T0939,unicode_word_bounded_literal_ignorecase,0,0,0,0
+da,W3,ubestridelig,assistant_proposed_unvalidated_seed,T0940,unicode_word_bounded_literal_ignorecase,0,0,0,0
+da,W3,åbenlyst,assistant_proposed_unvalidated_seed,T0941,unicode_word_bounded_literal_ignorecase,0,0,0,0
+da,W4,jernnæve,assistant_proposed_unvalidated_seed,T0942,unicode_word_bounded_literal_ignorecase,0,0,0,0
+da,W4,tvinge,assistant_proposed_unvalidated_seed,T0943,unicode_word_bounded_literal_ignorecase,0,0,0,0
+da,W4,myte,assistant_proposed_unvalidated_seed,T0944,unicode_word_bounded_literal_ignorecase,0,0,0,0
+da,W5,såkaldt,assistant_proposed_unvalidated_seed,T0945,unicode_word_bounded_literal_ignorecase,0,0,0,0
+da,W5,angivelig,assistant_proposed_unvalidated_seed,T0946,unicode_word_bounded_literal_ignorecase,0,0,0,0
+da,W5,indrømmede,assistant_proposed_unvalidated_seed,T0947,unicode_word_bounded_literal_ignorecase,0,0,0,0
+da,G1,suverænitet,assistant_proposed_unvalidated_seed,T0948,unicode_word_bounded_literal_ignorecase,3,2,5,4
+da,G1,uadskillelig del,assistant_proposed_unvalidated_seed,T0949,unicode_word_bounded_literal_ignorecase,0,0,0,0
+da,G1,tilhører,assistant_proposed_unvalidated_seed,T0950,unicode_word_bounded_literal_ignorecase,0,0,2,2
+da,G2,ulovlig,assistant_proposed_unvalidated_seed,T0951,unicode_word_bounded_literal_ignorecase,0,0,0,0
+da,G2,illegitim,assistant_proposed_unvalidated_seed,T0952,unicode_word_bounded_literal_ignorecase,0,0,0,0
+da,G2,besættelse,assistant_proposed_unvalidated_seed,T0953,unicode_word_bounded_literal_ignorecase,5,5,6,6
+da,G2,besat,assistant_proposed_unvalidated_seed,T0954,unicode_word_bounded_literal_ignorecase,3,2,3,2
+da,G2,aggression,assistant_proposed_unvalidated_seed,T0955,unicode_word_bounded_literal_ignorecase,0,0,0,0
+da,G3,med henblik på,assistant_proposed_unvalidated_seed,T0956,unicode_word_bounded_literal_ignorecase,1,1,1,1
+da,G3,for at,assistant_proposed_unvalidated_seed,T0957,unicode_word_bounded_literal_ignorecase,7,6,32,28
+da,G3,politiske interesser,assistant_proposed_unvalidated_seed,T0958,unicode_word_bounded_literal_ignorecase,0,0,0,0
+da,G4,internationale samfund,assistant_proposed_unvalidated_seed,T0959,unicode_word_bounded_literal_ignorecase,0,0,0,0
+da,G4,almindeligt anerkendt,assistant_proposed_unvalidated_seed,T0960,unicode_word_bounded_literal_ignorecase,0,0,0,0
+da,ATTR,ifølge,assistant_proposed_unvalidated_seed,T0961,unicode_word_bounded_literal_ignorecase,5,5,24,22
+da,ATTR,udtalte,assistant_proposed_unvalidated_seed,T0962,unicode_word_bounded_literal_ignorecase,0,0,0,0
+da,ATTR,hævder,assistant_proposed_unvalidated_seed,T0963,unicode_word_bounded_literal_ignorecase,1,1,2,2
+da,ATTR,domstol,assistant_proposed_unvalidated_seed,T0964,unicode_word_bounded_literal_ignorecase,0,0,1,1
+is,W1,leppstjórn,assistant_proposed_unvalidated_seed,T0965,unicode_word_bounded_literal_ignorecase,0,0,0,0
+is,W1,svikari,assistant_proposed_unvalidated_seed,T0966,unicode_word_bounded_literal_ignorecase,0,0,0,0
+is,W1,villimannslegur,assistant_proposed_unvalidated_seed,T0967,unicode_word_bounded_literal_ignorecase,0,0,0,0
+is,W2,glæsilegur,assistant_proposed_unvalidated_seed,T0968,unicode_word_bounded_literal_ignorecase,0,0,0,0
+is,W2,hetjulegur,assistant_proposed_unvalidated_seed,T0969,unicode_word_bounded_literal_ignorecase,0,0,0,0
+is,W2,friðsamur,assistant_proposed_unvalidated_seed,T0970,unicode_word_bounded_literal_ignorecase,0,0,0,0
+is,W3,án efa,assistant_proposed_unvalidated_seed,T0971,unicode_word_bounded_literal_ignorecase,0,0,0,0
+is,W3,óumdeilanlegt,assistant_proposed_unvalidated_seed,T0972,unicode_word_bounded_literal_ignorecase,0,0,0,0
+is,W3,augljóslega,assistant_proposed_unvalidated_seed,T0973,unicode_word_bounded_literal_ignorecase,0,0,0,0
+is,W4,járnhnefi,assistant_proposed_unvalidated_seed,T0974,unicode_word_bounded_literal_ignorecase,0,0,0,0
+is,W4,neyða,assistant_proposed_unvalidated_seed,T0975,unicode_word_bounded_literal_ignorecase,0,0,0,0
+is,W4,goðsögn,assistant_proposed_unvalidated_seed,T0976,unicode_word_bounded_literal_ignorecase,0,0,0,0
+is,W5,svokallaður,assistant_proposed_unvalidated_seed,T0977,unicode_word_bounded_literal_ignorecase,0,0,0,0
+is,W5,meintur,assistant_proposed_unvalidated_seed,T0978,unicode_word_bounded_literal_ignorecase,0,0,0,0
+is,W5,viðurkenndi,assistant_proposed_unvalidated_seed,T0979,unicode_word_bounded_literal_ignorecase,0,0,0,0
+is,G1,fullveldi,assistant_proposed_unvalidated_seed,T0980,unicode_word_bounded_literal_ignorecase,2,2,2,2
+is,G1,óaðskiljanlegur hluti,assistant_proposed_unvalidated_seed,T0981,unicode_word_bounded_literal_ignorecase,0,0,0,0
+is,G1,tilheyrir,assistant_proposed_unvalidated_seed,T0982,unicode_word_bounded_literal_ignorecase,1,1,1,1
+is,G2,ólöglegur,assistant_proposed_unvalidated_seed,T0983,unicode_word_bounded_literal_ignorecase,0,0,0,0
+is,G2,ólöglegt,assistant_proposed_unvalidated_seed,T0984,unicode_word_bounded_literal_ignorecase,0,0,1,1
+is,G2,hernám,assistant_proposed_unvalidated_seed,T0985,unicode_word_bounded_literal_ignorecase,0,0,1,1
+is,G2,árás,assistant_proposed_unvalidated_seed,T0986,unicode_word_bounded_literal_ignorecase,0,0,0,0
+is,G3,í því skyni,assistant_proposed_unvalidated_seed,T0987,unicode_word_bounded_literal_ignorecase,0,0,0,0
+is,G3,til að,assistant_proposed_unvalidated_seed,T0988,unicode_word_bounded_literal_ignorecase,7,5,26,21
+is,G3,pólitískir hagsmunir,assistant_proposed_unvalidated_seed,T0989,unicode_word_bounded_literal_ignorecase,0,0,0,0
+is,G4,alþjóðasamfélagið,assistant_proposed_unvalidated_seed,T0990,unicode_word_bounded_literal_ignorecase,0,0,0,0
+is,G4,almennt viðurkennt,assistant_proposed_unvalidated_seed,T0991,unicode_word_bounded_literal_ignorecase,0,0,0,0
+is,ATTR,samkvæmt,assistant_proposed_unvalidated_seed,T0992,unicode_word_bounded_literal_ignorecase,2,2,17,16
+is,ATTR,sagði,assistant_proposed_unvalidated_seed,T0993,unicode_word_bounded_literal_ignorecase,0,0,0,0
+is,ATTR,heldur fram,assistant_proposed_unvalidated_seed,T0994,unicode_word_bounded_literal_ignorecase,0,0,0,0
+is,ATTR,dómstóll,assistant_proposed_unvalidated_seed,T0995,unicode_word_bounded_literal_ignorecase,1,1,1,1
+id,W1,boneka,assistant_proposed_unvalidated_seed,T0996,unicode_word_bounded_literal_ignorecase,0,0,2,2
+id,W1,pengkhianat,assistant_proposed_unvalidated_seed,T0997,unicode_word_bounded_literal_ignorecase,0,0,0,0
+id,W1,biadab,assistant_proposed_unvalidated_seed,T0998,unicode_word_bounded_literal_ignorecase,0,0,0,0
+id,W2,gemilang,assistant_proposed_unvalidated_seed,T0999,unicode_word_bounded_literal_ignorecase,1,1,1,1
+id,W2,heroik,assistant_proposed_unvalidated_seed,T1000,unicode_word_bounded_literal_ignorecase,0,0,0,0
+id,W2,cinta damai,assistant_proposed_unvalidated_seed,T1001,unicode_word_bounded_literal_ignorecase,0,0,0,0
+id,W3,tak diragukan,assistant_proposed_unvalidated_seed,T1002,unicode_word_bounded_literal_ignorecase,0,0,0,0
+id,W3,tidak terbantahkan,assistant_proposed_unvalidated_seed,T1003,unicode_word_bounded_literal_ignorecase,0,0,0,0
+id,W3,jelas,assistant_proposed_unvalidated_seed,T1004,unicode_word_bounded_literal_ignorecase,0,0,4,3
+id,W4,tangan besi,assistant_proposed_unvalidated_seed,T1005,unicode_word_bounded_literal_ignorecase,0,0,0,0
+id,W4,memaksa,assistant_proposed_unvalidated_seed,T1006,unicode_word_bounded_literal_ignorecase,0,0,2,2
+id,W4,menghancurkan,assistant_proposed_unvalidated_seed,T1007,unicode_word_bounded_literal_ignorecase,0,0,0,0
+id,W4,mitos,assistant_proposed_unvalidated_seed,T1008,unicode_word_bounded_literal_ignorecase,0,0,0,0
+id,W5,yang disebut,assistant_proposed_unvalidated_seed,T1009,unicode_word_bounded_literal_ignorecase,3,3,8,8
+id,W5,membual,assistant_proposed_unvalidated_seed,T1010,unicode_word_bounded_literal_ignorecase,0,0,0,0
+id,W5,mengakui,assistant_proposed_unvalidated_seed,T1011,unicode_word_bounded_literal_ignorecase,6,4,7,5
+id,G1,kedaulatan,assistant_proposed_unvalidated_seed,T1012,unicode_word_bounded_literal_ignorecase,1,1,2,2
+id,G1,bagian tak terpisahkan,assistant_proposed_unvalidated_seed,T1013,unicode_word_bounded_literal_ignorecase,0,0,0,0
+id,G1,milik,assistant_proposed_unvalidated_seed,T1014,unicode_word_bounded_literal_ignorecase,5,4,10,8
+id,G2,ilegal,assistant_proposed_unvalidated_seed,T1015,unicode_word_bounded_literal_ignorecase,5,3,7,5
+id,G2,tidak sah,assistant_proposed_unvalidated_seed,T1016,unicode_word_bounded_literal_ignorecase,0,0,0,0
+id,G2,pendudukan,assistant_proposed_unvalidated_seed,T1017,unicode_word_bounded_literal_ignorecase,4,3,10,7
+id,G2,diduduki,assistant_proposed_unvalidated_seed,T1018,unicode_word_bounded_literal_ignorecase,1,1,3,3
+id,G2,agresi,assistant_proposed_unvalidated_seed,T1019,unicode_word_bounded_literal_ignorecase,0,0,1,1
+id,G3,dengan tujuan,assistant_proposed_unvalidated_seed,T1020,unicode_word_bounded_literal_ignorecase,0,0,0,0
+id,G3,untuk,assistant_proposed_unvalidated_seed,T1021,unicode_word_bounded_literal_ignorecase,72,42,194,125
+id,G3,kepentingan politik,assistant_proposed_unvalidated_seed,T1022,unicode_word_bounded_literal_ignorecase,0,0,1,1
+id,G4,masyarakat internasional,assistant_proposed_unvalidated_seed,T1023,unicode_word_bounded_literal_ignorecase,0,0,0,0
+id,G4,diakui secara luas,assistant_proposed_unvalidated_seed,T1024,unicode_word_bounded_literal_ignorecase,0,0,1,1
+id,ATTR,menurut,assistant_proposed_unvalidated_seed,T1025,unicode_word_bounded_literal_ignorecase,13,10,31,22
+id,ATTR,mengklaim,assistant_proposed_unvalidated_seed,T1026,unicode_word_bounded_literal_ignorecase,1,1,1,1
+id,ATTR,menyatakan,assistant_proposed_unvalidated_seed,T1027,unicode_word_bounded_literal_ignorecase,2,2,6,6
+id,ATTR,pengadilan,assistant_proposed_unvalidated_seed,T1028,unicode_word_bounded_literal_ignorecase,0,0,10,3
+ms,W1,boneka,assistant_proposed_unvalidated_seed,T1029,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ms,W1,pengkhianat,assistant_proposed_unvalidated_seed,T1030,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ms,W1,biadab,assistant_proposed_unvalidated_seed,T1031,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ms,W2,gemilang,assistant_proposed_unvalidated_seed,T1032,unicode_word_bounded_literal_ignorecase,1,1,1,1
+ms,W2,wira,assistant_proposed_unvalidated_seed,T1033,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ms,W2,cintakan keamanan,assistant_proposed_unvalidated_seed,T1034,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ms,W3,tidak diragukan,assistant_proposed_unvalidated_seed,T1035,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ms,W3,tidak dapat dipertikaikan,assistant_proposed_unvalidated_seed,T1036,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ms,W3,jelas,assistant_proposed_unvalidated_seed,T1037,unicode_word_bounded_literal_ignorecase,5,5,7,7
+ms,W4,tangan besi,assistant_proposed_unvalidated_seed,T1038,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ms,W4,memaksa,assistant_proposed_unvalidated_seed,T1039,unicode_word_bounded_literal_ignorecase,4,3,5,4
+ms,W4,mitos,assistant_proposed_unvalidated_seed,T1040,unicode_word_bounded_literal_ignorecase,0,0,1,1
+ms,W5,kononnya,assistant_proposed_unvalidated_seed,T1041,unicode_word_bounded_literal_ignorecase,2,2,3,3
+ms,W5,dakwaan,assistant_proposed_unvalidated_seed,T1042,unicode_word_bounded_literal_ignorecase,8,7,11,10
+ms,W5,mengaku,assistant_proposed_unvalidated_seed,T1043,unicode_word_bounded_literal_ignorecase,2,2,2,2
+ms,G1,kedaulatan,assistant_proposed_unvalidated_seed,T1044,unicode_word_bounded_literal_ignorecase,29,26,29,26
+ms,G1,bahagian yang tidak terpisah,assistant_proposed_unvalidated_seed,T1045,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ms,G1,milik,assistant_proposed_unvalidated_seed,T1046,unicode_word_bounded_literal_ignorecase,17,12,21,15
+ms,G2,haram,assistant_proposed_unvalidated_seed,T1047,unicode_word_bounded_literal_ignorecase,1,1,2,2
+ms,G2,tidak sah,assistant_proposed_unvalidated_seed,T1048,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ms,G2,pendudukan,assistant_proposed_unvalidated_seed,T1049,unicode_word_bounded_literal_ignorecase,2,2,2,2
+ms,G2,diduduki,assistant_proposed_unvalidated_seed,T1050,unicode_word_bounded_literal_ignorecase,10,9,10,9
+ms,G2,pencerobohan,assistant_proposed_unvalidated_seed,T1051,unicode_word_bounded_literal_ignorecase,5,3,5,3
+ms,G3,bertujuan,assistant_proposed_unvalidated_seed,T1052,unicode_word_bounded_literal_ignorecase,2,2,2,2
+ms,G3,untuk,assistant_proposed_unvalidated_seed,T1053,unicode_word_bounded_literal_ignorecase,167,110,286,189
+ms,G3,kepentingan politik,assistant_proposed_unvalidated_seed,T1054,unicode_word_bounded_literal_ignorecase,0,0,1,1
+ms,G4,masyarakat antarabangsa,assistant_proposed_unvalidated_seed,T1055,unicode_word_bounded_literal_ignorecase,1,1,1,1
+ms,G4,diiktiraf secara meluas,assistant_proposed_unvalidated_seed,T1056,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ms,ATTR,menurut,assistant_proposed_unvalidated_seed,T1057,unicode_word_bounded_literal_ignorecase,16,13,30,25
+ms,ATTR,mendakwa,assistant_proposed_unvalidated_seed,T1058,unicode_word_bounded_literal_ignorecase,10,10,12,12
+ms,ATTR,menyatakan,assistant_proposed_unvalidated_seed,T1059,unicode_word_bounded_literal_ignorecase,8,8,12,12
+ms,ATTR,mahkamah,assistant_proposed_unvalidated_seed,T1060,unicode_word_bounded_literal_ignorecase,15,14,30,20
+vi,W1,bù nhìn,assistant_proposed_unvalidated_seed,T1061,unicode_word_bounded_literal_ignorecase,0,0,1,1
+vi,W1,phản bội,assistant_proposed_unvalidated_seed,T1062,unicode_word_bounded_literal_ignorecase,0,0,0,0
+vi,W1,man rợ,assistant_proposed_unvalidated_seed,T1063,unicode_word_bounded_literal_ignorecase,0,0,0,0
+vi,W2,vinh quang,assistant_proposed_unvalidated_seed,T1064,unicode_word_bounded_literal_ignorecase,0,0,1,1
+vi,W2,anh hùng,assistant_proposed_unvalidated_seed,T1065,unicode_word_bounded_literal_ignorecase,0,0,4,3
+vi,W2,yêu chuộng hòa bình,assistant_proposed_unvalidated_seed,T1066,unicode_word_bounded_literal_ignorecase,0,0,0,0
+vi,W3,không nghi ngờ,assistant_proposed_unvalidated_seed,T1067,unicode_word_bounded_literal_ignorecase,0,0,0,0
+vi,W3,không thể tranh cãi,assistant_proposed_unvalidated_seed,T1068,unicode_word_bounded_literal_ignorecase,0,0,0,0
+vi,W3,hiển nhiên,assistant_proposed_unvalidated_seed,T1069,unicode_word_bounded_literal_ignorecase,0,0,0,0
+vi,W4,bàn tay sắt,assistant_proposed_unvalidated_seed,T1070,unicode_word_bounded_literal_ignorecase,0,0,0,0
+vi,W4,cưỡng ép,assistant_proposed_unvalidated_seed,T1071,unicode_word_bounded_literal_ignorecase,0,0,0,0
+vi,W4,huyền thoại,assistant_proposed_unvalidated_seed,T1072,unicode_word_bounded_literal_ignorecase,0,0,1,1
+vi,W5,cái gọi là,assistant_proposed_unvalidated_seed,T1073,unicode_word_bounded_literal_ignorecase,0,0,0,0
+vi,W5,khoe khoang,assistant_proposed_unvalidated_seed,T1074,unicode_word_bounded_literal_ignorecase,0,0,0,0
+vi,W5,thừa nhận,assistant_proposed_unvalidated_seed,T1075,unicode_word_bounded_literal_ignorecase,4,3,7,6
+vi,G1,chủ quyền,assistant_proposed_unvalidated_seed,T1076,unicode_word_bounded_literal_ignorecase,124,67,168,100
+vi,G1,bộ phận không thể tách rời,assistant_proposed_unvalidated_seed,T1077,unicode_word_bounded_literal_ignorecase,0,0,0,0
+vi,G1,thuộc về,assistant_proposed_unvalidated_seed,T1078,unicode_word_bounded_literal_ignorecase,11,8,15,12
+vi,G2,bất hợp pháp,assistant_proposed_unvalidated_seed,T1079,unicode_word_bounded_literal_ignorecase,1,1,5,5
+vi,G2,phi pháp,assistant_proposed_unvalidated_seed,T1080,unicode_word_bounded_literal_ignorecase,1,1,6,6
+vi,G2,chiếm đóng,assistant_proposed_unvalidated_seed,T1081,unicode_word_bounded_literal_ignorecase,11,8,23,20
+vi,G2,xâm lược,assistant_proposed_unvalidated_seed,T1082,unicode_word_bounded_literal_ignorecase,4,4,6,6
+vi,G3,nhằm mục đích,assistant_proposed_unvalidated_seed,T1083,unicode_word_bounded_literal_ignorecase,0,0,3,3
+vi,G3,để,assistant_proposed_unvalidated_seed,T1084,unicode_word_bounded_literal_ignorecase,52,41,215,172
+vi,G3,lợi ích chính trị,assistant_proposed_unvalidated_seed,T1085,unicode_word_bounded_literal_ignorecase,0,0,0,0
+vi,G4,cộng đồng quốc tế,assistant_proposed_unvalidated_seed,T1086,unicode_word_bounded_literal_ignorecase,2,1,2,1
+vi,G4,được công nhận rộng rãi,assistant_proposed_unvalidated_seed,T1087,unicode_word_bounded_literal_ignorecase,0,0,2,2
+vi,ATTR,theo,assistant_proposed_unvalidated_seed,T1088,unicode_word_bounded_literal_ignorecase,81,56,324,224
+vi,ATTR,tuyên bố,assistant_proposed_unvalidated_seed,T1089,unicode_word_bounded_literal_ignorecase,91,56,148,98
+vi,ATTR,cho rằng,assistant_proposed_unvalidated_seed,T1090,unicode_word_bounded_literal_ignorecase,23,16,59,47
+vi,ATTR,tòa án,assistant_proposed_unvalidated_seed,T1091,unicode_word_bounded_literal_ignorecase,2,2,28,10
+tl,W1,papet,assistant_proposed_unvalidated_seed,T1092,unicode_word_bounded_literal_ignorecase,2,2,3,3
+tl,W1,taksil,assistant_proposed_unvalidated_seed,T1093,unicode_word_bounded_literal_ignorecase,0,0,0,0
+tl,W1,barbaro,assistant_proposed_unvalidated_seed,T1094,unicode_word_bounded_literal_ignorecase,0,0,0,0
+tl,W2,maluwalhati,assistant_proposed_unvalidated_seed,T1095,unicode_word_bounded_literal_ignorecase,0,0,0,0
+tl,W2,magiting,assistant_proposed_unvalidated_seed,T1096,unicode_word_bounded_literal_ignorecase,0,0,0,0
+tl,W2,mapayapa,assistant_proposed_unvalidated_seed,T1097,unicode_word_bounded_literal_ignorecase,0,0,0,0
+tl,W3,walang alinlangan,assistant_proposed_unvalidated_seed,T1098,unicode_word_bounded_literal_ignorecase,0,0,0,0
+tl,W3,hindi mapag-aalinlanganan,assistant_proposed_unvalidated_seed,T1099,unicode_word_bounded_literal_ignorecase,0,0,0,0
+tl,W3,malinaw,assistant_proposed_unvalidated_seed,T1100,unicode_word_bounded_literal_ignorecase,1,1,2,2
+tl,W4,kamay na bakal,assistant_proposed_unvalidated_seed,T1101,unicode_word_bounded_literal_ignorecase,0,0,0,0
+tl,W4,pilitin,assistant_proposed_unvalidated_seed,T1102,unicode_word_bounded_literal_ignorecase,0,0,0,0
+tl,W4,mito,assistant_proposed_unvalidated_seed,T1103,unicode_word_bounded_literal_ignorecase,0,0,0,0
+tl,W5,tinatawag,assistant_proposed_unvalidated_seed,T1104,unicode_word_bounded_literal_ignorecase,10,8,11,9
+tl,W5,diumano,assistant_proposed_unvalidated_seed,T1105,unicode_word_bounded_literal_ignorecase,0,0,0,0
+tl,W5,inamin,assistant_proposed_unvalidated_seed,T1106,unicode_word_bounded_literal_ignorecase,0,0,0,0
+tl,G1,soberanya,assistant_proposed_unvalidated_seed,T1107,unicode_word_bounded_literal_ignorecase,1,1,1,1
+tl,G1,di-maihihiwalay na bahagi,assistant_proposed_unvalidated_seed,T1108,unicode_word_bounded_literal_ignorecase,0,0,0,0
+tl,G1,pag-aari,assistant_proposed_unvalidated_seed,T1109,unicode_word_bounded_literal_ignorecase,1,1,1,1
+tl,G2,ilegal,assistant_proposed_unvalidated_seed,T1110,unicode_word_bounded_literal_ignorecase,0,0,0,0
+tl,G2,labag sa batas,assistant_proposed_unvalidated_seed,T1111,unicode_word_bounded_literal_ignorecase,0,0,0,0
+tl,G2,pananakop,assistant_proposed_unvalidated_seed,T1112,unicode_word_bounded_literal_ignorecase,6,6,12,12
+tl,G2,sinakop,assistant_proposed_unvalidated_seed,T1113,unicode_word_bounded_literal_ignorecase,3,3,4,4
+tl,G2,pagsalakay,assistant_proposed_unvalidated_seed,T1114,unicode_word_bounded_literal_ignorecase,1,1,1,1
+tl,G3,upang,assistant_proposed_unvalidated_seed,T1115,unicode_word_bounded_literal_ignorecase,15,13,18,16
+tl,G3,layunin,assistant_proposed_unvalidated_seed,T1116,unicode_word_bounded_literal_ignorecase,0,0,0,0
+tl,G3,pampolitikang interes,assistant_proposed_unvalidated_seed,T1117,unicode_word_bounded_literal_ignorecase,0,0,0,0
+tl,G4,pandaigdigang pamayanan,assistant_proposed_unvalidated_seed,T1118,unicode_word_bounded_literal_ignorecase,0,0,0,0
+tl,G4,malawak na kinikilala,assistant_proposed_unvalidated_seed,T1119,unicode_word_bounded_literal_ignorecase,0,0,0,0
+tl,ATTR,ayon sa,assistant_proposed_unvalidated_seed,T1120,unicode_word_bounded_literal_ignorecase,15,13,21,18
+tl,ATTR,sinabi,assistant_proposed_unvalidated_seed,T1121,unicode_word_bounded_literal_ignorecase,0,0,0,0
+tl,ATTR,inaangkin,assistant_proposed_unvalidated_seed,T1122,unicode_word_bounded_literal_ignorecase,5,4,5,4
+tl,ATTR,hukuman,assistant_proposed_unvalidated_seed,T1123,unicode_word_bounded_literal_ignorecase,0,0,2,2
+ht,W1,maryonèt,assistant_proposed_unvalidated_seed,T1124,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ht,W1,trèt,assistant_proposed_unvalidated_seed,T1125,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ht,W1,barbar,assistant_proposed_unvalidated_seed,T1126,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ht,W2,glorye,assistant_proposed_unvalidated_seed,T1127,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ht,W2,ewoyik,assistant_proposed_unvalidated_seed,T1128,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ht,W2,renmen lapè,assistant_proposed_unvalidated_seed,T1129,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ht,W3,san dout,assistant_proposed_unvalidated_seed,T1130,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ht,W3,enkontestab,assistant_proposed_unvalidated_seed,T1131,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ht,W3,klèman,assistant_proposed_unvalidated_seed,T1132,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ht,W4,men fè,assistant_proposed_unvalidated_seed,T1133,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ht,W4,fòse,assistant_proposed_unvalidated_seed,T1134,unicode_word_bounded_literal_ignorecase,3,3,3,3
+ht,W4,mit,assistant_proposed_unvalidated_seed,T1135,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ht,W5,sa yo rele,assistant_proposed_unvalidated_seed,T1136,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ht,W5,swadizan,assistant_proposed_unvalidated_seed,T1137,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ht,W5,admèt,assistant_proposed_unvalidated_seed,T1138,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ht,G1,souverènte,assistant_proposed_unvalidated_seed,T1139,unicode_word_bounded_literal_ignorecase,0,0,1,1
+ht,G1,pati entegral,assistant_proposed_unvalidated_seed,T1140,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ht,G1,fè pati,assistant_proposed_unvalidated_seed,T1141,unicode_word_bounded_literal_ignorecase,1,1,1,1
+ht,G2,ilegal,assistant_proposed_unvalidated_seed,T1142,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ht,G2,ilejitim,assistant_proposed_unvalidated_seed,T1143,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ht,G2,okipasyon,assistant_proposed_unvalidated_seed,T1144,unicode_word_bounded_literal_ignorecase,4,3,4,3
+ht,G2,agresyon,assistant_proposed_unvalidated_seed,T1145,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ht,G3,nan objektif,assistant_proposed_unvalidated_seed,T1146,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ht,G3,pou,assistant_proposed_unvalidated_seed,T1147,unicode_word_bounded_literal_ignorecase,47,25,63,34
+ht,G3,enterè politik,assistant_proposed_unvalidated_seed,T1148,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ht,G4,kominote entènasyonal,assistant_proposed_unvalidated_seed,T1149,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ht,G4,rekonèt lajman,assistant_proposed_unvalidated_seed,T1150,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ht,ATTR,dapre,assistant_proposed_unvalidated_seed,T1151,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ht,ATTR,di,assistant_proposed_unvalidated_seed,T1152,unicode_word_bounded_literal_ignorecase,2,2,4,3
+ht,ATTR,deklare,assistant_proposed_unvalidated_seed,T1153,unicode_word_bounded_literal_ignorecase,8,6,8,6
+ht,ATTR,tribinal,assistant_proposed_unvalidated_seed,T1154,unicode_word_bounded_literal_ignorecase,0,0,0,0
+mg,W1,saribakoly,assistant_proposed_unvalidated_seed,T1155,unicode_word_bounded_literal_ignorecase,0,0,0,0
+mg,W1,mpamadika,assistant_proposed_unvalidated_seed,T1156,unicode_word_bounded_literal_ignorecase,0,0,0,0
+mg,W1,barbariana,assistant_proposed_unvalidated_seed,T1157,unicode_word_bounded_literal_ignorecase,0,0,0,0
+mg,W2,be voninahitra,assistant_proposed_unvalidated_seed,T1158,unicode_word_bounded_literal_ignorecase,0,0,0,0
+mg,W2,mahery fo,assistant_proposed_unvalidated_seed,T1159,unicode_word_bounded_literal_ignorecase,0,0,0,0
+mg,W2,tia fihavanana,assistant_proposed_unvalidated_seed,T1160,unicode_word_bounded_literal_ignorecase,0,0,0,0
+mg,W3,tsy isalasalana,assistant_proposed_unvalidated_seed,T1161,unicode_word_bounded_literal_ignorecase,0,0,0,0
+mg,W3,tsy azo iadian-kevitra,assistant_proposed_unvalidated_seed,T1162,unicode_word_bounded_literal_ignorecase,0,0,0,0
+mg,W4,tànana vy,assistant_proposed_unvalidated_seed,T1163,unicode_word_bounded_literal_ignorecase,0,0,0,0
+mg,W4,manery,assistant_proposed_unvalidated_seed,T1164,unicode_word_bounded_literal_ignorecase,0,0,0,0
+mg,W4,angano,assistant_proposed_unvalidated_seed,T1165,unicode_word_bounded_literal_ignorecase,0,0,1,1
+mg,W5,lazaina hoe,assistant_proposed_unvalidated_seed,T1166,unicode_word_bounded_literal_ignorecase,0,0,0,0
+mg,W5,voalaza fa,assistant_proposed_unvalidated_seed,T1167,unicode_word_bounded_literal_ignorecase,1,1,1,1
+mg,W5,niaiky,assistant_proposed_unvalidated_seed,T1168,unicode_word_bounded_literal_ignorecase,0,0,0,0
+mg,G1,fiandrianam-pirenena,assistant_proposed_unvalidated_seed,T1169,unicode_word_bounded_literal_ignorecase,0,0,0,0
+mg,G1,ampahany tsy azo sarahina,assistant_proposed_unvalidated_seed,T1170,unicode_word_bounded_literal_ignorecase,0,0,0,0
+mg,G1,an'ny,assistant_proposed_unvalidated_seed,T1171,unicode_word_bounded_literal_ignorecase,2,2,4,4
+mg,G2,tsy ara-dalàna,assistant_proposed_unvalidated_seed,T1172,unicode_word_bounded_literal_ignorecase,0,0,0,0
+mg,G2,fibodoana,assistant_proposed_unvalidated_seed,T1173,unicode_word_bounded_literal_ignorecase,0,0,0,0
+mg,G2,fanafihana,assistant_proposed_unvalidated_seed,T1174,unicode_word_bounded_literal_ignorecase,0,0,0,0
+mg,G3,mba,assistant_proposed_unvalidated_seed,T1175,unicode_word_bounded_literal_ignorecase,7,4,13,10
+mg,G3,tanjona,assistant_proposed_unvalidated_seed,T1176,unicode_word_bounded_literal_ignorecase,3,3,3,3
+mg,G3,tombontsoa ara-politika,assistant_proposed_unvalidated_seed,T1177,unicode_word_bounded_literal_ignorecase,0,0,0,0
+mg,G4,fianakaviambe iraisam-pirenena,assistant_proposed_unvalidated_seed,T1178,unicode_word_bounded_literal_ignorecase,0,0,0,0
+mg,G4,ekena maneran-tany,assistant_proposed_unvalidated_seed,T1179,unicode_word_bounded_literal_ignorecase,0,0,0,0
+mg,ATTR,araka ny,assistant_proposed_unvalidated_seed,T1180,unicode_word_bounded_literal_ignorecase,14,11,20,16
+mg,ATTR,nilaza,assistant_proposed_unvalidated_seed,T1181,unicode_word_bounded_literal_ignorecase,0,0,0,0
+mg,ATTR,milaza,assistant_proposed_unvalidated_seed,T1182,unicode_word_bounded_literal_ignorecase,1,1,2,2
+mg,ATTR,fitsarana,assistant_proposed_unvalidated_seed,T1183,unicode_word_bounded_literal_ignorecase,0,0,6,3
+sw,W1,kibaraka,assistant_proposed_unvalidated_seed,T1184,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sw,W1,msaliti,assistant_proposed_unvalidated_seed,T1185,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sw,W1,kikatili,assistant_proposed_unvalidated_seed,T1186,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sw,W2,tukufu,assistant_proposed_unvalidated_seed,T1187,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sw,W2,kishujaa,assistant_proposed_unvalidated_seed,T1188,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sw,W2,wapenda amani,assistant_proposed_unvalidated_seed,T1189,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sw,W3,bila shaka,assistant_proposed_unvalidated_seed,T1190,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sw,W3,isiyopingika,assistant_proposed_unvalidated_seed,T1191,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sw,W3,waziwazi,assistant_proposed_unvalidated_seed,T1192,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sw,W4,mkono wa chuma,assistant_proposed_unvalidated_seed,T1193,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sw,W4,kulazimisha,assistant_proposed_unvalidated_seed,T1194,unicode_word_bounded_literal_ignorecase,1,1,1,1
+sw,W4,hadithi,assistant_proposed_unvalidated_seed,T1195,unicode_word_bounded_literal_ignorecase,3,2,5,3
+sw,W5,kinachoitwa,assistant_proposed_unvalidated_seed,T1196,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sw,W5,alijigamba,assistant_proposed_unvalidated_seed,T1197,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sw,W5,alikiri,assistant_proposed_unvalidated_seed,T1198,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sw,G1,mamlaka,assistant_proposed_unvalidated_seed,T1199,unicode_word_bounded_literal_ignorecase,8,5,11,8
+sw,G1,sehemu isiyogawanyika,assistant_proposed_unvalidated_seed,T1200,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sw,G1,ni mali ya,assistant_proposed_unvalidated_seed,T1201,unicode_word_bounded_literal_ignorecase,1,1,1,1
+sw,G2,kinyume cha sheria,assistant_proposed_unvalidated_seed,T1202,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sw,G2,haramu,assistant_proposed_unvalidated_seed,T1203,unicode_word_bounded_literal_ignorecase,1,1,2,2
+sw,G2,uvamizi,assistant_proposed_unvalidated_seed,T1204,unicode_word_bounded_literal_ignorecase,0,0,1,1
+sw,G2,kutekwa,assistant_proposed_unvalidated_seed,T1205,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sw,G3,kwa lengo la,assistant_proposed_unvalidated_seed,T1206,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sw,G3,ili,assistant_proposed_unvalidated_seed,T1207,unicode_word_bounded_literal_ignorecase,10,7,18,14
+sw,G3,maslahi ya kisiasa,assistant_proposed_unvalidated_seed,T1208,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sw,G4,jumuiya ya kimataifa,assistant_proposed_unvalidated_seed,T1209,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sw,G4,inakubalika sana,assistant_proposed_unvalidated_seed,T1210,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sw,ATTR,kulingana na,assistant_proposed_unvalidated_seed,T1211,unicode_word_bounded_literal_ignorecase,27,12,32,15
+sw,ATTR,alisema,assistant_proposed_unvalidated_seed,T1212,unicode_word_bounded_literal_ignorecase,0,0,1,1
+sw,ATTR,inadai,assistant_proposed_unvalidated_seed,T1213,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sw,ATTR,mahakama,assistant_proposed_unvalidated_seed,T1214,unicode_word_bounded_literal_ignorecase,3,2,10,7
+so,W1,dabadhilif,assistant_proposed_unvalidated_seed,T1215,unicode_word_bounded_literal_ignorecase,0,0,0,0
+so,W1,khaa'in,assistant_proposed_unvalidated_seed,T1216,unicode_word_bounded_literal_ignorecase,0,0,0,0
+so,W1,waxashnimo,assistant_proposed_unvalidated_seed,T1217,unicode_word_bounded_literal_ignorecase,0,0,0,0
+so,W2,sharaf leh,assistant_proposed_unvalidated_seed,T1218,unicode_word_bounded_literal_ignorecase,0,0,0,0
+so,W2,geesinimo,assistant_proposed_unvalidated_seed,T1219,unicode_word_bounded_literal_ignorecase,0,0,0,0
+so,W2,nabadeed,assistant_proposed_unvalidated_seed,T1220,unicode_word_bounded_literal_ignorecase,1,1,1,1
+so,W3,shaki la'aan,assistant_proposed_unvalidated_seed,T1221,unicode_word_bounded_literal_ignorecase,0,0,0,0
+so,W3,muran la'aan,assistant_proposed_unvalidated_seed,T1222,unicode_word_bounded_literal_ignorecase,0,0,0,0
+so,W3,si cad,assistant_proposed_unvalidated_seed,T1223,unicode_word_bounded_literal_ignorecase,0,0,0,0
+so,W4,gacan bir ah,assistant_proposed_unvalidated_seed,T1224,unicode_word_bounded_literal_ignorecase,0,0,0,0
+so,W4,khasab,assistant_proposed_unvalidated_seed,T1225,unicode_word_bounded_literal_ignorecase,0,0,0,0
+so,W4,khuraafaad,assistant_proposed_unvalidated_seed,T1226,unicode_word_bounded_literal_ignorecase,0,0,0,0
+so,W5,waxa loogu yeero,assistant_proposed_unvalidated_seed,T1227,unicode_word_bounded_literal_ignorecase,0,0,0,0
+so,W5,ku faanay,assistant_proposed_unvalidated_seed,T1228,unicode_word_bounded_literal_ignorecase,0,0,0,0
+so,W5,qirtay,assistant_proposed_unvalidated_seed,T1229,unicode_word_bounded_literal_ignorecase,0,0,0,0
+so,G1,madaxbannaani,assistant_proposed_unvalidated_seed,T1230,unicode_word_bounded_literal_ignorecase,0,0,0,0
+so,G1,qayb ka mid ah,assistant_proposed_unvalidated_seed,T1231,unicode_word_bounded_literal_ignorecase,3,3,3,3
+so,G1,waxaa iska leh,assistant_proposed_unvalidated_seed,T1232,unicode_word_bounded_literal_ignorecase,0,0,0,0
+so,G2,sharci darro,assistant_proposed_unvalidated_seed,T1233,unicode_word_bounded_literal_ignorecase,0,0,0,0
+so,G2,sharci-darro,assistant_proposed_unvalidated_seed,T1234,unicode_word_bounded_literal_ignorecase,0,0,0,0
+so,G2,gumeysi,assistant_proposed_unvalidated_seed,T1235,unicode_word_bounded_literal_ignorecase,0,0,0,0
+so,G2,duullaan,assistant_proposed_unvalidated_seed,T1236,unicode_word_bounded_literal_ignorecase,0,0,0,0
+so,G3,ujeeddo,assistant_proposed_unvalidated_seed,T1237,unicode_word_bounded_literal_ignorecase,0,0,0,0
+so,G3,si ay,assistant_proposed_unvalidated_seed,T1238,unicode_word_bounded_literal_ignorecase,4,4,6,6
+so,G3,danaha siyaasadeed,assistant_proposed_unvalidated_seed,T1239,unicode_word_bounded_literal_ignorecase,0,0,0,0
+so,G4,beesha caalamka,assistant_proposed_unvalidated_seed,T1240,unicode_word_bounded_literal_ignorecase,0,0,0,0
+so,G4,si weyn loo aqoonsan,assistant_proposed_unvalidated_seed,T1241,unicode_word_bounded_literal_ignorecase,0,0,0,0
+so,ATTR,sida laga soo xigtay,assistant_proposed_unvalidated_seed,T1242,unicode_word_bounded_literal_ignorecase,0,0,2,1
+so,ATTR,sheegay,assistant_proposed_unvalidated_seed,T1243,unicode_word_bounded_literal_ignorecase,2,2,2,2
+so,ATTR,maxkamad,assistant_proposed_unvalidated_seed,T1244,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sn,W1,chidhori,assistant_proposed_unvalidated_seed,T1245,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sn,W1,mutengesi,assistant_proposed_unvalidated_seed,T1246,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sn,W1,utsinye,assistant_proposed_unvalidated_seed,T1247,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sn,W2,mbiri,assistant_proposed_unvalidated_seed,T1248,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sn,W2,ushingi,assistant_proposed_unvalidated_seed,T1249,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sn,W2,runyararo,assistant_proposed_unvalidated_seed,T1250,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sn,W3,pasina mubvunzo,assistant_proposed_unvalidated_seed,T1251,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sn,W3,zviri pachena,assistant_proposed_unvalidated_seed,T1252,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sn,W4,ruoko rwesimbi,assistant_proposed_unvalidated_seed,T1253,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sn,W4,kumanikidza,assistant_proposed_unvalidated_seed,T1254,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sn,W4,ngano,assistant_proposed_unvalidated_seed,T1255,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sn,W5,zvinonzi,assistant_proposed_unvalidated_seed,T1256,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sn,W5,akazvikudza,assistant_proposed_unvalidated_seed,T1257,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sn,W5,akabvuma,assistant_proposed_unvalidated_seed,T1258,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sn,G1,uchangamire,assistant_proposed_unvalidated_seed,T1259,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sn,G1,chikamu che,assistant_proposed_unvalidated_seed,T1260,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sn,G1,ndeyenyika,assistant_proposed_unvalidated_seed,T1261,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sn,G2,zvisiri pamutemo,assistant_proposed_unvalidated_seed,T1262,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sn,G2,kutora nechisimba,assistant_proposed_unvalidated_seed,T1263,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sn,G2,kurwisa,assistant_proposed_unvalidated_seed,T1264,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sn,G3,nechinangwa chekuti,assistant_proposed_unvalidated_seed,T1265,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sn,G3,kuti,assistant_proposed_unvalidated_seed,T1266,unicode_word_bounded_literal_ignorecase,4,4,4,4
+sn,G3,zvido zvematongerwo enyika,assistant_proposed_unvalidated_seed,T1267,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sn,G4,nyika dzepasi rose,assistant_proposed_unvalidated_seed,T1268,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sn,G4,zvinotendwa,assistant_proposed_unvalidated_seed,T1269,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sn,ATTR,maererano,assistant_proposed_unvalidated_seed,T1270,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sn,ATTR,akati,assistant_proposed_unvalidated_seed,T1271,unicode_word_bounded_literal_ignorecase,0,0,0,0
+sn,ATTR,dare,assistant_proposed_unvalidated_seed,T1272,unicode_word_bounded_literal_ignorecase,1,1,1,1
+ti,W1,ከዳዕ,assistant_proposed_unvalidated_seed,T1273,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ti,W1,ኣረሜናዊ,assistant_proposed_unvalidated_seed,T1274,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ti,W2,ጀጋኑ,assistant_proposed_unvalidated_seed,T1275,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ti,W2,ክቡር,assistant_proposed_unvalidated_seed,T1276,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ti,W3,ብዘይ ጥርጥር,assistant_proposed_unvalidated_seed,T1277,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ti,W3,ብርግጽ,assistant_proposed_unvalidated_seed,T1278,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ti,W4,ብሓይሊ,assistant_proposed_unvalidated_seed,T1279,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ti,W4,ግዴታ,assistant_proposed_unvalidated_seed,T1280,unicode_word_bounded_literal_ignorecase,1,1,1,1
+ti,W5,ተባሂሉ,assistant_proposed_unvalidated_seed,T1281,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ti,W5,ተኣሚኑ,assistant_proposed_unvalidated_seed,T1282,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ti,G1,ልኡላውነት,assistant_proposed_unvalidated_seed,T1283,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ti,G1,ግዝኣት,assistant_proposed_unvalidated_seed,T1284,unicode_word_bounded_literal_ignorecase,4,2,4,2
+ti,G2,ዘይሕጋዊ,assistant_proposed_unvalidated_seed,T1285,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ti,G2,ወራር,assistant_proposed_unvalidated_seed,T1286,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ti,G2,ጎበጣ,assistant_proposed_unvalidated_seed,T1287,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ti,G3,ዕላማ,assistant_proposed_unvalidated_seed,T1288,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ti,G3,ፖለቲካዊ ረብሓ,assistant_proposed_unvalidated_seed,T1289,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ti,G4,ዓለም ለኻዊ ማሕበረሰብ,assistant_proposed_unvalidated_seed,T1290,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ti,ATTR,ብመሰረት,assistant_proposed_unvalidated_seed,T1291,unicode_word_bounded_literal_ignorecase,1,1,1,1
+ti,ATTR,ኢሉ,assistant_proposed_unvalidated_seed,T1292,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ti,ATTR,ቤት ፍርዲ,assistant_proposed_unvalidated_seed,T1293,unicode_word_bounded_literal_ignorecase,0,0,0,0
+uz,W1,qoʻgʻirchoq,assistant_proposed_unvalidated_seed,T1294,unicode_word_bounded_literal_ignorecase,1,1,1,1
+uz,W1,xoin,assistant_proposed_unvalidated_seed,T1295,unicode_word_bounded_literal_ignorecase,0,0,0,0
+uz,W1,vahshiy,assistant_proposed_unvalidated_seed,T1296,unicode_word_bounded_literal_ignorecase,0,0,0,0
+uz,W2,shonli,assistant_proposed_unvalidated_seed,T1297,unicode_word_bounded_literal_ignorecase,0,0,0,0
+uz,W2,qahramon,assistant_proposed_unvalidated_seed,T1298,unicode_word_bounded_literal_ignorecase,0,0,0,0
+uz,W2,tinchliksevar,assistant_proposed_unvalidated_seed,T1299,unicode_word_bounded_literal_ignorecase,0,0,0,0
+uz,W3,shubhasiz,assistant_proposed_unvalidated_seed,T1300,unicode_word_bounded_literal_ignorecase,0,0,0,0
+uz,W3,shaksiz,assistant_proposed_unvalidated_seed,T1301,unicode_word_bounded_literal_ignorecase,0,0,0,0
+uz,W3,aniq,assistant_proposed_unvalidated_seed,T1302,unicode_word_bounded_literal_ignorecase,0,0,0,0
+uz,W4,temir musht,assistant_proposed_unvalidated_seed,T1303,unicode_word_bounded_literal_ignorecase,0,0,0,0
+uz,W4,majburlash,assistant_proposed_unvalidated_seed,T1304,unicode_word_bounded_literal_ignorecase,0,0,0,0
+uz,W4,afsona,assistant_proposed_unvalidated_seed,T1305,unicode_word_bounded_literal_ignorecase,0,0,0,0
+uz,W5,deb atalgan,assistant_proposed_unvalidated_seed,T1306,unicode_word_bounded_literal_ignorecase,2,2,2,2
+uz,W5,goʻyo,assistant_proposed_unvalidated_seed,T1307,unicode_word_bounded_literal_ignorecase,0,0,0,0
+uz,W5,tan oldi,assistant_proposed_unvalidated_seed,T1308,unicode_word_bounded_literal_ignorecase,0,0,0,0
+uz,G1,suverenitet,assistant_proposed_unvalidated_seed,T1309,unicode_word_bounded_literal_ignorecase,0,0,0,0
+uz,G1,ajralmas qism,assistant_proposed_unvalidated_seed,T1310,unicode_word_bounded_literal_ignorecase,0,0,0,0
+uz,G1,tegishli,assistant_proposed_unvalidated_seed,T1311,unicode_word_bounded_literal_ignorecase,1,1,2,2
+uz,G2,noqonuniy,assistant_proposed_unvalidated_seed,T1312,unicode_word_bounded_literal_ignorecase,0,0,0,0
+uz,G2,bosqin,assistant_proposed_unvalidated_seed,T1313,unicode_word_bounded_literal_ignorecase,0,0,0,0
+uz,G2,bosib olingan,assistant_proposed_unvalidated_seed,T1314,unicode_word_bounded_literal_ignorecase,1,1,1,1
+uz,G2,tajovuz,assistant_proposed_unvalidated_seed,T1315,unicode_word_bounded_literal_ignorecase,0,0,0,0
+uz,G3,maqsadida,assistant_proposed_unvalidated_seed,T1316,unicode_word_bounded_literal_ignorecase,0,0,2,2
+uz,G3,uchun,assistant_proposed_unvalidated_seed,T1317,unicode_word_bounded_literal_ignorecase,16,10,33,23
+uz,G3,siyosiy manfaatlar,assistant_proposed_unvalidated_seed,T1318,unicode_word_bounded_literal_ignorecase,0,0,0,0
+uz,G4,xalqaro hamjamiyat,assistant_proposed_unvalidated_seed,T1319,unicode_word_bounded_literal_ignorecase,0,0,0,0
+uz,G4,keng tan olingan,assistant_proposed_unvalidated_seed,T1320,unicode_word_bounded_literal_ignorecase,0,0,0,0
+uz,ATTR,koʻra,assistant_proposed_unvalidated_seed,T1321,unicode_word_bounded_literal_ignorecase,6,5,12,8
+uz,ATTR,aytdi,assistant_proposed_unvalidated_seed,T1322,unicode_word_bounded_literal_ignorecase,0,0,0,0
+uz,ATTR,daʼvo,assistant_proposed_unvalidated_seed,T1323,unicode_word_bounded_literal_ignorecase,1,1,1,1
+uz,ATTR,sud,assistant_proposed_unvalidated_seed,T1324,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ky,W1,куурчак,assistant_proposed_unvalidated_seed,T1325,unicode_word_bounded_literal_ignorecase,0,0,3,1
+ky,W1,чыккынчы,assistant_proposed_unvalidated_seed,T1326,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ky,W1,жапайы,assistant_proposed_unvalidated_seed,T1327,unicode_word_bounded_literal_ignorecase,2,2,2,2
+ky,W2,даңктуу,assistant_proposed_unvalidated_seed,T1328,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ky,W2,баатыр,assistant_proposed_unvalidated_seed,T1329,unicode_word_bounded_literal_ignorecase,1,1,2,2
+ky,W2,тынчтыкты сүйгөн,assistant_proposed_unvalidated_seed,T1330,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ky,W3,шексиз,assistant_proposed_unvalidated_seed,T1331,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ky,W3,талашсыз,assistant_proposed_unvalidated_seed,T1332,unicode_word_bounded_literal_ignorecase,0,0,1,1
+ky,W3,ачык эле,assistant_proposed_unvalidated_seed,T1333,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ky,W4,темир муштум,assistant_proposed_unvalidated_seed,T1334,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ky,W4,мажбурлоо,assistant_proposed_unvalidated_seed,T1335,unicode_word_bounded_literal_ignorecase,0,0,1,1
+ky,W4,миф,assistant_proposed_unvalidated_seed,T1336,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ky,W5,деп аталган,assistant_proposed_unvalidated_seed,T1337,unicode_word_bounded_literal_ignorecase,3,3,5,5
+ky,W5,имиш,assistant_proposed_unvalidated_seed,T1338,unicode_word_bounded_literal_ignorecase,0,0,1,1
+ky,W5,моюнга алды,assistant_proposed_unvalidated_seed,T1339,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ky,G1,эгемендик,assistant_proposed_unvalidated_seed,T1340,unicode_word_bounded_literal_ignorecase,0,0,1,1
+ky,G1,ажырагыс бөлүгү,assistant_proposed_unvalidated_seed,T1341,unicode_word_bounded_literal_ignorecase,0,0,1,1
+ky,G1,таандык,assistant_proposed_unvalidated_seed,T1342,unicode_word_bounded_literal_ignorecase,8,7,14,13
+ky,G2,мыйзамсыз,assistant_proposed_unvalidated_seed,T1343,unicode_word_bounded_literal_ignorecase,2,2,2,2
+ky,G2,басып алуу,assistant_proposed_unvalidated_seed,T1344,unicode_word_bounded_literal_ignorecase,2,2,4,4
+ky,G2,агрессия,assistant_proposed_unvalidated_seed,T1345,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ky,G3,максатында,assistant_proposed_unvalidated_seed,T1346,unicode_word_bounded_literal_ignorecase,1,1,6,5
+ky,G3,үчүн,assistant_proposed_unvalidated_seed,T1347,unicode_word_bounded_literal_ignorecase,18,11,41,29
+ky,G3,саясий кызыкчылык,assistant_proposed_unvalidated_seed,T1348,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ky,G4,эл аралык коомчулук,assistant_proposed_unvalidated_seed,T1349,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ky,G4,жалпы таанылган,assistant_proposed_unvalidated_seed,T1350,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ky,ATTR,боюнча,assistant_proposed_unvalidated_seed,T1351,unicode_word_bounded_literal_ignorecase,58,34,92,55
+ky,ATTR,деди,assistant_proposed_unvalidated_seed,T1352,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ky,ATTR,билдирди,assistant_proposed_unvalidated_seed,T1353,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ky,ATTR,сот,assistant_proposed_unvalidated_seed,T1354,unicode_word_bounded_literal_ignorecase,2,2,3,3
+tg,W1,лӯхтак,assistant_proposed_unvalidated_seed,T1355,unicode_word_bounded_literal_ignorecase,0,0,1,1
+tg,W1,хоин,assistant_proposed_unvalidated_seed,T1356,unicode_word_bounded_literal_ignorecase,0,0,0,0
+tg,W1,ваҳшӣ,assistant_proposed_unvalidated_seed,T1357,unicode_word_bounded_literal_ignorecase,1,1,1,1
+tg,W2,пуршараф,assistant_proposed_unvalidated_seed,T1358,unicode_word_bounded_literal_ignorecase,0,0,0,0
+tg,W2,қаҳрамонона,assistant_proposed_unvalidated_seed,T1359,unicode_word_bounded_literal_ignorecase,0,0,0,0
+tg,W2,сулҳдӯст,assistant_proposed_unvalidated_seed,T1360,unicode_word_bounded_literal_ignorecase,0,0,0,0
+tg,W3,бешубҳа,assistant_proposed_unvalidated_seed,T1361,unicode_word_bounded_literal_ignorecase,0,0,0,0
+tg,W3,бебаҳс,assistant_proposed_unvalidated_seed,T1362,unicode_word_bounded_literal_ignorecase,0,0,0,0
+tg,W3,ошкоро,assistant_proposed_unvalidated_seed,T1363,unicode_word_bounded_literal_ignorecase,0,0,0,0
+tg,W4,мушти оҳанин,assistant_proposed_unvalidated_seed,T1364,unicode_word_bounded_literal_ignorecase,0,0,0,0
+tg,W4,маҷбур,assistant_proposed_unvalidated_seed,T1365,unicode_word_bounded_literal_ignorecase,0,0,0,0
+tg,W4,афсона,assistant_proposed_unvalidated_seed,T1366,unicode_word_bounded_literal_ignorecase,0,0,0,0
+tg,W5,ба ном,assistant_proposed_unvalidated_seed,T1367,unicode_word_bounded_literal_ignorecase,0,0,0,0
+tg,W5,гӯё,assistant_proposed_unvalidated_seed,T1368,unicode_word_bounded_literal_ignorecase,0,0,0,0
+tg,W5,эътироф кард,assistant_proposed_unvalidated_seed,T1369,unicode_word_bounded_literal_ignorecase,0,0,0,0
+tg,G1,соҳибихтиёрӣ,assistant_proposed_unvalidated_seed,T1370,unicode_word_bounded_literal_ignorecase,0,0,0,0
+tg,G1,қисми ҷудонашаванда,assistant_proposed_unvalidated_seed,T1371,unicode_word_bounded_literal_ignorecase,0,0,0,0
+tg,G1,тааллуқ,assistant_proposed_unvalidated_seed,T1372,unicode_word_bounded_literal_ignorecase,0,0,0,0
+tg,G2,ғайриқонунӣ,assistant_proposed_unvalidated_seed,T1373,unicode_word_bounded_literal_ignorecase,0,0,0,0
+tg,G2,ишғол,assistant_proposed_unvalidated_seed,T1374,unicode_word_bounded_literal_ignorecase,5,5,7,6
+tg,G2,таҷовуз,assistant_proposed_unvalidated_seed,T1375,unicode_word_bounded_literal_ignorecase,0,0,0,0
+tg,G3,бо мақсади,assistant_proposed_unvalidated_seed,T1376,unicode_word_bounded_literal_ignorecase,1,1,1,1
+tg,G3,барои,assistant_proposed_unvalidated_seed,T1377,unicode_word_bounded_literal_ignorecase,17,9,28,18
+tg,G3,манфиатҳои сиёсӣ,assistant_proposed_unvalidated_seed,T1378,unicode_word_bounded_literal_ignorecase,0,0,0,0
+tg,G4,ҷомеаи байналмилалӣ,assistant_proposed_unvalidated_seed,T1379,unicode_word_bounded_literal_ignorecase,0,0,0,0
+tg,G4,эътирофи умум,assistant_proposed_unvalidated_seed,T1380,unicode_word_bounded_literal_ignorecase,0,0,0,0
+tg,ATTR,тибқи,assistant_proposed_unvalidated_seed,T1381,unicode_word_bounded_literal_ignorecase,3,3,12,11
+tg,ATTR,гуфт,assistant_proposed_unvalidated_seed,T1382,unicode_word_bounded_literal_ignorecase,0,0,0,0
+tg,ATTR,иддао,assistant_proposed_unvalidated_seed,T1383,unicode_word_bounded_literal_ignorecase,0,0,0,0
+tg,ATTR,суд,assistant_proposed_unvalidated_seed,T1384,unicode_word_bounded_literal_ignorecase,0,0,0,0
+mn,W1,утсан хүүхэлдэй,assistant_proposed_unvalidated_seed,T1385,unicode_word_bounded_literal_ignorecase,0,0,0,0
+mn,W1,урвагч,assistant_proposed_unvalidated_seed,T1386,unicode_word_bounded_literal_ignorecase,0,0,0,0
+mn,W1,зэрлэг,assistant_proposed_unvalidated_seed,T1387,unicode_word_bounded_literal_ignorecase,0,0,0,0
+mn,W2,алдар суу,assistant_proposed_unvalidated_seed,T1388,unicode_word_bounded_literal_ignorecase,0,0,0,0
+mn,W2,баатарлаг,assistant_proposed_unvalidated_seed,T1389,unicode_word_bounded_literal_ignorecase,0,0,0,0
+mn,W2,энхийг эрхэмлэгч,assistant_proposed_unvalidated_seed,T1390,unicode_word_bounded_literal_ignorecase,0,0,0,0
+mn,W3,эргэлзээгүй,assistant_proposed_unvalidated_seed,T1391,unicode_word_bounded_literal_ignorecase,0,0,0,0
+mn,W3,маргаангүй,assistant_proposed_unvalidated_seed,T1392,unicode_word_bounded_literal_ignorecase,0,0,0,0
+mn,W3,илт,assistant_proposed_unvalidated_seed,T1393,unicode_word_bounded_literal_ignorecase,0,0,0,0
+mn,W4,төмөр нударга,assistant_proposed_unvalidated_seed,T1394,unicode_word_bounded_literal_ignorecase,0,0,0,0
+mn,W4,албадан,assistant_proposed_unvalidated_seed,T1395,unicode_word_bounded_literal_ignorecase,0,0,0,0
+mn,W4,домог,assistant_proposed_unvalidated_seed,T1396,unicode_word_bounded_literal_ignorecase,0,0,0,0
+mn,W5,гэгч,assistant_proposed_unvalidated_seed,T1397,unicode_word_bounded_literal_ignorecase,0,0,0,0
+mn,W5,хэмээх,assistant_proposed_unvalidated_seed,T1398,unicode_word_bounded_literal_ignorecase,3,2,3,2
+mn,W5,хүлээн зөвшөөрсөн,assistant_proposed_unvalidated_seed,T1399,unicode_word_bounded_literal_ignorecase,0,0,0,0
+mn,G1,бүрэн эрх,assistant_proposed_unvalidated_seed,T1400,unicode_word_bounded_literal_ignorecase,0,0,0,0
+mn,G1,салшгүй хэсэг,assistant_proposed_unvalidated_seed,T1401,unicode_word_bounded_literal_ignorecase,0,0,0,0
+mn,G1,харьяалагддаг,assistant_proposed_unvalidated_seed,T1402,unicode_word_bounded_literal_ignorecase,0,0,0,0
+mn,G2,хууль бус,assistant_proposed_unvalidated_seed,T1403,unicode_word_bounded_literal_ignorecase,0,0,0,0
+mn,G2,эзлэн түрэмгийлэл,assistant_proposed_unvalidated_seed,T1404,unicode_word_bounded_literal_ignorecase,0,0,0,0
+mn,G2,эзлэгдсэн,assistant_proposed_unvalidated_seed,T1405,unicode_word_bounded_literal_ignorecase,1,1,1,1
+mn,G3,зорилгоор,assistant_proposed_unvalidated_seed,T1406,unicode_word_bounded_literal_ignorecase,0,0,0,0
+mn,G3,тулд,assistant_proposed_unvalidated_seed,T1407,unicode_word_bounded_literal_ignorecase,1,1,1,1
+mn,G3,улс төрийн ашиг сонирхол,assistant_proposed_unvalidated_seed,T1408,unicode_word_bounded_literal_ignorecase,0,0,0,0
+mn,G4,олон улсын хамтын нийгэмлэг,assistant_proposed_unvalidated_seed,T1409,unicode_word_bounded_literal_ignorecase,0,0,0,0
+mn,G4,нийтээр хүлээн зөвшөөрсөн,assistant_proposed_unvalidated_seed,T1410,unicode_word_bounded_literal_ignorecase,0,0,0,0
+mn,ATTR,дагуу,assistant_proposed_unvalidated_seed,T1411,unicode_word_bounded_literal_ignorecase,1,1,1,1
+mn,ATTR,мэдэгдсэн,assistant_proposed_unvalidated_seed,T1412,unicode_word_bounded_literal_ignorecase,0,0,0,0
+mn,ATTR,шүүх,assistant_proposed_unvalidated_seed,T1413,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ne,W1,कठपुतली,assistant_proposed_unvalidated_seed,T1414,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ne,W1,देशद्रोही,assistant_proposed_unvalidated_seed,T1415,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ne,W1,बर्बर,assistant_proposed_unvalidated_seed,T1416,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ne,W2,गौरवशाली,assistant_proposed_unvalidated_seed,T1417,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ne,W2,वीर,assistant_proposed_unvalidated_seed,T1418,unicode_word_bounded_literal_ignorecase,3,2,3,2
+ne,W2,महान,assistant_proposed_unvalidated_seed,T1419,unicode_word_bounded_literal_ignorecase,4,4,4,4
+ne,W3,निस्सन्देह,assistant_proposed_unvalidated_seed,T1420,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ne,W3,निर्विवाद,assistant_proposed_unvalidated_seed,T1421,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ne,W3,स्पष्ट,assistant_proposed_unvalidated_seed,T1422,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ne,W4,फलामे मुट्ठी,assistant_proposed_unvalidated_seed,T1423,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ne,W4,बाध्य,assistant_proposed_unvalidated_seed,T1424,unicode_word_bounded_literal_ignorecase,2,2,2,2
+ne,W4,मिथक,assistant_proposed_unvalidated_seed,T1425,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ne,W5,तथाकथित,assistant_proposed_unvalidated_seed,T1426,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ne,W5,कथित,assistant_proposed_unvalidated_seed,T1427,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ne,W5,स्वीकार गरे,assistant_proposed_unvalidated_seed,T1428,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ne,G1,सार्वभौमसत्ता,assistant_proposed_unvalidated_seed,T1429,unicode_word_bounded_literal_ignorecase,1,1,1,1
+ne,G1,अभिन्न अङ्ग,assistant_proposed_unvalidated_seed,T1430,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ne,G1,भाग,assistant_proposed_unvalidated_seed,T1431,unicode_word_bounded_literal_ignorecase,16,12,16,12
+ne,G2,अवैध,assistant_proposed_unvalidated_seed,T1432,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ne,G2,गैरकानुनी,assistant_proposed_unvalidated_seed,T1433,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ne,G2,कब्जा,assistant_proposed_unvalidated_seed,T1434,unicode_word_bounded_literal_ignorecase,3,3,3,3
+ne,G2,आक्रमण,assistant_proposed_unvalidated_seed,T1435,unicode_word_bounded_literal_ignorecase,1,1,1,1
+ne,G3,उद्देश्यले,assistant_proposed_unvalidated_seed,T1436,unicode_word_bounded_literal_ignorecase,2,2,2,2
+ne,G3,लागि,assistant_proposed_unvalidated_seed,T1437,unicode_word_bounded_literal_ignorecase,38,24,42,26
+ne,G3,राजनीतिक स्वार्थ,assistant_proposed_unvalidated_seed,T1438,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ne,G4,अन्तर्राष्ट्रिय समुदाय,assistant_proposed_unvalidated_seed,T1439,unicode_word_bounded_literal_ignorecase,0,0,0,0
+ne,G4,व्यापक रूपमा,assistant_proposed_unvalidated_seed,T1440,unicode_word_bounded_literal_ignorecase,2,2,2,2
+ne,ATTR,अनुसार,assistant_proposed_unvalidated_seed,T1441,unicode_word_bounded_literal_ignorecase,22,17,22,17
+ne,ATTR,दाबी,assistant_proposed_unvalidated_seed,T1442,unicode_word_bounded_literal_ignorecase,5,4,5,4
+ne,ATTR,भने,assistant_proposed_unvalidated_seed,T1443,unicode_word_bounded_literal_ignorecase,14,11,14,11
+ne,ATTR,अदालत,assistant_proposed_unvalidated_seed,T1444,unicode_word_bounded_literal_ignorecase,5,2,5,2
+bn,W1,পুতুল,assistant_proposed_unvalidated_seed,T1445,unicode_word_bounded_literal_ignorecase,0,0,0,0
+bn,W1,বিশ্বাসঘাতক,assistant_proposed_unvalidated_seed,T1446,unicode_word_bounded_literal_ignorecase,0,0,0,0
+bn,W1,বর্বর,assistant_proposed_unvalidated_seed,T1447,unicode_word_bounded_literal_ignorecase,0,0,0,0
+bn,W2,গৌরবময়,assistant_proposed_unvalidated_seed,T1448,unicode_word_bounded_literal_ignorecase,0,0,0,0
+bn,W2,বীরত্বপূর্ণ,assistant_proposed_unvalidated_seed,T1449,unicode_word_bounded_literal_ignorecase,0,0,0,0
+bn,W2,শান্তিপ্রিয়,assistant_proposed_unvalidated_seed,T1450,unicode_word_bounded_literal_ignorecase,0,0,0,0
+bn,W3,নিঃসন্দেহে,assistant_proposed_unvalidated_seed,T1451,unicode_word_bounded_literal_ignorecase,0,0,0,0
+bn,W3,অবিসংবাদিত,assistant_proposed_unvalidated_seed,T1452,unicode_word_bounded_literal_ignorecase,0,0,0,0
+bn,W3,স্পষ্টতই,assistant_proposed_unvalidated_seed,T1453,unicode_word_bounded_literal_ignorecase,0,0,0,0
+bn,W4,লৌহমুষ্টি,assistant_proposed_unvalidated_seed,T1454,unicode_word_bounded_literal_ignorecase,0,0,0,0
+bn,W4,বাধ্য,assistant_proposed_unvalidated_seed,T1455,unicode_word_bounded_literal_ignorecase,0,0,1,1
+bn,W4,মিথ,assistant_proposed_unvalidated_seed,T1456,unicode_word_bounded_literal_ignorecase,0,0,0,0
+bn,W5,তথাকথিত,assistant_proposed_unvalidated_seed,T1457,unicode_word_bounded_literal_ignorecase,0,0,0,0
+bn,W5,দাবিকৃত,assistant_proposed_unvalidated_seed,T1458,unicode_word_bounded_literal_ignorecase,0,0,0,0
+bn,W5,স্বীকার,assistant_proposed_unvalidated_seed,T1459,unicode_word_bounded_literal_ignorecase,0,0,0,0
+bn,G1,সার্বভৌমত্ব,assistant_proposed_unvalidated_seed,T1460,unicode_word_bounded_literal_ignorecase,0,0,1,1
+bn,G1,অবিচ্ছেদ্য অংশ,assistant_proposed_unvalidated_seed,T1461,unicode_word_bounded_literal_ignorecase,0,0,0,0
+bn,G1,অন্তর্গত,assistant_proposed_unvalidated_seed,T1462,unicode_word_bounded_literal_ignorecase,0,0,0,0
+bn,G2,অবৈধ,assistant_proposed_unvalidated_seed,T1463,unicode_word_bounded_literal_ignorecase,1,1,2,2
+bn,G2,বেআইনি,assistant_proposed_unvalidated_seed,T1464,unicode_word_bounded_literal_ignorecase,0,0,0,0
+bn,G2,দখল,assistant_proposed_unvalidated_seed,T1465,unicode_word_bounded_literal_ignorecase,3,3,9,9
+bn,G2,আগ্রাসন,assistant_proposed_unvalidated_seed,T1466,unicode_word_bounded_literal_ignorecase,0,0,0,0
+bn,G3,উদ্দেশ্যে,assistant_proposed_unvalidated_seed,T1467,unicode_word_bounded_literal_ignorecase,0,0,0,0
+bn,G3,জন্য,assistant_proposed_unvalidated_seed,T1468,unicode_word_bounded_literal_ignorecase,14,13,30,25
+bn,G3,রাজনৈতিক স্বার্থ,assistant_proposed_unvalidated_seed,T1469,unicode_word_bounded_literal_ignorecase,0,0,0,0
+bn,G4,আন্তর্জাতিক সম্প্রদায়,assistant_proposed_unvalidated_seed,T1470,unicode_word_bounded_literal_ignorecase,0,0,0,0
+bn,G4,সর্বজনস্বীকৃত,assistant_proposed_unvalidated_seed,T1471,unicode_word_bounded_literal_ignorecase,0,0,0,0
+bn,ATTR,অনুযায়ী,assistant_proposed_unvalidated_seed,T1472,unicode_word_bounded_literal_ignorecase,4,4,26,17
+bn,ATTR,বলেছেন,assistant_proposed_unvalidated_seed,T1473,unicode_word_bounded_literal_ignorecase,0,0,0,0
+bn,ATTR,দাবি,assistant_proposed_unvalidated_seed,T1474,unicode_word_bounded_literal_ignorecase,1,1,1,1
+bn,ATTR,আদালত,assistant_proposed_unvalidated_seed,T1475,unicode_word_bounded_literal_ignorecase,0,0,2,1
+th,W1,หุ่นเชิด,assistant_proposed_unvalidated_seed,T1476,literal_substring_ignorecase,1,1,4,4
+th,W1,ผู้ทรยศ,assistant_proposed_unvalidated_seed,T1477,literal_substring_ignorecase,0,0,0,0
+th,W1,ป่าเถื่อน,assistant_proposed_unvalidated_seed,T1478,literal_substring_ignorecase,0,0,0,0
+th,W2,รุ่งโรจน์,assistant_proposed_unvalidated_seed,T1479,literal_substring_ignorecase,0,0,0,0
+th,W2,วีรบุรุษ,assistant_proposed_unvalidated_seed,T1480,literal_substring_ignorecase,0,0,0,0
+th,W2,รักสันติ,assistant_proposed_unvalidated_seed,T1481,literal_substring_ignorecase,0,0,0,0
+th,W3,อย่างไม่ต้องสงสัย,assistant_proposed_unvalidated_seed,T1482,literal_substring_ignorecase,0,0,0,0
+th,W3,เถียงไม่ได้,assistant_proposed_unvalidated_seed,T1483,literal_substring_ignorecase,0,0,0,0
+th,W3,อย่างชัดเจน,assistant_proposed_unvalidated_seed,T1484,literal_substring_ignorecase,0,0,1,1
+th,W4,กำปั้นเหล็ก,assistant_proposed_unvalidated_seed,T1485,literal_substring_ignorecase,0,0,0,0
+th,W4,บังคับ,assistant_proposed_unvalidated_seed,T1486,literal_substring_ignorecase,4,4,18,16
+th,W4,บดขยี้,assistant_proposed_unvalidated_seed,T1487,literal_substring_ignorecase,0,0,0,0
+th,W4,ตำนาน,assistant_proposed_unvalidated_seed,T1488,literal_substring_ignorecase,2,1,3,2
+th,W5,ที่เรียกว่า,assistant_proposed_unvalidated_seed,T1489,literal_substring_ignorecase,1,1,2,2
+th,W5,อวดอ้าง,assistant_proposed_unvalidated_seed,T1490,literal_substring_ignorecase,0,0,0,0
+th,W5,ยอมรับ,assistant_proposed_unvalidated_seed,T1491,literal_substring_ignorecase,5,5,14,14
+th,G1,อธิปไตย,assistant_proposed_unvalidated_seed,T1492,literal_substring_ignorecase,5,5,5,5
+th,G1,ส่วนที่แยกไม่ได้,assistant_proposed_unvalidated_seed,T1493,literal_substring_ignorecase,0,0,0,0
+th,G1,เป็นของ,assistant_proposed_unvalidated_seed,T1494,literal_substring_ignorecase,7,7,9,9
+th,G2,ผิดกฎหมาย,assistant_proposed_unvalidated_seed,T1495,literal_substring_ignorecase,2,2,3,3
+th,G2,ไม่ชอบด้วยกฎหมาย,assistant_proposed_unvalidated_seed,T1496,literal_substring_ignorecase,0,0,1,1
+th,G2,ยึดครอง,assistant_proposed_unvalidated_seed,T1497,literal_substring_ignorecase,10,7,13,9
+th,G2,รุกราน,assistant_proposed_unvalidated_seed,T1498,literal_substring_ignorecase,14,7,20,11
+th,G3,เพื่อ,assistant_proposed_unvalidated_seed,T1499,literal_substring_ignorecase,62,54,138,113
+th,G3,มีเป้าหมาย,assistant_proposed_unvalidated_seed,T1500,literal_substring_ignorecase,0,0,0,0
+th,G3,ผลประโยชน์ทางการเมือง,assistant_proposed_unvalidated_seed,T1501,literal_substring_ignorecase,0,0,0,0
+th,G4,ประชาคมระหว่างประเทศ,assistant_proposed_unvalidated_seed,T1502,literal_substring_ignorecase,0,0,0,0
+th,G4,เป็นที่ยอมรับโดยทั่วไป,assistant_proposed_unvalidated_seed,T1503,literal_substring_ignorecase,0,0,0,0
+th,ATTR,ตาม,assistant_proposed_unvalidated_seed,T1504,literal_substring_ignorecase,82,65,156,124
+th,ATTR,กล่าว,assistant_proposed_unvalidated_seed,T1505,literal_substring_ignorecase,26,23,56,42
+th,ATTR,อ้างว่า,assistant_proposed_unvalidated_seed,T1506,literal_substring_ignorecase,0,0,2,2
+th,ATTR,ศาล,assistant_proposed_unvalidated_seed,T1507,literal_substring_ignorecase,28,15,63,25
+lo,W1,ຫຸ່ນເຊີດ,assistant_proposed_unvalidated_seed,T1508,literal_substring_ignorecase,0,0,0,0
+lo,W1,ຜູ້ທໍລະຍົດ,assistant_proposed_unvalidated_seed,T1509,literal_substring_ignorecase,0,0,0,0
+lo,W1,ປ່າເຖື່ອນ,assistant_proposed_unvalidated_seed,T1510,literal_substring_ignorecase,0,0,0,0
+lo,W2,ຮຸ່ງເຮືອງ,assistant_proposed_unvalidated_seed,T1511,literal_substring_ignorecase,2,2,2,2
+lo,W2,ວິລະບຸລຸດ,assistant_proposed_unvalidated_seed,T1512,literal_substring_ignorecase,0,0,0,0
+lo,W2,ຮັກສັນຕິ,assistant_proposed_unvalidated_seed,T1513,literal_substring_ignorecase,0,0,0,0
+lo,W3,ຢ່າງບໍ່ຕ້ອງສົງໄສ,assistant_proposed_unvalidated_seed,T1514,literal_substring_ignorecase,0,0,0,0
+lo,W3,ຢ່າງຊັດເຈນ,assistant_proposed_unvalidated_seed,T1515,literal_substring_ignorecase,0,0,0,0
+lo,W4,ກຳປັ້ນເຫຼັກ,assistant_proposed_unvalidated_seed,T1516,literal_substring_ignorecase,0,0,0,0
+lo,W4,ບັງຄັບ,assistant_proposed_unvalidated_seed,T1517,literal_substring_ignorecase,0,0,0,0
+lo,W4,ນິທານ,assistant_proposed_unvalidated_seed,T1518,literal_substring_ignorecase,2,2,2,2
+lo,W5,ທີ່ເອີ້ນວ່າ,assistant_proposed_unvalidated_seed,T1519,literal_substring_ignorecase,0,0,0,0
+lo,W5,ຍອມຮັບ,assistant_proposed_unvalidated_seed,T1520,literal_substring_ignorecase,1,1,1,1
+lo,G1,ອະທິປະໄຕ,assistant_proposed_unvalidated_seed,T1521,literal_substring_ignorecase,0,0,0,0
+lo,G1,ເປັນຂອງ,assistant_proposed_unvalidated_seed,T1522,literal_substring_ignorecase,2,2,2,2
+lo,G2,ຜິດກົດໝາຍ,assistant_proposed_unvalidated_seed,T1523,literal_substring_ignorecase,0,0,0,0
+lo,G2,ຢຶດຄອງ,assistant_proposed_unvalidated_seed,T1524,literal_substring_ignorecase,0,0,0,0
+lo,G2,ຮຸກຮານ,assistant_proposed_unvalidated_seed,T1525,literal_substring_ignorecase,0,0,0,0
+lo,G3,ເພື່ອ,assistant_proposed_unvalidated_seed,T1526,literal_substring_ignorecase,33,17,36,20
+lo,G3,ຈຸດປະສົງ,assistant_proposed_unvalidated_seed,T1527,literal_substring_ignorecase,0,0,0,0
+lo,G4,ປະຊາຄົມສາກົນ,assistant_proposed_unvalidated_seed,T1528,literal_substring_ignorecase,0,0,0,0
+lo,ATTR,ຕາມ,assistant_proposed_unvalidated_seed,T1529,literal_substring_ignorecase,39,27,41,28
+lo,ATTR,ກ່າວ,assistant_proposed_unvalidated_seed,T1530,literal_substring_ignorecase,8,7,8,7
+lo,ATTR,ສານ,assistant_proposed_unvalidated_seed,T1531,literal_substring_ignorecase,18,11,18,11
+km,W1,អាយ៉ង,assistant_proposed_unvalidated_seed,T1532,literal_substring_ignorecase,1,1,1,1
+km,W1,ជនក្បត់,assistant_proposed_unvalidated_seed,T1533,literal_substring_ignorecase,0,0,0,0
+km,W1,ព្រៃផ្សៃ,assistant_proposed_unvalidated_seed,T1534,literal_substring_ignorecase,0,0,0,0
+km,W2,រុងរឿង,assistant_proposed_unvalidated_seed,T1535,literal_substring_ignorecase,3,3,5,5
+km,W2,វីរភាព,assistant_proposed_unvalidated_seed,T1536,literal_substring_ignorecase,0,0,0,0
+km,W2,ស្រឡាញ់សន្តិភាព,assistant_proposed_unvalidated_seed,T1537,literal_substring_ignorecase,0,0,0,0
+km,W3,ដោយគ្មានការសង្ស័យ,assistant_proposed_unvalidated_seed,T1538,literal_substring_ignorecase,0,0,0,0
+km,W3,ច្បាស់ណាស់,assistant_proposed_unvalidated_seed,T1539,literal_substring_ignorecase,0,0,0,0
+km,W4,កណ្តាប់ដៃដែក,assistant_proposed_unvalidated_seed,T1540,literal_substring_ignorecase,0,0,0,0
+km,W4,បង្ខំ,assistant_proposed_unvalidated_seed,T1541,literal_substring_ignorecase,3,3,6,6
+km,W4,ទេវកថា,assistant_proposed_unvalidated_seed,T1542,literal_substring_ignorecase,3,2,3,2
+km,W5,ដែលហៅថា,assistant_proposed_unvalidated_seed,T1543,literal_substring_ignorecase,0,0,0,0
+km,W5,អួត,assistant_proposed_unvalidated_seed,T1544,literal_substring_ignorecase,0,0,0,0
+km,W5,ទទួលស្គាល់,assistant_proposed_unvalidated_seed,T1545,literal_substring_ignorecase,2,1,7,6
+km,G1,អធិបតេយ្យភាព,assistant_proposed_unvalidated_seed,T1546,literal_substring_ignorecase,3,3,3,3
+km,G1,ជាផ្នែកមួយ,assistant_proposed_unvalidated_seed,T1547,literal_substring_ignorecase,2,2,4,4
+km,G1,ជាកម្មសិទ្ធិ,assistant_proposed_unvalidated_seed,T1548,literal_substring_ignorecase,0,0,0,0
+km,G2,ខុសច្បាប់,assistant_proposed_unvalidated_seed,T1549,literal_substring_ignorecase,3,2,4,3
+km,G2,កាន់កាប់,assistant_proposed_unvalidated_seed,T1550,literal_substring_ignorecase,16,13,18,15
+km,G2,ឈ្លានពាន,assistant_proposed_unvalidated_seed,T1551,literal_substring_ignorecase,4,3,4,3
+km,G3,ដើម្បី,assistant_proposed_unvalidated_seed,T1552,literal_substring_ignorecase,38,30,77,56
+km,G3,គោលបំណង,assistant_proposed_unvalidated_seed,T1553,literal_substring_ignorecase,1,1,2,2
+km,G3,ផលប្រយោជន៍នយោបាយ,assistant_proposed_unvalidated_seed,T1554,literal_substring_ignorecase,0,0,0,0
+km,G4,សហគមន៍អន្តរជាតិ,assistant_proposed_unvalidated_seed,T1555,literal_substring_ignorecase,0,0,0,0
+km,ATTR,យោងតាម,assistant_proposed_unvalidated_seed,T1556,literal_substring_ignorecase,5,5,5,5
+km,ATTR,បាននិយាយ,assistant_proposed_unvalidated_seed,T1557,literal_substring_ignorecase,4,4,6,6
+km,ATTR,តុលាការ,assistant_proposed_unvalidated_seed,T1558,literal_substring_ignorecase,19,9,23,13
+my,W1,ရုပ်သေး,assistant_proposed_unvalidated_seed,T1559,literal_substring_ignorecase,0,0,0,0
+my,W1,သစ္စာဖောက်,assistant_proposed_unvalidated_seed,T1560,literal_substring_ignorecase,0,0,0,0
+my,W1,ရိုင်းစိုင်း,assistant_proposed_unvalidated_seed,T1561,literal_substring_ignorecase,0,0,0,0
+my,W2,ဘုန်းကြီး,assistant_proposed_unvalidated_seed,T1562,literal_substring_ignorecase,1,1,1,1
+my,W2,သူရဲကောင်း,assistant_proposed_unvalidated_seed,T1563,literal_substring_ignorecase,0,0,0,0
+my,W2,ငြိမ်းချမ်းရေးချစ်မြတ်နိုး,assistant_proposed_unvalidated_seed,T1564,literal_substring_ignorecase,0,0,0,0
+my,W3,သံသယမရှိ,assistant_proposed_unvalidated_seed,T1565,literal_substring_ignorecase,0,0,0,0
+my,W3,အငြင်းပွားဖွယ်မရှိ,assistant_proposed_unvalidated_seed,T1566,literal_substring_ignorecase,0,0,0,0
+my,W3,ထင်ရှား,assistant_proposed_unvalidated_seed,T1567,literal_substring_ignorecase,7,7,12,12
+my,W4,သံလက်သီး,assistant_proposed_unvalidated_seed,T1568,literal_substring_ignorecase,0,0,0,0
+my,W4,အတင်းအကျပ်,assistant_proposed_unvalidated_seed,T1569,literal_substring_ignorecase,0,0,0,0
+my,W4,ဒဏ္ဍာရီ,assistant_proposed_unvalidated_seed,T1570,literal_substring_ignorecase,0,0,0,0
+my,W5,ဟုခေါ်သော,assistant_proposed_unvalidated_seed,T1571,literal_substring_ignorecase,1,1,2,2
+my,W5,အမည်ခံ,assistant_proposed_unvalidated_seed,T1572,literal_substring_ignorecase,2,2,4,4
+my,W5,ဝန်ခံ,assistant_proposed_unvalidated_seed,T1573,literal_substring_ignorecase,0,0,1,1
+my,G1,အချုပ်အခြာအာဏာ,assistant_proposed_unvalidated_seed,T1574,literal_substring_ignorecase,9,7,9,7
+my,G1,အစိတ်အပိုင်း,assistant_proposed_unvalidated_seed,T1575,literal_substring_ignorecase,7,6,11,9
+my,G1,ပိုင်ဆိုင်,assistant_proposed_unvalidated_seed,T1576,literal_substring_ignorecase,7,7,7,7
+my,G2,တရားမဝင်,assistant_proposed_unvalidated_seed,T1577,literal_substring_ignorecase,5,5,7,7
+my,G2,သိမ်းပိုက်,assistant_proposed_unvalidated_seed,T1578,literal_substring_ignorecase,12,8,14,10
+my,G2,ကျူးကျော်,assistant_proposed_unvalidated_seed,T1579,literal_substring_ignorecase,6,5,9,8
+my,G3,ရည်ရွယ်,assistant_proposed_unvalidated_seed,T1580,literal_substring_ignorecase,2,2,4,4
+my,G3,အတွက်,assistant_proposed_unvalidated_seed,T1581,literal_substring_ignorecase,30,22,69,52
+my,G3,နိုင်ငံရေးအကျိုးစီးပွား,assistant_proposed_unvalidated_seed,T1582,literal_substring_ignorecase,0,0,0,0
+my,G4,နိုင်ငံတကာအသိုင်းအဝိုင်း,assistant_proposed_unvalidated_seed,T1583,literal_substring_ignorecase,1,1,1,1
+my,ATTR,အဆိုအရ,assistant_proposed_unvalidated_seed,T1584,literal_substring_ignorecase,2,2,3,3
+my,ATTR,ပြောကြား,assistant_proposed_unvalidated_seed,T1585,literal_substring_ignorecase,0,0,0,0
+my,ATTR,တရားရုံး,assistant_proposed_unvalidated_seed,T1586,literal_substring_ignorecase,2,2,2,2
+iw,W1,בובה,assistant_proposed_unvalidated_seed,T1587,unicode_word_bounded_literal_ignorecase,0,0,0,0
+iw,W1,בוגד,assistant_proposed_unvalidated_seed,T1588,unicode_word_bounded_literal_ignorecase,0,0,0,0
+iw,W1,ברברי,assistant_proposed_unvalidated_seed,T1589,unicode_word_bounded_literal_ignorecase,0,0,0,0
+iw,W2,מפואר,assistant_proposed_unvalidated_seed,T1590,unicode_word_bounded_literal_ignorecase,0,0,1,1
+iw,W2,הרואי,assistant_proposed_unvalidated_seed,T1591,unicode_word_bounded_literal_ignorecase,0,0,0,0
+iw,W2,אוהב שלום,assistant_proposed_unvalidated_seed,T1592,unicode_word_bounded_literal_ignorecase,0,0,0,0
+iw,W3,ללא ספק,assistant_proposed_unvalidated_seed,T1593,unicode_word_bounded_literal_ignorecase,0,0,0,0
+iw,W3,אין עוררין,assistant_proposed_unvalidated_seed,T1594,unicode_word_bounded_literal_ignorecase,0,0,0,0
+iw,W3,ברור,assistant_proposed_unvalidated_seed,T1595,unicode_word_bounded_literal_ignorecase,7,7,7,7
+iw,W4,אגרוף ברזל,assistant_proposed_unvalidated_seed,T1596,unicode_word_bounded_literal_ignorecase,0,0,0,0
+iw,W4,לכפות,assistant_proposed_unvalidated_seed,T1597,unicode_word_bounded_literal_ignorecase,0,0,0,0
+iw,W4,מיתוס,assistant_proposed_unvalidated_seed,T1598,unicode_word_bounded_literal_ignorecase,0,0,0,0
+iw,W5,כביכול,assistant_proposed_unvalidated_seed,T1599,unicode_word_bounded_literal_ignorecase,0,0,0,0
+iw,W5,מה שמכונה,assistant_proposed_unvalidated_seed,T1600,unicode_word_bounded_literal_ignorecase,0,0,0,0
+iw,W5,התרברב,assistant_proposed_unvalidated_seed,T1601,unicode_word_bounded_literal_ignorecase,0,0,0,0
+iw,W5,הודה,assistant_proposed_unvalidated_seed,T1602,unicode_word_bounded_literal_ignorecase,0,0,0,0
+iw,G1,ריבונות,assistant_proposed_unvalidated_seed,T1603,unicode_word_bounded_literal_ignorecase,10,9,11,10
+iw,G1,חלק בלתי נפרד,assistant_proposed_unvalidated_seed,T1604,unicode_word_bounded_literal_ignorecase,1,1,1,1
+iw,G1,שייך,assistant_proposed_unvalidated_seed,T1605,unicode_word_bounded_literal_ignorecase,2,2,3,3
+iw,G2,בלתי חוקי,assistant_proposed_unvalidated_seed,T1606,unicode_word_bounded_literal_ignorecase,1,1,3,2
+iw,G2,כיבוש,assistant_proposed_unvalidated_seed,T1607,unicode_word_bounded_literal_ignorecase,13,12,17,16
+iw,G2,כבושה,assistant_proposed_unvalidated_seed,T1608,unicode_word_bounded_literal_ignorecase,0,0,0,0
+iw,G2,תוקפנות,assistant_proposed_unvalidated_seed,T1609,unicode_word_bounded_literal_ignorecase,0,0,0,0
+iw,G3,במטרה,assistant_proposed_unvalidated_seed,T1610,unicode_word_bounded_literal_ignorecase,4,4,12,10
+iw,G3,כדי,assistant_proposed_unvalidated_seed,T1611,unicode_word_bounded_literal_ignorecase,16,16,31,31
+iw,G3,אינטרסים פוליטיים,assistant_proposed_unvalidated_seed,T1612,unicode_word_bounded_literal_ignorecase,0,0,0,0
+iw,G4,הקהילה הבינלאומית,assistant_proposed_unvalidated_seed,T1613,unicode_word_bounded_literal_ignorecase,6,5,7,6
+iw,G4,מוכר באופן נרחב,assistant_proposed_unvalidated_seed,T1614,unicode_word_bounded_literal_ignorecase,0,0,0,0
+iw,ATTR,לפי,assistant_proposed_unvalidated_seed,T1615,unicode_word_bounded_literal_ignorecase,21,17,48,40
+iw,ATTR,לדברי,assistant_proposed_unvalidated_seed,T1616,unicode_word_bounded_literal_ignorecase,1,1,1,1
+iw,ATTR,טען,assistant_proposed_unvalidated_seed,T1617,unicode_word_bounded_literal_ignorecase,1,1,2,2
+iw,ATTR,בית המשפט,assistant_proposed_unvalidated_seed,T1618,unicode_word_bounded_literal_ignorecase,2,2,4,4
+dz,W1,ཁྲེལ་མེད,assistant_proposed_unvalidated_seed,T1619,literal_substring_ignorecase,0,0,0,0
+dz,W1,རྒྱལ་འཚོང,assistant_proposed_unvalidated_seed,T1620,literal_substring_ignorecase,0,0,0,0
+dz,W2,དཔལ་ལྡན,assistant_proposed_unvalidated_seed,T1621,literal_substring_ignorecase,0,0,1,1
+dz,W2,དཔའ་བོ,assistant_proposed_unvalidated_seed,T1622,literal_substring_ignorecase,0,0,0,0
+dz,W3,ཐེ་ཚོམ་མེད,assistant_proposed_unvalidated_seed,T1623,literal_substring_ignorecase,0,0,0,0
+dz,W3,ངེས་པར,assistant_proposed_unvalidated_seed,T1624,literal_substring_ignorecase,0,0,0,0
+dz,W4,བཙན་ཤེད,assistant_proposed_unvalidated_seed,T1625,literal_substring_ignorecase,0,0,0,0
+dz,W4,ལྷ་སྒྲུང,assistant_proposed_unvalidated_seed,T1626,literal_substring_ignorecase,0,0,0,0
+dz,W5,ཟེར་མི,assistant_proposed_unvalidated_seed,T1627,literal_substring_ignorecase,0,0,1,1
+dz,W5,ངོས་ལེན,assistant_proposed_unvalidated_seed,T1628,literal_substring_ignorecase,0,0,0,0
+dz,G1,བདག་དབང,assistant_proposed_unvalidated_seed,T1629,literal_substring_ignorecase,0,0,0,0
+dz,G1,རང་བཙན,assistant_proposed_unvalidated_seed,T1630,literal_substring_ignorecase,0,0,0,0
+dz,G2,ཁྲིམས་འགལ,assistant_proposed_unvalidated_seed,T1631,literal_substring_ignorecase,0,0,0,0
+dz,G2,བཙན་བཟུང,assistant_proposed_unvalidated_seed,T1632,literal_substring_ignorecase,0,0,0,0
+dz,G3,དམིགས་ཡུལ,assistant_proposed_unvalidated_seed,T1633,literal_substring_ignorecase,0,0,0,0
+dz,G3,དོན་ལུ,assistant_proposed_unvalidated_seed,T1634,literal_substring_ignorecase,0,0,0,0
+dz,G4,རྒྱལ་སྤྱི,assistant_proposed_unvalidated_seed,T1635,literal_substring_ignorecase,0,0,0,0
+dz,ATTR,གཞི་བཞག,assistant_proposed_unvalidated_seed,T1636,literal_substring_ignorecase,0,0,1,1
+dz,ATTR,ཟེར,assistant_proposed_unvalidated_seed,T1637,literal_substring_ignorecase,0,0,11,6
+dz,ATTR,ཁྲིམས་ཁང,assistant_proposed_unvalidated_seed,T1638,literal_substring_ignorecase,0,0,0,0
+to,W1,fakapōpula,assistant_proposed_unvalidated_seed,T1639,unicode_word_bounded_literal_ignorecase,0,0,0,0
+to,W1,lavaki,assistant_proposed_unvalidated_seed,T1640,unicode_word_bounded_literal_ignorecase,0,0,0,0
+to,W2,nāunau,assistant_proposed_unvalidated_seed,T1641,unicode_word_bounded_literal_ignorecase,0,0,0,0
+to,W2,toʻa,assistant_proposed_unvalidated_seed,T1642,unicode_word_bounded_literal_ignorecase,0,0,0,0
+to,W2,melino,assistant_proposed_unvalidated_seed,T1643,unicode_word_bounded_literal_ignorecase,0,0,0,0
+to,W3,ʻikai ha veiveiua,assistant_proposed_unvalidated_seed,T1644,unicode_word_bounded_literal_ignorecase,0,0,0,0
+to,W3,mahino,assistant_proposed_unvalidated_seed,T1645,unicode_word_bounded_literal_ignorecase,0,0,0,0
+to,W4,fakamālohi,assistant_proposed_unvalidated_seed,T1646,unicode_word_bounded_literal_ignorecase,0,0,0,0
+to,W4,talatupuʻa,assistant_proposed_unvalidated_seed,T1647,unicode_word_bounded_literal_ignorecase,0,0,0,0
+to,W5,pehē,assistant_proposed_unvalidated_seed,T1648,unicode_word_bounded_literal_ignorecase,0,0,1,1
+to,W5,fakahā,assistant_proposed_unvalidated_seed,T1649,unicode_word_bounded_literal_ignorecase,0,0,1,1
+to,G1,puleʻanga,assistant_proposed_unvalidated_seed,T1650,unicode_word_bounded_literal_ignorecase,0,0,2,2
+to,G1,ʻaʻana,assistant_proposed_unvalidated_seed,T1651,unicode_word_bounded_literal_ignorecase,0,0,0,0
+to,G2,taʻefakalao,assistant_proposed_unvalidated_seed,T1652,unicode_word_bounded_literal_ignorecase,0,0,0,0
+to,G2,fakafepaki,assistant_proposed_unvalidated_seed,T1653,unicode_word_bounded_literal_ignorecase,0,0,0,0
+to,G3,koeʻuhí,assistant_proposed_unvalidated_seed,T1654,unicode_word_bounded_literal_ignorecase,0,0,0,0
+to,G3,taumuʻa,assistant_proposed_unvalidated_seed,T1655,unicode_word_bounded_literal_ignorecase,0,0,0,0
+to,G4,fakavahaʻapuleʻanga,assistant_proposed_unvalidated_seed,T1656,unicode_word_bounded_literal_ignorecase,0,0,0,0
+to,ATTR,fakatatau,assistant_proposed_unvalidated_seed,T1657,unicode_word_bounded_literal_ignorecase,0,0,0,0
+to,ATTR,pehē,assistant_proposed_unvalidated_seed,T1658,unicode_word_bounded_literal_ignorecase,0,0,1,1
+es,W2,amante de la paz,assistant_proposed_unvalidated_seed,T1659,unicode_word_bounded_literal_ignorecase,0,0,0,0
+fr,W2,épris de paix,assistant_proposed_unvalidated_seed,T1660,unicode_word_bounded_literal_ignorecase,0,0,0,0
+pt,W2,amante da paz,assistant_proposed_unvalidated_seed,T1661,unicode_word_bounded_literal_ignorecase,0,0,0,0
+it,W2,amante della pace,assistant_proposed_unvalidated_seed,T1662,unicode_word_bounded_literal_ignorecase,0,0,0,0
+fa,W3,مسلماً,assistant_proposed_unvalidated_seed,T1663,unicode_word_bounded_literal_ignorecase,0,0,0,0

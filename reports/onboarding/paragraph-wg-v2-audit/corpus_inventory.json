@@ -1,0 +1,15 @@
+{
+  "raw_paragraphs": 62359,
+  "raw_nonempty_paragraphs": 62349,
+  "indexed_paragraphs": 25311,
+  "indexed_nonempty_language_codes": 50,
+  "index_keys": 51,
+  "empty_index_keys": [
+    "control"
+  ],
+  "query_languages": 49,
+  "raw_json_files_including_metadata": 997,
+  "raw_article_files": 945,
+  "raw_article_language_codes": 51,
+  "excluded_metadata_json_files": 52
+}
