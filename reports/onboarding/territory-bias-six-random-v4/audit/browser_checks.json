@@ -1,0 +1,10 @@
+{
+  "browser": "passed",
+  "initial_rows": 720,
+  "risk_filter": 28,
+  "UNK_filter": 11,
+  "G4_risk_filter": 9,
+  "id_search_expand": "passed",
+  "rank_visible": true,
+  "JS_errors": []
+}

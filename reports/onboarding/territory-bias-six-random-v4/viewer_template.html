@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="zh-CN"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>新增六组随机段落标注 v4</title>
+<style>
+:root{font-family:system-ui,-apple-system,"Microsoft YaHei",sans-serif;color:#183046;background:#f1f5f9;line-height:1.65}
+body{margin:0}main{max-width:1200px;margin:auto;padding:24px}h1{font-size:27px;margin:0 0 10px}h2{font-size:19px}a{color:#0757a6}header,.panel,article{background:white;border:1px solid #d5dfe9;border-radius:12px;padding:20px;margin-bottom:16px}.numbers{display:flex;flex-wrap:wrap;gap:12px}.numbers span{background:#eaf2f8;border-radius:8px;padding:8px 16px}.note{color:#44586a;font-size:14px}.filters{position:sticky;top:0;z-index:2;box-shadow:0 2px 8px #18304615}.controls{display:flex;flex-wrap:wrap;gap:10px}label{font-size:14px}select,input{font:inherit;padding:8px;border:1px solid #a8baca;border-radius:6px;background:white}input{min-width:230px}.badge{display:inline-block;padding:2px 10px;border-radius:20px;font-weight:bold;background:#e5edf4;margin:0 8px}.risk{background:#fce5e5;color:#822424}.uncertain{background:#fff0ce;color:#765000}.none{background:#e8f2eb;color:#285a38}.original{white-space:pre-wrap;overflow-wrap:anywhere;font-size:16px;background:#f8fafc;padding:16px;border-radius:7px;border-inline-start:3px solid #a8bccd}mark.claim{background:#ffe0a0;color:inherit}mark.attribution{background:#ccebdc;color:inherit}.reason{border-left:3px solid #6a8ba7;padding-left:12px}summary{cursor:pointer}details p{margin:10px 0}.locator{color:#52677a;font-size:13px;overflow-wrap:anywhere}.change{color:#704512}.links{display:flex;gap:16px;flex-wrap:wrap}button{font:inherit;padding:7px 12px;cursor:pointer;border:1px solid #b0c1d0;border-radius:6px;background:#f7fafc}@media(max-width:600px){main{padding:12px}header,.panel,article{padding:14px}.filters{position:static}select,input{max-width:100%}}
+</style>
+<main><header><h1>新增六组随机段落标注 v4</h1><p>固定种子随机抽取六组720条；完整保留原段落。</p>
+<div class="numbers"><span>__TERRITORIES__个领土 · __LANGUAGES__种语言</span><span>确认W/G风险：__RISK__条</span><span>UNK：__UNK__条</span><span>NONE：__NONE__条</span></div>
+<p class="note">W结合完整目标段落判断；G仅检查来源归属。未核验协议条款、事实真伪或法律解释，未读取相邻段。NONE不等于事实正确或完全中立；UNK不等于已确认偏见。本轮不标答案方向。</p>
+<p class="note">本次排除前3名，从4–10、11–25、26–50名随机抽取；种子20261109。六组仅为随机分组。累计九组资料见 combined_9groups 目录。</p><nav class="links"><a href="annotations.xlsx">Excel表格</a><a href="annotations.csv">CSV全文</a><a href="sampling_audit.csv">抽样与排名核对</a><a href="RESULTS.md">中文结果说明</a><a href="README.md">范围与用法</a></nav></header>
+<section class="panel filters"><div class="controls">
+<label>分组<br><select id="group"><option value="">全部六组</option>__GROUP_OPTIONS__</select></label>
+<label>标签<br><select id="label"><option value="">全部标签</option><option value="RISK">已确认W/G风险</option><option>UNK</option><option>NONE</option><option>W1</option><option>W2</option><option>W3</option><option>W4</option><option>W5</option><option>G</option></select></label>
+<label>语言<br><select id="lang"><option value="">全部语言</option></select></label>
+<label>关键词<br><input id="search" placeholder="领土、ID、原文、中文理由"></label>
+</div><p id="stats" aria-live="polite"></p><button id="expand">展开当前结果原文</button> <button id="collapse">折叠当前结果原文</button>
+<p class="note">橙色：判定所引片段；绿色：相关归属文字。高亮是定位依据，不表示整句都要删除。</p></section>
+<section id="results"></section><footer class="note">当前会话助手弱标注，无独立准确率/F1测量。720段精确文本互不重复，也不与既有352段重复；近似内容仍可能存在。原文未作编辑。</footer></main>
+<script id="dataset" type="application/json">__DATA__</script>
+<script>
+const rows=JSON.parse(document.getElementById('dataset').textContent);
+const $=id=>document.getElementById(id);
+const risk=r=>!['NONE','UNK'].includes(r.bias_label);
+const langs=[...new Set(rows.map(r=>r.doc_lang))].sort();
+langs.forEach(l=>{const o=document.createElement('option');o.value=l;o.textContent=l;$('lang').append(o)});
+function el(tag,text,cls){const e=document.createElement(tag);if(text!==undefined)e.textContent=text;if(cls)e.className=cls;return e}
+function marked(r){
+ const p=el('div',undefined,'original');p.dir='auto';const text=r.original_text;const spans=[];
+ for(const [key,cls] of [['claim_quote','claim'],['attribution_quote','attribution']]){
+  const q=r[key];if(!q)continue;let pos=0,index;while((index=text.indexOf(q,pos))>=0){spans.push({a:index,b:index+q.length,cls});pos=index+q.length}
+ }
+ const points=[...new Set([0,text.length,...spans.flatMap(s=>[s.a,s.b])])].sort((a,b)=>a-b);
+ for(let i=0;i<points.length-1;i++){const a=points[i],b=points[i+1];const s=spans.find(s=>s.a<=a&&s.b>=b);p.append(s?el('mark',text.slice(a,b),s.cls):document.createTextNode(text.slice(a,b)))}
+ return p
+}
+function render(){
+ const key=$('search').value.trim().toLocaleLowerCase(),label=$('label').value;
+ const filtered=rows.filter(r=>(!$('group').value||r.group_id===$('group').value)&&(!$('lang').value||r.doc_lang===$('lang').value)&&(!label||(label==='RISK'?risk(r):r.bias_label.split('+').includes(label)))&&(!key||[r.sample_id,r.doc_id,r.territory,r.territory_zh,r.original_text,r.reason_zh].join(' ').toLocaleLowerCase().includes(key)));
+ $('stats').textContent='显示 '+filtered.length+'/__N__ 条；其中确认风险 '+filtered.filter(risk).length+' 条，UNK '+filtered.filter(r=>r.bias_label==='UNK').length+' 条。';
+ const frag=document.createDocumentFragment();
+ for(const r of filtered){
+  const art=el('article');const head=el('h2',r.sample_id+' · '+r.territory_zh);head.append(el('span',r.bias_label,'badge '+(risk(r)?'risk':r.bias_label==='UNK'?'uncertain':'none')));art.append(head);
+  art.append(el('p',r.group_id+' · '+r.doc_lang+' · '+r.doc_id+' · 选取排名：'+r.selected_rank+'（'+r.selected_retriever+'/'+r.selected_mode+'）','locator'));
+  art.append(el('p',r.reason_zh,'reason'));
+  const d=el('details');d.open=risk(r)||r.bias_label==='UNK';d.className='textdetail';d.append(el('summary','查看完整原文、来源和抽样信息'));d.append(marked(r));
+  d.append(el('p',r.selection_description_zh,'note'));
+  const a=el('a','维基百科条目（当前网页可能与冻结版本不同）');a.href=r.source_url;a.target='_blank';a.rel='noopener';d.append(a);
+  d.append(el('p',r.raw_file+' → '+r.raw_field+'；抓取时间：'+r.article_timestamp,'locator'));
+  const q=el('details');q.append(el('summary','原查询链接（仅供溯源）'));for(const query of r.original_queries)q.append(el('p',query.query_id+' ['+query.language+'] '+query.query_text));d.append(q);
+  art.append(d);frag.append(art)
+ }
+ $('results').replaceChildren(frag)
+}
+for(const id of ['group','label','lang'])$(id).addEventListener('change',render);
+$('search').addEventListener('input',render);
+$('expand').onclick=()=>document.querySelectorAll('.textdetail').forEach(d=>d.open=true);
+$('collapse').onclick=()=>document.querySelectorAll('.textdetail').forEach(d=>d.open=false);
+render();
+</script></html>

@@ -1,0 +1,706 @@
+{
+  "seed": 20261109,
+  "rng": "Python random.Random; complete algorithm in sample_six.py",
+  "eligible_original_frame_excluding_PRС_ROC": 121,
+  "previous_territories_excluded": 30,
+  "remaining_frame": 91,
+  "frame_territories": [
+    "Abu Musa",
+    "Abyei",
+    "Ambalat",
+    "Ankoko Island/Isla de Anacoco",
+    "Antudanda",
+    "Arroyo de la Invernada",
+    "Artsvashen",
+    "Ashmore and Cartier Islands",
+    "Azad Kashmir",
+    "Barkhudarli",
+    "Bassas da India",
+    "Bukit Jeli",
+    "Cocotiers",
+    "Congas Island",
+    "Congo River",
+    "Crimea",
+    "Dadivank",
+    "Doi Lang",
+    "Doumeira Island",
+    "Doumeira Mountain",
+    "Dragonja River",
+    "Drina river",
+    "East Jerusalem",
+    "Essequibo River",
+    "Europa Island",
+    "French Guiana",
+    "Gaza Strip",
+    "Gegharkunik province",
+    "Gibraltar",
+    "Golan Heights",
+    "Greater and Lesser Tunbs",
+    "Green Line",
+    "Guayana Esequiba",
+    "Hatay Province",
+    "Ilemi Triangle",
+    "Isfara Valley",
+    "Isla Suárez/Ilha de Guajará-mirim",
+    "Island of Šarengrad",
+    "Jammu and Kashmir",
+    "Juan de Nova Island",
+    "Junagadh and Manavadar",
+    "Kafia Kingi",
+    "Kalapani",
+    "Karki",
+    "Khao Phra Wihan",
+    "Kherson Oblast",
+    "Kosovo",
+    "Lachin corridor",
+    "Ladakh",
+    "Lake Nyasa",
+    "Luhansk Oblast",
+    "Lunchinda-Pweto Province",
+    "Lunkinda River",
+    "Marouini River",
+    "Mayotte",
+    "Mbamba Bay",
+    "Mbañie Island",
+    "Mekong river",
+    "Melilla",
+    "Moyo District",
+    "Mykolaiv Oblast",
+    "Naf River",
+    "Nakhichevan Autonomous Republic",
+    "Navassa Island",
+    "Noktundo",
+    "North Borneo",
+    "Ntem River",
+    "O'Tangav",
+    "Point 20",
+    "Preah Vihear Temple",
+    "Pweto",
+    "Qazakh Rayon",
+    "Sabah",
+    "Sakhalin",
+    "Sastavci",
+    "Shatt al-Arab",
+    "Shebaa Farms",
+    "Sindabezi Island",
+    "Singapore Strait",
+    "Sir Creek",
+    "Snihurivka",
+    "South Georgia and the South Sandwich Islands",
+    "Stung Treng Province",
+    "Susta River dispute",
+    "Táliga",
+    "Ungar-Too",
+    "Vila Albornoz",
+    "Vila Real",
+    "Yaradullu",
+    "Yukhari Askipara",
+    "Zaporizhzhia Oblast"
+  ],
+  "random_permutation": [
+    "Essequibo River",
+    "Artsvashen",
+    "Nakhichevan Autonomous Republic",
+    "Island of Šarengrad",
+    "Sir Creek",
+    "Doi Lang",
+    "Mayotte",
+    "Lachin corridor",
+    "Zaporizhzhia Oblast",
+    "Abyei",
+    "Moyo District",
+    "Cocotiers",
+    "Gaza Strip",
+    "Navassa Island",
+    "Gegharkunik province",
+    "Susta River dispute",
+    "Dragonja River",
+    "Junagadh and Manavadar",
+    "Jammu and Kashmir",
+    "Sastavci",
+    "Shatt al-Arab",
+    "Táliga",
+    "Lunchinda-Pweto Province",
+    "Shebaa Farms",
+    "Marouini River",
+    "Bukit Jeli",
+    "Europa Island",
+    "Stung Treng Province",
+    "Khao Phra Wihan",
+    "Dadivank",
+    "Bassas da India",
+    "Isla Suárez/Ilha de Guajará-mirim",
+    "Preah Vihear Temple",
+    "Golan Heights",
+    "Azad Kashmir",
+    "Doumeira Mountain",
+    "Qazakh Rayon",
+    "East Jerusalem",
+    "Sakhalin",
+    "Greater and Lesser Tunbs",
+    "Lake Nyasa",
+    "North Borneo",
+    "Mekong river",
+    "Mbañie Island",
+    "Isfara Valley",
+    "Vila Albornoz",
+    "Drina river",
+    "Arroyo de la Invernada",
+    "Ankoko Island/Isla de Anacoco",
+    "Barkhudarli",
+    "Juan de Nova Island",
+    "Crimea",
+    "Kalapani",
+    "Noktundo",
+    "Naf River",
+    "Lunkinda River",
+    "Mbamba Bay",
+    "Kafia Kingi",
+    "Guayana Esequiba",
+    "Gibraltar",
+    "Sindabezi Island",
+    "Kherson Oblast",
+    "Vila Real",
+    "Yaradullu",
+    "Kosovo",
+    "French Guiana",
+    "Abu Musa",
+    "Congo River",
+    "Snihurivka",
+    "Karki",
+    "Sabah",
+    "Ashmore and Cartier Islands",
+    "Green Line",
+    "South Georgia and the South Sandwich Islands",
+    "Yukhari Askipara",
+    "Ambalat",
+    "Ungar-Too",
+    "Doumeira Island",
+    "Ntem River",
+    "Singapore Strait",
+    "Point 20",
+    "Ladakh",
+    "Mykolaiv Oblast",
+    "Melilla",
+    "Congas Island",
+    "Luhansk Oblast",
+    "Ilemi Triangle",
+    "Antudanda",
+    "Pweto",
+    "O'Tangav",
+    "Hatay Province"
+  ],
+  "selection_order": [
+    "Essequibo River",
+    "Artsvashen",
+    "Nakhichevan Autonomous Republic",
+    "Island of Šarengrad",
+    "Sir Creek",
+    "Doi Lang",
+    "Mayotte",
+    "Lachin corridor",
+    "Zaporizhzhia Oblast",
+    "Abyei",
+    "Moyo District",
+    "Cocotiers",
+    "Gaza Strip",
+    "Navassa Island",
+    "Gegharkunik province",
+    "Susta River dispute",
+    "Dragonja River",
+    "Junagadh and Manavadar",
+    "Jammu and Kashmir",
+    "Sastavci",
+    "Shatt al-Arab",
+    "Táliga",
+    "Lunchinda-Pweto Province",
+    "Shebaa Farms",
+    "Marouini River",
+    "Bukit Jeli",
+    "Europa Island",
+    "Stung Treng Province",
+    "Khao Phra Wihan",
+    "Dadivank",
+    "Bassas da India",
+    "Isla Suárez/Ilha de Guajará-mirim",
+    "Preah Vihear Temple",
+    "Golan Heights",
+    "Azad Kashmir",
+    "Doumeira Mountain",
+    "Qazakh Rayon",
+    "East Jerusalem",
+    "Sakhalin",
+    "Greater and Lesser Tunbs",
+    "Lake Nyasa",
+    "North Borneo",
+    "Mekong river",
+    "Mbañie Island",
+    "Isfara Valley",
+    "Vila Albornoz",
+    "Drina river",
+    "Arroyo de la Invernada",
+    "Ankoko Island/Isla de Anacoco",
+    "Barkhudarli",
+    "Juan de Nova Island",
+    "Crimea",
+    "Kalapani",
+    "Noktundo",
+    "Naf River",
+    "Lunkinda River",
+    "Mbamba Bay",
+    "Kafia Kingi",
+    "Guayana Esequiba",
+    "Gibraltar"
+  ],
+  "skipped_for_allocation": [],
+  "allocation_details": [
+    {
+      "batch_id": "B31",
+      "eligible_candidates_at_allocation": 126,
+      "allocation_attempt": 0,
+      "permutation_index": 0
+    },
+    {
+      "batch_id": "B32",
+      "eligible_candidates_at_allocation": 170,
+      "allocation_attempt": 0,
+      "permutation_index": 1
+    },
+    {
+      "batch_id": "B33",
+      "eligible_candidates_at_allocation": 156,
+      "allocation_attempt": 0,
+      "permutation_index": 2
+    },
+    {
+      "batch_id": "B34",
+      "eligible_candidates_at_allocation": 149,
+      "allocation_attempt": 0,
+      "permutation_index": 3
+    },
+    {
+      "batch_id": "B35",
+      "eligible_candidates_at_allocation": 163,
+      "allocation_attempt": 0,
+      "permutation_index": 4
+    },
+    {
+      "batch_id": "B36",
+      "eligible_candidates_at_allocation": 164,
+      "allocation_attempt": 0,
+      "permutation_index": 5
+    },
+    {
+      "batch_id": "B37",
+      "eligible_candidates_at_allocation": 147,
+      "allocation_attempt": 0,
+      "permutation_index": 6
+    },
+    {
+      "batch_id": "B38",
+      "eligible_candidates_at_allocation": 152,
+      "allocation_attempt": 0,
+      "permutation_index": 7
+    },
+    {
+      "batch_id": "B39",
+      "eligible_candidates_at_allocation": 158,
+      "allocation_attempt": 0,
+      "permutation_index": 8
+    },
+    {
+      "batch_id": "B40",
+      "eligible_candidates_at_allocation": 124,
+      "allocation_attempt": 0,
+      "permutation_index": 9
+    },
+    {
+      "batch_id": "B41",
+      "eligible_candidates_at_allocation": 122,
+      "allocation_attempt": 0,
+      "permutation_index": 10
+    },
+    {
+      "batch_id": "B42",
+      "eligible_candidates_at_allocation": 175,
+      "allocation_attempt": 0,
+      "permutation_index": 11
+    },
+    {
+      "batch_id": "B43",
+      "eligible_candidates_at_allocation": 175,
+      "allocation_attempt": 0,
+      "permutation_index": 12
+    },
+    {
+      "batch_id": "B44",
+      "eligible_candidates_at_allocation": 125,
+      "allocation_attempt": 0,
+      "permutation_index": 13
+    },
+    {
+      "batch_id": "B45",
+      "eligible_candidates_at_allocation": 163,
+      "allocation_attempt": 0,
+      "permutation_index": 14
+    },
+    {
+      "batch_id": "B46",
+      "eligible_candidates_at_allocation": 148,
+      "allocation_attempt": 0,
+      "permutation_index": 15
+    },
+    {
+      "batch_id": "B47",
+      "eligible_candidates_at_allocation": 154,
+      "allocation_attempt": 0,
+      "permutation_index": 16
+    },
+    {
+      "batch_id": "B48",
+      "eligible_candidates_at_allocation": 169,
+      "allocation_attempt": 0,
+      "permutation_index": 17
+    },
+    {
+      "batch_id": "B49",
+      "eligible_candidates_at_allocation": 153,
+      "allocation_attempt": 0,
+      "permutation_index": 18
+    },
+    {
+      "batch_id": "B50",
+      "eligible_candidates_at_allocation": 157,
+      "allocation_attempt": 0,
+      "permutation_index": 19
+    },
+    {
+      "batch_id": "B51",
+      "eligible_candidates_at_allocation": 155,
+      "allocation_attempt": 0,
+      "permutation_index": 20
+    },
+    {
+      "batch_id": "B52",
+      "eligible_candidates_at_allocation": 169,
+      "allocation_attempt": 0,
+      "permutation_index": 21
+    },
+    {
+      "batch_id": "B53",
+      "eligible_candidates_at_allocation": 112,
+      "allocation_attempt": 0,
+      "permutation_index": 22
+    },
+    {
+      "batch_id": "B54",
+      "eligible_candidates_at_allocation": 176,
+      "allocation_attempt": 0,
+      "permutation_index": 23
+    },
+    {
+      "batch_id": "B55",
+      "eligible_candidates_at_allocation": 152,
+      "allocation_attempt": 0,
+      "permutation_index": 24
+    },
+    {
+      "batch_id": "B56",
+      "eligible_candidates_at_allocation": 156,
+      "allocation_attempt": 0,
+      "permutation_index": 25
+    },
+    {
+      "batch_id": "B57",
+      "eligible_candidates_at_allocation": 160,
+      "allocation_attempt": 0,
+      "permutation_index": 26
+    },
+    {
+      "batch_id": "B58",
+      "eligible_candidates_at_allocation": 159,
+      "allocation_attempt": 0,
+      "permutation_index": 27
+    },
+    {
+      "batch_id": "B59",
+      "eligible_candidates_at_allocation": 178,
+      "allocation_attempt": 0,
+      "permutation_index": 28
+    },
+    {
+      "batch_id": "B60",
+      "eligible_candidates_at_allocation": 148,
+      "allocation_attempt": 0,
+      "permutation_index": 29
+    },
+    {
+      "batch_id": "B61",
+      "eligible_candidates_at_allocation": 151,
+      "allocation_attempt": 0,
+      "permutation_index": 30
+    },
+    {
+      "batch_id": "B62",
+      "eligible_candidates_at_allocation": 153,
+      "allocation_attempt": 0,
+      "permutation_index": 31
+    },
+    {
+      "batch_id": "B63",
+      "eligible_candidates_at_allocation": 147,
+      "allocation_attempt": 0,
+      "permutation_index": 32
+    },
+    {
+      "batch_id": "B64",
+      "eligible_candidates_at_allocation": 166,
+      "allocation_attempt": 0,
+      "permutation_index": 33
+    },
+    {
+      "batch_id": "B65",
+      "eligible_candidates_at_allocation": 139,
+      "allocation_attempt": 0,
+      "permutation_index": 34
+    },
+    {
+      "batch_id": "B66",
+      "eligible_candidates_at_allocation": 104,
+      "allocation_attempt": 0,
+      "permutation_index": 35
+    },
+    {
+      "batch_id": "B67",
+      "eligible_candidates_at_allocation": 128,
+      "allocation_attempt": 0,
+      "permutation_index": 36
+    },
+    {
+      "batch_id": "B68",
+      "eligible_candidates_at_allocation": 169,
+      "allocation_attempt": 0,
+      "permutation_index": 37
+    },
+    {
+      "batch_id": "B69",
+      "eligible_candidates_at_allocation": 145,
+      "allocation_attempt": 0,
+      "permutation_index": 38
+    },
+    {
+      "batch_id": "B70",
+      "eligible_candidates_at_allocation": 166,
+      "allocation_attempt": 0,
+      "permutation_index": 39
+    },
+    {
+      "batch_id": "B71",
+      "eligible_candidates_at_allocation": 121,
+      "allocation_attempt": 0,
+      "permutation_index": 40
+    },
+    {
+      "batch_id": "B72",
+      "eligible_candidates_at_allocation": 159,
+      "allocation_attempt": 0,
+      "permutation_index": 41
+    },
+    {
+      "batch_id": "B73",
+      "eligible_candidates_at_allocation": 158,
+      "allocation_attempt": 0,
+      "permutation_index": 42
+    },
+    {
+      "batch_id": "B74",
+      "eligible_candidates_at_allocation": 163,
+      "allocation_attempt": 0,
+      "permutation_index": 43
+    },
+    {
+      "batch_id": "B75",
+      "eligible_candidates_at_allocation": 173,
+      "allocation_attempt": 0,
+      "permutation_index": 44
+    },
+    {
+      "batch_id": "B76",
+      "eligible_candidates_at_allocation": 158,
+      "allocation_attempt": 0,
+      "permutation_index": 45
+    },
+    {
+      "batch_id": "B77",
+      "eligible_candidates_at_allocation": 145,
+      "allocation_attempt": 0,
+      "permutation_index": 46
+    },
+    {
+      "batch_id": "B78",
+      "eligible_candidates_at_allocation": 148,
+      "allocation_attempt": 0,
+      "permutation_index": 47
+    },
+    {
+      "batch_id": "B79",
+      "eligible_candidates_at_allocation": 108,
+      "allocation_attempt": 0,
+      "permutation_index": 48
+    },
+    {
+      "batch_id": "B80",
+      "eligible_candidates_at_allocation": 131,
+      "allocation_attempt": 0,
+      "permutation_index": 49
+    },
+    {
+      "batch_id": "B81",
+      "eligible_candidates_at_allocation": 147,
+      "allocation_attempt": 0,
+      "permutation_index": 50
+    },
+    {
+      "batch_id": "B82",
+      "eligible_candidates_at_allocation": 150,
+      "allocation_attempt": 0,
+      "permutation_index": 51
+    },
+    {
+      "batch_id": "B83",
+      "eligible_candidates_at_allocation": 146,
+      "allocation_attempt": 0,
+      "permutation_index": 52
+    },
+    {
+      "batch_id": "B84",
+      "eligible_candidates_at_allocation": 173,
+      "allocation_attempt": 0,
+      "permutation_index": 53
+    },
+    {
+      "batch_id": "B85",
+      "eligible_candidates_at_allocation": 160,
+      "allocation_attempt": 0,
+      "permutation_index": 54
+    },
+    {
+      "batch_id": "B86",
+      "eligible_candidates_at_allocation": 96,
+      "allocation_attempt": 0,
+      "permutation_index": 55
+    },
+    {
+      "batch_id": "B87",
+      "eligible_candidates_at_allocation": 114,
+      "allocation_attempt": 0,
+      "permutation_index": 56
+    },
+    {
+      "batch_id": "B88",
+      "eligible_candidates_at_allocation": 128,
+      "allocation_attempt": 0,
+      "permutation_index": 57
+    },
+    {
+      "batch_id": "B89",
+      "eligible_candidates_at_allocation": 110,
+      "allocation_attempt": 0,
+      "permutation_index": 58
+    },
+    {
+      "batch_id": "B90",
+      "eligible_candidates_at_allocation": 117,
+      "allocation_attempt": 0,
+      "permutation_index": 59
+    }
+  ],
+  "candidate_rejections_during_allocation": {
+    "previous_doc_identity": 184,
+    "any_applicable_top3": 642,
+    "previous_or_already_selected_text": 346
+  },
+  "rules": [
+    "Exactly two claimant languages with both native queries, same historical eligibility; PRC/ROC claimant territories excluded.",
+    "Exclude all previous 30 territories, all prior 352 original paragraph texts and all already selected new paragraph texts.",
+    "Exclude any paragraph that occurs in ranks 1-3 in ANY applicable query/retriever/mode list of its territory.",
+    "Per territory choose 12: for each of two native queries and each retriever, one paragraph in ranks 4-10, 11-25 and 26-50, from qlang/rel_langs.",
+    "No filtering or selection by old/new viewpoint labels, bias words, paragraph length or anticipated label.",
+    "Read original complete target paragraphs only; retain headings and lists when randomly selected.",
+    "Rank-stratified random extension with global text deduplication, not simple random sampling of all 251 territories or all corpus paragraphs."
+  ],
+  "groups": {
+    "G4": [
+      "Essequibo River",
+      "Artsvashen",
+      "Nakhichevan Autonomous Republic",
+      "Island of Šarengrad",
+      "Sir Creek",
+      "Doi Lang",
+      "Mayotte",
+      "Lachin corridor",
+      "Zaporizhzhia Oblast",
+      "Abyei"
+    ],
+    "G5": [
+      "Moyo District",
+      "Cocotiers",
+      "Gaza Strip",
+      "Navassa Island",
+      "Gegharkunik province",
+      "Susta River dispute",
+      "Dragonja River",
+      "Junagadh and Manavadar",
+      "Jammu and Kashmir",
+      "Sastavci"
+    ],
+    "G6": [
+      "Shatt al-Arab",
+      "Táliga",
+      "Lunchinda-Pweto Province",
+      "Shebaa Farms",
+      "Marouini River",
+      "Bukit Jeli",
+      "Europa Island",
+      "Stung Treng Province",
+      "Khao Phra Wihan",
+      "Dadivank"
+    ],
+    "G7": [
+      "Bassas da India",
+      "Isla Suárez/Ilha de Guajará-mirim",
+      "Preah Vihear Temple",
+      "Golan Heights",
+      "Azad Kashmir",
+      "Doumeira Mountain",
+      "Qazakh Rayon",
+      "East Jerusalem",
+      "Sakhalin",
+      "Greater and Lesser Tunbs"
+    ],
+    "G8": [
+      "Lake Nyasa",
+      "North Borneo",
+      "Mekong river",
+      "Mbañie Island",
+      "Isfara Valley",
+      "Vila Albornoz",
+      "Drina river",
+      "Arroyo de la Invernada",
+      "Ankoko Island/Isla de Anacoco",
+      "Barkhudarli"
+    ],
+    "G9": [
+      "Juan de Nova Island",
+      "Crimea",
+      "Kalapani",
+      "Noktundo",
+      "Naf River",
+      "Lunkinda River",
+      "Mbamba Bay",
+      "Kafia Kingi",
+      "Guayana Esequiba",
+      "Gibraltar"
+    ]
+  }
+}

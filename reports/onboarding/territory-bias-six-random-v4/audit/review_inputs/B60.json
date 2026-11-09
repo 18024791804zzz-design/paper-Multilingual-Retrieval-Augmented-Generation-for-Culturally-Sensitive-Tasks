@@ -1,0 +1,122 @@
+[
+  {
+    "sample_id": "B60-D01",
+    "batch_id": "B60",
+    "territory": "Dadivank",
+    "territory_zh": "达迪万克修道院",
+    "doc_lang": "hy",
+    "doc_id": "800_p80",
+    "original_text_sha256": "dadcc8211d17bfb7803dd6dbb4a468c7936dfc85991222b23f8c0fa4f263ae5e",
+    "original_text": "Հայաստանը հյուսիսից սահմանակից է Վրաստանի, հարավից՝ Իրանի, արևելքից՝ Ադրբեջանի, արևմուտքից՝ Թուրքիայի հետ։ Հանրապետության հարավային մարզերը՝ Սյունիքն ու Վայոց ձորը արևելքից սահմանակցում է Նախիջևանի Ինքնավար Հանրապետությանը, իսկ արևմուտքում հայկական երկրորդ հանրապետությունն է՝ Արցախը։"
+  },
+  {
+    "sample_id": "B60-D02",
+    "batch_id": "B60",
+    "territory": "Dadivank",
+    "territory_zh": "达迪万克修道院",
+    "doc_lang": "hy",
+    "doc_id": "800_p82",
+    "original_text_sha256": "2260699728490f62f0bfa3da53b10afea07ee5d28725192a5933603eeee41fbf",
+    "original_text": "Հայաստանի ծայրակետերն են՝\n հյուսիս՝ Տավուշ \n հարավ՝ Սյունիք \n արևելք՝ Սյունիք \n արևմուտք՝ Շիրակ "
+  },
+  {
+    "sample_id": "B60-D03",
+    "batch_id": "B60",
+    "territory": "Dadivank",
+    "territory_zh": "达迪万克修道院",
+    "doc_lang": "az",
+    "doc_id": "615_p10",
+    "original_text_sha256": "b970cf56f27fc26f2ec263aec50441466cb43a0889f31b26ab060cdf133f564e",
+    "original_text": "Tarix \nRusiya Elmlər Akademiyasının müxbir üzvü Anatoli Petroviç Novoseltsev və Z. İ. Yampolski hesab edir ki, erkən orta əsrlərdə indiki Ermənistanın böyük hissəsi Qafqaz Albaniyasına aid olmuşdur."
+  },
+  {
+    "sample_id": "B60-D04",
+    "batch_id": "B60",
+    "territory": "Dadivank",
+    "territory_zh": "达迪万克修道院",
+    "doc_lang": "en",
+    "doc_id": "13450113_p12",
+    "original_text_sha256": "94e68704f58e5bb94a87c479f24899922b9322dec41ccda8231e511770b7d102",
+    "original_text": " Dadivank Monastery\n Dadivank Gallery\n Recent Historical-Architectural Research on Dadivank\n Gandzasar.com: Pilgrimage and Tourism, Nagorno Karabakh Republic\n Dadivank Monastery at wikimapia.org\n Program about Dadi Monastery by Vem Radio"
+  },
+  {
+    "sample_id": "B60-D05",
+    "batch_id": "B60",
+    "territory": "Dadivank",
+    "territory_zh": "达迪万克修道院",
+    "doc_lang": "az",
+    "doc_id": "64847_p9",
+    "original_text_sha256": "823e7dd41db36cbe2576f6fd32d0f02b08e2a44aa7c58ff78e3201ee20d66ba9",
+    "original_text": "Müasir dövrdə \nBirinci Qarabağ müharibəsi zamanı Xudavəng monastırının yerləşdiyi Kəlbəcər rayonu Ermənistan Silahlı Qüvvələri tərəfindən işğal edilir. 1994-cü ildə müharibənin bitməsindən sonra monastır yenidən istifadəyə verilir. 2004-cü ildə erməni əsilli ABŞ iş adamı Edel Hovnanyan monastırda restavrasiya işləri apardırır ki, bu proses 2005-ci ildə tamamlanır. 2017-ci ilin avqust ayında əvvəllər Xudavəng monastırında restavrasiya işləri aparmış olan italyan mütəxəssislər monastırın təmizlənməsinə və restavrasiya prosesinə davam etmək üçün geri qayıdırlar. Onlar artıq kompleksə daxil olan dörd kilsəni və onların freskalarını restavrasiya etmişdilər, layihənin isə 2020-ci ilə qədər tamamlanması planlaşdırılırdı."
+  },
+  {
+    "sample_id": "B60-D06",
+    "batch_id": "B60",
+    "territory": "Dadivank",
+    "territory_zh": "达迪万克修道院",
+    "doc_lang": "hy",
+    "doc_id": "800_p259",
+    "original_text_sha256": "546e595e0b0a91417c7519ca23bf6ef60705edc9ea799188cd5ddc6447b8ec6b",
+    "original_text": "Հայաստանը համարվում է մոնոէթնիկ պետություն։"
+  },
+  {
+    "sample_id": "B60-D07",
+    "batch_id": "B60",
+    "territory": "Dadivank",
+    "territory_zh": "达迪万克修道院",
+    "doc_lang": "hy",
+    "doc_id": "12855_p28",
+    "original_text_sha256": "4083024b89d2829d4c3c455bce553b5a2e73dbac71326abcbcb5ec995a8631cc",
+    "original_text": "Մինչև 2021 թվականի մայիսը հայերը ռուս զինծառայողների ուղեկցությամբ կարողանում էին այցելել Դադիվանք, սակայն դրանից հետո ադրբեջանցիներն արգելել են այցելությունները, իսկ վանքում մնացած հոգևորականներին չեն թույլատրում փոխարինել։"
+  },
+  {
+    "sample_id": "B60-D08",
+    "batch_id": "B60",
+    "territory": "Dadivank",
+    "territory_zh": "达迪万克修道院",
+    "doc_lang": "az",
+    "doc_id": "615_p17",
+    "original_text_sha256": "3337efd6758556f932f3996a30736672f2f9a0c1dd04acdd19bc15aceb218118",
+    "original_text": "Alman diplomatı Bernsdorf bu mənzərəni belə təsvir etmişdi: \"Türkiyə ermənilərə ancaq Sevan gölünü saxlayıb, hansı ki, çimə bilərlər, ancaq çıxmağa və özlərini qurutmağa yer qalmayıb. Batum müqaviləsinə əsasən Ermənistan Respublikasının ərazisi Birinci Dünya müharibəsinə qədər ermənilərin İrəvan quberniyasında kompakt yaşadıqları ərazilərə məhdudlaşırdı.\n1918-ci ildə Şərqi Anadoluda qırğınlar törətdikdən sonra türk qoşunlarının önündən qaçan erməni silahlı qüvvələri general Andranikin komandanlığı altında Gümrüdən Qarakilsəyə, oradan Dilican dərəsinə və Göyçəyə, sonra Naxçıvana, oradan da Zəngəzura adlayaraq, həmin ərazilərdəki müsəlman kəndlərini viran qoymuşdu. Erməni silahlı qüvvələrinin Zəngəzurdan Qarabağı təhdid etməsi Azərbaycan hökumətini ciddi narahat edirdi."
+  },
+  {
+    "sample_id": "B60-D09",
+    "batch_id": "B60",
+    "territory": "Dadivank",
+    "territory_zh": "达迪万克修道院",
+    "doc_lang": "az",
+    "doc_id": "615_p13",
+    "original_text_sha256": "a6a026ff78ccf0d9c570ad7c3ab5d4e9d108b29c3519d91cc6299807a4af9f6e",
+    "original_text": "1828-ci ildə Rusiya ilə İran arasında imzalanan Türkmənçay müqaviləsinə əsasən Şimali Azərbaycanın Naxçıvan xanlığı və İrəvan xanlığı ərazisində Erməni vilayəti təşkil edilmişdir. Cəmisi 25 min erməninin yaşadığı həmin ərazilərə Qacar İran və Osmanlı İmperiyasından kütləvi surətdə ermənilər köçürülmüşdür ki, vilayətin etnik tərkibi rusların daha loyal qəbul etdiyi xristianların say üstünlüyü ilə nəticələnsin və bununla da erməni vilayətinin inzibati-ərazi bölgüsü möhkəmləndirilsin."
+  },
+  {
+    "sample_id": "B60-D10",
+    "batch_id": "B60",
+    "territory": "Dadivank",
+    "territory_zh": "达迪万克修道院",
+    "doc_lang": "hy",
+    "doc_id": "800_p354",
+    "original_text_sha256": "6469b0ee05ad894ab62d4122d3283c534493a9d9a1f3867fc726158b8fcc8328",
+    "original_text": "Դհոլի առաջացումը կապված է Հայաստանի պատմության հեթանոսական շրջանին։ Սակայն այս երաժշտական գործիքը դեռևս կիրառվում է Հայկական եկեղեցում։"
+  },
+  {
+    "sample_id": "B60-D11",
+    "batch_id": "B60",
+    "territory": "Dadivank",
+    "territory_zh": "达迪万克修道院",
+    "doc_lang": "hy",
+    "doc_id": "800_p17",
+    "original_text_sha256": "598f33ab8413f5777a301d04ee84c876d87be1992a693ce775cac3253c2bf24a",
+    "original_text": "Հայաստանում երկաթի դարը սկսվում է մ. թ. ա. II հազարամյակում։ Երկաթի պաշարներով հարուստ Հայկական լեռնաշխարհը՝ Սյունիք, Մուշ, Խնուս և այլն, Առաջավոր Ասիայում դարձավ հումքի գլխավոր մատակարար և գերիշխող դիրք գրավեց։"
+  },
+  {
+    "sample_id": "B60-D12",
+    "batch_id": "B60",
+    "territory": "Dadivank",
+    "territory_zh": "达迪万克修道院",
+    "doc_lang": "hy",
+    "doc_id": "800_p81",
+    "original_text_sha256": "08457fa42136b20e8165cc57cc79a8d67ad57afcbe5b66b422f453ce27060b20",
+    "original_text": "Հայաստանի սահմանների երկարությունը հասնում է 1 570 կմ է։ Արևելյան սահմանի երկարությունը հասնում է 566 կմ֊ի․ սահմանից այն կողմ Ադրբեջանն է ու Արցախը։ Արևմուտքում անցնում է թուրքական սահմանը (311 կմ), ապա՝ Ադրբեջանի անկլավային տարածք Նախիջևանի սահմանը (221 կմ)։ Հայաստանի հյուսիսային սահմանը Վրաստանի հետ ունի 219 կմ, իսկ հարավային սահմանն Իրանի հետ՝ 44 կմ։"
+  }
+]

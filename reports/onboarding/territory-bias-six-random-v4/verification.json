@@ -1,0 +1,20 @@
+{
+  "status": "passed",
+  "new_rows": 720,
+  "new_groups": 6,
+  "new_territories": 60,
+  "old_territory_overlap": 0,
+  "old_exact_text_overlap": 0,
+  "new_duplicate_exact_texts": 0,
+  "source_text_hashes_preserved": 720,
+  "exact_quotes_checked": 42,
+  "random_permutation_reproduced": true,
+  "all_applicable_top3_excluded": true,
+  "rank_band_and_retriever_quotas": "passed",
+  "target_only_input_batches": 60,
+  "CSV_JSONL_viewer_consistency": "passed",
+  "combined_rows": 1080,
+  "previous_360_labels_and_texts_preserved": true,
+  "scope": "Artifact and sampling integrity; not independent annotation accuracy or F1",
+  "checksum_check": "Run python verify.py to validate SHA256SUMS."
+}

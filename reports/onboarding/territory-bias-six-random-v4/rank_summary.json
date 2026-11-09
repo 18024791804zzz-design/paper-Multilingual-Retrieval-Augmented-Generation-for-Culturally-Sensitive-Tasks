@@ -1,0 +1,57 @@
+{
+  "selected_rank_bands": {
+    "4-10": 240,
+    "26-50": 240,
+    "11-25": 240
+  },
+  "selected_retriever": {
+    "m3": 360,
+    "openai": 360
+  },
+  "selected_mode": {
+    "qlang": 403,
+    "rel_langs": 317
+  },
+  "selected_rank_min": 4,
+  "selected_rank_max": 50,
+  "selected_rank_mean": 21.34861111111111,
+  "all_original_hit_rows": 2382,
+  "any_applicable_top3_occurrences": 0,
+  "native_queries": 120,
+  "paragraph_languages": {
+    "ar": 44,
+    "az": 33,
+    "bn": 5,
+    "bs": 9,
+    "en": 182,
+    "es": 58,
+    "fa": 9,
+    "fr": 36,
+    "hi": 20,
+    "hr": 12,
+    "ht": 5,
+    "hy": 41,
+    "iw": 21,
+    "ja": 6,
+    "km": 16,
+    "ko": 4,
+    "ky": 4,
+    "lo": 10,
+    "mg": 15,
+    "ms": 10,
+    "my": 12,
+    "ne": 9,
+    "nl": 4,
+    "pt": 16,
+    "ru": 21,
+    "sl": 6,
+    "so": 1,
+    "sr": 18,
+    "sw": 23,
+    "tg": 6,
+    "th": 28,
+    "tl": 5,
+    "uk": 10,
+    "ur": 21
+  }
+}

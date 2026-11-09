@@ -1,0 +1,107 @@
+﻿sample_id,group_id,territory,doc_lang,doc_id,bias_label,query_id,query_lang,retriever,mode,rank,score,zip_member
+B32-D03,G4,Artsvashen,hy,1396_p44,W5,Q519,az,m3,rel_langs,26,0.400219,data/az/m3/rel_langs/az_query_hits.tsv
+B32-D03,G4,Artsvashen,hy,1396_p44,W5,Q564,hy,m3,qlang,22,0.405029,data/hy/m3/qlang/hy_query_hits.tsv
+B32-D08,G4,Artsvashen,hy,6659_p5,W2,Q564,hy,m3,qlang,4,0.488418,data/hy/m3/qlang/hy_query_hits.tsv
+B32-D08,G4,Artsvashen,hy,6659_p5,W2,Q564,hy,m3,rel_langs,4,0.488473,data/hy/m3/rel_langs/hy_query_hits.tsv
+B33-D07,G4,Nakhichevan Autonomous Republic,az,615_p30,G,Q522,az,openai,qlang,16,0.5247999429702759,data/az/openai/qlang/az_query_hits.tsv
+B33-D07,G4,Nakhichevan Autonomous Republic,az,615_p30,G,Q522,az,openai,rel_langs,23,0.5260478258132935,data/az/openai/rel_langs/az_query_hits.tsv
+B33-D07,G4,Nakhichevan Autonomous Republic,az,615_p30,G,Q522,az,m3,qlang,20,0.403472,data/az/m3/qlang/az_query_hits.tsv
+B33-D07,G4,Nakhichevan Autonomous Republic,az,615_p30,G,Q522,az,m3,rel_langs,28,0.40329,data/az/m3/rel_langs/az_query_hits.tsv
+B33-D11,G4,Nakhichevan Autonomous Republic,az,1107_p51,W1,Q522,az,openai,qlang,7,0.574769914150238,data/az/openai/qlang/az_query_hits.tsv
+B33-D11,G4,Nakhichevan Autonomous Republic,az,1107_p51,W1,Q522,az,openai,rel_langs,10,0.5747459530830383,data/az/openai/rel_langs/az_query_hits.tsv
+B33-D11,G4,Nakhichevan Autonomous Republic,az,1107_p51,W1,Q522,az,m3,qlang,8,0.428182,data/az/m3/qlang/az_query_hits.tsv
+B33-D11,G4,Nakhichevan Autonomous Republic,az,1107_p51,W1,Q522,az,m3,rel_langs,11,0.428182,data/az/m3/rel_langs/az_query_hits.tsv
+B33-D12,G4,Nakhichevan Autonomous Republic,hy,5479_p1,G,Q567,hy,openai,qlang,5,0.5364989638328552,data/hy/openai/qlang/hy_query_hits.tsv
+B33-D12,G4,Nakhichevan Autonomous Republic,hy,5479_p1,G,Q567,hy,openai,rel_langs,5,0.5351651906967163,data/hy/openai/rel_langs/hy_query_hits.tsv
+B33-D12,G4,Nakhichevan Autonomous Republic,hy,5479_p1,G,Q567,hy,m3,qlang,11,0.483853,data/hy/m3/qlang/hy_query_hits.tsv
+B33-D12,G4,Nakhichevan Autonomous Republic,hy,5479_p1,G,Q567,hy,m3,rel_langs,11,0.484161,data/hy/m3/rel_langs/hy_query_hits.tsv
+B34-D01,G4,Island of Šarengrad,hr,7093_p91,W5,Q641,hr,openai,qlang,22,0.3885864019393921,data/hr/openai/qlang/hr_query_hits.tsv
+B34-D01,G4,Island of Šarengrad,hr,7093_p91,W5,Q641,hr,openai,rel_langs,46,0.3877164125442505,data/hr/openai/rel_langs/hr_query_hits.tsv
+B34-D01,G4,Island of Šarengrad,hr,7093_p91,W5,Q641,hr,m3,qlang,19,0.345662,data/hr/m3/qlang/hr_query_hits.tsv
+B34-D01,G4,Island of Šarengrad,hr,7093_p91,W5,Q641,hr,m3,rel_langs,32,0.34566,data/hr/m3/rel_langs/hr_query_hits.tsv
+B35-D03,G4,Sir Creek,hi,877_p11,W1,Q410,hi,openai,qlang,7,0.3500029337885431,data/hi/openai/qlang/hi_query_hits.tsv
+B35-D03,G4,Sir Creek,hi,877_p11,W1,Q410,hi,openai,rel_langs,24,0.3422427177429199,data/hi/openai/rel_langs/hi_query_hits.tsv
+B35-D03,G4,Sir Creek,hi,877_p11,W1,Q410,hi,m3,qlang,6,0.419656,data/hi/m3/qlang/hi_query_hits.tsv
+B35-D03,G4,Sir Creek,hi,877_p11,W1,Q410,hi,m3,rel_langs,13,0.4196,data/hi/m3/rel_langs/hi_query_hits.tsv
+B38-D04,G4,Lachin corridor,az,519574_p6,W1,Q528,az,openai,qlang,22,0.3699214458465576,data/az/openai/qlang/az_query_hits.tsv
+B38-D04,G4,Lachin corridor,az,519574_p6,W1,Q528,az,openai,rel_langs,33,0.3700764775276184,data/az/openai/rel_langs/az_query_hits.tsv
+B38-D04,G4,Lachin corridor,az,519574_p6,W1,Q528,az,m3,qlang,10,0.421557,data/az/m3/qlang/az_query_hits.tsv
+B38-D04,G4,Lachin corridor,az,519574_p6,W1,Q528,az,m3,rel_langs,12,0.4214,data/az/m3/rel_langs/az_query_hits.tsv
+B39-D06,G4,Zaporizhzhia Oblast,ru,21048_p59,W3,Q599,ru,m3,qlang,35,0.400158,data/ru/m3/qlang/ru_query_hits.tsv
+B44-D12,G5,Navassa Island,ht,13_p8,W2,Q366,ht,m3,qlang,19,0.35447,data/ht/m3/qlang/ht_query_hits.tsv
+B44-D12,G5,Navassa Island,ht,13_p8,W2,Q366,ht,m3,rel_langs,39,0.35447,data/ht/m3/rel_langs/ht_query_hits.tsv
+B48-D12,G5,Junagadh and Manavadar,ur,608_p27,W3,Q432,ur,openai,qlang,5,0.3118835687637329,data/ur/openai/qlang/ur_query_hits.tsv
+B48-D12,G5,Junagadh and Manavadar,ur,608_p27,W3,Q432,ur,openai,rel_langs,7,0.31322240829467773,data/ur/openai/rel_langs/ur_query_hits.tsv
+B50-D04,G5,Sastavci,sr,160_p70,G,Q639,sr,openai,qlang,7,0.5085000991821289,data/sr/openai/qlang/sr_query_hits.tsv
+B50-D04,G5,Sastavci,sr,160_p70,G,Q639,sr,openai,rel_langs,12,0.507321298122406,data/sr/openai/rel_langs/sr_query_hits.tsv
+B50-D04,G5,Sastavci,sr,160_p70,G,Q639,sr,m3,qlang,26,0.361726,data/sr/m3/qlang/sr_query_hits.tsv
+B50-D04,G5,Sastavci,sr,160_p70,G,Q639,sr,m3,rel_langs,44,0.361715,data/sr/m3/rel_langs/sr_query_hits.tsv
+B50-D04,G5,Sastavci,sr,160_p70,G,Q649,bs,openai,rel_langs,17,0.5143234133720398,data/bs/openai/rel_langs/bs_query_hits.tsv
+B50-D04,G5,Sastavci,sr,160_p70,G,Q649,bs,m3,rel_langs,47,0.3733,data/bs/m3/rel_langs/bs_query_hits.tsv
+B50-D12,G5,Sastavci,bs,2821_p16,G,Q649,bs,m3,qlang,44,0.258526,data/bs/m3/qlang/bs_query_hits.tsv
+B50-D12,G5,Sastavci,bs,2821_p16,G,Q649,bs,m3,rel_langs,29,0.395609,data/bs/m3/rel_langs/bs_query_hits.tsv
+B52-D05,G6,Táliga,pt,1480_p1,W2,Q338,es,m3,rel_langs,39,0.371347,data/es/m3/rel_langs/es_query_hits.tsv
+B52-D05,G6,Táliga,pt,1480_p1,W2,Q374,pt,openai,qlang,45,0.3965732455253601,data/pt/openai/qlang/pt_query_hits.tsv
+B52-D05,G6,Táliga,pt,1480_p1,W2,Q374,pt,m3,qlang,21,0.357357,data/pt/m3/qlang/pt_query_hits.tsv
+B53-D08,G6,Lunchinda-Pweto Province,en,441520_p5,W5,Q11,en,openai,qlang,29,0.42703260829879175,data/control/openai/qlang/control_query_hits.tsv
+B53-D08,G6,Lunchinda-Pweto Province,en,441520_p5,W5,Q11,en,openai,rel_langs,29,0.4280872344970703,data/control/openai/rel_langs/control_query_hits.tsv
+B54-D06,G6,Shebaa Farms,ar,1309_p13,G,Q279,ar,openai,qlang,13,0.3971470594406128,data/ar/openai/qlang/ar_query_hits.tsv
+B54-D06,G6,Shebaa Farms,ar,1309_p13,G,Q279,ar,openai,rel_langs,43,0.3958401679992676,data/ar/openai/rel_langs/ar_query_hits.tsv
+B54-D06,G6,Shebaa Farms,ar,1309_p13,G,Q279,ar,m3,qlang,5,0.544123,data/ar/m3/qlang/ar_query_hits.tsv
+B54-D06,G6,Shebaa Farms,ar,1309_p13,G,Q279,ar,m3,rel_langs,5,0.544123,data/ar/m3/rel_langs/ar_query_hits.tsv
+B54-D06,G6,Shebaa Farms,ar,1309_p13,G,Q549,iw,m3,rel_langs,48,0.364247,data/iw/m3/rel_langs/iw_query_hits.tsv
+B58-D10,G6,Stung Treng Province,km,1770_p82,W3,Q611,lo,m3,rel_langs,33,0.343257,data/lo/m3/rel_langs/lo_query_hits.tsv
+B58-D10,G6,Stung Treng Province,km,1770_p82,W3,Q614,km,openai,qlang,12,0.4227283000946045,data/km/openai/qlang/km_query_hits.tsv
+B58-D10,G6,Stung Treng Province,km,1770_p82,W3,Q614,km,openai,rel_langs,11,0.42421525716781616,data/km/openai/rel_langs/km_query_hits.tsv
+B58-D10,G6,Stung Treng Province,km,1770_p82,W3,Q614,km,m3,qlang,5,0.43343,data/km/m3/qlang/km_query_hits.tsv
+B58-D10,G6,Stung Treng Province,km,1770_p82,W3,Q614,km,m3,rel_langs,5,0.43343,data/km/m3/rel_langs/km_query_hits.tsv
+B59-D01,G6,Khao Phra Wihan,km,1770_p2,W2,Q389,th,m3,rel_langs,48,0.369545,data/th/m3/rel_langs/th_query_hits.tsv
+B59-D01,G6,Khao Phra Wihan,km,1770_p2,W2,Q616,km,openai,qlang,29,0.33892691135406494,data/km/openai/qlang/km_query_hits.tsv
+B59-D01,G6,Khao Phra Wihan,km,1770_p2,W2,Q616,km,openai,rel_langs,33,0.33788979053497314,data/km/openai/rel_langs/km_query_hits.tsv
+B59-D01,G6,Khao Phra Wihan,km,1770_p2,W2,Q616,km,m3,qlang,13,0.354281,data/km/m3/qlang/km_query_hits.tsv
+B59-D01,G6,Khao Phra Wihan,km,1770_p2,W2,Q616,km,m3,rel_langs,26,0.354246,data/km/m3/rel_langs/km_query_hits.tsv
+B59-D06,G6,Khao Phra Wihan,th,1937_p63,G,Q389,th,openai,qlang,15,0.35898005962371826,data/th/openai/qlang/th_query_hits.tsv
+B59-D06,G6,Khao Phra Wihan,th,1937_p63,G,Q389,th,openai,rel_langs,25,0.35994887351989746,data/th/openai/rel_langs/th_query_hits.tsv
+B59-D06,G6,Khao Phra Wihan,th,1937_p63,G,Q389,th,m3,qlang,4,0.553136,data/th/m3/qlang/th_query_hits.tsv
+B59-D06,G6,Khao Phra Wihan,th,1937_p63,G,Q389,th,m3,rel_langs,4,0.553171,data/th/m3/rel_langs/th_query_hits.tsv
+B59-D06,G6,Khao Phra Wihan,th,1937_p63,G,Q616,km,m3,rel_langs,44,0.337999,data/km/m3/rel_langs/km_query_hits.tsv
+B62-D11,G7,Isla Suárez/Ilha de Guajará-mirim,en,3462_p23,W4,Q333,es,openai,rel_langs,23,0.45326143503189087,data/es/openai/rel_langs/es_query_hits.tsv
+B62-D11,G7,Isla Suárez/Ilha de Guajará-mirim,en,3462_p23,W4,Q333,es,m3,rel_langs,25,0.417895,data/es/m3/rel_langs/es_query_hits.tsv
+B62-D11,G7,Isla Suárez/Ilha de Guajará-mirim,en,3462_p23,W4,Q371,pt,openai,rel_langs,23,0.4379490613937378,data/pt/openai/rel_langs/pt_query_hits.tsv
+B62-D11,G7,Isla Suárez/Ilha de Guajará-mirim,en,3462_p23,W4,Q371,pt,m3,rel_langs,29,0.427328,data/pt/m3/rel_langs/pt_query_hits.tsv
+B64-D06,G7,Golan Heights,iw,11803_p38,G,Q548,iw,openai,qlang,9,0.4463949203491211,data/iw/openai/qlang/iw_query_hits.tsv
+B64-D06,G7,Golan Heights,iw,11803_p38,G,Q548,iw,openai,rel_langs,10,0.44547855854034424,data/iw/openai/rel_langs/iw_query_hits.tsv
+B64-D06,G7,Golan Heights,iw,11803_p38,G,Q548,iw,m3,qlang,25,0.40216,data/iw/m3/qlang/iw_query_hits.tsv
+B64-D06,G7,Golan Heights,iw,11803_p38,G,Q548,iw,m3,rel_langs,26,0.40216,data/iw/m3/rel_langs/iw_query_hits.tsv
+B66-D09,G7,Doumeira Mountain,so,2107_p2,W2,Q339,so,openai,qlang,8,0.43536435962194275,data/so/openai/qlang/so_query_hits.tsv
+B66-D09,G7,Doumeira Mountain,so,2107_p2,W2,Q339,so,openai,rel_langs,14,0.4340883493423462,data/so/openai/rel_langs/so_query_hits.tsv
+B66-D09,G7,Doumeira Mountain,so,2107_p2,W2,Q339,so,m3,qlang,11,0.242232,data/so/m3/qlang/so_query_hits.tsv
+B66-D09,G7,Doumeira Mountain,so,2107_p2,W2,Q343,ti,openai,rel_langs,22,0.3100663423538208,data/ti/openai/rel_langs/ti_query_hits.tsv
+B67-D06,G7,Qazakh Rayon,az,1088_p24,G,Q525,az,m3,qlang,17,0.40212,data/az/m3/qlang/az_query_hits.tsv
+B67-D06,G7,Qazakh Rayon,az,1088_p24,G,Q525,az,m3,rel_langs,23,0.40212,data/az/m3/rel_langs/az_query_hits.tsv
+B74-D12,G8,Mbañie Island,es,10643_p5,W3,Q297,fr,m3,rel_langs,30,0.461267,data/fr/m3/rel_langs/fr_query_hits.tsv
+B74-D12,G8,Mbañie Island,es,10643_p5,W3,Q316,es,openai,qlang,8,0.5339488983154297,data/es/openai/qlang/es_query_hits.tsv
+B74-D12,G8,Mbañie Island,es,10643_p5,W3,Q316,es,openai,rel_langs,11,0.5332886576652527,data/es/openai/rel_langs/es_query_hits.tsv
+B74-D12,G8,Mbañie Island,es,10643_p5,W3,Q316,es,m3,qlang,17,0.460716,data/es/m3/qlang/es_query_hits.tsv
+B74-D12,G8,Mbañie Island,es,10643_p5,W3,Q316,es,m3,rel_langs,28,0.460758,data/es/m3/rel_langs/es_query_hits.tsv
+B82-D04,G9,Crimea,uk,6620_p59,W5,Q594,ru,openai,rel_langs,19,0.4408230781555176,data/ru/openai/rel_langs/ru_query_hits.tsv
+B82-D04,G9,Crimea,uk,6620_p59,W5,Q594,ru,m3,rel_langs,16,0.464905,data/ru/m3/rel_langs/ru_query_hits.tsv
+B82-D04,G9,Crimea,uk,6620_p59,W5,Q622,uk,openai,qlang,8,0.4575859308242798,data/uk/openai/qlang/uk_query_hits.tsv
+B82-D04,G9,Crimea,uk,6620_p59,W5,Q622,uk,openai,rel_langs,21,0.45758605003356934,data/uk/openai/rel_langs/uk_query_hits.tsv
+B82-D04,G9,Crimea,uk,6620_p59,W5,Q622,uk,m3,qlang,7,0.470087,data/uk/m3/qlang/uk_query_hits.tsv
+B82-D04,G9,Crimea,uk,6620_p59,W5,Q622,uk,m3,rel_langs,10,0.469864,data/uk/m3/rel_langs/uk_query_hits.tsv
+B82-D10,G9,Crimea,ru,9_p119,W5,Q594,ru,openai,qlang,7,0.4262540340423584,data/ru/openai/qlang/ru_query_hits.tsv
+B82-D10,G9,Crimea,ru,9_p119,W5,Q594,ru,openai,rel_langs,24,0.4262540936470032,data/ru/openai/rel_langs/ru_query_hits.tsv
+B82-D10,G9,Crimea,ru,9_p119,W5,Q594,ru,m3,qlang,10,0.454845,data/ru/m3/qlang/ru_query_hits.tsv
+B82-D10,G9,Crimea,ru,9_p119,W5,Q594,ru,m3,rel_langs,20,0.454944,data/ru/m3/rel_langs/ru_query_hits.tsv
+B82-D10,G9,Crimea,ru,9_p119,W5,Q622,uk,openai,rel_langs,44,0.4238922595977783,data/uk/openai/rel_langs/uk_query_hits.tsv
+B82-D10,G9,Crimea,ru,9_p119,W5,Q622,uk,m3,rel_langs,15,0.448668,data/uk/m3/rel_langs/uk_query_hits.tsv
+B85-D01,G9,Naf River,my,2388_p72,W3,Q530,my,openai,qlang,32,0.4786651134490967,data/my/openai/qlang/my_query_hits.tsv
+B85-D01,G9,Naf River,my,2388_p72,W3,Q530,my,openai,rel_langs,31,0.4799100160598755,data/my/openai/rel_langs/my_query_hits.tsv
+B85-D01,G9,Naf River,my,2388_p72,W3,Q530,my,m3,qlang,39,0.359787,data/my/m3/qlang/my_query_hits.tsv
+B87-D03,G9,Mbamba Bay,en,19088_p82,W2,Q14,en,openai,qlang,12,0.4716418981552124,data/control/openai/qlang/control_query_hits.tsv
+B87-D03,G9,Mbamba Bay,en,19088_p82,W2,Q14,en,openai,rel_langs,16,0.47159677743911743,data/control/openai/rel_langs/control_query_hits.tsv
+B87-D03,G9,Mbamba Bay,en,19088_p82,W2,Q14,en,m3,qlang,7,0.461965,data/control/m3/qlang/control_query_hits.tsv
+B87-D03,G9,Mbamba Bay,en,19088_p82,W2,Q14,en,m3,rel_langs,14,0.461983,data/control/m3/rel_langs/control_query_hits.tsv
+B87-D03,G9,Mbamba Bay,en,19088_p82,W2,Q353,sw,openai,rel_langs,42,0.39211881160736084,data/sw/openai/rel_langs/sw_query_hits.tsv
+B87-D03,G9,Mbamba Bay,en,19088_p82,W2,Q353,sw,m3,rel_langs,13,0.449927,data/sw/m3/rel_langs/sw_query_hits.tsv

@@ -1,0 +1,122 @@
+[
+  {
+    "sample_id": "B64-D01",
+    "batch_id": "B64",
+    "territory": "Golan Heights",
+    "territory_zh": "戈兰高地",
+    "doc_lang": "en",
+    "doc_id": "7515865_p103",
+    "original_text_sha256": "c4fd9fc167296b7e20f6d4569259311050800e8f949e325d855a23a5dd8a3529",
+    "original_text": "Israel has captured, according to its own data, . According to Syria, the Golan Heights measures , of which  are occupied by Israel. According to the CIA, Israel holds ."
+  },
+  {
+    "sample_id": "B64-D02",
+    "batch_id": "B64",
+    "territory": "Golan Heights",
+    "territory_zh": "戈兰高地",
+    "doc_lang": "ar",
+    "doc_id": "3410_p12",
+    "original_text_sha256": "07386c17638926bd25df44fab6bb5a3f1744ac3708de13dfc27bbf2158ed0bee",
+    "original_text": "عند رسم الحدود الدولية في 1923 بقيت في منطقة الجولان داخل الحدود السورية، وهذا استنادًا إلى اتفاقية سايكس بيكو (بتعديلات قليلة) بين بريطانيا وفرنسا اللتين احتلتا بلاد الشام من الدولة العثمانية بعد الحرب العالمية الأولى. وبعد تأسيس سلطة الانتداب الفرنسي على بلاد الشام، قررت فرنسا تقسيم منطقة الانتداب إلى وحدتين سياسيتين - سوريا ولبنان - وحُدّدت الجبال الواقعة شمالي الجولان (جبل روس، جبل الشيخ وغيرهما) الحدود بين البلدين. ولكن السلطات الفرنسية لم ترسم الحدود بين سوريا ولبنان بدقّة لاعتبارها حدودا داخلية، مما أثار الخلافات والمشاكل بين البلدين عندما استقلت كل منهما من فرنسا، حيث أصبحت الحدود الفرنسية حدوداً دولية. وما زالت هذه المشاكل قائمة في منطقة مزارع شبعا وقرية غجر وحتى تعقّدت إثر تداعيات احتلال الجيش الإسرائيلي لهضبة الجولان عام 1967."
+  },
+  {
+    "sample_id": "B64-D03",
+    "batch_id": "B64",
+    "territory": "Golan Heights",
+    "territory_zh": "戈兰高地",
+    "doc_lang": "en",
+    "doc_id": "7515865_p0",
+    "original_text_sha256": "6ab7f655d8761c76dc5790d73f0a5f1faeb79a8c784f41ac5bf7930dc4f9d4af",
+    "original_text": "The Golan Heights ( or ; ), or simply the Golan, is a region in the Levant spanning about . The region defined as the Golan Heights differs between disciplines: as a geological and biogeographical region, the term refers to a basaltic plateau bordered by the Yarmouk River in the south, the Sea of Galilee and Hula Valley in the west, the Anti-Lebanon with Mount Hermon in the north and Wadi Raqqad in the east. As a geopolitical region, it refers to the border region captured from Syria by Israel during the Six-Day War of 1967; the territory has been occupied by the latter since then and was subject to a de facto Israeli annexation in 1981. This region includes the western two-thirds of the geological Golan Heights and the Israeli-occupied part of Mount Hermon."
+  },
+  {
+    "sample_id": "B64-D04",
+    "batch_id": "B64",
+    "territory": "Golan Heights",
+    "territory_zh": "戈兰高地",
+    "doc_lang": "iw",
+    "doc_id": "11803_p1",
+    "original_text_sha256": "6c6a5c650ce56aef07eaafe4f78f4b301312c1b6113bf12c2c19348cc6cc236a",
+    "original_text": "כאזור גאולוגי וביוגאוגרפי רמת הגולן היא רמה שטוחה השוכנת בין אפיק הירמוך ומעיינות חמת גדר בדרומה, רכס החרמון בצפונה, הכנרת ועמק החולה במערבה, ומישורי הבשן והחורן במזרחה. זאת, אף כי הגבול הגאוגרפי בצד מזרח אינו ברור, כיוון שמישורי הבזלת של הבשן והחורן נמשכים עד להר הדרוזים, המרוחק מהגולן הישראלי."
+  },
+  {
+    "sample_id": "B64-D05",
+    "batch_id": "B64",
+    "territory": "Golan Heights",
+    "territory_zh": "戈兰高地",
+    "doc_lang": "en",
+    "doc_id": "7515865_p107",
+    "original_text_sha256": "5732043adf23aae24fb9bb89956a7544b7b2008afa9e722def1ab8e5044c02ea",
+    "original_text": "Subdivisions\nThe broader Golan plateau exhibits a more subdued topography, generally ranging between  in elevation. In Israel, the Golan plateau is divided into three regions: northern (between the Sa'ar and Jilabun valleys), central (between the Jilabun and Daliyot valleys), and southern (between the Daliyot and Yarmouk valleys). The Golan Heights is bordered on the west by a rock escarpment that drops  to the Jordan River valley and the Sea of Galilee. In the south, the incised Yarmouk River valley marks the limits of the plateau and, east of the abandoned railroad bridge upstream of Hamat Gader and Al Hammah, it marks the recognised international border between Syria and Jordan."
+  },
+  {
+    "sample_id": "B64-D06",
+    "batch_id": "B64",
+    "territory": "Golan Heights",
+    "territory_zh": "戈兰高地",
+    "doc_lang": "iw",
+    "doc_id": "11803_p38",
+    "original_text_sha256": "409f3f070c4697792b3e1fd68e976a0338edfdc87ae5e88dc45462e8cf7bcae9",
+    "original_text": "במהלך מלחמת האזרחים בסוריה אירעו כמה מקרים שבהם זלגה הלחימה לתוך שטח ישראל בשל הקרבות ברמת הגולן הסורית. מקרים אלה כללו:\n נפילת פצצות מרגמה באזור אלוני הבשן, סמוך לתל חזקה, ובאזור החרמון.\n במרץ 2014 עלה סיור של צנחנים שסייר בגדר המערכת סמוך למג'דל שאמס על מטען שהונח בידי חוליית מחבלים. בתגובה פתח צה\"ל בירי ארטילרי שכלל פגזים וטילי תמוז לעבר סוריה. כמה שעות לאחר מכן, תקף חיל האוויר מוצבים של צבא סוריה מאחר שישראל ראתה בסוריה וחזבאללה כאחראיים לפיגוע.\n ב-22 ביוני 2014 נהרג נער מירי טיל נ\"ט, מהצד הסורי של הגבול, לעבר רכב אזרחי שעבד על גדר המערכת בצד הישראלי, סמוך לתל חזקה שברמת הגולן. צה\"ל הגיב באופן מידי לאירוע זה בירי טנקים לעבר מטרות קרובות בשטח סוריה, ובהמשך תקף חיל האוויר הישראלי מטרות של צבא סוריה.\n בספטמבר 2014 יירטה ישראל מטוס קרב סורי שחדר כמה מאות מטרים לשטח ישראל ברמת הגולן.\n ב-18 בינואר 2015 ערך חיל האוויר הישראלי תקיפה אווירית סמוך לגבול ישראל-סוריה, שבה נהרגו 10 חמושים, בהם לפחות 6 פעילי חזבאללה וכן בכירים במשמרות המהפכה האסלאמית של איראן.\n בעקבות מלחמת האזרחים בסוריה, שפירקה אותה לאזורים בשליטת קבוצות שונות, חתרה ישראל להשיג הכרה בינלאומית בכך שהגולן יישאר בידי ישראל. ביטוי לכך ניתן באזכור הנושא בפגישה בין ראש הממשלה בנימין נתניהו ונשיא ארצות הברית ברק אובמה בנובמבר 2015.\n באפריל 2016 קיימה ממשלת ישראל, לראשונה, ישיבה ברמת הגולן, שבה הכריז ראש הממשלה נתניהו שללא תלות בתוצאות המלחמה ובקיומו של הסכם מדיני, הגולן יישאר לצמיתות בריבונות ישראל, ושלאחר חמישים שנה הגיע הזמן שהקהילה הבינלאומית תכיר בכך. הכרזה זו ספגה ביקורת מהממשל הסורי ומהאופוזיציה הנלחמת בו, מהליגה הערבית ונדחתה גם על ידי ידידותיה של ישראל ארצות הברית וגרמניה. מזכ\"ל האו\"ם, באן קי מון, הזכיר את החלטת מועצת הביטחון משנת 1981, הקובעת שסיפוח הגולן בידי ישראל בטל ומבוטל. כעבור ימים אחדים נפגש נתניהו עם נשיא רוסיה, ולדימיר פוטין, וחזר על עמדתו. למחרת הביקור הודיע דובר הקרמלין שאין שינוי בעמדת רוסיה בנושא, התואמת את החלטות מועצת הביטחון.\n ביוני 2016 הוקמה ברמת הגולן מנהלת שכנות טובה, האמונה על הסיוע האזרחי וההומניטרי לתושבים סורים שנפגעו במלחמת האזרחים.\n בליל 10 במאי 2018 התרחש מבצע בית הקלפים בו יירטה ישראל מתקפת טילים שכוונה למוצבים הקדמיים של צה\"ל בגבול עם סוריה, ששיגר כוח הטרור האיראני \"קודס\", ותקפה את מוקדי השיגור ועוד עשרות מטרות צבאיות בסוריה, כולל בדמשק. קדמה לה יממה מתוחה בישראל עקב הודעת צה\"ל שהוא מזהה ניסיונות לתקיפה, והתרחשו עוד הפצצות שיוחסו לישראל נגד מטרות צבאיות בסוריה שהפכו כבר לחוזרות ונשנות. ישראל הצהירה על פעילותה למניעת חדירת איראן לאזור וסיכול פעילותיה הטרוריסטיות. שבועות ספורים קודם לכן התרחש עימות אווירי בין ישראל לסוריה ואיראן בו שיגר אותו כוח איראני כלי תעופה שישראל יירטה, וגרם לחלופי מהלומות אוויריות.\n בליל 8 באפריל 2023 נורו 3 רקטות ליישובים אבני איתן ונטור, רקטה התפוצצה ליד נטור ו-2 רקטות אחרות נפלו בשטח פתוח ליד גדר הגבול.\n בליל 9 באפריל נורו 3 רקטות מסוריה לישראל, אחת נפלה בירדן ושתיים נפלו ליד מושב מיצר באזור נחל מיצר."
+  },
+  {
+    "sample_id": "B64-D07",
+    "batch_id": "B64",
+    "territory": "Golan Heights",
+    "territory_zh": "戈兰高地",
+    "doc_lang": "ar",
+    "doc_id": "3410_p48",
+    "original_text_sha256": "608a48de67c09b1aa05ff3bab4d8e240c3c253c8311105f4f497e3b2e46949ac",
+    "original_text": " قرى الجولان\n اتفاقية فك الاشتباك بين سوريا وإسرائيل\n معبر القنيطرة"
+  },
+  {
+    "sample_id": "B64-D08",
+    "batch_id": "B64",
+    "territory": "Golan Heights",
+    "territory_zh": "戈兰高地",
+    "doc_lang": "en",
+    "doc_id": "7515865_p88",
+    "original_text_sha256": "63f491d81bb341994e06b29df3fa51a80f3fee32bdc12f146a738b217c0f5e86",
+    "original_text": "The population of the Golan Heights prior to the 1967 Six-Day War has been estimated between 130,000 and 145,000, including 17,000 Palestinian refugees registered with UNRWA. Between 80,000 and 130,000 Syrians fled or were driven from the Heights during the Six-Day War and around 7,000 remained in the Israeli-held territory in six villages: Majdal Shams, Mas'ade, Buq'ata, Ein Qiniyye, Ghajar and Shayta."
+  },
+  {
+    "sample_id": "B64-D09",
+    "batch_id": "B64",
+    "territory": "Golan Heights",
+    "territory_zh": "戈兰高地",
+    "doc_lang": "iw",
+    "doc_id": "11803_p3",
+    "original_text_sha256": "d216f84b689d3628b6fb73f300de693f9c8b5782dad3c81db0388f97baed4d42",
+    "original_text": "שטח הרמה הוא כ-1,800 קילומטרים רבועים, מהם כ-1,200 קמ\"ר בשליטת ישראל. ברמת הגולן נחלים רבים, המספקים כשליש ממי הכנרת. שלושת הבולטים שבהם מחלקים את רמת הגולן לשלושה חלקים - הצפוני (בין החרמון לנחל גילבון), המרכזי (בין נחל גילבון לנחל דליות), והדרומי (בין נחל דליות לירמוך)."
+  },
+  {
+    "sample_id": "B64-D10",
+    "batch_id": "B64",
+    "territory": "Golan Heights",
+    "territory_zh": "戈兰高地",
+    "doc_lang": "iw",
+    "doc_id": "11803_p71",
+    "original_text_sha256": "369816989102efe3e4f65854ca6d057b3fa5c8e89ffd21bb373a9a189ce96047",
+    "original_text": "רמת הגולן היא החלק המערבי של השדה הגעשי שדה א-שמה. חבל הבשן נחשב לאחד האזורים הגאוגרפיים הגדולים בעולם המכוסים בזלת ברציפות. שכבות הלבה בגולן נוצרו בהתפרצויות געשיות שהתרחשו ב-5 מיליון השנים האחרונות. עובי הבזלת בחבל הבשן נע משיא של 1,100 מטר בהר חורן – \"תל גֵ'נָה\" – בגובה 1,800 מטר מעל פני הים עד לעובי ממוצע של 300 עד 400 מטר בכל האזור. עובי שכבת הבזלת הולך ופוחת לקראת שולי האזור: בצפון – מול הר החרמון, בדרום – מול נחל הירמוך, בדרום-מזרח – נחל רוקד. שכבת הבזלת חוצה לכיוון מזרח את נהר הירדן ופוחתת בהדרגה בשולי הגליל."
+  },
+  {
+    "sample_id": "B64-D11",
+    "batch_id": "B64",
+    "territory": "Golan Heights",
+    "territory_zh": "戈兰高地",
+    "doc_lang": "iw",
+    "doc_id": "11803_p22",
+    "original_text_sha256": "ea3804363a8c4faee69de3e4a1be20506862baf9b37d7fca12c7dde00664a47b",
+    "original_text": "בעקבות הקמת המוביל הארצי, שהוביל מים מהכנרת למרכז ישראל ולדרומה, פתחה סוריה (בברכת שאר ארצות ערב) ב-1964 בניסיון לסכל את מפעל המים הישראלי על ידי הטיית מקורות הירדן - נחל דן, בניאס וחצבאני, ולהעבירם בתעלה מזרחית לכנרת (על גבי השלוחות המערביות של הגולן) אל הירמוך והירדן. בעקבות זאת החלה המלחמה על המים. כדי להכשיל את מפעל ההטיה הסורי ניצלה ישראל ירי סורי עליה על-מנת לתקוף את מקימי התעלות הסוריות."
+  },
+  {
+    "sample_id": "B64-D12",
+    "batch_id": "B64",
+    "territory": "Golan Heights",
+    "territory_zh": "戈兰高地",
+    "doc_lang": "ar",
+    "doc_id": "1569_p89",
+    "original_text_sha256": "b7aa794c97ce5c0f88872e5a755c8ffb14747ead36e8cc799b52607b170cf5b4",
+    "original_text": "بلاد الشام\nبلدان وأقاليم ناطقة بالعربية\nتأسيسات سنة 1948 في آسيا\nجمهوريات\nدول آسيا\nدول أعضاء في الأمم المتحدة\nدول أعضاء في الاتحاد من أجل المتوسط\nدول الشرق الأدنى\nدول الشرق الأوسط\nدول غرب آسيا\nدول غير معترف بها أو ذات اعتراف محدود\nدول وأقاليم تأسست في 1948\nشرق المتوسط\nصهيونية\nفلسطين"
+  }
+]

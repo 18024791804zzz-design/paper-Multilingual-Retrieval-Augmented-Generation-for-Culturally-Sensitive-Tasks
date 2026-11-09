@@ -1,0 +1,122 @@
+[
+  {
+    "sample_id": "B68-D01",
+    "batch_id": "B68",
+    "territory": "East Jerusalem",
+    "territory_zh": "东耶路撒冷",
+    "doc_lang": "en",
+    "doc_id": "9282173_p0",
+    "original_text_sha256": "ab3bb9097974ae5c24f8514f062f4849bb200102d4895c21f91ee9e497735ccd",
+    "original_text": "Israel (;   ;  ), officially the State of Israel (  ;  ), is a country in Western Asia. Situated in the Southern Levant, it is bordered by Lebanon to the north, by Syria to the northeast, by Jordan to the east, by the Red Sea to the south, by Egypt to the southwest, by the Mediterranean Sea to the west, and by the Palestinian territories — the West Bank along the east and the Gaza Strip along the southwest. Tel Aviv is the economic and technological center of the country, while its seat of government is in its proclaimed capital of Jerusalem, although Israeli sovereignty over East Jerusalem is unrecognized internationally."
+  },
+  {
+    "sample_id": "B68-D02",
+    "batch_id": "B68",
+    "territory": "East Jerusalem",
+    "territory_zh": "东耶路撒冷",
+    "doc_lang": "ar",
+    "doc_id": "47022_p42",
+    "original_text_sha256": "95ab8fb8d764b600ff9a127e1ab9fc6df0d0262851e151525f1a99636c4ed6b0",
+    "original_text": "هناك مجموعة متنوعة من الآراء بشأن وضع دولة فلسطين، سواء بين دول المجتمع الدولي أو بين علماء القانون. إن وجود دولة فلسطين، رغم أنه مثير للجدل، هو حقيقة واقعة في آراء الدول التي أقامت علاقات دبلوماسية ثنائية."
+  },
+  {
+    "sample_id": "B68-D03",
+    "batch_id": "B68",
+    "territory": "East Jerusalem",
+    "territory_zh": "东耶路撒冷",
+    "doc_lang": "iw",
+    "doc_id": "320304_p0",
+    "original_text_sha256": "e088485a88f92d8c0b3d6b679331ea212dfbe4a6a14b3367c9891ccc46a55dfc",
+    "original_text": "יִשְׂרָאֵל היא מדינה במזרח התיכון, במערב יבשת אסיה, השוכנת על החוף הדרום־מזרחי של הים התיכון. ישראל הוקמה בשטחי ארץ ישראל, ביתו הלאומי וארץ מולדתו של העם היהודי. המדינה הכריזה על עצמאותה בה' באייר תש\"ח, 14 במאי 1948, והיא בעלת משטר מסוג דמוקרטיה פרלמנטרית."
+  },
+  {
+    "sample_id": "B68-D04",
+    "batch_id": "B68",
+    "territory": "East Jerusalem",
+    "territory_zh": "东耶路撒冷",
+    "doc_lang": "ar",
+    "doc_id": "47022_p3",
+    "original_text_sha256": "0fb6a12538caad52b839bec1fc335d78fef4284565e841f76d8c44302d660b2f",
+    "original_text": "يبلغ عدد سكان فلسطين 5،051،953 نسمة اعتبارًا من فبراير 2020، واحتلت المرتبة 121 في العالم. على الرغم من أن فلسطين تدعي أن القدس عاصمة لها، إلا أن المدينة تخضع لسيطرة إسرائيل. لا يعترف المجتمع الدولي بمطالب فلسطين وإسرائيل بالمدينة. اعترف بدولة فلسطين من قبل 138 من أصل 193 عضوًا في الأمم المتحدة، ومنذ عام 2012 تتمتع بوضع دولة مراقب غير عضو في الأمم المتحدة. فلسطين عضو في جامعة الدول العربية، ومنظمة التعاون الإسلامي، ومجموعة ال77، واللجنة الأولمبية الدولية، بالإضافة إلى اليونسكو، والأونكتاد، والمحكمة الجنائية الدولية."
+  },
+  {
+    "sample_id": "B68-D05",
+    "batch_id": "B68",
+    "territory": "East Jerusalem",
+    "territory_zh": "东耶路撒冷",
+    "doc_lang": "en",
+    "doc_id": "241405_p0",
+    "original_text_sha256": "3d4bba2bdb9d65119593eee48aa1b28956c50a1207f3a16983ad63ecacbdecbb",
+    "original_text": "Palestine (, ), officially the State of Palestine (), is a state located in the Southern Levant region of Western Asia. Officially governed by the Palestine Liberation Organization (PLO), it claims the West Bank (including East Jerusalem) and the Gaza Strip as its territory, though the entirety of that territory has been under Israeli occupation since the 1967 Six-Day War. As a result of the Oslo Accords of 1993–1995, the West Bank is currently divided into 165 Palestinian enclaves that are under partial Palestinian National Authority (PNA) rule; the remainder, including 200 Israeli settlements, is under full Israeli control. The Gaza Strip has been ruled by the militant Islamic group Hamas and has been subject to a long-term blockade by Egypt and Israel since 2007."
+  },
+  {
+    "sample_id": "B68-D06",
+    "batch_id": "B68",
+    "territory": "East Jerusalem",
+    "territory_zh": "东耶路撒冷",
+    "doc_lang": "iw",
+    "doc_id": "641143_p18",
+    "original_text_sha256": "87ae6e0ac0a1ee4abd498acc1ca2a3f36b0d6870d5d14ad39047ede04faeec07",
+    "original_text": "ההתייחסות של ישראל\nהגישה לפיה יש להקים מדינה פלסטינית בירדן לא אומצה כמדיניות רשמית על ידי אף ממשלה בישראל."
+  },
+  {
+    "sample_id": "B68-D07",
+    "batch_id": "B68",
+    "territory": "East Jerusalem",
+    "territory_zh": "东耶路撒冷",
+    "doc_lang": "iw",
+    "doc_id": "122078_p8",
+    "original_text_sha256": "5f4ff4edf24c9b2dfa7a111b32f5f18f149409b38c1974c3ae1b44325ae3833d",
+    "original_text": "לפני קום המדינה\nמאז אמצע המאה ה-19, מרבית תושבי ירושלים היו יהודים. לפני מלחמת העולם הראשונה היו בירושלים כ-70,000 תושבים, מתוכם כ-45,000 יהודים. ערב מלחמת העצמאות גרו בירושלים כ- 100,000 תושבים יהודים לעומת כ 65,000 תושבים ערבים."
+  },
+  {
+    "sample_id": "B68-D08",
+    "batch_id": "B68",
+    "territory": "East Jerusalem",
+    "territory_zh": "东耶路撒冷",
+    "doc_lang": "en",
+    "doc_id": "241405_p4",
+    "original_text_sha256": "68aa25781dd95c513061c0f25fc4500fb99577cbb490d2e810a1a03af711c50c",
+    "original_text": "Although the concept of the Palestine region and its geographical extent has varied throughout history, it is now considered to be composed by the modern State of Israel, the West Bank and the Gaza Strip. General use of the term \"Palestine\" or related terms to the area at the southeast corner of the Mediterranean Sea beside Syria has historically been taking place since the times of Ancient Greece, with Herodotus being the first historian writing in the 5th century BC in The Histories of a \"district of Syria, called Palaistine\" in which Phoenicians interacted with other maritime peoples. The term \"Palestine\" (in Latin, Palæstina) is thought to have been a term coined by the Ancient Greeks for the area of land occupied by the Philistines, although there are other explanations."
+  },
+  {
+    "sample_id": "B68-D09",
+    "batch_id": "B68",
+    "territory": "East Jerusalem",
+    "territory_zh": "东耶路撒冷",
+    "doc_lang": "ar",
+    "doc_id": "1569_p56",
+    "original_text_sha256": "ca2b4062520d11545c102cf708591c76106fb8bbec11b3afbd90d47be790b55d",
+    "original_text": "تكتسي مدينة القدس أهمية دينية خاصة بالنسبة لليهود والمسيحيين والمسلمين، فهي موطن للمواقع المحورية لمعتقداتهم الدينية، مثل المدينة القديمة التي تضم الحائط الغربي وجبل الهيكل وكنيسة القيامة ومسجد الأقصى. ومن المواقع الأخرى ذات الأهمية الدينية في إسرائيل هي الناصرة (المقدسة في المسيحية كموقع تكريمي لمريم العذراء)، وطبريا وصفد (من المدن الأربع المقدسة في اليهودية)، والمسجد الأبيض في الرملة (المقدسة في الإسلام كمزار النبي صالح)، وكنيسة القديس جاورجيوس في اللد (المقدسة في المسيحية والإسلام كقبر القديس جرجس أو الخضر)، ومقام النبي شعيب في حطين (المقدسة في المذهب الدرزي كقبر النبي شعيب). يقع المركز الإداري للإيمان البهائي وضريح الباب في المركز البهائي العالمي في حيفا؛ وضريح زعيم الدين البهائي في عكا. وعلى بعد بضعة أميال جنوب مركز البهائي العالمي، يوجد مسجد محمود المرتبط بحركة الأحمدية الإصلاحية. حي الكبابير، وهو حي مختلط لليهود والعرب الأحمديين هو الوحيد من نوعه في البلاد."
+  },
+  {
+    "sample_id": "B68-D10",
+    "batch_id": "B68",
+    "territory": "East Jerusalem",
+    "territory_zh": "东耶路撒冷",
+    "doc_lang": "ar",
+    "doc_id": "47022_p24",
+    "original_text_sha256": "9120a4ad40604f787c35114795cb78b4371bfe819ae91babfadc8dfb31a0bee3",
+    "original_text": "قسمت محافظات الضفة الغربية إلى ثلاث مناطق وفقًا لاتفاقية أوسلو 2. تشكل المنطقة (أ) 18% من الضفة الغربية حسب المنطقة، وتديرها الحكومة الفلسطينية. تشكل المنطقة (ب) 22% من الضفة الغربية، وتخضع للسيطرة المدنية الفلسطينية، والسيطرة الأمنية الإسرائيلية الفلسطينية المشتركة. تشكل المنطقة (ج)، باستثناء القدس الشرقية، 60% من الضفة الغربية، وتديرها الإدارة المدنية الإسرائيلية، باستثناء أن الحكومة الفلسطينية توفر الخدمات التعليمية والطبية لـ150.000 فلسطيني في المنطقة. أكثر من 99% من المنطقة (ج) محظورة على الفلسطينيين. هناك حوالي 330 ألف إسرائيلي يعيشون في مستوطنات بالمنطقة (ج). رغم أن المنطقة (ج) تخضع للأحكام العرفية، فإن الإسرائيليين الذين يعيشون هناك يحاكمون أمام محاكم مدنية إسرائيلية."
+  },
+  {
+    "sample_id": "B68-D11",
+    "batch_id": "B68",
+    "territory": "East Jerusalem",
+    "territory_zh": "东耶路撒冷",
+    "doc_lang": "ar",
+    "doc_id": "5232674_p2",
+    "original_text_sha256": "9578bfeaa980fb79affbb112f4ba048696ec2c462e782a17d8719773a057ebdf",
+    "original_text": "بعد الحرب العربية - الإسرائيلية عام 1948، أو النكبة، تم تقسيم القدس إلى جزئين؛ الجزء الشرقي ذو الغالبية العربية المطلقة (مسلمين ومسيحيين)، وقع تحت الحكم الأردني، والجزء الغربي ذو الغالبية اليهودية - بعد تهجير الفلسطينيين منها، وقع تحت الحكم الإسرائيلي. وبقي جزء صغير من القدس الشرقية غير خاضع لسيطرة العرب، وهو جبل المشارف والذي تقع فيه الجامعة العبرية - أول جامعة إسرائيلية."
+  },
+  {
+    "sample_id": "B68-D12",
+    "batch_id": "B68",
+    "territory": "East Jerusalem",
+    "territory_zh": "东耶路撒冷",
+    "doc_lang": "iw",
+    "doc_id": "641143_p34",
+    "original_text_sha256": "5aaf5f5f7c178f50a6a4b7cec371db516683cf2a36997b021d0876de56b38c8f",
+    "original_text": "על פי המשפט הבינלאומי, נדרשים חמישה מאפיינים עיקריים על מנת שישות טריטוריאלית תוגדר כמדינה: טריטוריה עם גבולות קבועים; רוב תושבי הקבע בטריטוריה צריכים להביע שאיפה המבוססת על התנועה הלאומית; שלטון של גוף יחיד על האוכלוסייה באמצעות חוקים ומוסדות; עצמאות של מדינה ריבונית המסוגלת לנהל את ענייני הפנים והחוץ שלה ללא תלות במדינה אחרת; והכרה על ידי הקהילה הבינלאומית. ישנן שתי תאוריות לעניין דרישת ההכרה במשפט הבינלאומי: לפי תאוריית המדינות הדקלרטיבית תנאים 1–4 הם הכרחיים ומספקים, ותאוריית המדינות הקונסטיטוטיבית, שלפיה די בהכרה על ידי הקהילה הבינלאומית, כלומר תנאי 5 יכול להספיק לבדו בתנאים מסוימים. כיום הנוהג הבינלאומי מתבסס על התאוריה הקונסטיטוטיבית, ומדינות מוכרות אף בהיעדר כל ארבעת הקריטריונים הראשונים או חלקם."
+  }
+]

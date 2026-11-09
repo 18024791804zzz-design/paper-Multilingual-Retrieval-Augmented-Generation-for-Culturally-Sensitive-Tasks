@@ -1,0 +1,46 @@
+{
+  "protocol": "v4",
+  "changes": [
+    {
+      "sample_id": "B45-D07",
+      "stage": "same_target_paragraph_boundary_check",
+      "before": [
+        "B45-D07",
+        "W5",
+        "多数强烈引语可归给具名史家，不据此计W；但作者把和会中一方代表的指控用揭露和证实来叙述，将其真实性作为已成立，形成言说可信度倾斜。",
+        "niyyətlərini ifşa edir",
+        "müsəlman nümayəndələri Əhməd bəy Ağayev, Əlimərdan bəy Topçubaşov"
+      ],
+      "after": [
+        "B45-D07",
+        "UNK",
+        "揭露和证实既可能是作者背书，也可能是在转述和会中已具名代表的论证；本段另有多位史家及引语，不能仅凭言说动词可靠确认W5。保留措辞归属疑难，不核验这些历史指控。",
+        "niyyətlərini ifşa edir",
+        "müsəlman nümayəndələri Əhməd bəy Ağayev, Əlimərdan bəy Topçubaşov"
+      ],
+      "external_context_used": false,
+      "independent_review": false
+    },
+    {
+      "sample_id": "B67-D05",
+      "stage": "same_target_paragraph_boundary_check",
+      "before": [
+        "B67-D05",
+        "W5",
+        "作者将阿方对争议地区的企图写为千方百计侵占，以动词及范围强化预设该方主张具有不当占有性质；未标为格方意见。",
+        "ամեն կերպ ցանկանում էր յուրացնել վրացաբնակ Զաքաթալայի շրջանը",
+        null
+      ],
+      "after": [
+        "B67-D05",
+        "UNK",
+        "千方百计取得争议地区的表述带有意图判断，但յուրացնել在这里可读为占据或侵占；单段未明确该意图描述的来源，无法可靠确认是普通史述还是贬义预设，不仅凭该词判W5。",
+        "ամեն կերպ ցանկանում էր յուրացնել վրացաբնակ Զաքաթալայի շրջանը",
+        null
+      ],
+      "external_context_used": false,
+      "independent_review": false
+    }
+  ],
+  "note": "Same-assistant clarification; no human review gate and no independent accuracy claim."
+}

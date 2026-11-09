@@ -1,0 +1,122 @@
+[
+  {
+    "sample_id": "B50-D01",
+    "batch_id": "B50",
+    "territory": "Sastavci",
+    "territory_zh": "萨斯塔夫齐",
+    "doc_lang": "sr",
+    "doc_id": "1517_p3",
+    "original_text_sha256": "116a8627e8fdf749ec1b024279c56a4267487ede0925c1d86efd3fa1661ebcbb",
+    "original_text": "У саставу Републике Србије су и две аутономне покрајине: Војводина и Косово и Метохија. Од НАТО бомбардовања СРЈ, покрајина Косово и Метохија се налази под протекторатом Уједињених нација. Институције привремене самоуправе на Косову и Метохији, на којем Албанци чине етничку већину, 17. фебруара 2008. године једнострано и противправно (противно Уставу Србије из 2006. и Резолуцији Савета Безбедности ОУН 1244) прогласиле су независност, коју Република Србија, многе друге државе и Организација Уједињених нација не признају."
+  },
+  {
+    "sample_id": "B50-D02",
+    "batch_id": "B50",
+    "territory": "Sastavci",
+    "territory_zh": "萨斯塔夫齐",
+    "doc_lang": "en",
+    "doc_id": "3463_p0",
+    "original_text_sha256": "8931c82bec8a135c7feb7d5f4f33e0c59ff39d6ec3b2ac58d7f4c73bf5bdb3c1",
+    "original_text": "Bosnia and Herzegovina (), abbreviated BiH or B&H, sometimes called Bosnia–Herzegovina and often known informally as Bosnia, is a country in Southeastern Europe, located in the Balkans. Bosnia and Herzegovina borders Serbia to the east, Montenegro to the southeast, and Croatia to the north and southwest. In the south it has a narrow coast on the Adriatic Sea within the Mediterranean, which is about  long and surrounds the town of Neum. Bosnia, which is the inland region of the country, has a moderate continental climate with hot summers and cold, snowy winters. In the central and eastern regions of the country, the geography is mountainous, in the northwest it is moderately hilly, and in the northeast it is predominantly flat. Herzegovina, which is the smaller, southern region of the country, has a Mediterranean climate and is mostly mountainous. Sarajevo is the capital and the largest city of the country followed by Banja Luka, Tuzla and Zenica."
+  },
+  {
+    "sample_id": "B50-D03",
+    "batch_id": "B50",
+    "territory": "Sastavci",
+    "territory_zh": "萨斯塔夫齐",
+    "doc_lang": "sr",
+    "doc_id": "160_p5",
+    "original_text_sha256": "5268e8fca393f7d78938e9301626221838b52af9f7b6514ce3c72c6515c4bbe6",
+    "original_text": "Од завршетка Првог свјетског рата до завршетка Другог свјетског рата, држава није постојала као цјеловита јединица. Вишечлани назив се поновно почео користити након проглашења Федеративне Народне Републике Југославије (1946) у којој је Народна Република Босна и Херцеговина била једна од федералних јединица. Доношењем новог југословенског устава (1963), преименована је у Социјалистичку Републику Босну и Херцеговину."
+  },
+  {
+    "sample_id": "B50-D04",
+    "batch_id": "B50",
+    "territory": "Sastavci",
+    "territory_zh": "萨斯塔夫齐",
+    "doc_lang": "sr",
+    "doc_id": "160_p70",
+    "original_text_sha256": "4897066b361ee74ed0d35bdb17ecb652f796baf50c9ae52561219a4a774bcb12",
+    "original_text": "Босна и Херцеговина је по свом државном уређењу јединствена у свијету. Њено уређење је сложеног карактера, а по облику владавине држава је федерална парламентарна република, с тим да се и поред тога званично не дефинише као република због сложености јединица на које је подијељена (кантони и ентитети, од којих један у свом називу има именицу република, а други федерација), али и због подсјећања на ратну тзв. Републику БиХ. Независност државе је призната противно међународном јавном праву, 5. априла 1992. године, након што се неуставним референдумом о независности савезна држава одвојила од Социјалистичке Федеративне Републике Југославије, из које су претходно иступиле Словенија, Хрватска и Македонија. Стварну независност БиХ је стекла 14. децембра 1995. године, иако и ово многи доводе у питање због међународне управе у БиХ. Савјет министара Босне и Херцеговине се по тренутном Уставу почео састављати од тог 14. децембра послије потписивања Дејтонског мировног споразума, који је зауставио рат и својим анексом -{IV}- (Устав БиХ) уредио изглед послијератне БиХ. Главни град земље је остало Сарајево."
+  },
+  {
+    "sample_id": "B50-D05",
+    "batch_id": "B50",
+    "territory": "Sastavci",
+    "territory_zh": "萨斯塔夫齐",
+    "doc_lang": "sr",
+    "doc_id": "160_p63",
+    "original_text_sha256": "da78bd78df9d3f4888356d17e71f51bfc79069bf93be546481d3528e8318b831",
+    "original_text": "Босна и Херцеговина као самостална држава "
+  },
+  {
+    "sample_id": "B50-D06",
+    "batch_id": "B50",
+    "territory": "Sastavci",
+    "territory_zh": "萨斯塔夫齐",
+    "doc_lang": "en",
+    "doc_id": "3463_p75",
+    "original_text_sha256": "541afb3fc1a2f5efc5be242f693fec317ce3c6563fcd07c3277add7f2ae73056",
+    "original_text": "Bosnia and Herzegovina is a liberal democracy. It has several levels of political structuring, according to the Dayton Agreement. The most important of these levels is the division of the country into two entities: the Federation of Bosnia and Herzegovina and Republika Srpska. The Federation of Bosnia and Herzegovina covers 51% of Bosnia and Herzegovina's total area, while Republika Srpska covers 49%. The entities, based largely on the territories held by the two warring sides at the time, were formally established by the Dayton Agreement in 1995 because of the tremendous changes in Bosnia and Herzegovina's ethnic structure. Since 1996, the power of the entities relative to the State government has decreased significantly. Nonetheless, entities still have numerous powers to themselves."
+  },
+  {
+    "sample_id": "B50-D07",
+    "batch_id": "B50",
+    "territory": "Sastavci",
+    "territory_zh": "萨斯塔夫齐",
+    "doc_lang": "bs",
+    "doc_id": "2821_p17",
+    "original_text_sha256": "7a6990651dd4d510f02e35543cf6b5a7d4b57b738415b9961a9414512a85b3c8",
+    "original_text": "Teritorija Srbije je predmet međunarodnog neslaganja. Zvanični stav Srbije, koji se poziva na Ustav prihvaćen u novembru 2007. godine kao i Rezoluciju Ujedinjenih naroda broj 1244 je da Srbija u svom sastavu ima Autonomnu pokrajinu Vojvodina, centralnu ili užu Srbiju i Autonomnu pokrajinu Kosovo i Metohija. Kosovo, koje je od 1999. godine po administrativnom kontrolom Ujedinjenih nacija, jednostrano je proglasilo nezavisnost 17. februara 2008. godine."
+  },
+  {
+    "sample_id": "B50-D08",
+    "batch_id": "B50",
+    "territory": "Sastavci",
+    "territory_zh": "萨斯塔夫齐",
+    "doc_lang": "sr",
+    "doc_id": "160_p83",
+    "original_text_sha256": "d8e308ee43bca9a1937699a7b6bd0ca2d1f85b453158f3c04a77828fa0428dc7",
+    "original_text": "Уз Србију, Босна и Херцеговина је била једна од двију средње развијених република у СФРЈ. Пољопривреда је углавном била у приватним рукама, али посједи су били мали и непрофитабилни, док се храна углавном увозила. За вријеме социјализма, у БиХ је форсирана тешка и војна индустрија, па је република имала велики дио југословенских војних и индустријских постројења."
+  },
+  {
+    "sample_id": "B50-D09",
+    "batch_id": "B50",
+    "territory": "Sastavci",
+    "territory_zh": "萨斯塔夫齐",
+    "doc_lang": "sr",
+    "doc_id": "160_p92",
+    "original_text_sha256": "65ed934a7bc55bd66e97802fb23c5c2901829cae5582afe9ac88cfbd261433eb",
+    "original_text": "Укупна дужина жељезничке мреже у Босни и Херцеговини је 608 -{km}- (2006). Ово се односи на пруге стандардне ширине колосијека, јер у земљи постоји и низ некада коришћених пруга уског колосека, још из периода Аустроугарске. У држави доминирају два жељезничка правца са главним укрштањем у Добоју. Ти правци су Тузла — Добој — Бања Лука — Нови Град — Бихаћ — граница са Хрватском, те Шамац (граница са Хрватском) — Добој — Сарајево — Мостар — граница са Хрватском."
+  },
+  {
+    "sample_id": "B50-D10",
+    "batch_id": "B50",
+    "territory": "Sastavci",
+    "territory_zh": "萨斯塔夫齐",
+    "doc_lang": "sr",
+    "doc_id": "160_p4",
+    "original_text_sha256": "ffe4876aaf367bfbcde7f516ba1b56056423b8cf0dd0fe43764aec4ef7611b4b",
+    "original_text": "Вишечлани назив Босна и Херцеговина потиче од назива двију географских области (област Босна и област Херцеговина), чија су имена преузета истовјетно тј. употребљена у имену државе неизмјењена и повезана везником и. Почиње се употребљавати након што је Аустроугарска, на основу одлука Берлинског конгреса (1878), анкетирала османски Босански пашалук (изузев Новопазарског санџака) и од њега створила јединствено управно подручје — кондоминијум Босну и Херцеговину."
+  },
+  {
+    "sample_id": "B50-D11",
+    "batch_id": "B50",
+    "territory": "Sastavci",
+    "territory_zh": "萨斯塔夫齐",
+    "doc_lang": "sr",
+    "doc_id": "160_p81",
+    "original_text_sha256": "0dd4a767fdefced990f9450fb0545d2a62bff87ac68600fba5881e0fc14ccde5",
+    "original_text": "Посљедњи ниво политичке подјеле Босне и Херцеговине су општине. Земља се састоји од 141 општине, од којих су 79 у Федерацији Босне и Херцеговине, а 62 у Републици Српској, док је град Брчко засебна административна јединица — дистрикт. И општине такође имају своју скупштину (у ФБиХ вијеће), управу и службе, и углавном су образоване око најзначајнијег града или мјеста у подручју. Сваки кантон се састоји од неколико општина."
+  },
+  {
+    "sample_id": "B50-D12",
+    "batch_id": "B50",
+    "territory": "Sastavci",
+    "territory_zh": "萨斯塔夫齐",
+    "doc_lang": "bs",
+    "doc_id": "2821_p16",
+    "original_text_sha256": "f3319e9404ac79ce9efb548383fbe222d893815cac44e779a6e6ebee7c79136d",
+    "original_text": "27. aprila 1992. zajedno je sa Crnom Gorom formirala Saveznu republiku Jugoslaviju. 1992-95 bila pod općim sankcijama Vijeća sigurnosti UN. Od 1998. na Kosovu počinju sukobi terorističke Oslobodilačke Vojske Kosova i srpske policije. 24.03-10.06.1999. bombardirana od strane Sjevernoatlantskog saveza. 2004. predsjednik Republike je Boris Tadić (Demokratska Stranka), predsjednik vlade je Vojislav Koštunica (Demokratska Stranka Srbije), a predsjednik Narodne Skupštine Predrag Marković (G17+). Od 5. juna 2006. godine, odvajanjem Crne Gore postaje nezavisna država. Otcjepljivanjem Kosova 17. februara 2008. godine Srbija se prostire u AVNOJ-evskim granicama SR Srbije i SAP Vojvodine."
+  }
+]

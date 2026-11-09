@@ -1,0 +1,721 @@
+﻿sample_id,group_id,batch_id,territory,territory_zh,doc_lang,doc_id,selected_query_id,selected_retriever,selected_mode,selected_rank,selection_stratum,minimum_rank_in_all_applicable_lists,previous_exact_text_overlap
+B31-D01,G4,B31,Essequibo River,埃塞奎博河,en,32374_p24,Q23,m3,qlang,8,m3_rank_4_10,8,False
+B31-D02,G4,B31,Essequibo River,埃塞奎博河,en,32374_p116,Q23,m3,qlang,50,m3_rank_26_50,50,False
+B31-D03,G4,B31,Essequibo River,埃塞奎博河,en,32374_p103,Q23,openai,rel_langs,10,openai_rank_4_10,5,False
+B31-D04,G4,B31,Essequibo River,埃塞奎博河,en,17238691_p9,Q23,m3,rel_langs,18,m3_rank_11_25,5,False
+B31-D05,G4,B31,Essequibo River,埃塞奎博河,en,17238691_p7,Q23,openai,qlang,21,openai_rank_11_25,21,False
+B31-D06,G4,B31,Essequibo River,埃塞奎博河,es,10645_p20,Q325,openai,qlang,5,openai_rank_4_10,5,False
+B31-D07,G4,B31,Essequibo River,埃塞奎博河,es,1353806_p5,Q325,m3,qlang,24,m3_rank_11_25,24,False
+B31-D08,G4,B31,Essequibo River,埃塞奎博河,es,10645_p46,Q325,openai,rel_langs,16,openai_rank_11_25,9,False
+B31-D09,G4,B31,Essequibo River,埃塞奎博河,es,1353806_p115,Q325,m3,qlang,9,m3_rank_4_10,9,False
+B31-D10,G4,B31,Essequibo River,埃塞奎博河,es,10645_p5,Q325,openai,rel_langs,38,openai_rank_26_50,16,False
+B31-D11,G4,B31,Essequibo River,埃塞奎博河,en,541348_p17,Q23,openai,rel_langs,34,openai_rank_26_50,15,False
+B31-D12,G4,B31,Essequibo River,埃塞奎博河,en,32374_p141,Q325,m3,rel_langs,29,m3_rank_26_50,29,False
+B32-D01,G4,B32,Artsvashen,阿尔茨瓦申,hy,800_p99,Q519,m3,rel_langs,35,m3_rank_26_50,6,False
+B32-D02,G4,B32,Artsvashen,阿尔茨瓦申,hy,800_p30,Q564,openai,rel_langs,16,openai_rank_11_25,16,False
+B32-D03,G4,B32,Artsvashen,阿尔茨瓦申,hy,1396_p44,Q564,m3,qlang,22,m3_rank_11_25,22,False
+B32-D04,G4,B32,Artsvashen,阿尔茨瓦申,az,615_p33,Q519,openai,qlang,34,openai_rank_26_50,34,False
+B32-D05,G4,B32,Artsvashen,阿尔茨瓦申,hy,800_p220,Q564,openai,qlang,4,openai_rank_4_10,4,False
+B32-D06,G4,B32,Artsvashen,阿尔茨瓦申,hy,800_p226,Q564,openai,qlang,32,openai_rank_26_50,30,False
+B32-D07,G4,B32,Artsvashen,阿尔茨瓦申,az,1088_p56,Q519,m3,qlang,6,m3_rank_4_10,6,False
+B32-D08,G4,B32,Artsvashen,阿尔茨瓦申,hy,6659_p5,Q564,m3,qlang,4,m3_rank_4_10,4,False
+B32-D09,G4,B32,Artsvashen,阿尔茨瓦申,en,10918072_p73,Q519,openai,rel_langs,16,openai_rank_11_25,16,False
+B32-D10,G4,B32,Artsvashen,阿尔茨瓦申,en,6251782_p8,Q519,m3,rel_langs,22,m3_rank_11_25,8,False
+B32-D11,G4,B32,Artsvashen,阿尔茨瓦申,az,615_p16,Q519,openai,qlang,9,openai_rank_4_10,9,False
+B32-D12,G4,B32,Artsvashen,阿尔茨瓦申,hy,800_p83,Q564,m3,qlang,46,m3_rank_26_50,46,False
+B33-D01,G4,B33,Nakhichevan Autonomous Republic,纳希切万自治共和国,en,385358_p0,Q567,m3,rel_langs,24,m3_rank_11_25,4,False
+B33-D02,G4,B33,Nakhichevan Autonomous Republic,纳希切万自治共和国,az,1107_p18,Q522,openai,qlang,9,openai_rank_4_10,9,False
+B33-D03,G4,B33,Nakhichevan Autonomous Republic,纳希切万自治共和国,hy,800_p4,Q567,m3,rel_langs,29,m3_rank_26_50,23,False
+B33-D04,G4,B33,Nakhichevan Autonomous Republic,纳希切万自治共和国,hy,1396_p1,Q567,openai,rel_langs,24,openai_rank_11_25,16,False
+B33-D05,G4,B33,Nakhichevan Autonomous Republic,纳希切万自治共和国,az,1107_p52,Q522,m3,qlang,21,m3_rank_11_25,21,False
+B33-D06,G4,B33,Nakhichevan Autonomous Republic,纳希切万自治共和国,az,1107_p186,Q522,openai,qlang,29,openai_rank_26_50,29,False
+B33-D07,G4,B33,Nakhichevan Autonomous Republic,纳希切万自治共和国,az,615_p30,Q522,m3,rel_langs,28,m3_rank_26_50,16,False
+B33-D08,G4,B33,Nakhichevan Autonomous Republic,纳希切万自治共和国,hy,800_p20,Q567,openai,qlang,41,openai_rank_26_50,41,False
+B33-D09,G4,B33,Nakhichevan Autonomous Republic,纳希切万自治共和国,en,385358_p20,Q522,openai,rel_langs,19,openai_rank_11_25,19,False
+B33-D10,G4,B33,Nakhichevan Autonomous Republic,纳希切万自治共和国,hy,800_p79,Q567,m3,rel_langs,5,m3_rank_4_10,4,False
+B33-D11,G4,B33,Nakhichevan Autonomous Republic,纳希切万自治共和国,az,1107_p51,Q522,m3,qlang,8,m3_rank_4_10,7,False
+B33-D12,G4,B33,Nakhichevan Autonomous Republic,纳希切万自治共和国,hy,5479_p1,Q567,openai,qlang,5,openai_rank_4_10,5,False
+B34-D01,G4,B34,Island of Šarengrad,沙伦格勒岛,hr,7093_p91,Q641,m3,qlang,19,m3_rank_11_25,19,False
+B34-D02,G4,B34,Island of Šarengrad,沙伦格勒岛,hr,7093_p0,Q635,m3,rel_langs,18,m3_rank_11_25,7,False
+B34-D03,G4,B34,Island of Šarengrad,沙伦格勒岛,en,5573_p39,Q641,openai,rel_langs,37,openai_rank_26_50,37,False
+B34-D04,G4,B34,Island of Šarengrad,沙伦格勒岛,sr,1517_p169,Q635,m3,rel_langs,39,m3_rank_26_50,26,False
+B34-D05,G4,B34,Island of Šarengrad,沙伦格勒岛,hr,7_p36,Q641,m3,qlang,9,m3_rank_4_10,9,False
+B34-D06,G4,B34,Island of Šarengrad,沙伦格勒岛,hr,7093_p118,Q641,openai,qlang,15,openai_rank_11_25,15,False
+B34-D07,G4,B34,Island of Šarengrad,沙伦格勒岛,sr,111_p60,Q635,openai,qlang,19,openai_rank_11_25,19,False
+B34-D08,G4,B34,Island of Šarengrad,沙伦格勒岛,sr,1517_p90,Q635,openai,qlang,37,openai_rank_26_50,37,False
+B34-D09,G4,B34,Island of Šarengrad,沙伦格勒岛,sr,111_p35,Q635,openai,qlang,10,openai_rank_4_10,10,False
+B34-D10,G4,B34,Island of Šarengrad,沙伦格勒岛,sr,111_p2,Q635,m3,qlang,10,m3_rank_4_10,10,False
+B34-D11,G4,B34,Island of Šarengrad,沙伦格勒岛,hr,16322_p1,Q641,m3,qlang,42,m3_rank_26_50,25,False
+B34-D12,G4,B34,Island of Šarengrad,沙伦格勒岛,hr,16322_p8,Q641,openai,qlang,9,openai_rank_4_10,9,False
+B35-D01,G4,B35,Sir Creek,锡尔河口,en,23235_p180,Q435,openai,rel_langs,34,openai_rank_26_50,34,False
+B35-D02,G4,B35,Sir Creek,锡尔河口,ur,608_p65,Q435,openai,qlang,10,openai_rank_4_10,7,False
+B35-D03,G4,B35,Sir Creek,锡尔河口,hi,877_p11,Q410,openai,qlang,7,openai_rank_4_10,6,False
+B35-D04,G4,B35,Sir Creek,锡尔河口,en,5228466_p6,Q410,openai,rel_langs,19,openai_rank_11_25,19,False
+B35-D05,G4,B35,Sir Creek,锡尔河口,en,14533_p0,Q435,m3,rel_langs,9,m3_rank_4_10,9,False
+B35-D06,G4,B35,Sir Creek,锡尔河口,ur,608_p69,Q435,m3,qlang,34,m3_rank_26_50,34,False
+B35-D07,G4,B35,Sir Creek,锡尔河口,ur,608_p8,Q435,m3,qlang,18,m3_rank_11_25,18,False
+B35-D08,G4,B35,Sir Creek,锡尔河口,ur,608_p7,Q410,m3,rel_langs,46,m3_rank_26_50,17,False
+B35-D09,G4,B35,Sir Creek,锡尔河口,ur,608_p73,Q435,openai,qlang,23,openai_rank_11_25,23,False
+B35-D10,G4,B35,Sir Creek,锡尔河口,en,5228466_p18,Q410,openai,rel_langs,37,openai_rank_26_50,29,False
+B35-D11,G4,B35,Sir Creek,锡尔河口,hi,877_p1,Q410,m3,qlang,8,m3_rank_4_10,8,False
+B35-D12,G4,B35,Sir Creek,锡尔河口,ur,608_p34,Q410,m3,rel_langs,22,m3_rank_11_25,10,False
+B36-D01,G4,B36,Doi Lang,郎山（Doi Lang）,th,1953_p56,Q386,m3,rel_langs,16,m3_rank_11_25,12,False
+B36-D02,G4,B36,Doi Lang,郎山（Doi Lang）,th,1953_p45,Q386,openai,qlang,17,openai_rank_11_25,7,False
+B36-D03,G4,B36,Doi Lang,郎山（Doi Lang）,en,30128_p118,Q386,openai,rel_langs,44,openai_rank_26_50,44,False
+B36-D04,G4,B36,Doi Lang,郎山（Doi Lang）,th,794393_p7,Q386,m3,qlang,49,m3_rank_26_50,49,False
+B36-D05,G4,B36,Doi Lang,郎山（Doi Lang）,my,3171_p36,Q529,m3,rel_langs,25,m3_rank_11_25,25,False
+B36-D06,G4,B36,Doi Lang,郎山（Doi Lang）,th,1953_p75,Q386,m3,rel_langs,8,m3_rank_4_10,5,False
+B36-D07,G4,B36,Doi Lang,郎山（Doi Lang）,my,2388_p21,Q529,openai,rel_langs,7,openai_rank_4_10,7,False
+B36-D08,G4,B36,Doi Lang,郎山（Doi Lang）,th,936_p141,Q386,openai,qlang,6,openai_rank_4_10,6,False
+B36-D09,G4,B36,Doi Lang,郎山（Doi Lang）,my,3171_p12,Q529,m3,rel_langs,36,m3_rank_26_50,36,False
+B36-D10,G4,B36,Doi Lang,郎山（Doi Lang）,my,3171_p2,Q529,m3,rel_langs,9,m3_rank_4_10,9,False
+B36-D11,G4,B36,Doi Lang,郎山（Doi Lang）,my,2388_p87,Q529,openai,rel_langs,15,openai_rank_11_25,15,False
+B36-D12,G4,B36,Doi Lang,郎山（Doi Lang）,my,2388_p52,Q529,openai,rel_langs,40,openai_rank_26_50,40,False
+B37-D01,G4,B37,Mayotte,马约特,ar,1714_p24,Q261,m3,qlang,43,m3_rank_26_50,43,False
+B37-D02,G4,B37,Mayotte,马约特,ar,2103_p6,Q261,openai,qlang,32,openai_rank_26_50,32,False
+B37-D03,G4,B37,Mayotte,马约特,fr,175235_p20,Q296,openai,qlang,26,openai_rank_26_50,26,False
+B37-D04,G4,B37,Mayotte,马约特,ar,24230_p11,Q261,openai,qlang,7,openai_rank_4_10,7,False
+B37-D05,G4,B37,Mayotte,马约特,fr,33956_p4,Q296,m3,qlang,10,m3_rank_4_10,5,False
+B37-D06,G4,B37,Mayotte,马约特,ar,24230_p7,Q261,openai,qlang,12,openai_rank_11_25,12,False
+B37-D07,G4,B37,Mayotte,马约特,fr,33956_p12,Q296,openai,rel_langs,21,openai_rank_11_25,11,False
+B37-D08,G4,B37,Mayotte,马约特,ar,1714_p3,Q261,m3,qlang,12,m3_rank_11_25,12,False
+B37-D09,G4,B37,Mayotte,马约特,fr,175235_p69,Q296,m3,qlang,42,m3_rank_26_50,42,False
+B37-D10,G4,B37,Mayotte,马约特,fr,175235_p71,Q296,m3,rel_langs,11,m3_rank_11_25,8,False
+B37-D11,G4,B37,Mayotte,马约特,ar,1714_p27,Q261,m3,rel_langs,8,m3_rank_4_10,8,False
+B37-D12,G4,B37,Mayotte,马约特,fr,33956_p0,Q296,openai,qlang,8,openai_rank_4_10,6,False
+B38-D01,G4,B38,Lachin corridor,拉钦走廊,hy,800_p368,Q573,m3,qlang,44,m3_rank_26_50,44,False
+B38-D02,G4,B38,Lachin corridor,拉钦走廊,hy,800_p104,Q573,openai,rel_langs,40,openai_rank_26_50,33,False
+B38-D03,G4,B38,Lachin corridor,拉钦走廊,az,615_p24,Q528,openai,qlang,28,openai_rank_26_50,17,False
+B38-D04,G4,B38,Lachin corridor,拉钦走廊,az,519574_p6,Q528,m3,qlang,10,m3_rank_4_10,10,False
+B38-D05,G4,B38,Lachin corridor,拉钦走廊,az,1088_p82,Q528,m3,qlang,38,m3_rank_26_50,38,False
+B38-D06,G4,B38,Lachin corridor,拉钦走廊,hy,800_p130,Q573,m3,qlang,7,m3_rank_4_10,7,False
+B38-D07,G4,B38,Lachin corridor,拉钦走廊,az,615_p3,Q528,openai,qlang,21,openai_rank_11_25,21,False
+B38-D08,G4,B38,Lachin corridor,拉钦走廊,hy,1396_p63,Q573,openai,qlang,12,openai_rank_11_25,12,False
+B38-D09,G4,B38,Lachin corridor,拉钦走廊,hy,754745_p6,Q528,m3,rel_langs,23,m3_rank_11_25,6,False
+B38-D10,G4,B38,Lachin corridor,拉钦走廊,hy,1396_p47,Q573,openai,qlang,4,openai_rank_4_10,4,False
+B38-D11,G4,B38,Lachin corridor,拉钦走廊,en,10918072_p0,Q573,m3,rel_langs,18,m3_rank_11_25,18,False
+B38-D12,G4,B38,Lachin corridor,拉钦走廊,en,21402399_p0,Q528,openai,rel_langs,10,openai_rank_4_10,4,False
+B39-D01,G4,B39,Zaporizhzhia Oblast,扎波罗热州,ru,9_p133,Q627,m3,rel_langs,7,m3_rank_4_10,7,False
+B39-D02,G4,B39,Zaporizhzhia Oblast,扎波罗热州,uk,1072_p13,Q627,m3,rel_langs,14,m3_rank_11_25,7,False
+B39-D03,G4,B39,Zaporizhzhia Oblast,扎波罗热州,ru,732_p22,Q599,m3,qlang,9,m3_rank_4_10,7,False
+B39-D04,G4,B39,Zaporizhzhia Oblast,扎波罗热州,uk,3168_p203,Q627,openai,qlang,4,openai_rank_4_10,4,False
+B39-D05,G4,B39,Zaporizhzhia Oblast,扎波罗热州,uk,3168_p149,Q627,openai,qlang,14,openai_rank_11_25,14,False
+B39-D06,G4,B39,Zaporizhzhia Oblast,扎波罗热州,ru,21048_p59,Q599,m3,qlang,35,m3_rank_26_50,35,False
+B39-D07,G4,B39,Zaporizhzhia Oblast,扎波罗热州,uk,3168_p221,Q627,m3,rel_langs,50,m3_rank_26_50,34,False
+B39-D08,G4,B39,Zaporizhzhia Oblast,扎波罗热州,ru,21048_p30,Q599,openai,qlang,26,openai_rank_26_50,14,False
+B39-D09,G4,B39,Zaporizhzhia Oblast,扎波罗热州,ru,21048_p9,Q627,openai,rel_langs,45,openai_rank_26_50,20,False
+B39-D10,G4,B39,Zaporizhzhia Oblast,扎波罗热州,ru,21048_p1,Q599,openai,qlang,15,openai_rank_11_25,15,False
+B39-D11,G4,B39,Zaporizhzhia Oblast,扎波罗热州,ru,21048_p21,Q599,openai,qlang,9,openai_rank_4_10,6,False
+B39-D12,G4,B39,Zaporizhzhia Oblast,扎波罗热州,ru,21048_p70,Q599,m3,rel_langs,13,m3_rank_11_25,10,False
+B40-D01,G4,B40,Abyei,阿卜耶伊,ar,3711_p26,Q252,openai,qlang,10,openai_rank_4_10,10,False
+B40-D02,G4,B40,Abyei,阿卜耶伊,ar,3711_p4,Q252,m3,qlang,5,m3_rank_4_10,5,False
+B40-D03,G4,B40,Abyei,阿卜耶伊,en,13885196_p16,Q1,m3,qlang,11,m3_rank_11_25,11,False
+B40-D04,G4,B40,Abyei,阿卜耶伊,en,27421_p107,Q1,openai,qlang,5,openai_rank_4_10,5,False
+B40-D05,G4,B40,Abyei,阿卜耶伊,en,13885196_p13,Q252,openai,rel_langs,47,openai_rank_26_50,9,False
+B40-D06,G4,B40,Abyei,阿卜耶伊,ar,342661_p4,Q252,m3,qlang,17,m3_rank_11_25,17,False
+B40-D07,G4,B40,Abyei,阿卜耶伊,en,13885196_p5,Q1,m3,rel_langs,9,m3_rank_4_10,9,False
+B40-D08,G4,B40,Abyei,阿卜耶伊,en,32350676_p56,Q1,m3,qlang,43,m3_rank_26_50,43,False
+B40-D09,G4,B40,Abyei,阿卜耶伊,ar,342661_p33,Q252,openai,qlang,13,openai_rank_11_25,13,False
+B40-D10,G4,B40,Abyei,阿卜耶伊,en,27421_p5,Q252,m3,rel_langs,50,m3_rank_26_50,18,False
+B40-D11,G4,B40,Abyei,阿卜耶伊,en,13885196_p33,Q1,openai,qlang,16,openai_rank_11_25,16,False
+B40-D12,G4,B40,Abyei,阿卜耶伊,en,27421_p86,Q1,openai,rel_langs,48,openai_rank_26_50,48,False
+B41-D01,G5,B41,Moyo District,莫约区,en,32350676_p43,Q9,m3,rel_langs,20,m3_rank_11_25,15,False
+B41-D02,G5,B41,Moyo District,莫约区,en,32350676_p147,Q348,openai,rel_langs,40,openai_rank_26_50,10,False
+B41-D03,G5,B41,Moyo District,莫约区,en,32350676_p67,Q348,m3,rel_langs,22,m3_rank_11_25,22,False
+B41-D04,G5,B41,Moyo District,莫约区,sw,34294_p30,Q348,m3,qlang,5,m3_rank_4_10,5,False
+B41-D05,G5,B41,Moyo District,莫约区,sw,34294_p58,Q348,openai,rel_langs,5,openai_rank_4_10,5,False
+B41-D06,G5,B41,Moyo District,莫约区,sw,34294_p4,Q348,openai,qlang,24,openai_rank_11_25,24,False
+B41-D07,G5,B41,Moyo District,莫约区,en,32350676_p11,Q9,m3,qlang,6,m3_rank_4_10,6,False
+B41-D08,G5,B41,Moyo District,莫约区,en,32350676_p88,Q9,openai,rel_langs,49,openai_rank_26_50,47,False
+B41-D09,G5,B41,Moyo District,莫约区,en,1786757_p6,Q9,openai,rel_langs,7,openai_rank_4_10,7,False
+B41-D10,G5,B41,Moyo District,莫约区,en,32350676_p137,Q9,m3,rel_langs,48,m3_rank_26_50,41,False
+B41-D11,G5,B41,Moyo District,莫约区,en,32350676_p144,Q348,m3,rel_langs,36,m3_rank_26_50,36,False
+B41-D12,G5,B41,Moyo District,莫约区,en,32350676_p8,Q9,openai,rel_langs,24,openai_rank_11_25,8,False
+B42-D01,G5,B42,Cocotiers,科科蒂耶（Cocotiers）,es,10643_p96,Q317,openai,qlang,49,openai_rank_26_50,49,False
+B42-D02,G5,B42,Cocotiers,科科蒂耶（Cocotiers）,es,10643_p178,Q317,m3,qlang,20,m3_rank_11_25,20,False
+B42-D03,G5,B42,Cocotiers,科科蒂耶（Cocotiers）,fr,1323_p51,Q298,openai,qlang,9,openai_rank_4_10,9,False
+B42-D04,G5,B42,Cocotiers,科科蒂耶（Cocotiers）,es,10643_p129,Q317,m3,qlang,9,m3_rank_4_10,9,False
+B42-D05,G5,B42,Cocotiers,科科蒂耶（Cocotiers）,es,10643_p36,Q317,openai,qlang,9,openai_rank_4_10,9,False
+B42-D06,G5,B42,Cocotiers,科科蒂耶（Cocotiers）,fr,1323_p48,Q298,m3,qlang,9,m3_rank_4_10,9,False
+B42-D07,G5,B42,Cocotiers,科科蒂耶（Cocotiers）,en,9366_p85,Q298,openai,rel_langs,11,openai_rank_11_25,11,False
+B42-D08,G5,B42,Cocotiers,科科蒂耶（Cocotiers）,en,9366_p77,Q298,m3,rel_langs,37,m3_rank_26_50,37,False
+B42-D09,G5,B42,Cocotiers,科科蒂耶（Cocotiers）,fr,1323_p26,Q298,m3,qlang,18,m3_rank_11_25,18,False
+B42-D10,G5,B42,Cocotiers,科科蒂耶（Cocotiers）,en,12027_p31,Q317,m3,rel_langs,50,m3_rank_26_50,50,False
+B42-D11,G5,B42,Cocotiers,科科蒂耶（Cocotiers）,fr,3129358_p15,Q298,openai,rel_langs,32,openai_rank_26_50,11,False
+B42-D12,G5,B42,Cocotiers,科科蒂耶（Cocotiers）,es,10407_p10,Q317,openai,qlang,23,openai_rank_11_25,23,False
+B43-D01,G5,B43,Gaza Strip,加沙地带,iw,2543_p25,Q553,m3,rel_langs,6,m3_rank_4_10,6,False
+B43-D02,G5,B43,Gaza Strip,加沙地带,en,12047_p38,Q283,openai,rel_langs,20,openai_rank_11_25,20,False
+B43-D03,G5,B43,Gaza Strip,加沙地带,en,12047_p6,Q283,openai,rel_langs,9,openai_rank_4_10,9,False
+B43-D04,G5,B43,Gaza Strip,加沙地带,ar,47022_p11,Q283,m3,qlang,25,m3_rank_11_25,25,False
+B43-D05,G5,B43,Gaza Strip,加沙地带,ar,2269_p41,Q283,m3,rel_langs,33,m3_rank_26_50,32,False
+B43-D06,G5,B43,Gaza Strip,加沙地带,iw,320304_p78,Q553,openai,qlang,23,openai_rank_11_25,23,False
+B43-D07,G5,B43,Gaza Strip,加沙地带,ar,2269_p14,Q283,openai,qlang,28,openai_rank_26_50,28,False
+B43-D08,G5,B43,Gaza Strip,加沙地带,iw,2543_p12,Q553,m3,qlang,21,m3_rank_11_25,21,False
+B43-D09,G5,B43,Gaza Strip,加沙地带,iw,641143_p30,Q553,m3,rel_langs,26,m3_rank_26_50,24,False
+B43-D10,G5,B43,Gaza Strip,加沙地带,iw,2543_p53,Q553,openai,rel_langs,38,openai_rank_26_50,26,False
+B43-D11,G5,B43,Gaza Strip,加沙地带,ar,2269_p48,Q283,m3,rel_langs,9,m3_rank_4_10,9,False
+B43-D12,G5,B43,Gaza Strip,加沙地带,iw,2543_p2,Q553,openai,qlang,7,openai_rank_4_10,7,False
+B44-D01,G5,B44,Navassa Island,纳瓦萨岛,en,21312_p17,Q19,m3,rel_langs,16,m3_rank_11_25,8,False
+B44-D02,G5,B44,Navassa Island,纳瓦萨岛,en,21312_p27,Q19,openai,qlang,10,openai_rank_4_10,10,False
+B44-D03,G5,B44,Navassa Island,纳瓦萨岛,ht,13_p9,Q366,openai,qlang,8,openai_rank_4_10,8,False
+B44-D04,G5,B44,Navassa Island,纳瓦萨岛,en,21312_p4,Q19,m3,qlang,6,m3_rank_4_10,4,False
+B44-D05,G5,B44,Navassa Island,纳瓦萨岛,en,21312_p13,Q19,openai,qlang,14,openai_rank_11_25,9,False
+B44-D06,G5,B44,Navassa Island,纳瓦萨岛,ht,15_p0,Q366,m3,qlang,9,m3_rank_4_10,9,False
+B44-D07,G5,B44,Navassa Island,纳瓦萨岛,ht,13_p30,Q366,m3,qlang,37,m3_rank_26_50,37,False
+B44-D08,G5,B44,Navassa Island,纳瓦萨岛,ht,13_p4,Q366,openai,qlang,17,openai_rank_11_25,17,False
+B44-D09,G5,B44,Navassa Island,纳瓦萨岛,en,21312_p18,Q366,openai,rel_langs,27,openai_rank_26_50,13,False
+B44-D10,G5,B44,Navassa Island,纳瓦萨岛,en,13373_p95,Q19,m3,qlang,43,m3_rank_26_50,42,False
+B44-D11,G5,B44,Navassa Island,纳瓦萨岛,en,13373_p10,Q19,openai,qlang,44,openai_rank_26_50,24,False
+B44-D12,G5,B44,Navassa Island,纳瓦萨岛,ht,13_p8,Q366,m3,qlang,19,m3_rank_11_25,19,False
+B45-D01,G5,B45,Gegharkunik province,格加尔库尼克省,hy,1396_p48,Q565,m3,qlang,18,m3_rank_11_25,18,False
+B45-D02,G5,B45,Gegharkunik province,格加尔库尼克省,hy,800_p106,Q565,openai,qlang,29,openai_rank_26_50,29,False
+B45-D03,G5,B45,Gegharkunik province,格加尔库尼克省,en,470502_p8,Q520,openai,rel_langs,5,openai_rank_4_10,4,False
+B45-D04,G5,B45,Gegharkunik province,格加尔库尼克省,hy,800_p267,Q565,openai,qlang,6,openai_rank_4_10,6,False
+B45-D05,G5,B45,Gegharkunik province,格加尔库尼克省,az,1088_p18,Q520,m3,qlang,10,m3_rank_4_10,10,False
+B45-D06,G5,B45,Gegharkunik province,格加尔库尼克省,hy,800_p44,Q565,openai,qlang,25,openai_rank_11_25,25,False
+B45-D07,G5,B45,Gegharkunik province,格加尔库尼克省,az,615_p15,Q520,openai,qlang,17,openai_rank_11_25,17,False
+B45-D08,G5,B45,Gegharkunik province,格加尔库尼克省,hy,800_p0,Q565,m3,qlang,6,m3_rank_4_10,6,False
+B45-D09,G5,B45,Gegharkunik province,格加尔库尼克省,az,216993_p7,Q520,m3,qlang,32,m3_rank_26_50,13,False
+B45-D10,G5,B45,Gegharkunik province,格加尔库尼克省,en,470502_p35,Q520,openai,rel_langs,37,openai_rank_26_50,37,False
+B45-D11,G5,B45,Gegharkunik province,格加尔库尼克省,az,615_p14,Q520,m3,qlang,19,m3_rank_11_25,16,False
+B45-D12,G5,B45,Gegharkunik province,格加尔库尼克省,az,615_p32,Q565,m3,rel_langs,46,m3_rank_26_50,11,False
+B46-D01,G5,B46,Susta River dispute,苏斯塔河争端,en,63470708_p3,Q406,openai,rel_langs,4,openai_rank_4_10,4,False
+B46-D02,G5,B46,Susta River dispute,苏斯塔河争端,hi,59_p24,Q406,m3,qlang,15,m3_rank_11_25,15,False
+B46-D03,G5,B46,Susta River dispute,苏斯塔河争端,ne,804_p11,Q557,openai,qlang,21,openai_rank_11_25,21,False
+B46-D04,G5,B46,Susta River dispute,苏斯塔河争端,ne,804_p4,Q557,m3,qlang,14,m3_rank_11_25,14,False
+B46-D05,G5,B46,Susta River dispute,苏斯塔河争端,ne,808_p14,Q557,m3,qlang,6,m3_rank_4_10,6,False
+B46-D06,G5,B46,Susta River dispute,苏斯塔河争端,hi,899_p16,Q557,openai,rel_langs,9,openai_rank_4_10,5,False
+B46-D07,G5,B46,Susta River dispute,苏斯塔河争端,hi,899_p26,Q406,m3,rel_langs,38,m3_rank_26_50,15,False
+B46-D08,G5,B46,Susta River dispute,苏斯塔河争端,hi,59_p5,Q406,m3,qlang,4,m3_rank_4_10,4,False
+B46-D09,G5,B46,Susta River dispute,苏斯塔河争端,ne,804_p40,Q557,m3,rel_langs,47,m3_rank_26_50,25,False
+B46-D10,G5,B46,Susta River dispute,苏斯塔河争端,hi,899_p10,Q557,openai,rel_langs,35,openai_rank_26_50,19,False
+B46-D11,G5,B46,Susta River dispute,苏斯塔河争端,en,171166_p46,Q406,openai,rel_langs,15,openai_rank_11_25,15,False
+B46-D12,G5,B46,Susta River dispute,苏斯塔河争端,ne,804_p17,Q406,openai,rel_langs,26,openai_rank_26_50,4,False
+B47-D01,G5,B47,Dragonja River,德拉戈尼亚河,sl,4742_p42,Q647,openai,qlang,23,openai_rank_11_25,23,False
+B47-D02,G5,B47,Dragonja River,德拉戈尼亚河,hr,5976_p4,Q645,openai,qlang,9,openai_rank_4_10,9,False
+B47-D03,G5,B47,Dragonja River,德拉戈尼亚河,sl,534_p25,Q647,openai,rel_langs,49,openai_rank_26_50,20,False
+B47-D04,G5,B47,Dragonja River,德拉戈尼亚河,sl,4742_p38,Q647,m3,rel_langs,14,m3_rank_11_25,9,False
+B47-D05,G5,B47,Dragonja River,德拉戈尼亚河,sl,104298_p4,Q647,openai,qlang,8,openai_rank_4_10,8,False
+B47-D06,G5,B47,Dragonja River,德拉戈尼亚河,hr,7_p16,Q645,m3,rel_langs,14,m3_rank_11_25,7,False
+B47-D07,G5,B47,Dragonja River,德拉戈尼亚河,sl,534_p4,Q647,m3,rel_langs,39,m3_rank_26_50,27,False
+B47-D08,G5,B47,Dragonja River,德拉戈尼亚河,hr,5976_p31,Q645,openai,qlang,33,openai_rank_26_50,33,False
+B47-D09,G5,B47,Dragonja River,德拉戈尼亚河,hr,7_p52,Q645,m3,qlang,9,m3_rank_4_10,9,False
+B47-D10,G5,B47,Dragonja River,德拉戈尼亚河,hr,5976_p22,Q645,m3,rel_langs,47,m3_rank_26_50,23,False
+B47-D11,G5,B47,Dragonja River,德拉戈尼亚河,sl,4742_p1,Q647,m3,qlang,10,m3_rank_4_10,10,False
+B47-D12,G5,B47,Dragonja River,德拉戈尼亚河,hr,5976_p8,Q645,openai,qlang,22,openai_rank_11_25,16,False
+B48-D01,G5,B48,Junagadh and Manavadar,朱纳格特与马纳瓦达尔,ur,608_p33,Q432,openai,qlang,34,openai_rank_26_50,14,False
+B48-D02,G5,B48,Junagadh and Manavadar,朱纳格特与马纳瓦达尔,en,32188194_p4,Q432,m3,rel_langs,5,m3_rank_4_10,5,False
+B48-D03,G5,B48,Junagadh and Manavadar,朱纳格特与马纳瓦达尔,en,14533_p21,Q432,m3,rel_langs,28,m3_rank_26_50,28,False
+B48-D04,G5,B48,Junagadh and Manavadar,朱纳格特与马纳瓦达尔,en,32188194_p9,Q404,openai,rel_langs,6,openai_rank_4_10,4,False
+B48-D05,G5,B48,Junagadh and Manavadar,朱纳格特与马纳瓦达尔,en,32188194_p10,Q404,m3,rel_langs,15,m3_rank_11_25,5,False
+B48-D06,G5,B48,Junagadh and Manavadar,朱纳格特与马纳瓦达尔,en,23235_p75,Q404,m3,rel_langs,29,m3_rank_26_50,4,False
+B48-D07,G5,B48,Junagadh and Manavadar,朱纳格特与马纳瓦达尔,en,23235_p1,Q432,m3,rel_langs,17,m3_rank_11_25,17,False
+B48-D08,G5,B48,Junagadh and Manavadar,朱纳格特与马纳瓦达尔,en,23235_p89,Q404,openai,rel_langs,50,openai_rank_26_50,50,False
+B48-D09,G5,B48,Junagadh and Manavadar,朱纳格特与马纳瓦达尔,ur,608_p75,Q432,openai,qlang,17,openai_rank_11_25,17,False
+B48-D10,G5,B48,Junagadh and Manavadar,朱纳格特与马纳瓦达尔,hi,803701_p3,Q404,m3,qlang,4,m3_rank_4_10,4,False
+B48-D11,G5,B48,Junagadh and Manavadar,朱纳格特与马纳瓦达尔,en,23235_p43,Q404,openai,rel_langs,23,openai_rank_11_25,23,False
+B48-D12,G5,B48,Junagadh and Manavadar,朱纳格特与马纳瓦达尔,ur,608_p27,Q432,openai,qlang,5,openai_rank_4_10,5,False
+B49-D01,G5,B49,Jammu and Kashmir,查谟和克什米尔,ur,671_p17,Q430,openai,rel_langs,11,openai_rank_11_25,6,False
+B49-D02,G5,B49,Jammu and Kashmir,查谟和克什米尔,en,61449812_p2,Q402,openai,rel_langs,10,openai_rank_4_10,10,False
+B49-D03,G5,B49,Jammu and Kashmir,查谟和克什米尔,hi,877_p12,Q402,openai,rel_langs,21,openai_rank_11_25,8,False
+B49-D04,G5,B49,Jammu and Kashmir,查谟和克什米尔,ur,671_p38,Q430,openai,qlang,8,openai_rank_4_10,8,False
+B49-D05,G5,B49,Jammu and Kashmir,查谟和克什米尔,ur,671_p0,Q430,m3,qlang,9,m3_rank_4_10,9,False
+B49-D06,G5,B49,Jammu and Kashmir,查谟和克什米尔,ur,608_p25,Q430,m3,rel_langs,31,m3_rank_26_50,19,False
+B49-D07,G5,B49,Jammu and Kashmir,查谟和克什米尔,ur,608_p57,Q430,openai,qlang,47,openai_rank_26_50,47,False
+B49-D08,G5,B49,Jammu and Kashmir,查谟和克什米尔,en,23235_p57,Q402,m3,rel_langs,30,m3_rank_26_50,7,False
+B49-D09,G5,B49,Jammu and Kashmir,查谟和克什米尔,en,61449812_p3,Q402,m3,rel_langs,7,m3_rank_4_10,7,False
+B49-D10,G5,B49,Jammu and Kashmir,查谟和克什米尔,hi,877_p9,Q402,m3,qlang,11,m3_rank_11_25,11,False
+B49-D11,G5,B49,Jammu and Kashmir,查谟和克什米尔,ur,866322_p7,Q430,m3,rel_langs,13,m3_rank_11_25,5,False
+B49-D12,G5,B49,Jammu and Kashmir,查谟和克什米尔,en,61449812_p46,Q402,openai,rel_langs,44,openai_rank_26_50,17,False
+B50-D01,G5,B50,Sastavci,萨斯塔夫齐,sr,1517_p3,Q649,m3,rel_langs,16,m3_rank_11_25,13,False
+B50-D02,G5,B50,Sastavci,萨斯塔夫齐,en,3463_p0,Q649,m3,rel_langs,7,m3_rank_4_10,7,False
+B50-D03,G5,B50,Sastavci,萨斯塔夫齐,sr,160_p5,Q639,openai,qlang,32,openai_rank_26_50,32,False
+B50-D04,G5,B50,Sastavci,萨斯塔夫齐,sr,160_p70,Q649,openai,rel_langs,17,openai_rank_11_25,7,False
+B50-D05,G5,B50,Sastavci,萨斯塔夫齐,sr,160_p63,Q639,openai,qlang,8,openai_rank_4_10,8,False
+B50-D06,G5,B50,Sastavci,萨斯塔夫齐,en,3463_p75,Q649,openai,rel_langs,6,openai_rank_4_10,4,False
+B50-D07,G5,B50,Sastavci,萨斯塔夫齐,bs,2821_p17,Q649,openai,qlang,26,openai_rank_26_50,5,False
+B50-D08,G5,B50,Sastavci,萨斯塔夫齐,sr,160_p83,Q639,openai,qlang,21,openai_rank_11_25,21,False
+B50-D09,G5,B50,Sastavci,萨斯塔夫齐,sr,160_p92,Q639,m3,qlang,32,m3_rank_26_50,32,False
+B50-D10,G5,B50,Sastavci,萨斯塔夫齐,sr,160_p4,Q639,m3,qlang,24,m3_rank_11_25,11,False
+B50-D11,G5,B50,Sastavci,萨斯塔夫齐,sr,160_p81,Q639,m3,qlang,10,m3_rank_4_10,10,False
+B50-D12,G5,B50,Sastavci,萨斯塔夫齐,bs,2821_p16,Q649,m3,qlang,44,m3_rank_26_50,29,False
+B51-D01,G6,B51,Shatt al-Arab,阿拉伯河,en,7515928_p9,Q272,openai,rel_langs,7,openai_rank_4_10,7,False
+B51-D02,G6,B51,Shatt al-Arab,阿拉伯河,ar,20260_p11,Q272,openai,rel_langs,15,openai_rank_11_25,9,False
+B51-D03,G6,B51,Shatt al-Arab,阿拉伯河,fa,1428_p9,Q272,openai,rel_langs,48,openai_rank_26_50,7,False
+B51-D04,G6,B51,Shatt al-Arab,阿拉伯河,fa,14776_p19,Q381,m3,qlang,10,m3_rank_4_10,10,False
+B51-D05,G6,B51,Shatt al-Arab,阿拉伯河,fa,14776_p25,Q381,m3,rel_langs,31,m3_rank_26_50,14,False
+B51-D06,G6,B51,Shatt al-Arab,阿拉伯河,ar,20260_p2,Q272,m3,rel_langs,14,m3_rank_11_25,14,False
+B51-D07,G6,B51,Shatt al-Arab,阿拉伯河,en,147227_p9,Q381,openai,rel_langs,5,openai_rank_4_10,5,False
+B51-D08,G6,B51,Shatt al-Arab,阿拉伯河,ar,1415_p186,Q272,m3,qlang,39,m3_rank_26_50,39,False
+B51-D09,G6,B51,Shatt al-Arab,阿拉伯河,ar,3672_p9,Q272,m3,rel_langs,7,m3_rank_4_10,7,False
+B51-D10,G6,B51,Shatt al-Arab,阿拉伯河,en,147227_p10,Q381,openai,rel_langs,37,openai_rank_26_50,36,False
+B51-D11,G6,B51,Shatt al-Arab,阿拉伯河,ar,20260_p16,Q381,m3,rel_langs,15,m3_rank_11_25,8,False
+B51-D12,G6,B51,Shatt al-Arab,阿拉伯河,en,147227_p25,Q381,openai,rel_langs,16,openai_rank_11_25,16,False
+B52-D01,G6,B52,Táliga,塔利加,es,6396_p66,Q338,openai,qlang,29,openai_rank_26_50,29,False
+B52-D02,G6,B52,Táliga,塔利加,en,23033_p160,Q374,openai,rel_langs,11,openai_rank_11_25,8,False
+B52-D03,G6,B52,Táliga,塔利加,es,6396_p55,Q374,m3,rel_langs,24,m3_rank_11_25,5,False
+B52-D04,G6,B52,Táliga,塔利加,pt,1480_p0,Q374,openai,qlang,7,openai_rank_4_10,4,False
+B52-D05,G6,B52,Táliga,塔利加,pt,1480_p1,Q374,openai,qlang,45,openai_rank_26_50,21,False
+B52-D06,G6,B52,Táliga,塔利加,pt,785_p92,Q374,m3,rel_langs,43,m3_rank_26_50,15,False
+B52-D07,G6,B52,Táliga,塔利加,es,972_p96,Q338,m3,qlang,25,m3_rank_11_25,23,False
+B52-D08,G6,B52,Táliga,塔利加,es,6396_p54,Q338,m3,qlang,9,m3_rank_4_10,9,False
+B52-D09,G6,B52,Táliga,塔利加,es,6396_p41,Q338,openai,qlang,8,openai_rank_4_10,8,False
+B52-D10,G6,B52,Táliga,塔利加,es,6396_p8,Q338,m3,qlang,47,m3_rank_26_50,20,False
+B52-D11,G6,B52,Táliga,塔利加,en,26667_p87,Q338,openai,rel_langs,21,openai_rank_11_25,20,False
+B52-D12,G6,B52,Táliga,塔利加,pt,1480_p9,Q374,m3,qlang,9,m3_rank_4_10,9,False
+B53-D01,G6,B53,Lunchinda-Pweto Province,伦钦达—普韦托地区,sw,2066_p7,Q350,m3,qlang,10,m3_rank_4_10,10,False
+B53-D02,G6,B53,Lunchinda-Pweto Province,伦钦达—普韦托地区,en,34415_p59,Q11,m3,qlang,40,m3_rank_26_50,40,False
+B53-D03,G6,B53,Lunchinda-Pweto Province,伦钦达—普韦托地区,sw,2066_p1,Q350,openai,qlang,6,openai_rank_4_10,4,False
+B53-D04,G6,B53,Lunchinda-Pweto Province,伦钦达—普韦托地区,en,34415_p71,Q350,m3,rel_langs,38,m3_rank_26_50,32,False
+B53-D05,G6,B53,Lunchinda-Pweto Province,伦钦达—普韦托地区,en,34415_p1,Q11,openai,qlang,15,openai_rank_11_25,15,False
+B53-D06,G6,B53,Lunchinda-Pweto Province,伦钦达—普韦托地区,sw,2173_p27,Q350,openai,qlang,21,openai_rank_11_25,21,False
+B53-D07,G6,B53,Lunchinda-Pweto Province,伦钦达—普韦托地区,sw,2066_p20,Q350,openai,qlang,49,openai_rank_26_50,14,False
+B53-D08,G6,B53,Lunchinda-Pweto Province,伦钦达—普韦托地区,en,441520_p5,Q11,openai,qlang,29,openai_rank_26_50,29,False
+B53-D09,G6,B53,Lunchinda-Pweto Province,伦钦达—普韦托地区,en,34415_p62,Q11,m3,rel_langs,23,m3_rank_11_25,20,False
+B53-D10,G6,B53,Lunchinda-Pweto Province,伦钦达—普韦托地区,en,34415_p56,Q11,openai,qlang,10,openai_rank_4_10,10,False
+B53-D11,G6,B53,Lunchinda-Pweto Province,伦钦达—普韦托地区,sw,2173_p6,Q350,m3,qlang,16,m3_rank_11_25,16,False
+B53-D12,G6,B53,Lunchinda-Pweto Province,伦钦达—普韦托地区,en,34415_p55,Q11,m3,qlang,10,m3_rank_4_10,10,False
+B54-D01,G6,B54,Shebaa Farms,舍巴农场,iw,320304_p33,Q549,openai,qlang,40,openai_rank_26_50,40,False
+B54-D02,G6,B54,Shebaa Farms,舍巴农场,ar,63248_p9,Q279,openai,rel_langs,35,openai_rank_26_50,10,False
+B54-D03,G6,B54,Shebaa Farms,舍巴农场,iw,320304_p15,Q549,m3,rel_langs,29,m3_rank_26_50,16,False
+B54-D04,G6,B54,Shebaa Farms,舍巴农场,iw,135410_p10,Q549,openai,rel_langs,4,openai_rank_4_10,4,False
+B54-D05,G6,B54,Shebaa Farms,舍巴农场,ar,63248_p12,Q279,m3,rel_langs,12,m3_rank_11_25,12,False
+B54-D06,G6,B54,Shebaa Farms,舍巴农场,ar,1309_p13,Q279,openai,qlang,13,openai_rank_11_25,5,False
+B54-D07,G6,B54,Shebaa Farms,舍巴农场,iw,135410_p4,Q549,m3,qlang,9,m3_rank_4_10,9,False
+B54-D08,G6,B54,Shebaa Farms,舍巴农场,ar,63248_p16,Q279,openai,qlang,9,openai_rank_4_10,9,False
+B54-D09,G6,B54,Shebaa Farms,舍巴农场,ar,63248_p13,Q279,m3,rel_langs,7,m3_rank_4_10,7,False
+B54-D10,G6,B54,Shebaa Farms,舍巴农场,ar,1569_p1,Q279,m3,qlang,45,m3_rank_26_50,45,False
+B54-D11,G6,B54,Shebaa Farms,舍巴农场,iw,135410_p7,Q549,openai,qlang,18,openai_rank_11_25,8,False
+B54-D12,G6,B54,Shebaa Farms,舍巴农场,iw,135410_p5,Q549,m3,rel_langs,12,m3_rank_11_25,8,False
+B55-D01,G6,B55,Marouini River,马鲁伊尼河,nl,1315598_p0,Q376,m3,qlang,8,m3_rank_4_10,8,False
+B55-D02,G6,B55,Marouini River,马鲁伊尼河,fr,8703_p55,Q305,openai,qlang,15,openai_rank_11_25,15,False
+B55-D03,G6,B55,Marouini River,马鲁伊尼河,fr,8703_p37,Q376,openai,rel_langs,42,openai_rank_26_50,7,False
+B55-D04,G6,B55,Marouini River,马鲁伊尼河,en,1849310_p3,Q376,openai,rel_langs,10,openai_rank_4_10,10,False
+B55-D05,G6,B55,Marouini River,马鲁伊尼河,fr,8703_p2,Q305,m3,qlang,15,m3_rank_11_25,15,False
+B55-D06,G6,B55,Marouini River,马鲁伊尼河,fr,8703_p34,Q305,m3,qlang,4,m3_rank_4_10,4,False
+B55-D07,G6,B55,Marouini River,马鲁伊尼河,nl,1535547_p21,Q305,m3,rel_langs,49,m3_rank_26_50,12,False
+B55-D08,G6,B55,Marouini River,马鲁伊尼河,fr,8703_p11,Q305,openai,rel_langs,45,openai_rank_26_50,19,False
+B55-D09,G6,B55,Marouini River,马鲁伊尼河,en,5843419_p0,Q376,m3,rel_langs,12,m3_rank_11_25,12,False
+B55-D10,G6,B55,Marouini River,马鲁伊尼河,nl,1535547_p10,Q376,m3,rel_langs,48,m3_rank_26_50,22,False
+B55-D11,G6,B55,Marouini River,马鲁伊尼河,nl,1535547_p66,Q376,openai,qlang,21,openai_rank_11_25,21,False
+B55-D12,G6,B55,Marouini River,马鲁伊尼河,fr,8703_p7,Q305,openai,qlang,8,openai_rank_4_10,8,False
+B56-D01,G6,B56,Bukit Jeli,杰利山,th,1924_p6,Q385,openai,rel_langs,13,openai_rank_11_25,8,False
+B56-D02,G6,B56,Bukit Jeli,杰利山,ms,88419_p3,Q391,openai,qlang,7,openai_rank_4_10,7,False
+B56-D03,G6,B56,Bukit Jeli,杰利山,ms,88419_p1,Q391,openai,qlang,14,openai_rank_11_25,14,False
+B56-D04,G6,B56,Bukit Jeli,杰利山,ms,2114_p42,Q391,openai,qlang,39,openai_rank_26_50,20,False
+B56-D05,G6,B56,Bukit Jeli,杰利山,ms,80375_p1,Q391,m3,qlang,10,m3_rank_4_10,10,False
+B56-D06,G6,B56,Bukit Jeli,杰利山,th,1924_p63,Q385,openai,qlang,9,openai_rank_4_10,9,False
+B56-D07,G6,B56,Bukit Jeli,杰利山,ms,80375_p14,Q391,m3,qlang,24,m3_rank_11_25,24,False
+B56-D08,G6,B56,Bukit Jeli,杰利山,th,1924_p22,Q385,m3,qlang,9,m3_rank_4_10,9,False
+B56-D09,G6,B56,Bukit Jeli,杰利山,th,1924_p35,Q385,openai,qlang,41,openai_rank_26_50,28,False
+B56-D10,G6,B56,Bukit Jeli,杰利山,th,277281_p4,Q385,m3,qlang,16,m3_rank_11_25,16,False
+B56-D11,G6,B56,Bukit Jeli,杰利山,th,936_p66,Q385,m3,qlang,38,m3_rank_26_50,38,False
+B56-D12,G6,B56,Bukit Jeli,杰利山,en,3956827_p10,Q391,m3,rel_langs,40,m3_rank_26_50,26,False
+B57-D01,G6,B57,Europa Island,欧罗巴岛,fr,8645_p0,Q289,openai,qlang,9,openai_rank_4_10,9,False
+B57-D02,G6,B57,Europa Island,欧罗巴岛,mg,619_p4,Q310,openai,rel_langs,19,openai_rank_11_25,9,False
+B57-D03,G6,B57,Europa Island,欧罗巴岛,fr,179234_p0,Q289,openai,rel_langs,26,openai_rank_26_50,18,False
+B57-D04,G6,B57,Europa Island,欧罗巴岛,en,5843419_p62,Q289,m3,rel_langs,24,m3_rank_11_25,13,False
+B57-D05,G6,B57,Europa Island,欧罗巴岛,mg,825_p105,Q310,m3,qlang,4,m3_rank_4_10,4,False
+B57-D06,G6,B57,Europa Island,欧罗巴岛,fr,1095_p11,Q289,m3,rel_langs,6,m3_rank_4_10,5,False
+B57-D07,G6,B57,Europa Island,欧罗巴岛,fr,179234_p57,Q289,m3,qlang,44,m3_rank_26_50,44,False
+B57-D08,G6,B57,Europa Island,欧罗巴岛,en,18964_p1,Q310,m3,rel_langs,42,m3_rank_26_50,22,False
+B57-D09,G6,B57,Europa Island,欧罗巴岛,mg,825_p177,Q310,openai,qlang,34,openai_rank_26_50,34,False
+B57-D10,G6,B57,Europa Island,欧罗巴岛,fr,8645_p1,Q289,openai,qlang,16,openai_rank_11_25,11,False
+B57-D11,G6,B57,Europa Island,欧罗巴岛,mg,825_p41,Q310,m3,qlang,19,m3_rank_11_25,19,False
+B57-D12,G6,B57,Europa Island,欧罗巴岛,mg,825_p13,Q310,openai,qlang,4,openai_rank_4_10,4,False
+B58-D01,G6,B58,Stung Treng Province,上丁省,lo,1471_p0,Q614,m3,rel_langs,15,m3_rank_11_25,4,False
+B58-D02,G6,B58,Stung Treng Province,上丁省,km,1770_p75,Q614,openai,qlang,20,openai_rank_11_25,19,False
+B58-D03,G6,B58,Stung Treng Province,上丁省,en,203867_p1,Q611,m3,rel_langs,9,m3_rank_4_10,9,False
+B58-D04,G6,B58,Stung Treng Province,上丁省,lo,1471_p25,Q611,openai,rel_langs,33,openai_rank_26_50,17,False
+B58-D05,G6,B58,Stung Treng Province,上丁省,km,1770_p22,Q614,m3,qlang,50,m3_rank_26_50,50,False
+B58-D06,G6,B58,Stung Treng Province,上丁省,km,2784_p3,Q614,openai,qlang,7,openai_rank_4_10,7,False
+B58-D07,G6,B58,Stung Treng Province,上丁省,lo,1471_p73,Q611,openai,qlang,4,openai_rank_4_10,4,False
+B58-D08,G6,B58,Stung Treng Province,上丁省,km,1770_p35,Q614,openai,qlang,49,openai_rank_26_50,45,False
+B58-D09,G6,B58,Stung Treng Province,上丁省,lo,4094_p3,Q611,m3,rel_langs,15,m3_rank_11_25,5,False
+B58-D10,G6,B58,Stung Treng Province,上丁省,km,1770_p82,Q614,m3,qlang,5,m3_rank_4_10,5,False
+B58-D11,G6,B58,Stung Treng Province,上丁省,km,4531_p3,Q611,m3,rel_langs,47,m3_rank_26_50,35,False
+B58-D12,G6,B58,Stung Treng Province,上丁省,lo,1471_p57,Q611,openai,rel_langs,21,openai_rank_11_25,14,False
+B59-D01,G6,B59,Khao Phra Wihan,帕威汉山,km,1770_p2,Q616,m3,qlang,13,m3_rank_11_25,13,False
+B59-D02,G6,B59,Khao Phra Wihan,帕威汉山,th,1937_p84,Q389,m3,rel_langs,20,m3_rank_11_25,20,False
+B59-D03,G6,B59,Khao Phra Wihan,帕威汉山,km,1770_p13,Q616,m3,qlang,49,m3_rank_26_50,7,False
+B59-D04,G6,B59,Khao Phra Wihan,帕威汉山,th,1937_p70,Q389,m3,qlang,6,m3_rank_4_10,6,False
+B59-D05,G6,B59,Khao Phra Wihan,帕威汉山,km,5402_p58,Q616,m3,qlang,9,m3_rank_4_10,5,False
+B59-D06,G6,B59,Khao Phra Wihan,帕威汉山,th,1937_p63,Q389,openai,rel_langs,25,openai_rank_11_25,4,False
+B59-D07,G6,B59,Khao Phra Wihan,帕威汉山,th,1937_p11,Q389,openai,rel_langs,27,openai_rank_26_50,16,False
+B59-D08,G6,B59,Khao Phra Wihan,帕威汉山,km,1770_p89,Q616,openai,rel_langs,24,openai_rank_11_25,21,False
+B59-D09,G6,B59,Khao Phra Wihan,帕威汉山,th,1937_p94,Q389,m3,qlang,50,m3_rank_26_50,50,False
+B59-D10,G6,B59,Khao Phra Wihan,帕威汉山,en,334751_p52,Q616,openai,rel_langs,49,openai_rank_26_50,49,False
+B59-D11,G6,B59,Khao Phra Wihan,帕威汉山,th,1937_p104,Q389,openai,qlang,5,openai_rank_4_10,5,False
+B59-D12,G6,B59,Khao Phra Wihan,帕威汉山,en,334751_p54,Q616,openai,rel_langs,6,openai_rank_4_10,6,False
+B60-D01,G6,B60,Dadivank,达迪万克修道院,hy,800_p80,Q527,m3,rel_langs,9,m3_rank_4_10,6,False
+B60-D02,G6,B60,Dadivank,达迪万克修道院,hy,800_p82,Q572,openai,qlang,43,openai_rank_26_50,19,False
+B60-D03,G6,B60,Dadivank,达迪万克修道院,az,615_p10,Q527,openai,rel_langs,17,openai_rank_11_25,6,False
+B60-D04,G6,B60,Dadivank,达迪万克修道院,en,13450113_p12,Q527,openai,rel_langs,4,openai_rank_4_10,4,False
+B60-D05,G6,B60,Dadivank,达迪万克修道院,az,64847_p9,Q527,m3,qlang,42,m3_rank_26_50,7,False
+B60-D06,G6,B60,Dadivank,达迪万克修道院,hy,800_p259,Q572,m3,qlang,39,m3_rank_26_50,39,False
+B60-D07,G6,B60,Dadivank,达迪万克修道院,hy,12855_p28,Q572,m3,rel_langs,12,m3_rank_11_25,9,False
+B60-D08,G6,B60,Dadivank,达迪万克修道院,az,615_p17,Q527,openai,rel_langs,28,openai_rank_26_50,14,False
+B60-D09,G6,B60,Dadivank,达迪万克修道院,az,615_p13,Q527,m3,qlang,22,m3_rank_11_25,22,False
+B60-D10,G6,B60,Dadivank,达迪万克修道院,hy,800_p354,Q572,openai,qlang,4,openai_rank_4_10,4,False
+B60-D11,G6,B60,Dadivank,达迪万克修道院,hy,800_p17,Q572,openai,qlang,19,openai_rank_11_25,19,False
+B60-D12,G6,B60,Dadivank,达迪万克修道院,hy,800_p81,Q572,m3,qlang,8,m3_rank_4_10,8,False
+B61-D01,G7,B61,Bassas da India,巴萨斯达印度环礁,fr,8645_p64,Q288,m3,qlang,20,m3_rank_11_25,20,False
+B61-D02,G7,B61,Bassas da India,巴萨斯达印度环礁,mg,825_p115,Q309,m3,qlang,22,m3_rank_11_25,8,False
+B61-D03,G7,B61,Bassas da India,巴萨斯达印度环礁,fr,1095_p0,Q288,m3,qlang,10,m3_rank_4_10,10,False
+B61-D04,G7,B61,Bassas da India,巴萨斯达印度环礁,mg,825_p5,Q309,m3,qlang,10,m3_rank_4_10,10,False
+B61-D05,G7,B61,Bassas da India,巴萨斯达印度环礁,fr,373929_p13,Q288,openai,rel_langs,10,openai_rank_4_10,6,False
+B61-D06,G7,B61,Bassas da India,巴萨斯达印度环礁,mg,619_p7,Q309,openai,qlang,4,openai_rank_4_10,4,False
+B61-D07,G7,B61,Bassas da India,巴萨斯达印度环礁,mg,825_p23,Q309,m3,qlang,27,m3_rank_26_50,27,False
+B61-D08,G7,B61,Bassas da India,巴萨斯达印度环礁,fr,8645_p8,Q288,openai,rel_langs,30,openai_rank_26_50,12,False
+B61-D09,G7,B61,Bassas da India,巴萨斯达印度环礁,fr,373929_p17,Q288,openai,rel_langs,17,openai_rank_11_25,10,False
+B61-D10,G7,B61,Bassas da India,巴萨斯达印度环礁,fr,8645_p214,Q288,m3,qlang,38,m3_rank_26_50,38,False
+B61-D11,G7,B61,Bassas da India,巴萨斯达印度环礁,mg,619_p17,Q309,openai,qlang,14,openai_rank_11_25,14,False
+B61-D12,G7,B61,Bassas da India,巴萨斯达印度环礁,mg,825_p20,Q309,openai,rel_langs,29,openai_rank_26_50,7,False
+B62-D01,G7,B62,Isla Suárez/Ilha de Guajará-mirim,苏亚雷斯岛／瓜雅拉米林岛,es,410_p16,Q333,openai,rel_langs,37,openai_rank_26_50,20,False
+B62-D02,G7,B62,Isla Suárez/Ilha de Guajará-mirim,苏亚雷斯岛／瓜雅拉米林岛,es,110229_p100,Q333,openai,qlang,17,openai_rank_11_25,17,False
+B62-D03,G7,B62,Isla Suárez/Ilha de Guajará-mirim,苏亚雷斯岛／瓜雅拉米林岛,en,12802694_p5,Q333,openai,rel_langs,10,openai_rank_4_10,7,False
+B62-D04,G7,B62,Isla Suárez/Ilha de Guajará-mirim,苏亚雷斯岛／瓜雅拉米林岛,pt,4770_p2,Q371,openai,qlang,22,openai_rank_11_25,14,False
+B62-D05,G7,B62,Isla Suárez/Ilha de Guajará-mirim,苏亚雷斯岛／瓜雅拉米林岛,en,3462_p54,Q333,m3,rel_langs,35,m3_rank_26_50,22,False
+B62-D06,G7,B62,Isla Suárez/Ilha de Guajará-mirim,苏亚雷斯岛／瓜雅拉米林岛,pt,404_p61,Q371,m3,qlang,40,m3_rank_26_50,40,False
+B62-D07,G7,B62,Isla Suárez/Ilha de Guajará-mirim,苏亚雷斯岛／瓜雅拉米林岛,es,110229_p44,Q371,openai,rel_langs,42,openai_rank_26_50,16,False
+B62-D08,G7,B62,Isla Suárez/Ilha de Guajará-mirim,苏亚雷斯岛／瓜雅拉米林岛,pt,4770_p30,Q371,m3,qlang,10,m3_rank_4_10,10,False
+B62-D09,G7,B62,Isla Suárez/Ilha de Guajará-mirim,苏亚雷斯岛／瓜雅拉米林岛,es,110229_p1,Q333,m3,qlang,7,m3_rank_4_10,7,False
+B62-D10,G7,B62,Isla Suárez/Ilha de Guajará-mirim,苏亚雷斯岛／瓜雅拉米林岛,pt,4770_p16,Q371,openai,qlang,9,openai_rank_4_10,8,False
+B62-D11,G7,B62,Isla Suárez/Ilha de Guajará-mirim,苏亚雷斯岛／瓜雅拉米林岛,en,3462_p23,Q333,m3,rel_langs,25,m3_rank_11_25,23,False
+B62-D12,G7,B62,Isla Suárez/Ilha de Guajará-mirim,苏亚雷斯岛／瓜雅拉米林岛,pt,4770_p33,Q371,m3,qlang,24,m3_rank_11_25,24,False
+B63-D01,G7,B63,Preah Vihear Temple,柏威夏寺,km,5402_p52,Q615,m3,rel_langs,42,m3_rank_26_50,36,False
+B63-D02,G7,B63,Preah Vihear Temple,柏威夏寺,th,34197_p10,Q388,openai,rel_langs,18,openai_rank_11_25,13,False
+B63-D03,G7,B63,Preah Vihear Temple,柏威夏寺,th,1937_p61,Q388,openai,qlang,45,openai_rank_26_50,45,False
+B63-D04,G7,B63,Preah Vihear Temple,柏威夏寺,en,2367753_p0,Q388,m3,rel_langs,49,m3_rank_26_50,7,False
+B63-D05,G7,B63,Preah Vihear Temple,柏威夏寺,km,5402_p13,Q615,openai,rel_langs,38,openai_rank_26_50,38,False
+B63-D06,G7,B63,Preah Vihear Temple,柏威夏寺,km,5454_p12,Q615,openai,qlang,10,openai_rank_4_10,10,False
+B63-D07,G7,B63,Preah Vihear Temple,柏威夏寺,km,5454_p9,Q615,m3,qlang,22,m3_rank_11_25,22,False
+B63-D08,G7,B63,Preah Vihear Temple,柏威夏寺,th,1937_p0,Q388,m3,rel_langs,10,m3_rank_4_10,10,False
+B63-D09,G7,B63,Preah Vihear Temple,柏威夏寺,th,34197_p36,Q388,m3,qlang,21,m3_rank_11_25,21,False
+B63-D10,G7,B63,Preah Vihear Temple,柏威夏寺,th,34197_p1,Q388,openai,rel_langs,4,openai_rank_4_10,4,False
+B63-D11,G7,B63,Preah Vihear Temple,柏威夏寺,km,1770_p55,Q615,openai,rel_langs,19,openai_rank_11_25,17,False
+B63-D12,G7,B63,Preah Vihear Temple,柏威夏寺,km,5454_p32,Q615,m3,rel_langs,8,m3_rank_4_10,8,False
+B64-D01,G7,B64,Golan Heights,戈兰高地,en,7515865_p103,Q277,m3,rel_langs,12,m3_rank_11_25,12,False
+B64-D02,G7,B64,Golan Heights,戈兰高地,ar,3410_p12,Q277,m3,qlang,6,m3_rank_4_10,6,False
+B64-D03,G7,B64,Golan Heights,戈兰高地,en,7515865_p0,Q277,openai,rel_langs,13,openai_rank_11_25,9,False
+B64-D04,G7,B64,Golan Heights,戈兰高地,iw,11803_p1,Q548,m3,qlang,7,m3_rank_4_10,5,False
+B64-D05,G7,B64,Golan Heights,戈兰高地,en,7515865_p107,Q548,openai,rel_langs,23,openai_rank_11_25,23,False
+B64-D06,G7,B64,Golan Heights,戈兰高地,iw,11803_p38,Q548,m3,qlang,25,m3_rank_11_25,9,False
+B64-D07,G7,B64,Golan Heights,戈兰高地,ar,3410_p48,Q277,openai,qlang,9,openai_rank_4_10,9,False
+B64-D08,G7,B64,Golan Heights,戈兰高地,en,7515865_p88,Q277,m3,rel_langs,47,m3_rank_26_50,47,False
+B64-D09,G7,B64,Golan Heights,戈兰高地,iw,11803_p3,Q548,openai,rel_langs,7,openai_rank_4_10,7,False
+B64-D10,G7,B64,Golan Heights,戈兰高地,iw,11803_p71,Q548,openai,qlang,26,openai_rank_26_50,23,False
+B64-D11,G7,B64,Golan Heights,戈兰高地,iw,11803_p22,Q548,m3,qlang,38,m3_rank_26_50,38,False
+B64-D12,G7,B64,Golan Heights,戈兰高地,ar,1569_p89,Q277,openai,qlang,43,openai_rank_26_50,43,False
+B65-D01,G7,B65,Azad Kashmir,自由克什米尔,ur,671_p10,Q428,m3,qlang,8,m3_rank_4_10,8,False
+B65-D02,G7,B65,Azad Kashmir,自由克什米尔,hi,877_p34,Q400,openai,qlang,19,openai_rank_11_25,19,False
+B65-D03,G7,B65,Azad Kashmir,自由克什米尔,ur,608_p23,Q428,m3,rel_langs,37,m3_rank_26_50,25,False
+B65-D04,G7,B65,Azad Kashmir,自由克什米尔,ur,671_p39,Q428,openai,qlang,12,openai_rank_11_25,12,False
+B65-D05,G7,B65,Azad Kashmir,自由克什米尔,hi,59_p49,Q400,m3,qlang,48,m3_rank_26_50,47,False
+B65-D06,G7,B65,Azad Kashmir,自由克什米尔,en,2745_p19,Q400,m3,rel_langs,20,m3_rank_11_25,12,False
+B65-D07,G7,B65,Azad Kashmir,自由克什米尔,hi,59_p84,Q400,openai,qlang,10,openai_rank_4_10,10,False
+B65-D08,G7,B65,Azad Kashmir,自由克什米尔,ur,608_p71,Q428,openai,qlang,48,openai_rank_26_50,48,False
+B65-D09,G7,B65,Azad Kashmir,自由克什米尔,hi,189156_p4,Q400,m3,rel_langs,6,m3_rank_4_10,5,False
+B65-D10,G7,B65,Azad Kashmir,自由克什米尔,ur,671_p3,Q428,openai,qlang,9,openai_rank_4_10,9,False
+B65-D11,G7,B65,Azad Kashmir,自由克什米尔,hi,189156_p12,Q400,openai,qlang,26,openai_rank_26_50,26,False
+B65-D12,G7,B65,Azad Kashmir,自由克什米尔,ur,608_p0,Q428,m3,rel_langs,14,m3_rank_11_25,10,False
+B66-D01,G7,B66,Doumeira Mountain,杜梅拉山,en,17238590_p68,Q343,openai,rel_langs,15,openai_rank_11_25,15,False
+B66-D02,G7,B66,Doumeira Mountain,杜梅拉山,en,17238590_p45,Q339,m3,rel_langs,9,m3_rank_4_10,9,False
+B66-D03,G7,B66,Doumeira Mountain,杜梅拉山,en,17207794_p25,Q339,openai,rel_langs,32,openai_rank_26_50,32,False
+B66-D04,G7,B66,Doumeira Mountain,杜梅拉山,en,17207794_p121,Q343,m3,rel_langs,30,m3_rank_26_50,30,False
+B66-D05,G7,B66,Doumeira Mountain,杜梅拉山,en,17238590_p115,Q339,m3,rel_langs,20,m3_rank_11_25,20,False
+B66-D06,G7,B66,Doumeira Mountain,杜梅拉山,en,17207794_p4,Q343,m3,rel_langs,9,m3_rank_4_10,9,False
+B66-D07,G7,B66,Doumeira Mountain,杜梅拉山,en,17207794_p61,Q339,openai,rel_langs,25,openai_rank_11_25,15,False
+B66-D08,G7,B66,Doumeira Mountain,杜梅拉山,en,17238590_p66,Q343,openai,rel_langs,10,openai_rank_4_10,10,False
+B66-D09,G7,B66,Doumeira Mountain,杜梅拉山,so,2107_p2,Q339,openai,qlang,8,openai_rank_4_10,8,False
+B66-D10,G7,B66,Doumeira Mountain,杜梅拉山,en,17207794_p2,Q343,m3,rel_langs,19,m3_rank_11_25,19,False
+B66-D11,G7,B66,Doumeira Mountain,杜梅拉山,en,17238590_p5,Q339,m3,rel_langs,35,m3_rank_26_50,35,False
+B66-D12,G7,B66,Doumeira Mountain,杜梅拉山,en,17238590_p130,Q343,openai,rel_langs,38,openai_rank_26_50,38,False
+B67-D01,G7,B67,Qazakh Rayon,加扎赫区,az,2552_p82,Q525,openai,qlang,7,openai_rank_4_10,7,False
+B67-D02,G7,B67,Qazakh Rayon,加扎赫区,az,615_p0,Q570,m3,rel_langs,8,m3_rank_4_10,8,False
+B67-D03,G7,B67,Qazakh Rayon,加扎赫区,hy,800_p78,Q570,openai,qlang,42,openai_rank_26_50,42,False
+B67-D04,G7,B67,Qazakh Rayon,加扎赫区,hy,800_p133,Q570,openai,rel_langs,13,openai_rank_11_25,13,False
+B67-D05,G7,B67,Qazakh Rayon,加扎赫区,hy,1396_p35,Q570,openai,rel_langs,8,openai_rank_4_10,8,False
+B67-D06,G7,B67,Qazakh Rayon,加扎赫区,az,1088_p24,Q525,m3,rel_langs,23,m3_rank_11_25,17,False
+B67-D07,G7,B67,Qazakh Rayon,加扎赫区,hy,800_p54,Q570,m3,qlang,29,m3_rank_26_50,29,False
+B67-D08,G7,B67,Qazakh Rayon,加扎赫区,az,2552_p14,Q525,m3,rel_langs,4,m3_rank_4_10,4,False
+B67-D09,G7,B67,Qazakh Rayon,加扎赫区,az,1088_p57,Q525,m3,qlang,39,m3_rank_26_50,39,False
+B67-D10,G7,B67,Qazakh Rayon,加扎赫区,hy,800_p61,Q570,m3,qlang,24,m3_rank_11_25,24,False
+B67-D11,G7,B67,Qazakh Rayon,加扎赫区,az,1088_p20,Q525,openai,qlang,21,openai_rank_11_25,21,False
+B67-D12,G7,B67,Qazakh Rayon,加扎赫区,az,2552_p12,Q525,openai,rel_langs,36,openai_rank_26_50,27,False
+B68-D01,G7,B68,East Jerusalem,东耶路撒冷,en,9282173_p0,Q282,m3,rel_langs,27,m3_rank_26_50,9,False
+B68-D02,G7,B68,East Jerusalem,东耶路撒冷,ar,47022_p42,Q282,openai,qlang,39,openai_rank_26_50,39,False
+B68-D03,G7,B68,East Jerusalem,东耶路撒冷,iw,320304_p0,Q552,m3,rel_langs,15,m3_rank_11_25,12,False
+B68-D04,G7,B68,East Jerusalem,东耶路撒冷,ar,47022_p3,Q282,m3,rel_langs,19,m3_rank_11_25,17,False
+B68-D05,G7,B68,East Jerusalem,东耶路撒冷,en,241405_p0,Q552,m3,rel_langs,6,m3_rank_4_10,6,False
+B68-D06,G7,B68,East Jerusalem,东耶路撒冷,iw,641143_p18,Q552,openai,qlang,7,openai_rank_4_10,7,False
+B68-D07,G7,B68,East Jerusalem,东耶路撒冷,iw,122078_p8,Q552,openai,qlang,25,openai_rank_11_25,25,False
+B68-D08,G7,B68,East Jerusalem,东耶路撒冷,en,241405_p4,Q552,m3,rel_langs,30,m3_rank_26_50,30,False
+B68-D09,G7,B68,East Jerusalem,东耶路撒冷,ar,1569_p56,Q282,openai,qlang,21,openai_rank_11_25,21,False
+B68-D10,G7,B68,East Jerusalem,东耶路撒冷,ar,47022_p24,Q282,m3,qlang,7,m3_rank_4_10,7,False
+B68-D11,G7,B68,East Jerusalem,东耶路撒冷,ar,5232674_p2,Q282,openai,qlang,9,openai_rank_4_10,8,False
+B68-D12,G7,B68,East Jerusalem,东耶路撒冷,iw,641143_p34,Q552,openai,qlang,34,openai_rank_26_50,34,False
+B69-D01,G7,B69,Sakhalin,萨哈林岛,ja,109_p26,Q583,openai,qlang,25,openai_rank_11_25,25,False
+B69-D02,G7,B69,Sakhalin,萨哈林岛,ru,25346_p47,Q588,m3,rel_langs,32,m3_rank_26_50,11,False
+B69-D03,G7,B69,Sakhalin,萨哈林岛,ja,805805_p23,Q583,openai,rel_langs,37,openai_rank_26_50,23,False
+B69-D04,G7,B69,Sakhalin,萨哈林岛,ja,805805_p61,Q583,m3,rel_langs,24,m3_rank_11_25,6,False
+B69-D05,G7,B69,Sakhalin,萨哈林岛,ja,109_p32,Q583,m3,rel_langs,7,m3_rank_4_10,4,False
+B69-D06,G7,B69,Sakhalin,萨哈林岛,en,58088_p26,Q588,openai,rel_langs,10,openai_rank_4_10,10,False
+B69-D07,G7,B69,Sakhalin,萨哈林岛,en,58088_p38,Q588,m3,rel_langs,20,m3_rank_11_25,5,False
+B69-D08,G7,B69,Sakhalin,萨哈林岛,ja,805805_p77,Q583,m3,rel_langs,26,m3_rank_26_50,14,False
+B69-D09,G7,B69,Sakhalin,萨哈林岛,ja,805805_p70,Q583,openai,qlang,9,openai_rank_4_10,9,False
+B69-D10,G7,B69,Sakhalin,萨哈林岛,en,58088_p32,Q588,openai,rel_langs,21,openai_rank_11_25,21,False
+B69-D11,G7,B69,Sakhalin,萨哈林岛,ru,9_p25,Q588,openai,qlang,39,openai_rank_26_50,39,False
+B69-D12,G7,B69,Sakhalin,萨哈林岛,ru,25346_p48,Q588,m3,qlang,6,m3_rank_4_10,6,False
+B70-D01,G7,B70,Greater and Lesser Tunbs,大通布岛与小通布岛,en,931816_p16,Q274,openai,rel_langs,13,openai_rank_11_25,13,False
+B70-D02,G7,B70,Greater and Lesser Tunbs,大通布岛与小通布岛,fa,163930_p66,Q383,openai,rel_langs,35,openai_rank_26_50,15,False
+B70-D03,G7,B70,Greater and Lesser Tunbs,大通布岛与小通布岛,ar,739601_p0,Q274,m3,qlang,4,m3_rank_4_10,4,False
+B70-D04,G7,B70,Greater and Lesser Tunbs,大通布岛与小通布岛,en,14653_p16,Q274,openai,rel_langs,9,openai_rank_4_10,7,False
+B70-D05,G7,B70,Greater and Lesser Tunbs,大通布岛与小通布岛,fa,6233_p35,Q383,m3,rel_langs,5,m3_rank_4_10,5,False
+B70-D06,G7,B70,Greater and Lesser Tunbs,大通布岛与小通布岛,ar,739601_p16,Q274,openai,rel_langs,42,openai_rank_26_50,7,False
+B70-D07,G7,B70,Greater and Lesser Tunbs,大通布岛与小通布岛,fa,6233_p66,Q383,openai,qlang,24,openai_rank_11_25,18,False
+B70-D08,G7,B70,Greater and Lesser Tunbs,大通布岛与小通布岛,ar,739601_p98,Q274,m3,qlang,34,m3_rank_26_50,34,False
+B70-D09,G7,B70,Greater and Lesser Tunbs,大通布岛与小通布岛,fa,6233_p26,Q383,openai,rel_langs,10,openai_rank_4_10,4,False
+B70-D10,G7,B70,Greater and Lesser Tunbs,大通布岛与小通布岛,ar,739601_p42,Q274,m3,rel_langs,11,m3_rank_11_25,9,False
+B70-D11,G7,B70,Greater and Lesser Tunbs,大通布岛与小通布岛,fa,6233_p24,Q383,m3,qlang,44,m3_rank_26_50,44,False
+B70-D12,G7,B70,Greater and Lesser Tunbs,大通布岛与小通布岛,fa,6233_p45,Q383,m3,qlang,13,m3_rank_11_25,13,False
+B71-D01,G8,B71,Lake Nyasa,尼亚萨湖,sw,2391_p7,Q354,m3,qlang,24,m3_rank_11_25,24,False
+B71-D02,G8,B71,Lake Nyasa,尼亚萨湖,en,19088_p55,Q15,m3,qlang,22,m3_rank_11_25,22,False
+B71-D03,G8,B71,Lake Nyasa,尼亚萨湖,en,30118_p42,Q354,m3,rel_langs,48,m3_rank_26_50,31,False
+B71-D04,G8,B71,Lake Nyasa,尼亚萨湖,sw,2347_p0,Q354,openai,rel_langs,8,openai_rank_4_10,8,False
+B71-D05,G8,B71,Lake Nyasa,尼亚萨湖,en,19088_p4,Q15,openai,qlang,7,openai_rank_4_10,7,False
+B71-D06,G8,B71,Lake Nyasa,尼亚萨湖,en,30118_p43,Q15,m3,qlang,38,m3_rank_26_50,38,False
+B71-D07,G8,B71,Lake Nyasa,尼亚萨湖,sw,2347_p38,Q354,openai,qlang,25,openai_rank_11_25,17,False
+B71-D08,G8,B71,Lake Nyasa,尼亚萨湖,en,30118_p25,Q15,openai,qlang,25,openai_rank_11_25,25,False
+B71-D09,G8,B71,Lake Nyasa,尼亚萨湖,sw,1191_p7,Q354,openai,qlang,40,openai_rank_26_50,40,False
+B71-D10,G8,B71,Lake Nyasa,尼亚萨湖,en,19088_p34,Q15,openai,rel_langs,47,openai_rank_26_50,18,False
+B71-D11,G8,B71,Lake Nyasa,尼亚萨湖,sw,2391_p10,Q354,m3,qlang,9,m3_rank_4_10,4,False
+B71-D12,G8,B71,Lake Nyasa,尼亚萨湖,en,19088_p1,Q15,m3,qlang,10,m3_rank_4_10,4,False
+B72-D01,G8,B72,North Borneo,北婆罗洲,tl,648_p11,Q618,openai,qlang,16,openai_rank_11_25,12,False
+B72-D02,G8,B72,North Borneo,北婆罗洲,ms,48515_p10,Q397,m3,rel_langs,42,m3_rank_26_50,9,False
+B72-D03,G8,B72,North Borneo,北婆罗洲,en,3607937_p42,Q618,m3,rel_langs,17,m3_rank_11_25,17,False
+B72-D04,G8,B72,North Borneo,北婆罗洲,ms,2098_p6,Q397,m3,qlang,7,m3_rank_4_10,7,False
+B72-D05,G8,B72,North Borneo,北婆罗洲,tl,582_p53,Q618,m3,qlang,48,m3_rank_26_50,12,False
+B72-D06,G8,B72,North Borneo,北婆罗洲,tl,582_p47,Q618,openai,qlang,27,openai_rank_26_50,27,False
+B72-D07,G8,B72,North Borneo,北婆罗洲,tl,648_p3,Q618,m3,qlang,8,m3_rank_4_10,7,False
+B72-D08,G8,B72,North Borneo,北婆罗洲,ms,2098_p21,Q397,openai,qlang,31,openai_rank_26_50,31,False
+B72-D09,G8,B72,North Borneo,北婆罗洲,ms,48515_p1,Q397,openai,qlang,4,openai_rank_4_10,4,False
+B72-D10,G8,B72,North Borneo,北婆罗洲,ms,80375_p43,Q397,m3,qlang,25,m3_rank_11_25,25,False
+B72-D11,G8,B72,North Borneo,北婆罗洲,tl,582_p46,Q618,openai,qlang,8,openai_rank_4_10,6,False
+B72-D12,G8,B72,North Borneo,北婆罗洲,en,3607937_p7,Q397,openai,rel_langs,19,openai_rank_11_25,14,False
+B73-D01,G8,B73,Mekong river,湄公河,th,1942_p1,Q387,openai,qlang,46,openai_rank_26_50,45,False
+B73-D02,G8,B73,Mekong river,湄公河,th,1942_p44,Q387,m3,qlang,22,m3_rank_11_25,22,False
+B73-D03,G8,B73,Mekong river,湄公河,lo,4692_p4,Q609,m3,qlang,4,m3_rank_4_10,4,False
+B73-D04,G8,B73,Mekong river,湄公河,en,17752_p0,Q609,m3,rel_langs,24,m3_rank_11_25,24,False
+B73-D05,G8,B73,Mekong river,湄公河,th,13797_p3,Q387,openai,qlang,10,openai_rank_4_10,10,False
+B73-D06,G8,B73,Mekong river,湄公河,lo,1471_p2,Q609,m3,qlang,29,m3_rank_26_50,29,False
+B73-D07,G8,B73,Mekong river,湄公河,lo,1471_p59,Q609,openai,qlang,7,openai_rank_4_10,5,False
+B73-D08,G8,B73,Mekong river,湄公河,th,1942_p6,Q387,m3,qlang,43,m3_rank_26_50,17,False
+B73-D09,G8,B73,Mekong river,湄公河,lo,1471_p55,Q609,openai,rel_langs,31,openai_rank_26_50,30,False
+B73-D10,G8,B73,Mekong river,湄公河,th,13797_p1,Q387,openai,qlang,18,openai_rank_11_25,4,False
+B73-D11,G8,B73,Mekong river,湄公河,th,13797_p8,Q387,m3,qlang,5,m3_rank_4_10,5,False
+B73-D12,G8,B73,Mekong river,湄公河,lo,3171_p5,Q609,openai,rel_langs,13,openai_rank_11_25,13,False
+B74-D01,G8,B74,Mbañie Island,姆巴涅岛,es,10407_p84,Q316,openai,qlang,12,openai_rank_11_25,12,False
+B74-D02,G8,B74,Mbañie Island,姆巴涅岛,fr,3129358_p56,Q297,openai,qlang,18,openai_rank_11_25,18,False
+B74-D03,G8,B74,Mbañie Island,姆巴涅岛,fr,1323_p49,Q297,m3,qlang,18,m3_rank_11_25,18,False
+B74-D04,G8,B74,Mbañie Island,姆巴涅岛,es,10643_p126,Q297,openai,rel_langs,49,openai_rank_26_50,13,False
+B74-D05,G8,B74,Mbañie Island,姆巴涅岛,es,10643_p117,Q316,openai,qlang,48,openai_rank_26_50,48,False
+B74-D06,G8,B74,Mbañie Island,姆巴涅岛,es,10643_p1,Q316,openai,qlang,4,openai_rank_4_10,4,False
+B74-D07,G8,B74,Mbañie Island,姆巴涅岛,es,10643_p123,Q316,m3,qlang,4,m3_rank_4_10,4,False
+B74-D08,G8,B74,Mbañie Island,姆巴涅岛,en,9366_p1,Q297,m3,rel_langs,10,m3_rank_4_10,4,False
+B74-D09,G8,B74,Mbañie Island,姆巴涅岛,fr,3129358_p16,Q297,openai,qlang,7,openai_rank_4_10,7,False
+B74-D10,G8,B74,Mbañie Island,姆巴涅岛,fr,1323_p7,Q297,m3,qlang,43,m3_rank_26_50,34,False
+B74-D11,G8,B74,Mbañie Island,姆巴涅岛,es,10407_p32,Q316,m3,rel_langs,16,m3_rank_11_25,9,False
+B74-D12,G8,B74,Mbañie Island,姆巴涅岛,es,10643_p5,Q316,m3,rel_langs,28,m3_rank_26_50,8,False
+B75-D01,G8,B75,Isfara Valley,伊斯法拉河谷,ky,1788_p3,Q535,openai,qlang,8,openai_rank_4_10,4,False
+B75-D02,G8,B75,Isfara Valley,伊斯法拉河谷,en,30108_p4,Q543,m3,rel_langs,48,m3_rank_26_50,48,False
+B75-D03,G8,B75,Isfara Valley,伊斯法拉河谷,en,30108_p108,Q535,openai,rel_langs,38,openai_rank_26_50,38,False
+B75-D04,G8,B75,Isfara Valley,伊斯法拉河谷,tg,1863_p14,Q535,m3,rel_langs,16,m3_rank_11_25,11,False
+B75-D05,G8,B75,Isfara Valley,伊斯法拉河谷,ky,1031_p74,Q535,m3,qlang,9,m3_rank_4_10,9,False
+B75-D06,G8,B75,Isfara Valley,伊斯法拉河谷,tg,1996_p1,Q543,openai,rel_langs,41,openai_rank_26_50,26,False
+B75-D07,G8,B75,Isfara Valley,伊斯法拉河谷,tg,1030_p1,Q543,openai,qlang,16,openai_rank_11_25,9,False
+B75-D08,G8,B75,Isfara Valley,伊斯法拉河谷,tg,1863_p15,Q543,m3,qlang,24,m3_rank_11_25,24,False
+B75-D09,G8,B75,Isfara Valley,伊斯法拉河谷,tg,1030_p126,Q543,openai,qlang,4,openai_rank_4_10,4,False
+B75-D10,G8,B75,Isfara Valley,伊斯法拉河谷,ky,1031_p8,Q535,m3,qlang,35,m3_rank_26_50,35,False
+B75-D11,G8,B75,Isfara Valley,伊斯法拉河谷,ky,1031_p2,Q535,openai,qlang,18,openai_rank_11_25,18,False
+B75-D12,G8,B75,Isfara Valley,伊斯法拉河谷,tg,1030_p16,Q543,m3,qlang,9,m3_rank_4_10,9,False
+B76-D01,G8,B76,Vila Albornoz,阿尔沃诺斯村,pt,404_p1,Q369,m3,qlang,6,m3_rank_4_10,6,False
+B76-D02,G8,B76,Vila Albornoz,阿尔沃诺斯村,es,410_p74,Q329,openai,qlang,46,openai_rank_26_50,46,False
+B76-D03,G8,B76,Vila Albornoz,阿尔沃诺斯村,pt,1873_p19,Q369,openai,rel_langs,29,openai_rank_26_50,18,False
+B76-D04,G8,B76,Vila Albornoz,阿尔沃诺斯村,es,6216_p245,Q329,openai,rel_langs,16,openai_rank_11_25,8,False
+B76-D05,G8,B76,Vila Albornoz,阿尔沃诺斯村,es,410_p8,Q329,m3,qlang,34,m3_rank_26_50,34,False
+B76-D06,G8,B76,Vila Albornoz,阿尔沃诺斯村,en,31843_p58,Q369,openai,rel_langs,22,openai_rank_11_25,18,False
+B76-D07,G8,B76,Vila Albornoz,阿尔沃诺斯村,es,6216_p0,Q329,m3,qlang,4,m3_rank_4_10,4,False
+B76-D08,G8,B76,Vila Albornoz,阿尔沃诺斯村,en,31843_p60,Q369,m3,rel_langs,12,m3_rank_11_25,4,False
+B76-D09,G8,B76,Vila Albornoz,阿尔沃诺斯村,en,70065164_p1,Q369,openai,rel_langs,6,openai_rank_4_10,5,False
+B76-D10,G8,B76,Vila Albornoz,阿尔沃诺斯村,es,6216_p294,Q329,openai,qlang,6,openai_rank_4_10,6,False
+B76-D11,G8,B76,Vila Albornoz,阿尔沃诺斯村,en,31843_p0,Q329,m3,rel_langs,12,m3_rank_11_25,8,False
+B76-D12,G8,B76,Vila Albornoz,阿尔沃诺斯村,pt,1873_p80,Q369,m3,qlang,33,m3_rank_26_50,21,False
+B77-D01,G8,B77,Drina river,德里纳河,sr,160_p58,Q637,openai,qlang,17,openai_rank_11_25,17,False
+B77-D02,G8,B77,Drina river,德里纳河,bs,830_p46,Q648,m3,qlang,11,m3_rank_11_25,11,False
+B77-D03,G8,B77,Drina river,德里纳河,bs,7548_p2,Q648,openai,qlang,5,openai_rank_4_10,5,False
+B77-D04,G8,B77,Drina river,德里纳河,bs,830_p85,Q648,openai,qlang,16,openai_rank_11_25,16,False
+B77-D05,G8,B77,Drina river,德里纳河,sr,1995510_p11,Q637,m3,qlang,11,m3_rank_11_25,11,False
+B77-D06,G8,B77,Drina river,德里纳河,bs,830_p43,Q648,m3,qlang,4,m3_rank_4_10,4,False
+B77-D07,G8,B77,Drina river,德里纳河,bs,830_p0,Q637,m3,rel_langs,10,m3_rank_4_10,6,False
+B77-D08,G8,B77,Drina river,德里纳河,sr,1995510_p4,Q648,openai,rel_langs,27,openai_rank_26_50,10,False
+B77-D09,G8,B77,Drina river,德里纳河,sr,160_p39,Q637,openai,qlang,31,openai_rank_26_50,31,False
+B77-D10,G8,B77,Drina river,德里纳河,bs,7548_p13,Q637,openai,rel_langs,10,openai_rank_4_10,4,False
+B77-D11,G8,B77,Drina river,德里纳河,sr,1517_p132,Q637,m3,qlang,34,m3_rank_26_50,34,False
+B77-D12,G8,B77,Drina river,德里纳河,bs,2821_p0,Q648,m3,qlang,40,m3_rank_26_50,16,False
+B78-D01,G8,B78,Arroyo de la Invernada,因韦纳达溪,es,6216_p116,Q327,m3,qlang,7,m3_rank_4_10,7,False
+B78-D02,G8,B78,Arroyo de la Invernada,因韦纳达溪,pt,1873_p39,Q367,openai,qlang,9,openai_rank_4_10,9,False
+B78-D03,G8,B78,Arroyo de la Invernada,因韦纳达溪,es,6216_p179,Q327,openai,qlang,49,openai_rank_26_50,49,False
+B78-D04,G8,B78,Arroyo de la Invernada,因韦纳达溪,en,5476766_p9,Q327,openai,rel_langs,5,openai_rank_4_10,5,False
+B78-D05,G8,B78,Arroyo de la Invernada,因韦纳达溪,es,6216_p190,Q327,openai,qlang,19,openai_rank_11_25,10,False
+B78-D06,G8,B78,Arroyo de la Invernada,因韦纳达溪,es,6216_p10,Q327,m3,qlang,13,m3_rank_11_25,9,False
+B78-D07,G8,B78,Arroyo de la Invernada,因韦纳达溪,pt,404_p2,Q367,m3,qlang,21,m3_rank_11_25,21,False
+B78-D08,G8,B78,Arroyo de la Invernada,因韦纳达溪,pt,1873_p36,Q367,openai,rel_langs,13,openai_rank_11_25,8,False
+B78-D09,G8,B78,Arroyo de la Invernada,因韦纳达溪,es,6216_p95,Q367,m3,rel_langs,9,m3_rank_4_10,5,False
+B78-D10,G8,B78,Arroyo de la Invernada,因韦纳达溪,pt,1873_p16,Q367,m3,rel_langs,29,m3_rank_26_50,10,False
+B78-D11,G8,B78,Arroyo de la Invernada,因韦纳达溪,es,410_p18,Q327,m3,qlang,35,m3_rank_26_50,35,False
+B78-D12,G8,B78,Arroyo de la Invernada,因韦纳达溪,es,6216_p296,Q367,openai,rel_langs,35,openai_rank_26_50,10,False
+B79-D01,G8,B79,Ankoko Island/Isla de Anacoco,安科科岛／阿纳科科岛,en,17238691_p0,Q24,openai,qlang,18,openai_rank_11_25,7,False
+B79-D02,G8,B79,Ankoko Island/Isla de Anacoco,安科科岛／阿纳科科岛,en,32374_p54,Q24,m3,qlang,38,m3_rank_26_50,24,False
+B79-D03,G8,B79,Ankoko Island/Isla de Anacoco,安科科岛／阿纳科科岛,en,32374_p117,Q24,openai,qlang,10,openai_rank_4_10,8,False
+B79-D04,G8,B79,Ankoko Island/Isla de Anacoco,安科科岛／阿纳科科岛,es,1353806_p105,Q326,openai,qlang,30,openai_rank_26_50,13,False
+B79-D05,G8,B79,Ankoko Island/Isla de Anacoco,安科科岛／阿纳科科岛,en,32374_p1,Q24,m3,qlang,13,m3_rank_11_25,13,False
+B79-D06,G8,B79,Ankoko Island/Isla de Anacoco,安科科岛／阿纳科科岛,en,4322752_p1,Q326,openai,rel_langs,11,openai_rank_11_25,5,False
+B79-D07,G8,B79,Ankoko Island/Isla de Anacoco,安科科岛／阿纳科科岛,es,428283_p12,Q24,openai,rel_langs,30,openai_rank_26_50,9,False
+B79-D08,G8,B79,Ankoko Island/Isla de Anacoco,安科科岛／阿纳科科岛,en,17238691_p64,Q24,m3,qlang,6,m3_rank_4_10,6,False
+B79-D09,G8,B79,Ankoko Island/Isla de Anacoco,安科科岛／阿纳科科岛,es,10645_p0,Q326,m3,qlang,28,m3_rank_26_50,22,False
+B79-D10,G8,B79,Ankoko Island/Isla de Anacoco,安科科岛／阿纳科科岛,es,428283_p8,Q326,m3,qlang,5,m3_rank_4_10,5,False
+B79-D11,G8,B79,Ankoko Island/Isla de Anacoco,安科科岛／阿纳科科岛,es,428283_p15,Q326,openai,qlang,7,openai_rank_4_10,7,False
+B79-D12,G8,B79,Ankoko Island/Isla de Anacoco,安科科岛／阿纳科科岛,es,1353806_p97,Q326,m3,qlang,16,m3_rank_11_25,16,False
+B80-D01,G8,B80,Barkhudarli,巴尔胡达尔雷,hy,856877_p3,Q569,m3,rel_langs,5,m3_rank_4_10,4,False
+B80-D02,G8,B80,Barkhudarli,巴尔胡达尔雷,hy,1396_p56,Q569,openai,rel_langs,49,openai_rank_26_50,45,False
+B80-D03,G8,B80,Barkhudarli,巴尔胡达尔雷,hy,1396_p49,Q524,m3,rel_langs,43,m3_rank_26_50,14,False
+B80-D04,G8,B80,Barkhudarli,巴尔胡达尔雷,az,120315_p2,Q524,openai,rel_langs,10,openai_rank_4_10,4,False
+B80-D05,G8,B80,Barkhudarli,巴尔胡达尔雷,hy,1396_p64,Q569,openai,qlang,18,openai_rank_11_25,18,False
+B80-D06,G8,B80,Barkhudarli,巴尔胡达尔雷,en,746_p29,Q569,m3,rel_langs,12,m3_rank_11_25,12,False
+B80-D07,G8,B80,Barkhudarli,巴尔胡达尔雷,az,1088_p4,Q524,openai,qlang,24,openai_rank_11_25,24,False
+B80-D08,G8,B80,Barkhudarli,巴尔胡达尔雷,hy,800_p242,Q569,openai,qlang,6,openai_rank_4_10,6,False
+B80-D09,G8,B80,Barkhudarli,巴尔胡达尔雷,az,615_p20,Q524,openai,qlang,39,openai_rank_26_50,39,False
+B80-D10,G8,B80,Barkhudarli,巴尔胡达尔雷,az,1088_p120,Q524,m3,qlang,17,m3_rank_11_25,17,False
+B80-D11,G8,B80,Barkhudarli,巴尔胡达尔雷,hy,1396_p2,Q569,m3,rel_langs,36,m3_rank_26_50,26,False
+B80-D12,G8,B80,Barkhudarli,巴尔胡达尔雷,az,1088_p28,Q524,m3,qlang,7,m3_rank_4_10,7,False
+B81-D01,G9,B81,Juan de Nova Island,胡安德诺瓦岛,fr,401300_p24,Q290,openai,qlang,9,openai_rank_4_10,9,False
+B81-D02,G9,B81,Juan de Nova Island,胡安德诺瓦岛,mg,825_p19,Q311,openai,qlang,24,openai_rank_11_25,24,False
+B81-D03,G9,B81,Juan de Nova Island,胡安德诺瓦岛,mg,825_p58,Q311,m3,qlang,48,m3_rank_26_50,48,False
+B81-D04,G9,B81,Juan de Nova Island,胡安德诺瓦岛,en,15724_p21,Q290,m3,rel_langs,14,m3_rank_11_25,8,False
+B81-D05,G9,B81,Juan de Nova Island,胡安德诺瓦岛,fr,401300_p18,Q290,m3,qlang,8,m3_rank_4_10,8,False
+B81-D06,G9,B81,Juan de Nova Island,胡安德诺瓦岛,fr,401300_p31,Q311,openai,rel_langs,37,openai_rank_26_50,11,False
+B81-D07,G9,B81,Juan de Nova Island,胡安德诺瓦岛,en,15724_p3,Q311,m3,rel_langs,4,m3_rank_4_10,4,False
+B81-D08,G9,B81,Juan de Nova Island,胡安德诺瓦岛,fr,1095_p103,Q290,m3,rel_langs,37,m3_rank_26_50,23,False
+B81-D09,G9,B81,Juan de Nova Island,胡安德诺瓦岛,mg,825_p25,Q311,m3,qlang,23,m3_rank_11_25,23,False
+B81-D10,G9,B81,Juan de Nova Island,胡安德诺瓦岛,fr,8645_p78,Q290,openai,qlang,31,openai_rank_26_50,31,False
+B81-D11,G9,B81,Juan de Nova Island,胡安德诺瓦岛,en,15724_p26,Q290,openai,rel_langs,21,openai_rank_11_25,21,False
+B81-D12,G9,B81,Juan de Nova Island,胡安德诺瓦岛,mg,825_p88,Q311,openai,qlang,10,openai_rank_4_10,10,False
+B82-D01,G9,B82,Crimea,克里米亚,uk,643_p17,Q622,m3,qlang,22,m3_rank_11_25,22,False
+B82-D02,G9,B82,Crimea,克里米亚,uk,643_p4,Q622,openai,qlang,45,openai_rank_26_50,14,False
+B82-D03,G9,B82,Crimea,克里米亚,uk,643_p162,Q622,openai,qlang,18,openai_rank_11_25,18,False
+B82-D04,G9,B82,Crimea,克里米亚,uk,6620_p59,Q622,m3,rel_langs,10,m3_rank_4_10,7,False
+B82-D05,G9,B82,Crimea,克里米亚,uk,643_p26,Q594,m3,rel_langs,42,m3_rank_26_50,18,False
+B82-D06,G9,B82,Crimea,克里米亚,ru,1936381_p0,Q594,m3,qlang,8,m3_rank_4_10,8,False
+B82-D07,G9,B82,Crimea,克里米亚,en,163045_p25,Q622,openai,rel_langs,8,openai_rank_4_10,6,False
+B82-D08,G9,B82,Crimea,克里米亚,ru,732_p134,Q594,openai,rel_langs,43,openai_rank_26_50,12,False
+B82-D09,G9,B82,Crimea,克里米亚,ru,732_p169,Q594,m3,rel_langs,11,m3_rank_11_25,5,False
+B82-D10,G9,B82,Crimea,克里米亚,ru,9_p119,Q594,openai,qlang,7,openai_rank_4_10,7,False
+B82-D11,G9,B82,Crimea,克里米亚,uk,6620_p55,Q622,m3,qlang,49,m3_rank_26_50,27,False
+B82-D12,G9,B82,Crimea,克里米亚,en,163045_p1,Q594,openai,rel_langs,14,openai_rank_11_25,11,False
+B83-D01,G9,B83,Kalapani,卡拉帕尼,en,171166_p80,Q556,openai,rel_langs,42,openai_rank_26_50,42,False
+B83-D02,G9,B83,Kalapani,卡拉帕尼,ne,804_p35,Q556,m3,qlang,46,m3_rank_26_50,46,False
+B83-D03,G9,B83,Kalapani,卡拉帕尼,ne,804_p18,Q556,openai,qlang,17,openai_rank_11_25,17,False
+B83-D04,G9,B83,Kalapani,卡拉帕尼,ne,804_p0,Q556,m3,rel_langs,9,m3_rank_4_10,5,False
+B83-D05,G9,B83,Kalapani,卡拉帕尼,en,171166_p24,Q405,openai,rel_langs,46,openai_rank_26_50,18,False
+B83-D06,G9,B83,Kalapani,卡拉帕尼,hi,59_p29,Q405,m3,qlang,38,m3_rank_26_50,38,False
+B83-D07,G9,B83,Kalapani,卡拉帕尼,hi,899_p1,Q556,m3,rel_langs,22,m3_rank_11_25,5,False
+B83-D08,G9,B83,Kalapani,卡拉帕尼,hi,899_p25,Q405,m3,qlang,10,m3_rank_4_10,10,False
+B83-D09,G9,B83,Kalapani,卡拉帕尼,hi,59_p6,Q405,openai,qlang,25,openai_rank_11_25,25,False
+B83-D10,G9,B83,Kalapani,卡拉帕尼,ne,10852_p12,Q556,openai,qlang,9,openai_rank_4_10,6,False
+B83-D11,G9,B83,Kalapani,卡拉帕尼,en,30049213_p12,Q405,openai,rel_langs,6,openai_rank_4_10,4,False
+B83-D12,G9,B83,Kalapani,卡拉帕尼,hi,899_p39,Q405,m3,qlang,17,m3_rank_11_25,7,False
+B84-D01,G9,B84,Noktundo,鹿屯岛,ru,2821_p122,Q589,m3,qlang,45,m3_rank_26_50,21,False
+B84-D02,G9,B84,Noktundo,鹿屯岛,ru,9_p104,Q589,openai,rel_langs,21,openai_rank_11_25,11,False
+B84-D03,G9,B84,Noktundo,鹿屯岛,ru,1859845_p7,Q589,openai,qlang,6,openai_rank_4_10,6,False
+B84-D04,G9,B84,Noktundo,鹿屯岛,ko,249_p12,Q576,m3,rel_langs,45,m3_rank_26_50,26,False
+B84-D05,G9,B84,Noktundo,鹿屯岛,ko,95504_p74,Q576,openai,rel_langs,15,openai_rank_11_25,9,False
+B84-D06,G9,B84,Noktundo,鹿屯岛,en,27603039_p4,Q576,openai,rel_langs,10,openai_rank_4_10,10,False
+B84-D07,G9,B84,Noktundo,鹿屯岛,ko,68034_p10,Q576,m3,qlang,20,m3_rank_11_25,16,False
+B84-D08,G9,B84,Noktundo,鹿屯岛,ru,9_p0,Q576,m3,rel_langs,7,m3_rank_4_10,7,False
+B84-D09,G9,B84,Noktundo,鹿屯岛,ru,2821_p65,Q589,openai,rel_langs,43,openai_rank_26_50,23,False
+B84-D10,G9,B84,Noktundo,鹿屯岛,ko,95504_p48,Q576,openai,qlang,41,openai_rank_26_50,41,False
+B84-D11,G9,B84,Noktundo,鹿屯岛,en,27603039_p1,Q589,m3,rel_langs,7,m3_rank_4_10,7,False
+B84-D12,G9,B84,Noktundo,鹿屯岛,ru,2821_p9,Q589,m3,qlang,16,m3_rank_11_25,16,False
+B85-D01,G9,B85,Naf River,纳夫河,my,2388_p72,Q530,openai,qlang,32,openai_rank_26_50,31,False
+B85-D02,G9,B85,Naf River,纳夫河,my,2388_p3,Q530,m3,qlang,9,m3_rank_4_10,9,False
+B85-D03,G9,B85,Naf River,纳夫河,bn,822_p87,Q612,openai,qlang,50,openai_rank_26_50,50,False
+B85-D04,G9,B85,Naf River,纳夫河,bn,8847_p33,Q612,m3,qlang,24,m3_rank_11_25,24,False
+B85-D05,G9,B85,Naf River,纳夫河,bn,8847_p28,Q612,openai,qlang,9,openai_rank_4_10,9,False
+B85-D06,G9,B85,Naf River,纳夫河,my,3186_p8,Q530,m3,qlang,28,m3_rank_26_50,28,False
+B85-D07,G9,B85,Naf River,纳夫河,bn,822_p71,Q612,openai,rel_langs,12,openai_rank_11_25,7,False
+B85-D08,G9,B85,Naf River,纳夫河,bn,8847_p0,Q612,m3,qlang,6,m3_rank_4_10,6,False
+B85-D09,G9,B85,Naf River,纳夫河,my,2388_p0,Q530,openai,rel_langs,22,openai_rank_11_25,4,False
+B85-D10,G9,B85,Naf River,纳夫河,my,2388_p6,Q530,m3,qlang,19,m3_rank_11_25,9,False
+B85-D11,G9,B85,Naf River,纳夫河,en,19457_p142,Q612,m3,rel_langs,47,m3_rank_26_50,47,False
+B85-D12,G9,B85,Naf River,纳夫河,my,2388_p7,Q530,openai,qlang,7,openai_rank_4_10,7,False
+B86-D01,G9,B86,Lunkinda River,伦金达河,en,34415_p76,Q12,m3,rel_langs,25,m3_rank_11_25,19,False
+B86-D02,G9,B86,Lunkinda River,伦金达河,en,34415_p105,Q351,m3,rel_langs,23,m3_rank_11_25,16,False
+B86-D03,G9,B86,Lunkinda River,伦金达河,en,34415_p39,Q12,openai,qlang,20,openai_rank_11_25,20,False
+B86-D04,G9,B86,Lunkinda River,伦金达河,sw,2173_p14,Q351,openai,rel_langs,10,openai_rank_4_10,8,False
+B86-D05,G9,B86,Lunkinda River,伦金达河,sw,2173_p7,Q12,m3,rel_langs,45,m3_rank_26_50,6,False
+B86-D06,G9,B86,Lunkinda River,伦金达河,en,34415_p80,Q12,m3,qlang,9,m3_rank_4_10,9,False
+B86-D07,G9,B86,Lunkinda River,伦金达河,en,34415_p73,Q12,openai,rel_langs,7,openai_rank_4_10,7,False
+B86-D08,G9,B86,Lunkinda River,伦金达河,sw,2173_p5,Q351,openai,qlang,50,openai_rank_26_50,50,False
+B86-D09,G9,B86,Lunkinda River,伦金达河,sw,2066_p8,Q351,m3,qlang,9,m3_rank_4_10,9,False
+B86-D10,G9,B86,Lunkinda River,伦金达河,sw,2173_p39,Q351,m3,qlang,49,m3_rank_26_50,49,False
+B86-D11,G9,B86,Lunkinda River,伦金达河,en,34415_p60,Q351,openai,rel_langs,16,openai_rank_11_25,4,False
+B86-D12,G9,B86,Lunkinda River,伦金达河,en,34415_p42,Q12,openai,rel_langs,31,openai_rank_26_50,29,False
+B87-D01,G9,B87,Mbamba Bay,姆班巴湾,en,19088_p33,Q353,m3,rel_langs,27,m3_rank_26_50,7,False
+B87-D02,G9,B87,Mbamba Bay,姆班巴湾,sw,2347_p5,Q353,m3,qlang,20,m3_rank_11_25,20,False
+B87-D03,G9,B87,Mbamba Bay,姆班巴湾,en,19088_p82,Q14,m3,qlang,7,m3_rank_4_10,7,False
+B87-D04,G9,B87,Mbamba Bay,姆班巴湾,en,19088_p7,Q14,m3,rel_langs,33,m3_rank_26_50,16,False
+B87-D05,G9,B87,Mbamba Bay,姆班巴湾,en,14298100_p4,Q14,openai,qlang,6,openai_rank_4_10,6,False
+B87-D06,G9,B87,Mbamba Bay,姆班巴湾,en,30118_p65,Q14,m3,qlang,23,m3_rank_11_25,23,False
+B87-D07,G9,B87,Mbamba Bay,姆班巴湾,sw,2347_p33,Q353,openai,qlang,10,openai_rank_4_10,10,False
+B87-D08,G9,B87,Mbamba Bay,姆班巴湾,en,19088_p11,Q14,openai,rel_langs,32,openai_rank_26_50,18,False
+B87-D09,G9,B87,Mbamba Bay,姆班巴湾,en,30118_p0,Q14,openai,rel_langs,24,openai_rank_11_25,9,False
+B87-D10,G9,B87,Mbamba Bay,姆班巴湾,sw,22116_p4,Q353,m3,qlang,10,m3_rank_4_10,10,False
+B87-D11,G9,B87,Mbamba Bay,姆班巴湾,sw,2347_p39,Q353,openai,qlang,20,openai_rank_11_25,6,False
+B87-D12,G9,B87,Mbamba Bay,姆班巴湾,sw,1191_p31,Q353,openai,qlang,39,openai_rank_26_50,26,False
+B88-D01,G9,B88,Kafia Kingi,卡菲亚金吉,ar,342661_p13,Q254,openai,qlang,12,openai_rank_11_25,12,False
+B88-D02,G9,B88,Kafia Kingi,卡菲亚金吉,ar,3711_p84,Q254,openai,qlang,8,openai_rank_4_10,8,False
+B88-D03,G9,B88,Kafia Kingi,卡菲亚金吉,ar,342661_p21,Q254,openai,rel_langs,30,openai_rank_26_50,9,False
+B88-D04,G9,B88,Kafia Kingi,卡菲亚金吉,en,27421_p0,Q3,m3,rel_langs,8,m3_rank_4_10,8,False
+B88-D05,G9,B88,Kafia Kingi,卡菲亚金吉,ar,3711_p3,Q3,m3,rel_langs,45,m3_rank_26_50,17,False
+B88-D06,G9,B88,Kafia Kingi,卡菲亚金吉,en,32350676_p116,Q3,openai,qlang,31,openai_rank_26_50,31,False
+B88-D07,G9,B88,Kafia Kingi,卡菲亚金吉,en,32815383_p3,Q3,openai,rel_langs,7,openai_rank_4_10,5,False
+B88-D08,G9,B88,Kafia Kingi,卡菲亚金吉,ar,3711_p1,Q254,m3,rel_langs,10,m3_rank_4_10,8,False
+B88-D09,G9,B88,Kafia Kingi,卡菲亚金吉,en,27421_p1,Q3,m3,qlang,15,m3_rank_11_25,15,False
+B88-D10,G9,B88,Kafia Kingi,卡菲亚金吉,en,32350676_p48,Q3,openai,qlang,19,openai_rank_11_25,19,False
+B88-D11,G9,B88,Kafia Kingi,卡菲亚金吉,ar,3711_p76,Q254,m3,qlang,20,m3_rank_11_25,16,False
+B88-D12,G9,B88,Kafia Kingi,卡菲亚金吉,ar,3711_p45,Q254,m3,qlang,26,m3_rank_26_50,26,False
+B89-D01,G9,B89,Guayana Esequiba,圭亚那埃塞奎巴,en,6896458_p41,Q22,m3,qlang,43,m3_rank_26_50,29,False
+B89-D02,G9,B89,Guayana Esequiba,圭亚那埃塞奎巴,es,10645_p7,Q324,openai,rel_langs,23,openai_rank_11_25,10,False
+B89-D03,G9,B89,Guayana Esequiba,圭亚那埃塞奎巴,es,1353806_p122,Q324,m3,qlang,42,m3_rank_26_50,42,False
+B89-D04,G9,B89,Guayana Esequiba,圭亚那埃塞奎巴,en,6896458_p1,Q22,openai,rel_langs,11,openai_rank_11_25,11,False
+B89-D05,G9,B89,Guayana Esequiba,圭亚那埃塞奎巴,en,6896458_p56,Q22,m3,rel_langs,14,m3_rank_11_25,10,False
+B89-D06,G9,B89,Guayana Esequiba,圭亚那埃塞奎巴,en,17238691_p10,Q22,openai,qlang,41,openai_rank_26_50,17,False
+B89-D07,G9,B89,Guayana Esequiba,圭亚那埃塞奎巴,es,1353806_p112,Q324,openai,rel_langs,33,openai_rank_26_50,13,False
+B89-D08,G9,B89,Guayana Esequiba,圭亚那埃塞奎巴,en,6896458_p66,Q22,openai,qlang,8,openai_rank_4_10,8,False
+B89-D09,G9,B89,Guayana Esequiba,圭亚那埃塞奎巴,es,10645_p75,Q324,m3,qlang,6,m3_rank_4_10,6,False
+B89-D10,G9,B89,Guayana Esequiba,圭亚那埃塞奎巴,es,10645_p1,Q324,openai,rel_langs,8,openai_rank_4_10,4,False
+B89-D11,G9,B89,Guayana Esequiba,圭亚那埃塞奎巴,en,6896458_p54,Q22,m3,rel_langs,9,m3_rank_4_10,6,False
+B89-D12,G9,B89,Guayana Esequiba,圭亚那埃塞奎巴,es,10784734_p2,Q324,m3,rel_langs,14,m3_rank_11_25,7,False
+B90-D01,G9,B90,Gibraltar,直布罗陀,es,7643_p3,Q335,openai,rel_langs,6,openai_rank_4_10,5,False
+B90-D02,G9,B90,Gibraltar,直布罗陀,en,7607314_p80,Q33,openai,qlang,33,openai_rank_26_50,33,False
+B90-D03,G9,B90,Gibraltar,直布罗陀,es,7643_p35,Q335,m3,rel_langs,16,m3_rank_11_25,9,False
+B90-D04,G9,B90,Gibraltar,直布罗陀,es,7643_p30,Q335,m3,qlang,10,m3_rank_4_10,7,False
+B90-D05,G9,B90,Gibraltar,直布罗陀,en,7607314_p28,Q33,openai,rel_langs,8,openai_rank_4_10,7,False
+B90-D06,G9,B90,Gibraltar,直布罗陀,en,26667_p89,Q33,m3,qlang,8,m3_rank_4_10,8,False
+B90-D07,G9,B90,Gibraltar,直布罗陀,en,7607314_p31,Q33,m3,qlang,24,m3_rank_11_25,23,False
+B90-D08,G9,B90,Gibraltar,直布罗陀,es,7643_p12,Q335,m3,rel_langs,33,m3_rank_26_50,11,False
+B90-D09,G9,B90,Gibraltar,直布罗陀,es,7643_p18,Q33,m3,rel_langs,29,m3_rank_26_50,13,False
+B90-D10,G9,B90,Gibraltar,直布罗陀,es,7643_p61,Q335,openai,rel_langs,27,openai_rank_26_50,8,False
+B90-D11,G9,B90,Gibraltar,直布罗陀,es,7643_p31,Q335,openai,qlang,15,openai_rank_11_25,11,False
+B90-D12,G9,B90,Gibraltar,直布罗陀,en,7607314_p96,Q33,openai,rel_langs,16,openai_rank_11_25,15,False
