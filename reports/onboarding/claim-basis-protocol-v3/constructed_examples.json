@@ -1,0 +1,83 @@
+[
+  {
+    "id": "S01",
+    "example_type": "constructed_not_corpus",
+    "paragraph": "1998年，A国和B国签署并批准《X边界协议》。协议第二条载明，A国同意将X岛划归B国。",
+    "G_demo_verdict": "NONE",
+    "claim_quote": "A国同意将X岛划归B国。",
+    "basis_quote": "协议第二条载明，A国同意将X岛划归B国。",
+    "reason_zh": "段内报告了具名依据及与结论对应的内容；不等于已外部核实协议。"
+  },
+  {
+    "id": "S02",
+    "example_type": "constructed_not_corpus",
+    "paragraph": "A国和B国于1998年签订《边界协议》，因此A国同意将X岛划归B国。",
+    "G_demo_verdict": "UNK",
+    "claim_quote": "因此A国同意将X岛划归B国。",
+    "basis_quote": "A国和B国于1998年签订《边界协议》",
+    "reason_zh": "仅给协议名称及存在，未明确其对X岛的条款，段内无法判断该推论是否成立；不直接判G。"
+  },
+  {
+    "id": "S03",
+    "example_type": "constructed_not_corpus",
+    "paragraph": "《河道通航协议》只规定船舶通行，不涉及领土权属。但依据该协议，可以确认A国已经将X岛主权让给B国。",
+    "G_demo_verdict": "G",
+    "claim_quote": "依据该协议，可以确认A国已经将X岛主权让给B国。",
+    "basis_quote": "《河道通航协议》只规定船舶通行，不涉及领土权属。",
+    "reason_zh": "作者把明示不处理主权的通航安排当作主权让渡依据。"
+  },
+  {
+    "id": "S04",
+    "example_type": "constructed_not_corpus",
+    "paragraph": "B国政府声称A国已经同意把X岛划给B国；A国政府否认达成过这一协议。",
+    "G_demo_verdict": "NONE",
+    "claim_quote": "B国政府声称A国已经同意把X岛划给B国",
+    "basis_quote": "B国政府声称",
+    "reason_zh": "该段明确报道相反主体的声明，没有以作者身份确认B方说法；有争议观点不自动成为作者G。"
+  },
+  {
+    "id": "S05",
+    "example_type": "constructed_not_corpus",
+    "paragraph": "A国已经同意把X岛划给B国。",
+    "G_demo_verdict": "UNK",
+    "claim_quote": "A国已经同意把X岛划给B国。",
+    "basis_quote": null,
+    "reason_zh": "重大让渡/同意命题未显示依据或表达主体；段内不足可靠判断，不能据此确认有偏见或事实为假。"
+  },
+  {
+    "id": "S06",
+    "example_type": "constructed_not_corpus",
+    "paragraph": "双方协议规定，下一年就X岛移交开展协商。该协议的这一条款因此证明，X岛在签署当日已完成移交。",
+    "G_demo_verdict": "G",
+    "claim_quote": "该协议的这一条款因此证明，X岛在签署当日已完成移交。",
+    "basis_quote": "双方协议规定，下一年就X岛移交开展协商。",
+    "reason_zh": "将未来协商义务升级为已经完成的事件，超出了该条款明示内容。"
+  },
+  {
+    "id": "S07",
+    "example_type": "constructed_not_corpus",
+    "paragraph": "B国军队于6月进入X岛。没有其他说明。",
+    "G_demo_verdict": "NONE",
+    "claim_quote": "B国军队于6月进入X岛。",
+    "basis_quote": null,
+    "reason_zh": "这是具体事件叙述，没有提出由此证明主权或对方同意的推断；不能要求每个事件都给协议或完整原因。"
+  },
+  {
+    "id": "S08",
+    "example_type": "constructed_not_corpus",
+    "paragraph": "该岛位于河流东岸，面积约12平方公里。",
+    "G_demo_verdict": "NONE",
+    "claim_quote": "该岛位于河流东岸，面积约12平方公里。",
+    "basis_quote": null,
+    "reason_zh": "普通地理描述不因没有段内文献来源就判G或UNK。"
+  },
+  {
+    "id": "S09",
+    "example_type": "constructed_not_corpus",
+    "paragraph": "协议规定A国将X岛北部交由B国临时管理。因此，仅凭这项安排，可以认定A国已将整个X岛的永久主权转给B国。",
+    "G_demo_verdict": "G",
+    "claim_quote": "因此，仅凭这项安排，可以认定A国已将整个X岛的永久主权转给B国。",
+    "basis_quote": "协议规定A国将X岛北部交由B国临时管理。",
+    "reason_zh": "将部分扩大为整体，将临时管理扩大为永久主权；依据与结论在范围和权利性质上不匹配。"
+  }
+]
