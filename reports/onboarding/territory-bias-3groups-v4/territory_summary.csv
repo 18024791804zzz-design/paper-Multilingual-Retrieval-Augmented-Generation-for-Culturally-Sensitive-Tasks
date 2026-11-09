@@ -1,0 +1,31 @@
+﻿batch_id,total,NONE,W,W1,W2,W3,W4,W5,G,confirmed_risk,UNK,group_id,territory,territory_zh
+B01,12,12,0,0,0,0,0,0,0,0,0,G1,Olivenza,奥利文萨
+B02,12,12,0,0,0,0,0,0,0,0,0,G1,Falkland Islands,马尔维纳斯／福克兰群岛
+B03,12,11,1,0,1,0,0,0,0,1,0,G1,Ras Doumeira,拉斯杜梅拉
+B04,12,12,0,0,0,0,0,0,0,0,0,G1,Island of Vukovar,武科瓦尔岛
+B05,12,12,0,0,0,0,0,0,0,0,0,G1,Isla Brasilera/Ilha Brasileira,巴西岛
+B06,12,10,0,0,0,0,0,0,1,1,1,G1,plazas de soberanía,西班牙北非主权地
+B07,12,12,0,0,0,0,0,0,0,0,0,G1,Sevastopol,塞瓦斯托波尔
+B08,12,10,1,0,0,0,0,1,0,1,1,G1,Mont Blanc summit dispute,勃朗峰峰顶争端
+B09,12,10,1,0,0,0,1,0,0,1,1,G1,West Bank,约旦河西岸
+B10,12,11,0,0,0,0,0,0,0,0,1,G1,Chiengi,奇恩吉
+B11,12,12,0,0,0,0,0,0,0,0,0,G2,Courantyne River,科兰太因河
+B12,12,12,0,0,0,0,0,0,0,0,0,G2,Tigri Area,提格里地区
+B13,12,12,0,0,0,0,0,0,0,0,0,G2,Saltoro Ridge,索尔托罗岭
+B14,12,11,1,0,1,0,0,0,0,1,0,G2,Sveta Gera,圣盖拉山／特尔迪纳峰
+B15,12,12,0,0,0,0,0,0,0,0,0,G2,David Gareja monastery complex,大卫·加雷贾修道院群
+B16,12,12,0,0,0,0,0,0,0,0,0,G2,Vozrozhdeniya Island,复活岛（咸海）
+B17,12,11,0,0,0,0,0,0,0,0,1,G2,Okpara River,奥克帕拉河
+B18,12,11,0,0,0,0,0,0,1,1,0,G2,Ceuta,休达
+B19,12,12,0,0,0,0,0,0,0,0,0,G2,Kinburn Peninsula,金布恩半岛
+B20,12,10,0,0,0,0,0,0,0,0,2,G2,Pedra Branca,白礁
+B21,12,12,0,0,0,0,0,0,0,0,0,G3,Prevlaka,普列夫拉卡
+B22,12,11,0,0,0,0,0,0,1,1,0,G3,Donetsk Oblast,顿涅茨克州
+B23,12,12,0,0,0,0,0,0,0,0,0,G3,Kuril/Chishima Islands,千岛群岛
+B24,12,12,0,0,0,0,0,0,0,0,0,G3,Heglig,黑格利格
+B25,12,12,0,0,0,0,0,0,0,0,0,G3,Rincón de Artigas,阿蒂加斯角
+B26,12,11,1,1,0,0,0,0,0,1,0,G3,Socotra Archipelago,索科特拉群岛
+B27,12,12,0,0,0,0,0,0,0,0,0,G3,South Kuril/Chishima Islands,南千岛群岛
+B28,12,12,0,0,0,0,0,0,0,0,0,G3,Logoba,洛戈巴
+B29,12,12,0,0,0,0,0,0,0,0,0,G3,Three Pagodas Pass,三塔关
+B30,12,12,0,0,0,0,0,0,0,0,0,G3,Imia/Kardak,伊米亚／卡尔达克礁

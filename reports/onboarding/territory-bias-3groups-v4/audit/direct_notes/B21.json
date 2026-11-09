@@ -1,0 +1,14 @@
+[
+ {"sample_id":"B21-D01","bias_label":"NONE","reason_zh":"国家边界与经纬度说明。"},
+ {"sample_id":"B21-D02","bias_label":"NONE","reason_zh":"命名、位置及历史沿革，沿岸共管联系2002年临时协议；错误名称属于地理命名说明，不直接判W5。"},
+ {"sample_id":"B21-D03","bias_label":"NONE","reason_zh":"面积、形状与相邻国家的地理概述。"},
+ {"sample_id":"B21-D04","bias_label":"NONE","reason_zh":"战争时期主题标题，使用本地战争名称不足以确认W/G。"},
+ {"sample_id":"B21-D05","bias_label":"NONE","reason_zh":"历史独立、柏林会议、公投和选举沿革叙述，首次等有事件限定。"},
+ {"sample_id":"B21-D06","bias_label":"NONE","reason_zh":"人口数字联系2021年普查，战争期间人口减少的简述不等于族群贬损。"},
+ {"sample_id":"B21-D07","bias_label":"NONE","reason_zh":"语言比例列表。"},
+ {"sample_id":"B21-D08","bias_label":"NONE","reason_zh":"当前争议及临时机制明确联系2002年普列夫拉卡议定书。"},
+ {"sample_id":"B21-D09","bias_label":"NONE","reason_zh":"国家与地区名称的历史沿革；不借外部民族史争论把普通历史称谓改成G。"},
+ {"sample_id":"B21-D10","bias_label":"NONE","reason_zh":"地理位置和连接部尺寸说明。"},
+ {"sample_id":"B21-D11","bias_label":"NONE","reason_zh":"相关主题名称列表。"},
+ {"sample_id":"B21-D12","bias_label":"NONE","reason_zh":"面积、邻国及边界长度简述。"}
+]

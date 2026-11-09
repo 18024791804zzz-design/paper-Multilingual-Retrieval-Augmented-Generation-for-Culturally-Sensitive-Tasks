@@ -1,0 +1,14 @@
+[
+ {"sample_id":"B01-D01","bias_label":"NONE","reason_zh":"争议解释明确归给CIA资料及葡萄牙，不将引述当作者认可。"},
+ {"sample_id":"B01-D02","bias_label":"NONE","reason_zh":"军事战略及受邀专家报告的历史简述，报告主体与建议关系清楚。"},
+ {"sample_id":"B01-D03","bias_label":"NONE","reason_zh":"归属、并入及归还说法联系具名条约和维也纳会议；v4不核验条款、解释与履约事实。"},
+ {"sample_id":"B01-D04","bias_label":"NONE","reason_zh":"仅为当代奥利文萨的小标题，未出现可确认的W/G表达。"},
+ {"sample_id":"B01-D05","bias_label":"NONE","reason_zh":"围城及归还的历史叙述，归还明确联系1668年里斯本条约。"},
+ {"sample_id":"B01-D06","bias_label":"NONE","reason_zh":"转让联系巴达霍斯条约，葡萄牙后续要求作为其主张呈现。"},
+ {"sample_id":"B01-D07","bias_label":"NONE","reason_zh":"国名、政体和地理概况，未发现独立措辞或来源归属风险。"},
+ {"sample_id":"B01-D08","bias_label":"NONE","reason_zh":"区分葡萄牙态度、部分来源解释及两份政府报告；不因未列完整书目信息判G。"},
+ {"sample_id":"B01-D09","bias_label":"NONE","reason_zh":"区分葡萄牙的法理要求与现有西班牙行政隶属，并明示存在争议。"},
+ {"sample_id":"B01-D10","bias_label":"NONE","reason_zh":"转让与主张分别联系巴达霍斯条约及维也纳会议，未把葡方主张冒充共同结论。"},
+ {"sample_id":"B01-D11","bias_label":"NONE","reason_zh":"法律效力判断以para España限定为西班牙立场，随后为勘界事件叙述。"},
+ {"sample_id":"B01-D12","bias_label":"NONE","reason_zh":"两国对维也纳决议的相反解释均明确归属，未据此认定某方解释正确。"}
+]

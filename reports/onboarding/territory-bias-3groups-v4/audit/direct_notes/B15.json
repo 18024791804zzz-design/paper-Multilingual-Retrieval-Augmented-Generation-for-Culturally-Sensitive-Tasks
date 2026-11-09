@@ -1,0 +1,14 @@
+[
+ {"sample_id":"B15-D01","bias_label":"NONE","reason_zh":"湖泊水源与鱼类分布的地理简述。"},
+ {"sample_id":"B15-D02","bias_label":"NONE","reason_zh":"政治利益解释明确置于历史学者和专家意见框架；本段未给姓名不等于观点主体完全消失，不读取邻段补身份。"},
+ {"sample_id":"B15-D03","bias_label":"NONE","reason_zh":"宗教建筑与领土争议的类别列表。"},
+ {"sample_id":"B15-D04","bias_label":"NONE","reason_zh":"宏伟等词用于建筑空间与壁画风格，并有布局和肖像尺寸等具体描述，不仅凭审美形容词判W2。"},
+ {"sample_id":"B15-D05","bias_label":"NONE","reason_zh":"政体、组织成员及加入意向的概述。"},
+ {"sample_id":"B15-D06","bias_label":"NONE","reason_zh":"宗教、发展与竞争力描述联系宪法、具名调查机构和经济论坛指标，不因正面数值描述判褒扬。"},
+ {"sample_id":"B15-D07","bias_label":"NONE","reason_zh":"制度与国家象征联系1995年宪法及第23条。"},
+ {"sample_id":"B15-D08","bias_label":"NONE","reason_zh":"恢复领土完整等是阿塞拜疆外交政策目标列表，不是作者对争端的独立裁判。"},
+ {"sample_id":"B15-D09","bias_label":"NONE","reason_zh":"经济趋势及预算赤字数值概述。"},
+ {"sample_id":"B15-D10","bias_label":"NONE","reason_zh":"具名作者作品的引介，实际引文不在目标段；不补相邻段。"},
+ {"sample_id":"B15-D11","bias_label":"NONE","reason_zh":"本段将建筑称为古阿尔巴尼亚寺庙并说明位置争议，未出现段内可确认的来源错置；不借邻段的起源争论或外部知识判G。"},
+ {"sample_id":"B15-D12","bias_label":"NONE","reason_zh":"明确列为不同欧亚划分观点和条件方案，未把所有说法混成唯一事实。"}
+]

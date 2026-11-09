@@ -1,0 +1,14 @@
+[
+ {"sample_id":"B03-D01","bias_label":"NONE","reason_zh":"港口与贸易概况；我们知道用于引出具体港口用途，不足以认定争议判断的虚构共识。"},
+ {"sample_id":"B03-D02","bias_label":"W2","reason_zh":"叙述者把厄立特里亚政策概括为和平、热爱索马里统一，并与埃塞俄比亚分裂索马里的政策对照；这是未归给发言人的正面政治品评，不仅是描述战争行为。","claim_quote":"Siyaasadda Ereteriya waa mid ku dhisan hab nabadeed taasoo ah dad jecel midnimada soomaaliya","attribution_quote":null},
+ {"sample_id":"B03-D03","bias_label":"NONE","reason_zh":"相关条目列表，没有待判断的立场性命题。"},
+ {"sample_id":"B03-D04","bias_label":"NONE","reason_zh":"国家位置及邻国说明。"},
+ {"sample_id":"B03-D05","bias_label":"NONE","reason_zh":"诗体、口述传统及文化评价的描述；praise和gloating是诗歌类别，不是作者对政治主体的褒贬。"},
+ {"sample_id":"B03-D06","bias_label":"NONE","reason_zh":"国际组织成员与观察员身份简述。"},
+ {"sample_id":"B03-D07","bias_label":"NONE","reason_zh":"人权负面评价明确联系Human Rights Watch报告，新闻自由排序联系对应指数，不将有归因批评当偏见。"},
+ {"sample_id":"B03-D08","bias_label":"NONE","reason_zh":"总统连任时间与届次的事件简述。"},
+ {"sample_id":"B03-D09","bias_label":"NONE","reason_zh":"行政区数量与标题。"},
+ {"sample_id":"B03-D10","bias_label":"NONE","reason_zh":"化石发现和研究解释保留possible、may等限定；最早等是考古比较，不自动判W3。"},
+ {"sample_id":"B03-D11","bias_label":"NONE","reason_zh":"国名、边界与海域概况。"},
+ {"sample_id":"B03-D12","bias_label":"NONE","reason_zh":"古代王国及统治沿革简述。"}
+]

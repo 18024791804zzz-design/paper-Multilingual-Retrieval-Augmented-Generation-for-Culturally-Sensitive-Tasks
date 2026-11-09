@@ -1,0 +1,14 @@
+[
+ {"sample_id":"B23-D01","bias_label":"NONE","reason_zh":"1855年划分明确联系日俄和亲条约，不核验历史条款。"},
+ {"sample_id":"B23-D02","bias_label":"NONE","reason_zh":"国家位置与日出之国的诗意别称，别称被明确标示而非作者英雄化。"},
+ {"sample_id":"B23-D03","bias_label":"NONE","reason_zh":"接受波茨坦公告及军方命令的日期简述。"},
+ {"sample_id":"B23-D04","bias_label":"NONE","reason_zh":"群岛名称、形态与战略意义的地理概况，未因国界表述自行判G。"},
+ {"sample_id":"B23-D05","bias_label":"NONE","reason_zh":"列举群岛并明确其中四岛与日本有争议。"},
+ {"sample_id":"B23-D06","bias_label":"NONE","reason_zh":"区分名义纳入与实际控制，虐待及冲突是历史行为叙述，不自动把批评当族群辱称。"},
+ {"sample_id":"B23-D07","bias_label":"NONE","reason_zh":"地理、争议及生态类别列表。"},
+ {"sample_id":"B23-D08","bias_label":"NONE","reason_zh":"岛屿数量、范围与海岸线及专属经济区名次描述。"},
+ {"sample_id":"B23-D09","bias_label":"NONE","reason_zh":"明确指两国政府对群岛范围解释不同。"},
+ {"sample_id":"B23-D10","bias_label":"NONE","reason_zh":"核能力、航天及国际组织地位的概述；大国是政治地位分类，不自动判W2。"},
+ {"sample_id":"B23-D11","bias_label":"NONE","reason_zh":"岛屿及领土问题类别列表。"},
+ {"sample_id":"B23-D12","bias_label":"NONE","reason_zh":"日本领土说法明确归给日本官方立场，并区别俄罗斯事实管理。"}
+]

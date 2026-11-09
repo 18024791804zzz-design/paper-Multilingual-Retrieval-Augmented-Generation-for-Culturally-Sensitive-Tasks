@@ -1,0 +1,14 @@
+[
+ {"sample_id":"B04-D01","bias_label":"NONE","reason_zh":"链接与条目名称列表。"},
+ {"sample_id":"B04-D02","bias_label":"NONE","reason_zh":"国家制度沿革及法律地位联系具名历史协议、制裁与妥协文件；不复核法律解释。"},
+ {"sample_id":"B04-D03","bias_label":"NONE","reason_zh":"岛屿位置、距离、形态与植被描述，回旋镖为形状类比。"},
+ {"sample_id":"B04-D04","bias_label":"NONE","reason_zh":"归还叙述联系1998年和平协议，军事占领及拒绝归还是事件框架；不核验协议范围或仅凭占领词判断。"},
+ {"sample_id":"B04-D05","bias_label":"NONE","reason_zh":"海岸地形、岛屿数量与河流长度的地理描述。"},
+ {"sample_id":"B04-D06","bias_label":"NONE","reason_zh":"相关主题名称列表。"},
+ {"sample_id":"B04-D07","bias_label":"NONE","reason_zh":"本土语言分布简述。"},
+ {"sample_id":"B04-D08","bias_label":"NONE","reason_zh":"岛屿位置及两国存在争议的说明。"},
+ {"sample_id":"B04-D09","bias_label":"NONE","reason_zh":"先述此前行政归属，再述军队夺取及继续占领；未出现独立辱骂或无主体法律裁判，不核验历史持续时间。"},
+ {"sample_id":"B04-D10","bias_label":"NONE","reason_zh":"傀儡性质词处在获法西斯意大利和纳粹德国支持的具体政权沿革中，不自动当作对民族的污名。"},
+ {"sample_id":"B04-D11","bias_label":"NONE","reason_zh":"人口、边界、首都和行政信息；包括或不包括科索沃的数值被区分。"},
+ {"sample_id":"B04-D12","bias_label":"NONE","reason_zh":"简短地理和隶属描述；不因为单方地理名称或未附来源就自动判G。"}
+]

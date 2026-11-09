@@ -1,0 +1,14 @@
+[
+ {"sample_id":"B28-D01","bias_label":"NONE","reason_zh":"国名来自历史王国的词源说明。"},
+ {"sample_id":"B28-D02","bias_label":"NONE","reason_zh":"国名、邻国、人口估计及首都说明。"},
+ {"sample_id":"B28-D03","bias_label":"NONE","reason_zh":"行政区数量与层级简述。"},
+ {"sample_id":"B28-D04","bias_label":"NONE","reason_zh":"联合国地图链接说明。"},
+ {"sample_id":"B28-D05","bias_label":"NONE","reason_zh":"邻国方向列表。"},
+ {"sample_id":"B28-D06","bias_label":"NONE","reason_zh":"背叛指责明确归给Baker及其具名著作，文明置于殖民远征目标的引号框架；不把被引述偏见等同于本段叙述者的W。"},
+ {"sample_id":"B28-D07","bias_label":"NONE","reason_zh":"保护国及管理权移交的历史简述。"},
+ {"sample_id":"B28-D08","bias_label":"NONE","reason_zh":"未调查杀戮的批评明确归给Human Rights Watch 2013年报告。"},
+ {"sample_id":"B28-D09","bias_label":"NONE","reason_zh":"公投、宗教和经济教育差异的概述；落后被限定在经济与教育而非族群本性，不自动判W1。"},
+ {"sample_id":"B28-D10","bias_label":"NONE","reason_zh":"指出历史感知、族群分类歧义与政治分化，未把北方人等标签当成无条件群体品性。"},
+ {"sample_id":"B28-D11","bias_label":"NONE","reason_zh":"地区、组织及历史类别列表。"},
+ {"sample_id":"B28-D12","bias_label":"NONE","reason_zh":"南苏丹与英联邦的主题标题。"}
+]

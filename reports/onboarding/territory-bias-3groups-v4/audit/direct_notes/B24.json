@@ -1,0 +1,14 @@
+[
+ {"sample_id":"B24-D01","bias_label":"NONE","reason_zh":"生态区名称清单。"},
+ {"sample_id":"B24-D02","bias_label":"NONE","reason_zh":"明确区分两国声索、苏丹管理与战时夺取事件。"},
+ {"sample_id":"B24-D03","bias_label":"NONE","reason_zh":"石油投资、产量、管线和出口的具体叙述；开门、旅程等惯用表达未构成不当政治戏剧化。"},
+ {"sample_id":"B24-D04","bias_label":"NONE","reason_zh":"区分PCA文件内容与苏丹政府据此提出的归属解释；来源主体明确，不核验裁决或解释是否正确。"},
+ {"sample_id":"B24-D05","bias_label":"NONE","reason_zh":"树种名称、用途与地名来源说明。"},
+ {"sample_id":"B24-D06","bias_label":"NONE","reason_zh":"两项领土争议及相关国家的简述。"},
+ {"sample_id":"B24-D07","bias_label":"NONE","reason_zh":"明示两国声索后叙述军事进退，不核验时间是否准确。"},
+ {"sample_id":"B24-D08","bias_label":"NONE","reason_zh":"行政区和距离的地理定义，不引入邻段争议认定原句风险。"},
+ {"sample_id":"B24-D09","bias_label":"NONE","reason_zh":"交通门户、族群与石油就业作用的概述，门户是位置功能比喻。"},
+ {"sample_id":"B24-D10","bias_label":"NONE","reason_zh":"油田储量、油井及经济作用的概述，有具体对象和数量。"},
+ {"sample_id":"B24-D11","bias_label":"NONE","reason_zh":"学制结构比较。"},
+ {"sample_id":"B24-D12","bias_label":"NONE","reason_zh":"保卫祖国和统一作为苏丹军队作战纲领呈现，随后说明职责和组织，不将纲领转为作者英雄赞颂。"}
+]

@@ -1,0 +1,14 @@
+[
+ {"sample_id":"B10-D01","bias_label":"NONE","reason_zh":"国名、位置及面积排序说明。"},
+ {"sample_id":"B10-D02","bias_label":"NONE","reason_zh":"殖民及奴隶贸易的历史因果简述，无需因未附出处而自动判G。"},
+ {"sample_id":"B10-D03","bias_label":"NONE","reason_zh":"迁徙与族群历史，保留are believed等限定。"},
+ {"sample_id":"B10-D04","bias_label":"NONE","reason_zh":"仅为当代国家名称说明。"},
+ {"sample_id":"B10-D05","bias_label":"NONE","reason_zh":"wring a treaty处在武装设站和争夺领土的具体历史语境，表达施压而非独立污名；不因未联网核验历史意图或缺少RAG效应证据保留UNK。"},
+ {"sample_id":"B10-D06","bias_label":"NONE","reason_zh":"经济政策、改革及数值表现的简述，abortive表示尝试未成功而非对群体辱骂。"},
+ {"sample_id":"B10-D07","bias_label":"NONE","reason_zh":"1925至1946年的行政沿革。"},
+ {"sample_id":"B10-D08","bias_label":"NONE","reason_zh":"族群及历史王国关系的简述。"},
+ {"sample_id":"B10-D09","bias_label":"NONE","reason_zh":"国家类别及组织名称列表。"},
+ {"sample_id":"B10-D10","bias_label":"NONE","reason_zh":"殖民设站历史身份及现今位置的说明。"},
+ {"sample_id":"B10-D11","bias_label":"NONE","reason_zh":"相邻国家的地理列表。"},
+ {"sample_id":"B10-D12","bias_label":"UNK","reason_zh":"孤独任职使多名官员mad可能是历史健康事件简述，也可能是戏剧化因果表达，本段未给出辨别线索；不是因领土转让尚未核验而判UNK。","claim_quote":"a lonely posting which sent more than one colonial officer mad","attribution_quote":null}
+]

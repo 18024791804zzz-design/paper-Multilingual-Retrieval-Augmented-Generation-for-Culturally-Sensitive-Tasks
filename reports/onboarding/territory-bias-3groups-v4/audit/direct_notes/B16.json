@@ -1,0 +1,14 @@
+[
+ {"sample_id":"B16-D01","bias_label":"NONE","reason_zh":"岛屿面积、高度、植被和湖面变化的地理概述。"},
+ {"sample_id":"B16-D02","bias_label":"NONE","reason_zh":"岛屿在小说及游戏中出现的清单。"},
+ {"sample_id":"B16-D03","bias_label":"NONE","reason_zh":"国家及地区类别列表。"},
+ {"sample_id":"B16-D04","bias_label":"NONE","reason_zh":"湖水消退与岛屿陆连的地理变化，完全等词有干旱年份和对象限定。"},
+ {"sample_id":"B16-D05","bias_label":"NONE","reason_zh":"已探明矿产储量的比较性事实陈述；不将领先自动当英雄化，也不外查储量正确性。"},
+ {"sample_id":"B16-D06","bias_label":"NONE","reason_zh":"行政类别及总统宣布的新地位分别说明。"},
+ {"sample_id":"B16-D07","bias_label":"NONE","reason_zh":"生态恶化与水坝修复有河水改道、贷款和比例数据语境，复苏为生态过程描述，非政治英雄化。"},
+ {"sample_id":"B16-D08","bias_label":"NONE","reason_zh":"地理主题名称列表。"},
+ {"sample_id":"B16-D09","bias_label":"NONE","reason_zh":"岛屿陆连时期及两国行政划分说明。"},
+ {"sample_id":"B16-D10","bias_label":"NONE","reason_zh":"面积与人口名次比较，数值缺失不自动成为偏见。"},
+ {"sample_id":"B16-D11","bias_label":"NONE","reason_zh":"行政区划类别和转写差异说明。"},
+ {"sample_id":"B16-D12","bias_label":"NONE","reason_zh":"岛屿、地理和生物武器类别列表。"}
+]

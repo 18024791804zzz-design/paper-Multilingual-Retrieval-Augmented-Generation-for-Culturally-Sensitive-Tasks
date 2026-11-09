@@ -1,0 +1,13 @@
+{
+  "status": "passed",
+  "rows": 360,
+  "groups": 3,
+  "territories": 30,
+  "unique_paragraphs": 352,
+  "original_text_hashes_preserved": 360,
+  "exact_quotes_checked": 20,
+  "duplicate_text_label_conflicts": 0,
+  "target_only_input_batches_checked": 30,
+  "scope": "Artifact integrity and format only; not annotation accuracy or F1",
+  "checksum_check": "Run python verify.py to verify the packaged SHA256SUMS."
+}

@@ -1,0 +1,14 @@
+[
+ {"sample_id":"B13-D01","bias_label":"NONE","reason_zh":"独立山峰列表的高度与地形突起度标准。"},
+ {"sample_id":"B13-D02","bias_label":"NONE","reason_zh":"联邦构成、事实管辖及2009年宪法安排，de facto等限定明确。"},
+ {"sample_id":"B13-D03","bias_label":"NONE","reason_zh":"国家与条目维护类别列表，民主和语言类别不是作者独立赞颂。"},
+ {"sample_id":"B13-D04","bias_label":"NONE","reason_zh":"政党和执政格局说明，左右翼是政治分类而非可信度贬褒。"},
+ {"sample_id":"B13-D05","bias_label":"NONE","reason_zh":"相关条目名称列表。"},
+ {"sample_id":"B13-D06","bias_label":"NONE","reason_zh":"旅游地点和文化遗址举例；亚历山大后裔说法明确是社群声称。"},
+ {"sample_id":"B13-D07","bias_label":"NONE","reason_zh":"河流水权安排明确联系1960年印度河用水条约，不核验权利解释。"},
+ {"sample_id":"B13-D08","bias_label":"NONE","reason_zh":"行政区名称列表。"},
+ {"sample_id":"B13-D09","bias_label":"NONE","reason_zh":"语言地位与使用比例的简述。"},
+ {"sample_id":"B13-D10","bias_label":"NONE","reason_zh":"四省列表。"},
+ {"sample_id":"B13-D11","bias_label":"NONE","reason_zh":"短标题与疑似受损名称，没有可辨认的评价或来源归属命题；文本残缺本身不自动判偏见UNK。"},
+ {"sample_id":"B13-D12","bias_label":"NONE","reason_zh":"山脉、冰川及边界位置描述，心脏为地理中心惯用说法，不构成情绪化政治隐喻。"}
+]

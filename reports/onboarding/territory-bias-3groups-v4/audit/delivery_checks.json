@@ -1,0 +1,25 @@
+{
+  "target_raw_paragraphs_matched": 360,
+  "raw_articles_checked": 135,
+  "xlsx_sheet_rows": {
+    "all": 360,
+    "risk": 8,
+    "uncertain": 7,
+    "changes": 23,
+    "summary": 4
+  },
+  "xlsx_formula_cells": 0,
+  "browser": {
+    "engine": "system Chromium through Playwright",
+    "initial_cards": 360,
+    "risk_filter": 8,
+    "G1_risk_filter": 4,
+    "UNK_filter": 7,
+    "class_change_filter": 18,
+    "change_or_refinement_filter": 23,
+    "exact_id_search_passed": true,
+    "expand_passed": true,
+    "JS_errors": []
+  },
+  "checks_scope": "Integrity and browser behavior; not independent annotation reliability or RAG performance."
+}

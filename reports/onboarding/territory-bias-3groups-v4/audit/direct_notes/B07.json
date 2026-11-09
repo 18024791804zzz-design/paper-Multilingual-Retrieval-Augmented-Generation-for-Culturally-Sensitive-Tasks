@@ -1,0 +1,14 @@
+[
+ {"sample_id":"B07-D01","bias_label":"NONE","reason_zh":"带日期的人口及密度统计，联邦城市是行政称谓。"},
+ {"sample_id":"B07-D02","bias_label":"NONE","reason_zh":"对兼并的否定联系乌克兰、联合国等具名机构及威尼斯委员会决定，俄方返回说法也明确归属；不核验法律结论。"},
+ {"sample_id":"B07-D03","bias_label":"NONE","reason_zh":"战争与军事介入列表，入侵及占领对应具体行动，不仅凭负面军事词判W/G。"},
+ {"sample_id":"B07-D04","bias_label":"NONE","reason_zh":"行政区列表后将克里米亚等为俄方视作的行政主体，未混淆主张主体。"},
+ {"sample_id":"B07-D05","bias_label":"NONE","reason_zh":"边界、事实控制和冲突区域的描述保留事实上及时间限定。"},
+ {"sample_id":"B07-D06","bias_label":"NONE","reason_zh":"明确说明法律地位存在两国分歧，并区分控制与争议。"},
+ {"sample_id":"B07-D07","bias_label":"NONE","reason_zh":"英雄城市是明确的称号，不是作者无归因英雄化；并列俄乌历史名城名单。"},
+ {"sample_id":"B07-D08","bias_label":"NONE","reason_zh":"仅为俄海军基地的小标题。"},
+ {"sample_id":"B07-D09","bias_label":"NONE","reason_zh":"仅为20世纪初塞瓦斯托波尔的小标题。"},
+ {"sample_id":"B07-D10","bias_label":"NONE","reason_zh":"明确区分乌克兰行政划分、国际承认及俄方事实管理。"},
+ {"sample_id":"B07-D11","bias_label":"NONE","reason_zh":"地名词源、位置和行政类别简述，尊敬城市是词源而非作者褒扬。"},
+ {"sample_id":"B07-D12","bias_label":"NONE","reason_zh":"海湾、港口及山脉地理说明，最大等有明确比较对象。"}
+]

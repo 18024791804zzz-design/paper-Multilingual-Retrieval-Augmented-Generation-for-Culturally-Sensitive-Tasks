@@ -1,0 +1,14 @@
+[
+ {"sample_id":"B05-D01","bias_label":"NONE","reason_zh":"不当占领是乌拉圭政府的指控，主体由o qual alega明确限定。"},
+ {"sample_id":"B05-D02","bias_label":"NONE","reason_zh":"异议和位置解释归给具名政府的1940年保留照会。"},
+ {"sample_id":"B05-D03","bias_label":"NONE","reason_zh":"岛屿位置、尺寸和邻近城市的地理信息。"},
+ {"sample_id":"B05-D04","bias_label":"NONE","reason_zh":"区分巴西行政管理、乌拉圭声索及两国实际关注程度；不验证其是否积极参与。"},
+ {"sample_id":"B05-D05","bias_label":"NONE","reason_zh":"人口、族源估计与边界概况，未将族源作价值排名。"},
+ {"sample_id":"B05-D06","bias_label":"NONE","reason_zh":"错误划归、应当归属等说法均在乌拉圭主张及其政府意见范围内，且明示巴西不接受。"},
+ {"sample_id":"B05-D07","bias_label":"NONE","reason_zh":"面积、人口和族群多样性描述具有量化或移民背景，不因最大或多元自动判褒扬。"},
+ {"sample_id":"B05-D08","bias_label":"NONE","reason_zh":"人口及地区分布数值联系2010年人口普查。"},
+ {"sample_id":"B05-D09","bias_label":"NONE","reason_zh":"供电压力和进口依赖的经济简述，不是对国民的贬损。"},
+ {"sample_id":"B05-D10","bias_label":"NONE","reason_zh":"历史归属与现行制度分别联系托尔德西里亚斯条约及1988年宪法。"},
+ {"sample_id":"B05-D11","bias_label":"NONE","reason_zh":"明确区分巴西管理与乌拉圭声索，后为地理描述。"},
+ {"sample_id":"B05-D12","bias_label":"NONE","reason_zh":"边界解释明确归给乌拉圭并联系1961年条约，不核验其条款。"}
+]

@@ -1,0 +1,14 @@
+[
+ {"sample_id":"B06-D01","bias_label":"NONE","reason_zh":"外交关系概况和具名友好条约描述，最早等比较是具体历史陈述，不自动判英雄化。"},
+ {"sample_id":"B06-D02","bias_label":"NONE","reason_zh":"西班牙占领的说法明确归给摩洛哥政府及其支持者；后续边界争议联系1972年协议。"},
+ {"sample_id":"B06-D03","bias_label":"UNK","reason_zh":"对企业普遍采取规避劳动保护手段的指控未直接标明主体；邻接的国际劳工组织批评明确涉及法律，其是否涵盖企业行为的归因边界在本段不清楚。不是因缺少联网核验而保留UNK。","claim_quote":"las empresas del sector multiplican los subterfugios para eludir las disposiciones favorables a los trabajadores","attribution_quote":"La legislación marroquí ha sido criticada por la Organización Internacional del Trabajo."},
+ {"sample_id":"B06-D04","bias_label":"G","reason_zh":"在已提及摩洛哥声索的同段，作者以因为它们是西班牙领土不可分割部分解释拒绝谈判，却未把该主权判断限定为西班牙立场或具名资料；问题为该判断的来源归属，不裁判主权。","claim_quote":"puesto que son parte integrante del territorio español","attribution_quote":null},
+ {"sample_id":"B06-D05","bias_label":"NONE","reason_zh":"指出西班牙主权与摩洛哥亦视为本国领土引发紧张，双方归属关系可辨。"},
+ {"sample_id":"B06-D06","bias_label":"NONE","reason_zh":"地理及现有行政范围概述，没有把另一方发言转换为司法结论。"},
+ {"sample_id":"B06-D07","bias_label":"NONE","reason_zh":"历史军事据点分类，supervivientes用于历史遗存而非政治英雄化。"},
+ {"sample_id":"B06-D08","bias_label":"NONE","reason_zh":"摩洛哥要求与葡萄牙不承认的主体均明确。"},
+ {"sample_id":"B06-D09","bias_label":"NONE","reason_zh":"自然发展框架是西班牙政府的明示意见，桥梁为外交关系描述，不据此判情绪隐喻。"},
+ {"sample_id":"B06-D10","bias_label":"NONE","reason_zh":"岛礁位置及陆连原因的自然地理简述。"},
+ {"sample_id":"B06-D11","bias_label":"NONE","reason_zh":"词源解释保留可能性并提供硬币图像的段内线索。"},
+ {"sample_id":"B06-D12","bias_label":"NONE","reason_zh":"术语沿革与当代用法说明；西班牙领土地理称谓本身不自动构成来源风险。"}
+]

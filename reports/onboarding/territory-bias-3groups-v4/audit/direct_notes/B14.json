@@ -1,0 +1,14 @@
+[
+ {"sample_id":"B14-D01","bias_label":"NONE","reason_zh":"地理区域名称列表。"},
+ {"sample_id":"B14-D02","bias_label":"NONE","reason_zh":"山顶设施和管理沿革的时间表；1991年行动被限定为获克方同意，不核验同意事实。"},
+ {"sample_id":"B14-D03","bias_label":"NONE","reason_zh":"生物多样性热点有物种和地理数据语境，热点为专业比喻，不自动判W4。"},
+ {"sample_id":"B14-D04","bias_label":"NONE","reason_zh":"国家地理区位与邻国说明。"},
+ {"sample_id":"B14-D05","bias_label":"NONE","reason_zh":"山顶高度标示来源分歧，军事设施明确为有争议对象。"},
+ {"sample_id":"B14-D06","bias_label":"NONE","reason_zh":"铁路里程、连接及规划说明，t. i.用于称谓而非明显贬损。"},
+ {"sample_id":"B14-D07","bias_label":"W2","reason_zh":"叙述者把本国洞穴称为欧洲最壮丽的地下长廊，是无评价主体或比较标准的最高级赞美；后文UNESCO身份不自动为该审美排名提供归因。","claim_quote":"najveličastnejše podzemne galerije v Evropi","attribution_quote":null},
+ {"sample_id":"B14-D08","bias_label":"NONE","reason_zh":"国界、面积、首都及文化影响来源概述。"},
+ {"sample_id":"B14-D09","bias_label":"NONE","reason_zh":"遗产价值及保护说明联系UNESCO名录，不自动把世界意义判W2。"},
+ {"sample_id":"B14-D10","bias_label":"NONE","reason_zh":"仅为历史政权名称的标题。"},
+ {"sample_id":"B14-D11","bias_label":"NONE","reason_zh":"国家区位与交通连接情况说明，可能过时与否不在W/G判断中。"},
+ {"sample_id":"B14-D12","bias_label":"NONE","reason_zh":"位置、边界长度、首都及山峰高度的地理概述。"}
+]

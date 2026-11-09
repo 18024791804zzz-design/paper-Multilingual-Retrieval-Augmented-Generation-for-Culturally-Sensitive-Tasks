@@ -1,0 +1,14 @@
+[
+ {"sample_id":"B19-D01","bias_label":"NONE","reason_zh":"国界与事实控制概述保留时间及事实限定；与相同原段B07-D05一致。"},
+ {"sample_id":"B19-D02","bias_label":"NONE","reason_zh":"半岛与行政区域类别列表。"},
+ {"sample_id":"B19-D03","bias_label":"NONE","reason_zh":"相关地理条目名称列表。"},
+ {"sample_id":"B19-D04","bias_label":"NONE","reason_zh":"领土扩张、保护请求和定居沿革的历史简述，不以colonisation一词自动判风险。"},
+ {"sample_id":"B19-D05","bias_label":"NONE","reason_zh":"半岛村庄及所在州列表。"},
+ {"sample_id":"B19-D06","bias_label":"NONE","reason_zh":"神圣和诸神之地属于古代居民信仰与传说，明确区别于作者断言；后为具体战役叙述。"},
+ {"sample_id":"B19-D07","bias_label":"NONE","reason_zh":"盐业与现有经济活动的说明。"},
+ {"sample_id":"B19-D08","bias_label":"NONE","reason_zh":"古代统治变化联系族群与考古文化名称，未见独立褒贬或归属混淆。"},
+ {"sample_id":"B19-D09","bias_label":"NONE","reason_zh":"外部作品标题和来源清单；火之泪等属于标题，不能当目标作者自发的情绪隐喻。"},
+ {"sample_id":"B19-D10","bias_label":"NONE","reason_zh":"尺寸、行政区及保护地面积的地理说明。"},
+ {"sample_id":"B19-D11","bias_label":"NONE","reason_zh":"半岛地形与所在海湾简述。"},
+ {"sample_id":"B19-D12","bias_label":"NONE","reason_zh":"自然保护地名称及占地比例说明。"}
+]

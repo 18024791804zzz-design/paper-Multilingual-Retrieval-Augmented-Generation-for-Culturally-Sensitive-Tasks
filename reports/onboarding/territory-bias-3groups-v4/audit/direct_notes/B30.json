@@ -1,0 +1,14 @@
+[
+ {"sample_id":"B30-D01","bias_label":"NONE","reason_zh":"首都、行政区数量及地理分区说明。"},
+ {"sample_id":"B30-D02","bias_label":"NONE","reason_zh":"危机源于搁浅与救援争执的事件简述，战争边缘是军事危机程度描述，不单独判W4。"},
+ {"sample_id":"B30-D03","bias_label":"NONE","reason_zh":"地理与争议类别列表。"},
+ {"sample_id":"B30-D04","bias_label":"NONE","reason_zh":"山脉、平原、通道与植被的地理说明。"},
+ {"sample_id":"B30-D05","bias_label":"NONE","reason_zh":"文化主题与指南名称列表。"},
+ {"sample_id":"B30-D06","bias_label":"NONE","reason_zh":"承认错误明确归给希腊政府，岛屿判定联系1932年议定书；admit有具体承认语境，不自动判可信度倾斜。"},
+ {"sample_id":"B30-D07","bias_label":"NONE","reason_zh":"未明确命名及仍待确定的法律解释明确归给土耳其立场。"},
+ {"sample_id":"B30-D08","bias_label":"NONE","reason_zh":"搁浅和双边军事危机的简述，战争边缘在实际危机语境中使用。"},
+ {"sample_id":"B30-D09","bias_label":"NONE","reason_zh":"气候差异与地形、海陆分布联系，少见是地理比较而非明确价值优劣排名。"},
+ {"sample_id":"B30-D10","bias_label":"NONE","reason_zh":"岛屿与领土争议类别列表。"},
+ {"sample_id":"B30-D11","bias_label":"NONE","reason_zh":"报纸政治取向与广播制度的媒体概述，未以党派分类代替对民族或新闻群体的无条件污名。"},
+ {"sample_id":"B30-D12","bias_label":"NONE","reason_zh":"国名词源与各语言历史称呼说明。"}
+]

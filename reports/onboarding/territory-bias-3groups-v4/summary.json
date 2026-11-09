@@ -1,0 +1,133 @@
+{
+  "annotation_version": "v4",
+  "samples": 360,
+  "territories": 30,
+  "groups": 3,
+  "unique_source_paragraphs": 352,
+  "languages": 27,
+  "annotation_unit": "territory_doc",
+  "context": "target paragraph only",
+  "previous_v1_1": {
+    "NONE": 329,
+    "G": 4,
+    "UNK": 21,
+    "W": 6
+  },
+  "new": {
+    "group_id": "TOTAL",
+    "total": 360,
+    "NONE": 345,
+    "W": 5,
+    "W1": 1,
+    "W2": 2,
+    "W3": 0,
+    "W4": 1,
+    "W5": 1,
+    "G": 3,
+    "confirmed_risk": 8,
+    "UNK": 7
+  },
+  "by_group": [
+    {
+      "group_id": "G1",
+      "total": 120,
+      "NONE": 112,
+      "W": 3,
+      "W1": 0,
+      "W2": 1,
+      "W3": 0,
+      "W4": 1,
+      "W5": 1,
+      "G": 1,
+      "confirmed_risk": 4,
+      "UNK": 4
+    },
+    {
+      "group_id": "G2",
+      "total": 120,
+      "NONE": 115,
+      "W": 1,
+      "W1": 0,
+      "W2": 1,
+      "W3": 0,
+      "W4": 0,
+      "W5": 0,
+      "G": 1,
+      "confirmed_risk": 2,
+      "UNK": 3
+    },
+    {
+      "group_id": "G3",
+      "total": 120,
+      "NONE": 118,
+      "W": 1,
+      "W1": 1,
+      "W2": 0,
+      "W3": 0,
+      "W4": 0,
+      "W5": 0,
+      "G": 1,
+      "confirmed_risk": 2,
+      "UNK": 0
+    }
+  ],
+  "by_subtype": {
+    "W1": 1,
+    "W2": 2,
+    "W3": 0,
+    "W4": 1,
+    "W5": 1,
+    "G": 3
+  },
+  "broad_class_changes": 18,
+  "retained_W_with_subtype_refinement": 5,
+  "changes_csv_rows": 23,
+  "transitions": [
+    {
+      "previous_type": "G",
+      "new_class": "G",
+      "count": 2
+    },
+    {
+      "previous_type": "G",
+      "new_class": "NONE",
+      "count": 2
+    },
+    {
+      "previous_type": "NONE",
+      "new_class": "NONE",
+      "count": 329
+    },
+    {
+      "previous_type": "UNK",
+      "new_class": "G",
+      "count": 1
+    },
+    {
+      "previous_type": "UNK",
+      "new_class": "NONE",
+      "count": 14
+    },
+    {
+      "previous_type": "UNK",
+      "new_class": "UNK",
+      "count": 6
+    },
+    {
+      "previous_type": "W",
+      "new_class": "UNK",
+      "count": 1
+    },
+    {
+      "previous_type": "W",
+      "new_class": "W",
+      "count": 5
+    }
+  ],
+  "retrieval_origin_rows": 1435,
+  "risk_retrieval_origin_rows": 34,
+  "new_answer_direction_labels": 0,
+  "claimant_direction_strings_removed_from_new_bias_label": true,
+  "measured_accuracy_or_F1": null,
+  "interpretation": "Label changes follow a changed protocol and paragraph-only scope; they are not measured accuracy improvements or proof of corpus neutrality."
+}

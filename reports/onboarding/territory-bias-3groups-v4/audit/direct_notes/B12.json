@@ -1,0 +1,14 @@
+[
+ {"sample_id":"B12-D01","bias_label":"NONE","reason_zh":"军警活动及管理沿革的叙述，expelled和conquered对应具体事件。"},
+ {"sample_id":"B12-D02","bias_label":"NONE","reason_zh":"法律、刑罚和实际执行情况的简述；与相同原段B11-D03采用一致标准。"},
+ {"sample_id":"B12-D03","bias_label":"NONE","reason_zh":"历史族群分布的简短说明。"},
+ {"sample_id":"B12-D04","bias_label":"NONE","reason_zh":"明示两国声索与异名，后为河流范围定义。"},
+ {"sample_id":"B12-D05","bias_label":"NONE","reason_zh":"占领意图证据的发现与记录明确归给圭亚那国防军巡逻队；v4不要求展示证据内容或证明意图真实。"},
+ {"sample_id":"B12-D06","bias_label":"NONE","reason_zh":"森林与物种概况；分类或数值是否准确不在本轮校准范围，未发现W/G。"},
+ {"sample_id":"B12-D07","bias_label":"NONE","reason_zh":"总统签署及政府批准具名条约的事件。"},
+ {"sample_id":"B12-D08","bias_label":"NONE","reason_zh":"自然威胁、环保组织和具名森林完整性指数的具体描述。"},
+ {"sample_id":"B12-D09","bias_label":"NONE","reason_zh":"争议开始与后续管理时间的简述。"},
+ {"sample_id":"B12-D10","bias_label":"NONE","reason_zh":"国家位置、邻国及面积排序。"},
+ {"sample_id":"B12-D11","bias_label":"NONE","reason_zh":"撤军要求及未履约说法联系双方1971年约定；不核验约定或履约事实，never不单独构成W3。"},
+ {"sample_id":"B12-D12","bias_label":"NONE","reason_zh":"未履约联系1970年两国撤军约定，firm grip在持续军事控制语境下不单独认定情绪隐喻；不校验履约结论。"}
+]

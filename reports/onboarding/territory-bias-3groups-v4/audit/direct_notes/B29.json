@@ -1,0 +1,14 @@
+[
+ {"sample_id":"B29-D01","bias_label":"NONE","reason_zh":"泰国国名、方位、陆海邻国的地理概况。"},
+ {"sample_id":"B29-D02","bias_label":"NONE","reason_zh":"边境通道功能、位置与高度说明。"},
+ {"sample_id":"B29-D03","bias_label":"NONE","reason_zh":"缅甸地理、历史统治及文化概述；民族紧张与政变属于事件背景，不直接等于作者污名。"},
+ {"sample_id":"B29-D04","bias_label":"NONE","reason_zh":"面积、地区排序及经纬度说明。"},
+ {"sample_id":"B29-D05","bias_label":"NONE","reason_zh":"双方行军路径与塔的可能用途均有情境，建塔和平象征保留可能性，并明示边界争议。"},
+ {"sample_id":"B29-D06","bias_label":"NONE","reason_zh":"国名、规模、邻国、行政制度及军方政治角色概述，最后一次政变有日期限定。"},
+ {"sample_id":"B29-D07","bias_label":"NONE","reason_zh":"军方及其关系企业控制经济的政治经济简述；ခရိုနီ在此指军方关联利益群体，不能仅凭译成亲信或权贵就确认污名。"},
+ {"sample_id":"B29-D08","bias_label":"NONE","reason_zh":"文化影响与佛教传入解释，研究意见有作者归属并非作者绝对定论。"},
+ {"sample_id":"B29-D09","bias_label":"NONE","reason_zh":"政党活动、军方控制及组织被宣布非法的政治状况描述，不把被宣布非法误作作者法律判决。"},
+ {"sample_id":"B29-D10","bias_label":"NONE","reason_zh":"环境风险、森林变化及政策有具名指数、数据和法律年份语境，不单凭危机一词判情绪化。"},
+ {"sample_id":"B29-D11","bias_label":"NONE","reason_zh":"语言类别及使用情况说明；语言谱系分类是否准确不属于W/G核验。"},
+ {"sample_id":"B29-D12","bias_label":"NONE","reason_zh":"古代朝贡、地区战争和贸易关系概述，争夺优势是具体历史关系描述。"}
+]

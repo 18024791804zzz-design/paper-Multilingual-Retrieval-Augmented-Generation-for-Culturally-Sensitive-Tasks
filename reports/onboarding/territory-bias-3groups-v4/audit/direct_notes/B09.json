@@ -1,0 +1,14 @@
+[
+ {"sample_id":"B09-D01","bias_label":"NONE","reason_zh":"声索区域明确归给巴勒斯坦，随后为两块区域不相接的地理描述。"},
+ {"sample_id":"B09-D02","bias_label":"NONE","reason_zh":"类别和主题名称列表。"},
+ {"sample_id":"B09-D03","bias_label":"NONE","reason_zh":"边界名称的简短定义。"},
+ {"sample_id":"B09-D04","bias_label":"NONE","reason_zh":"行政、控制、定居点及封锁概况；占领等有具体行为语境，不单凭术语判W。"},
+ {"sample_id":"B09-D05","bias_label":"NONE","reason_zh":"类别列表；占领地区的类别称呼不自动认定W/G。"},
+ {"sample_id":"B09-D06","bias_label":"UNK","reason_zh":"将封锁称为casus belli并称进攻为预防性进攻；本段不能明确前者是在描述以方认定的开战事由还是作者的法律正当性判断，保留归属疑难而不核验战争合法性。","claim_quote":"שהיוותה עילת מלחמה (casus belli), פתחה ישראל ב־5 ביוני במתקפת מנע נגד צבאות מדינות ערב","attribution_quote":null},
+ {"sample_id":"B09-D07","bias_label":"NONE","reason_zh":"水资源管理权限联系编号92、158、291号军事命令；不复核具体条款。"},
+ {"sample_id":"B09-D08","bias_label":"W4","reason_zh":"不可战胜的说法明确归给以色列军方领导，不按该引述判W3；但叙述者自己以神话被击碎概括战争结果，另加戏剧化评价。","claim_quote":"تحطم أسطورة أن جيش إسرائيل لا يقهر","attribution_quote":"والتي كان يقول بها القادة العسكريون في إسرائيل"},
+ {"sample_id":"B09-D09","bias_label":"NONE","reason_zh":"西岸一词的地理含义。"},
+ {"sample_id":"B09-D10","bias_label":"NONE","reason_zh":"行政变化及阿隆计划的说明；和平的引号可为计划称谓，不能仅凭引号认定讥讽。"},
+ {"sample_id":"B09-D11","bias_label":"NONE","reason_zh":"明确区分以色列与国际社会对地位的不同称法，不将二者混同。"},
+ {"sample_id":"B09-D12","bias_label":"NONE","reason_zh":"地理与历史沿革，声索主体及以方名称分别明示。"}
+]

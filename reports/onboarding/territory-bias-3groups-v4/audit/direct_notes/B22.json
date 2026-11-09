@@ -1,0 +1,14 @@
+[
+ {"sample_id":"B22-D01","bias_label":"NONE","reason_zh":"临时被占领的法律称谓明确归给乌克兰法律，并区分事实控制及日期。"},
+ {"sample_id":"B22-D02","bias_label":"G","reason_zh":"段落把公投不具合法性直接作为叙述者定性，仅将相反的合法化说法归给俄方，未交代前项法律判断的主体或依据。所谓自卫队另有本段人员说明，不仅凭该称呼判W5；完全不使用邻段。","claim_quote":"16 березня був проведений нелегітимний референдум","attribution_quote":"на думку російської влади, узаконив захоплення української території"},
+ {"sample_id":"B22-D03","bias_label":"NONE","reason_zh":"恐怖主义国家是乌克兰最高拉达的明示宣布，不是叙述者未归因的辱称。"},
+ {"sample_id":"B22-D04","bias_label":"NONE","reason_zh":"人口和迁移叙述明确称依据档案分析；v4不要求联网找出全部档案，也不核验结论。"},
+ {"sample_id":"B22-D05","bias_label":"NONE","reason_zh":"行政区类别与方位的短定义。"},
+ {"sample_id":"B22-D06","bias_label":"NONE","reason_zh":"行政区成立与更名沿革，迁移中心联系具名日期政令。"},
+ {"sample_id":"B22-D07","bias_label":"NONE","reason_zh":"行政单位与地理位置定义。"},
+ {"sample_id":"B22-D08","bias_label":"NONE","reason_zh":"出口份额列表，贸易下降有时间与战争背景限定。"},
+ {"sample_id":"B22-D09","bias_label":"NONE","reason_zh":"首都与国家语言的短定义。"},
+ {"sample_id":"B22-D10","bias_label":"NONE","reason_zh":"官方与其他人口估计被区分，部分作者及组织观点被标为估计，不因未逐个列名就自动判G。"},
+ {"sample_id":"B22-D11","bias_label":"NONE","reason_zh":"国际承认边界范围内的面积排序说明。"},
+ {"sample_id":"B22-D12","bias_label":"NONE","reason_zh":"未获国际承认与事实控制程度分别描述，没有把宣布等同于所有国家承认。"}
+]

@@ -1,0 +1,14 @@
+[
+ {"sample_id":"B27-D01","bias_label":"NONE","reason_zh":"明确区分俄罗斯实际控制和日本政府声索。"},
+ {"sample_id":"B27-D02","bias_label":"NONE","reason_zh":"相关岛屿与争议类别列表；与原段B23-D11一致。"},
+ {"sample_id":"B27-D03","bias_label":"NONE","reason_zh":"历史势力范围及边界联系1855年下田条约。"},
+ {"sample_id":"B27-D04","bias_label":"NONE","reason_zh":"带毛等称呼属于戈洛夫宁书中所记居民称法，主体和转述层级明确，不当作作者对族群的辱称。"},
+ {"sample_id":"B27-D05","bias_label":"NONE","reason_zh":"战争结果与国际法违反等相反法律解释明确归给俄日各方，并列其协议依据。"},
+ {"sample_id":"B27-D06","bias_label":"NONE","reason_zh":"行动计划联系斯大林电报及雅尔塔协定；末句明确是部分人的反事实看法，而非作者确定事实，不因观点未实名或反事实未证实保留UNK。"},
+ {"sample_id":"B27-D07","bias_label":"NONE","reason_zh":"群岛范围判断明确归给俄罗斯政府。"},
+ {"sample_id":"B27-D08","bias_label":"NONE","reason_zh":"日方领土主张明确归给其官方立场，并区别俄方事实控制；与B23-D12一致。"},
+ {"sample_id":"B27-D09","bias_label":"NONE","reason_zh":"岛屿、海岸线与经济区面积说明；与B23-D08一致。"},
+ {"sample_id":"B27-D10","bias_label":"NONE","reason_zh":"明示两国政府对范围解释不同；与B23-D09一致。"},
+ {"sample_id":"B27-D11","bias_label":"NONE","reason_zh":"气候类型及岛屿间温度比较。"},
+ {"sample_id":"B27-D12","bias_label":"NONE","reason_zh":"面积按俄方声称边界限定，随后为区位与比例描述；不校验海岸线等事实。"}
+]

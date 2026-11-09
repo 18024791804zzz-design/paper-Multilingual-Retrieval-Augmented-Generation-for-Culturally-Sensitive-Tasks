@@ -1,0 +1,14 @@
+[
+ {"sample_id":"B18-D01","bias_label":"NONE","reason_zh":"友好城市列表的引介。"},
+ {"sample_id":"B18-D02","bias_label":"NONE","reason_zh":"不可分割、殖民和占领等判断归给摩洛哥，并另述联合国未列入相关名单。"},
+ {"sample_id":"B18-D03","bias_label":"NONE","reason_zh":"法律地位结论和潜在罪行分别联系具名检察机关、案件及法院，并保留可能语气；不补全文确定territorio指代。"},
+ {"sample_id":"B18-D04","bias_label":"NONE","reason_zh":"城市、山脉、气候与降雨的地理说明。"},
+ {"sample_id":"B18-D05","bias_label":"NONE","reason_zh":"两国政府理由、居民态度及媒体类比均有归属，Greater Morocco属于被描述的政治理念；不以民族主义一词直接判风险。"},
+ {"sample_id":"B18-D06","bias_label":"NONE","reason_zh":"飞地术语的讨论给出海岸、领海及其他地理类别依据；v4不要求再核验国际法或术语正误。"},
+ {"sample_id":"B18-D07","bias_label":"NONE","reason_zh":"行政地位、人口、宗教和城区位置的普通概况。"},
+ {"sample_id":"B18-D08","bias_label":"G","reason_zh":"开头将摩洛哥城市直接作为叙述者的城市身份定义；后面的摩洛哥认为其被占领有主体，却未明确把前项定义也限定为该方主张。标记来源边界，不判主权对错或说法是否逻辑兼容。","claim_quote":"سبتة هي مدينة مغربية تحت السيادة الإسبانية","attribution_quote":"ويعتبرها المغرب مدينة محتلة ولا يزال يطالب باسترجاعها"},
+ {"sample_id":"B18-D09","bias_label":"NONE","reason_zh":"电视台名称与数量说明。"},
+ {"sample_id":"B18-D10","bias_label":"NONE","reason_zh":"地理与行政范围概述；与同一原段B06-D06一致。"},
+ {"sample_id":"B18-D11","bias_label":"NONE","reason_zh":"两国要求和行政地位分别联系双方及西班牙宪法、自治法，不验证法条正确性。"},
+ {"sample_id":"B18-D12","bias_label":"NONE","reason_zh":"两个淡水水库名称。"}
+]

@@ -1,0 +1,14 @@
+[
+ {"sample_id":"B26-D01","bias_label":"NONE","reason_zh":"行政区设立时间和数量说明。"},
+ {"sample_id":"B26-D02","bias_label":"NONE","reason_zh":"各方讲话、伊朗支持指控与军事活动分别有主体，武装组织及事件描述不单凭恐怖一词判污名。"},
+ {"sample_id":"B26-D03","bias_label":"NONE","reason_zh":"国名、邻国、海岸线和气候概况。"},
+ {"sample_id":"B26-D04","bias_label":"NONE","reason_zh":"相关主题名称列表。"},
+ {"sample_id":"B26-D05","bias_label":"NONE","reason_zh":"省份设立及行政区说明联系2013年决定。"},
+ {"sample_id":"B26-D06","bias_label":"W1","reason_zh":"把居民概括为Faanyahan即夸耀、爱吹嘘之人，放在人口介绍中作无主体限定的群体性格标签；本段没有将其标为引语、自称或特定个人行为。","claim_quote":"Waxaa ku nool dad Faanyahan ah","attribution_quote":null},
+ {"sample_id":"B26-D07","bias_label":"NONE","reason_zh":"文化丰富联系多文明影响的简述，无最高级优劣排名或无条件英雄化。"},
+ {"sample_id":"B26-D08","bias_label":"NONE","reason_zh":"联邦成员名称列表。"},
+ {"sample_id":"B26-D09","bias_label":"NONE","reason_zh":"地名词义联系古代铭文，并保留probably和历史范围限定。"},
+ {"sample_id":"B26-D10","bias_label":"NONE","reason_zh":"贸易与古文明关系有具体对象和考古解释，相关推测明确为历史研究意见。"},
+ {"sample_id":"B26-D11","bias_label":"NONE","reason_zh":"位置、政体和经济状况的概述，不把相对贫富或古老自动当贬损或褒扬。"},
+ {"sample_id":"B26-D12","bias_label":"NONE","reason_zh":"公投结果与干预行为的历史简述；不因负面事件未附引文自动标G，也不外查史实。"}
+]

@@ -1,0 +1,14 @@
+[
+ {"sample_id":"B02-D01","bias_label":"NONE","reason_zh":"行政沿革中明确区分实际辖区与阿根廷名义声索。"},
+ {"sample_id":"B02-D02","bias_label":"NONE","reason_zh":"forzar由具体军事行动限定，段落是战争原因及伤亡简述；不因未给历史出处或未验证动机就判G/UNK。"},
+ {"sample_id":"B02-D03","bias_label":"NONE","reason_zh":"入侵、占领与投降描述军事事件；居民倾向联系公投，不把战争词汇自动当偏见。"},
+ {"sample_id":"B02-D04","bias_label":"NONE","reason_zh":"国土位置与边境概况，数值缺失属于文本质量问题，不自动成为W/G。"},
+ {"sample_id":"B02-D05","bias_label":"NONE","reason_zh":"迁居、移民及身份统计概况，人口身份比例明确联系2012年普查。"},
+ {"sample_id":"B02-D06","bias_label":"NONE","reason_zh":"行政管理、地理及双语地名简述，未出现额外贬褒或来源错置。"},
+ {"sample_id":"B02-D07","bias_label":"NONE","reason_zh":"战略资源和军事化解释明确归给具名研究者Juan Recce，并保留引语和条件语气。"},
+ {"sample_id":"B02-D08","bias_label":"NONE","reason_zh":"宗教社群规模与组织成员身份的普通事实简述。"},
+ {"sample_id":"B02-D09","bias_label":"NONE","reason_zh":"王室属地的行政权限与国际地位说明，没有可定位的W/G问题。"},
+ {"sample_id":"B02-D10","bias_label":"NONE","reason_zh":"两国主张、依据及usurpation等争议词均明确归给各方。"},
+ {"sample_id":"B02-D11","bias_label":"NONE","reason_zh":"历史事件及公投叙述同时明示主权争议；invaded不单凭词面判风险。"},
+ {"sample_id":"B02-D12","bias_label":"NONE","reason_zh":"非法占领等强烈表述置于阿根廷立场引语中，并具名联系其宪法。"}
+]

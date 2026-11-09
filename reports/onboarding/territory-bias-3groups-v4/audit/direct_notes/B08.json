@@ -1,0 +1,14 @@
+[
+ {"sample_id":"B08-D01","bias_label":"NONE","reason_zh":"王权集中及文艺复兴的历史叙述，绝对指政权制度。"},
+ {"sample_id":"B08-D02","bias_label":"NONE","reason_zh":"地图分歧和边界解释联系具名测绘机构、1861年条约及报告；v4不复核法律效力与条款，也不只因inequivocabilmente判W3。"},
+ {"sample_id":"B08-D03","bias_label":"UNK","reason_zh":"认为边界标记看似被故意拉开距离，保留了表象语气；本段无法明确这是制图观察还是对制图方意图的未归因推测，不能仅由volutamente确认W。","claim_quote":"le crocette che segnano i confini appaiono volutamente distanziate","attribution_quote":null},
+ {"sample_id":"B08-D04","bias_label":"NONE","reason_zh":"意大利位置、政体及人口规模说明。"},
+ {"sample_id":"B08-D05","bias_label":"W5","reason_zh":"第一句叙述者以arbitrariamente预设法方地图划界缺乏根据、削弱其可信度；后句历史伪造及法律效力批评则明确归给书作者，不能把后句引语一并算作者偏见。","claim_quote":"che arbitrariamente inglobava la vetta in territorio francese","attribution_quote":"Secondo gli autori di un libro apparso anni fa nelle librerie italiane e francesi"},
+ {"sample_id":"B08-D06","bias_label":"NONE","reason_zh":"文艺、银行和税收活动的历史概述，grands travaux是具体大型工程语境。"},
+ {"sample_id":"B08-D07","bias_label":"NONE","reason_zh":"地理位置、边界争议与法国声索分开表达，并保留条件式。"},
+ {"sample_id":"B08-D08","bias_label":"NONE","reason_zh":"地名沿革联系历史文献和地图；萨伏依历史持有及转让为简述，不因legittimi单词直接判风险。"},
+ {"sample_id":"B08-D09","bias_label":"NONE","reason_zh":"不同地图的画法与边界解释对应具名国家地图和条约附件，不把一种地图解释当另一国共识。"},
+ {"sample_id":"B08-D10","bias_label":"NONE","reason_zh":"登山事故叙述；英雄明确是两名登山者心中的人物，不是作者对政治主体的英雄化。"},
+ {"sample_id":"B08-D11","bias_label":"NONE","reason_zh":"世界独特等措辞属于申遗项目引述，并说明并非所有人支持。"},
+ {"sample_id":"B08-D12","bias_label":"NONE","reason_zh":"行政划分、解释与资料分析联系法方政令、地图及意方学者，不核验具体文件。"}
+]

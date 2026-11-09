@@ -1,0 +1,14 @@
+[
+ {"sample_id":"B20-D01","bias_label":"NONE","reason_zh":"岛礁地位明确归给2008年法院判决，后为联合委员会事项，不要求段内重复法院全称。"},
+ {"sample_id":"B20-D02","bias_label":"NONE","reason_zh":"独立、加入与退出联邦的历史简述。"},
+ {"sample_id":"B20-D03","bias_label":"NONE","reason_zh":"原始所有权及新方主张联系具名ICJ判决和1953年信件，不核验法院具体意见。"},
+ {"sample_id":"B20-D04","bias_label":"NONE","reason_zh":"各岛礁结果明确联系国际法院2008年意见，未把本国主张当法院以外新结论。"},
+ {"sample_id":"B20-D05","bias_label":"NONE","reason_zh":"整段为新加坡主张，列明帕尔马斯案等依据；末句结论仍在这一论证框架内。"},
+ {"sample_id":"B20-D06","bias_label":"NONE","reason_zh":"未获授权及领土信念解释明确归给马来西亚提交的主张，并具名具体信件。"},
+ {"sample_id":"B20-D07","bias_label":"UNK","reason_zh":"通过反问反驳新加坡的帝国继承依据，但本段未说明这是马方诉讼意见、作者解释还是所引观点，归属边界不清楚；不判类比论证真伪。","claim_quote":"Secara analogi, jika Selat Tebrau pernah ditadbir oleh British, apakah Selat Tebrau juga milik Singapura.","attribution_quote":null},
+ {"sample_id":"B20-D08","bias_label":"NONE","reason_zh":"以Singapore argued和contended确立整段新方论证框架，列举信件、地图等来源。"},
+ {"sample_id":"B20-D09","bias_label":"NONE","reason_zh":"双方地图、照会与谈判的主体明确；claim的引号不足以单独判W5。"},
+ {"sample_id":"B20-D10","bias_label":"NONE","reason_zh":"单独的小标题，未显示可确认的措辞或来源身份错置，不补下段推断。"},
+ {"sample_id":"B20-D11","bias_label":"NONE","reason_zh":"双赢、平衡等评价分别明确归给双方具名官员。"},
+ {"sample_id":"B20-D12","bias_label":"UNK","reason_zh":"将马方沉默及不对抗归因为邻国友好精神，但没有明确该动机解释的发言主体；本段法院及票数来源只明确对应裁判结果。","claim_quote":"Sikap berdiam diri serta mengelak dari menggunakan pendekatan konfrontasi oleh Malaysia berdasarkan semangat setiakawan dua negara yang berjiran itu","attribution_quote":null}
+]

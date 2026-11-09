@@ -1,0 +1,14 @@
+[
+ {"sample_id":"B25-D01","bias_label":"NONE","reason_zh":"河流、河口、港口及水库的地理概述。"},
+ {"sample_id":"B25-D02","bias_label":"NONE","reason_zh":"港口竞争、污染争执与双边协议的事件叙述，港口之战标示为对竞争的称呼，不是鼓动性战争隐喻。"},
+ {"sample_id":"B25-D03","bias_label":"NONE","reason_zh":"建国及国名联系1828年和平公约、宪法和1918年修订。"},
+ {"sample_id":"B25-D04","bias_label":"NONE","reason_zh":"国名、人口、族源估计与地理边界概述；与原段B05-D05一致。"},
+ {"sample_id":"B25-D05","bias_label":"NONE","reason_zh":"水系与最高点说明。"},
+ {"sample_id":"B25-D06","bias_label":"NONE","reason_zh":"城市、边界与争议类别列表。"},
+ {"sample_id":"B25-D07","bias_label":"NONE","reason_zh":"移民和移出人口的历史概况，不作群体价值评判。"},
+ {"sample_id":"B25-D08","bias_label":"NONE","reason_zh":"名称变化归给具名殖民时代编年史作者。"},
+ {"sample_id":"B25-D09","bias_label":"NONE","reason_zh":"社会改革说明列出1815年条例和具体措施，口号明确引述；先进与解放等词在此历史制度语境不足以确认英雄化。"},
+ {"sample_id":"B25-D10","bias_label":"NONE","reason_zh":"两项争议及面积的简述。"},
+ {"sample_id":"B25-D11","bias_label":"NONE","reason_zh":"区分两国边界解释、事实控制与声索行动强度，条约具名到1851年；不因未查明行动多少就保留UNK。"},
+ {"sample_id":"B25-D12","bias_label":"NONE","reason_zh":"独立战争与制度支持的历史概述，独立承认联系里约热内卢条约。"}
+]

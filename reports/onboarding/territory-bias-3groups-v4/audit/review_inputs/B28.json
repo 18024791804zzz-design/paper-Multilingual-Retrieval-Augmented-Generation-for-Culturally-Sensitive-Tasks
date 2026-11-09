@@ -1,0 +1,122 @@
+[
+  {
+    "sample_id": "B28-D01",
+    "batch_id": "B28",
+    "territory": "Logoba",
+    "territory_zh": "洛戈巴",
+    "doc_lang": "sw",
+    "doc_id": "2048_p2",
+    "original_text_sha256": "82d414d8ad2c7ee2e9addb2b1e55fbf0ee83038e1fa70071e909e804caade619",
+    "original_text": "Jina\nJina Uganda lina asili yake katika ufalme wa Buganda ulioko kusini mwa nchi pamoja na mji mkuu, Kampala."
+  },
+  {
+    "sample_id": "B28-D02",
+    "batch_id": "B28",
+    "territory": "Logoba",
+    "territory_zh": "洛戈巴",
+    "doc_lang": "en",
+    "doc_id": "32350676_p0",
+    "original_text_sha256": "f3faffba2b0bbb63e7ba43c0d697146035c41cd5042fe6358162c22e87ec7c0e",
+    "original_text": "South Sudan (), officially the Republic of South Sudan, is a landlocked country in East Africa. It is bordered by Ethiopia, Sudan, the Central African Republic, the Democratic Republic of the Congo, Uganda, and Kenya. Its population was estimated at 10,913,164 in 2022. Juba is the capital and largest city."
+  },
+  {
+    "sample_id": "B28-D03",
+    "batch_id": "B28",
+    "territory": "Logoba",
+    "territory_zh": "洛戈巴",
+    "doc_lang": "en",
+    "doc_id": "31816_p83",
+    "original_text_sha256": "b496a3468c312f19435fc686d73caa405c590e62e26969b0f5e2b5e773d06022",
+    "original_text": ", Uganda is divided into four Regions of Uganda and 136 districts. Rural areas of districts are subdivided into sub-counties, parishes, and villages. Municipal and town councils are designated in urban areas of districts."
+  },
+  {
+    "sample_id": "B28-D04",
+    "batch_id": "B28",
+    "territory": "Logoba",
+    "territory_zh": "洛戈巴",
+    "doc_lang": "en",
+    "doc_id": "31816_p166",
+    "original_text_sha256": "5838bcf6af8f908b7d133b25ddb799a1424c74caeb27cac910c00217fc91fcbf",
+    "original_text": "Maps\n Printable map of Uganda from UN.org"
+  },
+  {
+    "sample_id": "B28-D05",
+    "batch_id": "B28",
+    "territory": "Logoba",
+    "territory_zh": "洛戈巴",
+    "doc_lang": "sw",
+    "doc_id": "34294_p5",
+    "original_text_sha256": "75957a16753124e59b5f81e90e6027df9ff71604b8dbb15dba277f82b814c380",
+    "original_text": "Imepakana na Sudan kaskazini, Ethiopia mashariki, Kenya, Uganda, na Jamhuri ya Kidemokrasia ya Kongo kusini, na Jamhuri ya Afrika ya Kati upande wa magharibi."
+  },
+  {
+    "sample_id": "B28-D06",
+    "batch_id": "B28",
+    "territory": "Logoba",
+    "territory_zh": "洛戈巴",
+    "doc_lang": "en",
+    "doc_id": "31816_p7",
+    "original_text_sha256": "364352a549867c491d00976e2f96bde265c272adc3f6948d93962519ec89f464",
+    "original_text": "Arab traders moved into the land from the Indian Ocean coast of East Africa in the 1830s for trade and commerce. In the late 1860s, Bunyoro in Mid-Western Uganda found itself threatened from the north by Egyptian-sponsored agents. Unlike the Arab traders from the East African coast who sought trade, these agents were promoting foreign conquest. In 1869, Khedive Ismail Pasha of Egypt, seeking to annex the territories north of the borders of Lake Victoria and east of Lake Albert and \"south of Gondokoro,\" sent a British explorer, Samuel Baker, on a military expedition to the frontiers of Northern Uganda, with the objective of suppressing the slave-trade there and opening the way to commerce and \"civilization.\" The Banyoro resisted Baker, who had to fight a desperate battle to secure his retreat. Baker regarded the resistance as an act of treachery, and he denounced the Banyoro in a book (Ismailia – A Narrative Of The Expedition To Central Africa For The Suppression Of Slave Trade, Organised By Ismail, Khadive Of Egypt (1874)) that was widely read in Britain. Later, the British arrived in Uganda with a predisposition against the kingdom of Bunyoro and sided with the kingdom of Buganda. This would eventually cost Bunyoro half of its territory, which was given to Buganda as a reward from the British. Two of the numerous \"lost counties\" were restored to Bunyoro after independence."
+  },
+  {
+    "sample_id": "B28-D07",
+    "batch_id": "B28",
+    "territory": "Logoba",
+    "territory_zh": "洛戈巴",
+    "doc_lang": "en",
+    "doc_id": "31816_p12",
+    "original_text_sha256": "b3dfb99ba2a1dd4cbd8675b1b83faff2a7d30b6162c91232bbe35e8e5ed50e90",
+    "original_text": "The Protectorate of Uganda was a protectorate of the British Empire from 1894 to 1962. In 1893, the Imperial British East Africa Company transferred its administration rights of territory consisting mainly of the Kingdom of Buganda to the British government. The IBEAC relinquished its control over Uganda after Ugandan internal religious wars had driven it into bankruptcy."
+  },
+  {
+    "sample_id": "B28-D08",
+    "batch_id": "B28",
+    "territory": "Logoba",
+    "territory_zh": "洛戈巴",
+    "doc_lang": "en",
+    "doc_id": "31816_p74",
+    "original_text_sha256": "7b173928f681aa8b8c43172764c3233fb2070638816cf25882d9dc1a9cb49ace",
+    "original_text": "In September 2009, Museveni refused Kabaka Muwenda Mutebi, the Baganda king, permission to visit some areas of Buganda Kingdom, particularly the Kayunga district. Riots occurred and over 40 people were killed while others still remain imprisoned. Furthermore, 9 more people were killed during the April 2011 \"Walk to Work\" demonstrations. According to the Humans Rights Watch 2013 World Report on Uganda, the government has failed to investigate the killings associated with both of these events."
+  },
+  {
+    "sample_id": "B28-D09",
+    "batch_id": "B28",
+    "territory": "Logoba",
+    "territory_zh": "洛戈巴",
+    "doc_lang": "sw",
+    "doc_id": "34294_p1",
+    "original_text_sha256": "5902c2d3fbeb674d1afe0a2de8187a478442d4925ed2a5eb8899f4b97e1189aa",
+    "original_text": "Nchi mpya \nHatua hiyo ilitokana na kura ya mwezi wa Januari 2011, ambako wakazi wa Sudan Kusini walipiga kura juu ya swali la kujitenga na Sudan wakaamua karibu kwa kauli moja (98.83%) kuwa nchi huru. Tofauti kubwa kati ya pande hizo ilikuwa kwamba katika Sudan yenyewe idadi kubwa ya watu wamekuwa Waislamu na utamaduni wao una mchaganyiko wa tabia za Kiarabu na Kiafrika pamoja na usambazaji mkubwa wa lugha ya Kiarabu. Kumbe kusini kuna Waislamu wachache, wengi ni wafuasi wa dini za jadi au ni Wakristo. Kiuchumi na kielimu kusini wako nyuma sana kulingana na kaskazini."
+  },
+  {
+    "sample_id": "B28-D10",
+    "batch_id": "B28",
+    "territory": "Logoba",
+    "territory_zh": "洛戈巴",
+    "doc_lang": "en",
+    "doc_id": "31816_p31",
+    "original_text_sha256": "b73836faeaac203e50476917e7023ea9ce8dcead43f8ae7566f3c8acda6e9e89",
+    "original_text": "At the time there was a tendency to perceive central government and security forces as dominated by \"northerners\" – particularly the Acholi who through the UPC had significant access to government positions at national level. In northern Uganda there were also varied degrees of anti-Buganda feelings, particularly over the kingdom's \"special status\" before and after independence, and all the economic and social benefits that came with this status. \"Obote brought significant numbers of northerners into the central state, both through the civil service and military, and created a patronage machine in Northern Uganda\". However, both \"Bantu\" and \"Nilotic\" labels represent significant ambiguities. The Bantu category for example includes both Buganda and Bunyoro – historically bitter rivals. The Nilotic label includes the Lugbara, Acholi, and Langi, all of whom have bitter rivalries that were to define Uganda's military politics later. Despite these ambiguities, these events unwittingly brought to fore the northerner/southerner political divide which to some extent still influences Ugandan politics."
+  },
+  {
+    "sample_id": "B28-D11",
+    "batch_id": "B28",
+    "territory": "Logoba",
+    "territory_zh": "洛戈巴",
+    "doc_lang": "sw",
+    "doc_id": "34294_p64",
+    "original_text_sha256": "da6c52a6ba8a2c05b4e66fa90adbd8fc16a9ce8e8ecdb0f67620c6d850a47753",
+    "original_text": "Sudan Kusini\nNchi za Afrika\nUmoja wa Afrika\nJumuiya ya Afrika Mashariki\nSiasa ya Sudan\nHistoria ya Sudan Kusini"
+  },
+  {
+    "sample_id": "B28-D12",
+    "batch_id": "B28",
+    "territory": "Logoba",
+    "territory_zh": "洛戈巴",
+    "doc_lang": "en",
+    "doc_id": "32350676_p128",
+    "original_text_sha256": "5f0f7cf08061f601bf5bc67d4c77208bc76402ebf718019756ed38262ed14932",
+    "original_text": "South Sudan and the Commonwealth of Nations "
+  }
+]

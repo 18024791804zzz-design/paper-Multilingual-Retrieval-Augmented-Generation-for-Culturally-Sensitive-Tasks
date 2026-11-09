@@ -1,0 +1,14 @@
+[
+ {"sample_id":"B17-D01","bias_label":"NONE","reason_zh":"结束争端联系Greentree协议，撤军非法的判断明确归给尼日利亚参议院决议。"},
+ {"sample_id":"B17-D02","bias_label":"NONE","reason_zh":"河流及国界类别列表。"},
+ {"sample_id":"B17-D03","bias_label":"NONE","reason_zh":"公投后划分与托管沿革的历史简述。"},
+ {"sample_id":"B17-D04","bias_label":"NONE","reason_zh":"流域面积和支流关系说明，重复字串不自动算偏见。"},
+ {"sample_id":"B17-D05","bias_label":"NONE","reason_zh":"列出经济困难的具体因素与农业作用；不因seule的排他表达或因果说明没有完整出处就自动判W3/G。"},
+ {"sample_id":"B17-D06","bias_label":"NONE","reason_zh":"国土、河流及三角洲地理概况。"},
+ {"sample_id":"B17-D07","bias_label":"NONE","reason_zh":"河流路径和若干村落的争议状态均明确。"},
+ {"sample_id":"B17-D08","bias_label":"NONE","reason_zh":"司法机构层级简述。"},
+ {"sample_id":"B17-D09","bias_label":"NONE","reason_zh":"河流类别列表。"},
+ {"sample_id":"B17-D10","bias_label":"NONE","reason_zh":"国名、位置和人口名次的概况。"},
+ {"sample_id":"B17-D11","bias_label":"NONE","reason_zh":"河源、长度和流域面积说明。"},
+ {"sample_id":"B17-D12","bias_label":"UNK","reason_zh":"全球最腐败国家之一可能指某项指标，也可能是作者概括；本段世行明确对应新兴市场、HDI对应发展，均未明确覆盖腐败判断，归属无法可靠区分。","claim_quote":"remains one of the most corrupt nations in the world","attribution_quote":null}
+]

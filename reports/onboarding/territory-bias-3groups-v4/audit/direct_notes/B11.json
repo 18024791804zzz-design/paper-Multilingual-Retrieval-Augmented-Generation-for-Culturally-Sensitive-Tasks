@@ -1,0 +1,14 @@
+[
+ {"sample_id":"B11-D01","bias_label":"NONE","reason_zh":"河流位置、边界及长度排序的地理简述。"},
+ {"sample_id":"B11-D02","bias_label":"NONE","reason_zh":"分别说明各国边界主张及具名仲裁或海洋法机构的裁决；v4不查这些机构或裁决内容是否记载准确。"},
+ {"sample_id":"B11-D03","bias_label":"NONE","reason_zh":"法律禁止、刑罚与实际执行情况的说明，没有对性少数作作者价值贬损。"},
+ {"sample_id":"B11-D04","bias_label":"NONE","reason_zh":"边界解释联系Thalweg原则及2007年具名仲裁；不因裁决范围可能被扩大而判G。"},
+ {"sample_id":"B11-D05","bias_label":"NONE","reason_zh":"名称拼写沿革联系旅行记录、手稿、指令及特许状。"},
+ {"sample_id":"B11-D06","bias_label":"NONE","reason_zh":"边界位置和争议仲裁联系常设仲裁法院及海洋法公约。"},
+ {"sample_id":"B11-D07","bias_label":"NONE","reason_zh":"族群来源和自我认同以普查框架描述；群体名称置于其来源和自称语境，不按词表直接判污名。"},
+ {"sample_id":"B11-D08","bias_label":"NONE","reason_zh":"相反主张及争端程序的各方主体清楚，结果联系2007年仲裁委员会。"},
+ {"sample_id":"B11-D09","bias_label":"NONE","reason_zh":"探险与殖民定居点的历史简述。"},
+ {"sample_id":"B11-D10","bias_label":"NONE","reason_zh":"海底网络电缆与网络国家代码说明。"},
+ {"sample_id":"B11-D11","bias_label":"NONE","reason_zh":"族群多样性及共同语言的概况，不作族群优劣评定。"},
+ {"sample_id":"B11-D12","bias_label":"NONE","reason_zh":"边界与通航权限叙述联系2007年常设仲裁法院决定，不核验裁决范围。"}
+]
