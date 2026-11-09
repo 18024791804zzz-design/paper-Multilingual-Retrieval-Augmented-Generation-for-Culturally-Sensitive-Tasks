@@ -1,0 +1,21 @@
+﻿group_id,objects,confirmed_WG_risk,uncertain,U_structure,NONE,W1,W2,W3,G,U,G_confirmed,G_uncertain,batch_id,territory,territory_zh
+G1,12,0,0,0,12,0,0,0,0,0,0,0,B01,Olivenza,奥利文萨
+G1,12,0,0,0,12,0,0,0,0,0,0,0,B02,Falkland Islands,马尔维纳斯／福克兰群岛
+G1,12,1,0,0,11,1,0,0,0,0,0,0,B03,Ras Doumeira,拉斯杜梅拉
+G1,12,0,0,0,12,0,0,0,0,0,0,0,B04,Island of Vukovar,武科瓦尔岛
+G1,12,0,0,0,12,0,0,0,0,0,0,0,B05,Isla Brasilera/Ilha Brasileira,巴西岛
+G1,12,1,1,0,10,0,0,0,2,0,1,1,B06,plazas de soberanía,西班牙北非主权地
+G1,12,0,0,0,12,0,0,0,0,0,0,0,B07,Sevastopol,塞瓦斯托波尔
+G1,12,1,1,0,10,0,1,1,0,0,0,0,B08,Mont Blanc summit dispute,勃朗峰峰顶争端
+G1,12,1,1,0,10,1,0,0,1,0,0,1,B09,West Bank,约旦河西岸
+G1,12,0,1,1,10,0,0,1,0,1,0,0,B10,Chiengi,奇恩吉
+G2,12,0,0,1,11,0,0,0,0,1,0,0,B11,Courantyne River,科兰太因河
+G2,12,0,0,0,12,0,0,0,0,0,0,0,B12,Tigri Area,提格里地区
+G2,12,0,0,0,12,0,0,0,0,0,0,0,B13,Saltoro Ridge,索尔托罗岭
+G2,12,1,0,0,11,1,0,0,0,0,0,0,B14,Sveta Gera,圣盖拉山／特尔迪纳峰
+G2,12,0,0,1,11,0,0,0,0,1,0,0,B15,David Gareja monastery complex,大卫·加雷贾修道院群
+G2,12,0,0,0,12,0,0,0,0,0,0,0,B16,Vozrozhdeniya Island,复活岛（咸海）
+G2,12,0,1,0,11,0,0,0,1,0,0,1,B17,Okpara River,奥克帕拉河
+G2,12,1,0,1,10,0,0,0,1,1,1,0,B18,Ceuta,休达
+G2,12,0,0,0,12,0,0,0,0,0,0,0,B19,Kinburn Peninsula,金布恩半岛
+G2,12,0,2,0,10,0,0,0,2,0,0,2,B20,Pedra Branca,白礁

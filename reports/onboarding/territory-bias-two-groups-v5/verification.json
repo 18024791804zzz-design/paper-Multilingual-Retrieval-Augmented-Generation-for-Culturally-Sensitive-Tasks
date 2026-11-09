@@ -1,0 +1,14 @@
+{
+  "status": "passed",
+  "objects": 240,
+  "groups": 2,
+  "territories": 20,
+  "unique_original_texts": 237,
+  "exact_quotes_checked": 24,
+  "duplicate_text_label_conflicts": 0,
+  "all_240_original_texts_preserved": true,
+  "direct_judgments": 240,
+  "target_only_batches": 20,
+  "scope": "Artifact integrity and format, not annotation accuracy/F1",
+  "checksum_check": "Run python verify.py after unpacking to verify SHA256SUMS."
+}

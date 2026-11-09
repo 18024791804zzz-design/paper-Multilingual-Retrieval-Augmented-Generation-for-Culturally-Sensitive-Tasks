@@ -1,0 +1,16 @@
+{
+  "annotation_version": "v5",
+  "selection": "Existing first two groups G1/G2, unchanged sample identities; no new sampling",
+  "objects": 240,
+  "groups": 2,
+  "territories": 20,
+  "prior_v4_subset_sha256": "07757735e093f922f6ec74ea0f240e0d6406ac822e122a93c51643449440b86a",
+  "method": "Direct annotation by current conversation assistant; not a separate paid model API run",
+  "blinded": false,
+  "judgment_inputs": "Complete original target paragraph with locator metadata only",
+  "external_fact_searches_for_judgment": false,
+  "adjacent_paragraphs_used_for_judgment": false,
+  "original_documents_edited": false,
+  "accuracy_or_F1_measured": false,
+  "retrieval_origin_rows": 981
+}

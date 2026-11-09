@@ -1,0 +1,120 @@
+{
+  "annotation_version": "v5",
+  "objects": 240,
+  "groups": 2,
+  "territories": 20,
+  "unique_original_texts": 237,
+  "languages": 22,
+  "by_group": [
+    {
+      "group_id": "G1",
+      "objects": 120,
+      "confirmed_WG_risk": 4,
+      "uncertain": 4,
+      "U_structure": 1,
+      "NONE": 111,
+      "W1": 2,
+      "W2": 1,
+      "W3": 2,
+      "G": 3,
+      "U": 1,
+      "G_confirmed": 1,
+      "G_uncertain": 2
+    },
+    {
+      "group_id": "G2",
+      "objects": 120,
+      "confirmed_WG_risk": 2,
+      "uncertain": 3,
+      "U_structure": 3,
+      "NONE": 112,
+      "W1": 1,
+      "W2": 0,
+      "W3": 0,
+      "G": 4,
+      "U": 3,
+      "G_confirmed": 1,
+      "G_uncertain": 3
+    }
+  ],
+  "total": {
+    "group_id": "TOTAL",
+    "objects": 240,
+    "confirmed_WG_risk": 6,
+    "uncertain": 7,
+    "U_structure": 4,
+    "NONE": 223,
+    "W1": 3,
+    "W2": 1,
+    "W3": 2,
+    "G": 7,
+    "U": 4,
+    "G_confirmed": 2,
+    "G_uncertain": 5
+  },
+  "finding_counts": {
+    "W1/confirmed": 3,
+    "G/uncertain": 5,
+    "G/confirmed": 2,
+    "W3/uncertain": 2,
+    "W2/confirmed": 1,
+    "U/confirmed": 4
+  },
+  "previous_v4_counts": {
+    "NONE": 227,
+    "W2": 2,
+    "UNK": 7,
+    "G": 2,
+    "W5": 1,
+    "W4": 1
+  },
+  "label_string_changes": 15,
+  "new_structure_cases_from_NONE": 4,
+  "previous_UNK_reassessed": 7,
+  "transitions": [
+    {
+      "old_v4": "G",
+      "new_v5": "G",
+      "objects": 2
+    },
+    {
+      "old_v4": "NONE",
+      "new_v5": "NONE",
+      "objects": 223
+    },
+    {
+      "old_v4": "NONE",
+      "new_v5": "U",
+      "objects": 4
+    },
+    {
+      "old_v4": "UNK",
+      "new_v5": "G",
+      "objects": 5
+    },
+    {
+      "old_v4": "UNK",
+      "new_v5": "W3",
+      "objects": 2
+    },
+    {
+      "old_v4": "W2",
+      "new_v5": "W1",
+      "objects": 2
+    },
+    {
+      "old_v4": "W4",
+      "new_v5": "W1",
+      "objects": 1
+    },
+    {
+      "old_v4": "W5",
+      "new_v5": "W2",
+      "objects": 1
+    }
+  ],
+  "retrieval_origin_rows": 981,
+  "sampling": "Existing G1/G2 unchanged, not new random groups",
+  "annotation_accuracy_or_F1": null,
+  "interpretation": "Protocol-based weak annotations; changes do not establish improved accuracy, corpus bias prevalence or RAG effects."
+}

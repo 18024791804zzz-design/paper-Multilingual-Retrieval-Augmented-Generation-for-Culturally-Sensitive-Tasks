@@ -1,0 +1,10 @@
+{
+  "status": "passed",
+  "raw_paragraph_matches": 240,
+  "raw_article_files": 93,
+  "indexed_paragraph_matches": 240,
+  "retrieval_rank_and_score_matches": 981,
+  "retrieval_tsv_files": 88,
+  "retrieval_zip_sha256": "75cbda5ef44f6e7fbfa65a09e5f10d37cf0938a0f7b4cd58074cf6e01df88263",
+  "scope": "Original paragraph and provenance integrity only, not annotation accuracy"
+}

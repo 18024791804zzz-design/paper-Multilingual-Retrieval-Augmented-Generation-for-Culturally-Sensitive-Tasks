@@ -1,0 +1,14 @@
+[
+ ["B20-D01", [], "法院、日期、各地物判决结果及联合委员会职责清楚，未核验海域权属推理。"],
+ ["B20-D02", [], "独立、加入联邦及退出的历史概述，热烈冲突是政治冲突程度描述，不直接判情绪偏见。"],
+ ["B20-D03", [], "历史归属、信函和无主地论证与ICJ判断明确关联，标题由本段裁判说明支撑，不外查裁决。"],
+ ["B20-D04", [], "争议双方、地物及国际法院结论的介绍，法律判断有具名来源。"],
+ ["B20-D05", [], "新加坡论证的段内范围延续到末尾，具名判例、地质及行使主权等均在其论证下，不把末句单独当作者结论。"],
+ ["B20-D06", [], "信函内容和对询问的解释明确由马来西亚提出，标题结合本段当事方论点理解。"],
+ ["B20-D07", [{"type":"G","status":"uncertain","quotes":["Secara analogi, jika Selat Tebrau pernah ditadbir oleh British, apakah Selat Tebrau juga milik Singapura."],"reason":"以柔佛海峡反问反驳新加坡的帝国继承依据，但目标段未交代该论证属于马方诉讼意见、其他来源还是作者自身评论。"}], "不检验类比论证成立与否，也不只凭Jelas sekali或反问形式确认W2。"],
+ ["B20-D08", [], "岛屿无主、持续行使权力及附属地物结论均处于新加坡论证范围，有明确主张者。"],
+ ["B20-D09", [], "地图、外交照会、举证与提交法院的行为有双方主体；引号中的claim对应外交争议称谓，不自动判嘲讽。"],
+ ["B20-D10", [], "论证主题标题，不凭标题缺少来源就确认G，也不当作必须补齐的结构缺陷。"],
+ ["B20-D11", [], "双赢、平衡及满意等评价分别归于具名官员，完整引语不自动当作者偏见。"],
+ ["B20-D12", [{"type":"G","status":"uncertain","quotes":["Singapura pula mengemukakan dakwaan bahawa mereka telah menguasai pulau tersebut semenjak tahun 1840-an tanpa sebarang tentangan dan halangan oleh pihak Malaysia.","Sikap berdiam diri serta mengelak dari menggunakan pendekatan konfrontasi oleh Malaysia berdasarkan semangat setiakawan dua negara yang berjiran itu"],"reason":"新加坡的无异议主张已明确归属，但马方沉默出于邻国友谊这一解释未交代由谁提出，不能用后文法院结果为该动机解释补归因。"}], "只保留具体相互竞争解释的归属疑难，不把所有缺乏出处的历史动机叙述都判G。"]
+]

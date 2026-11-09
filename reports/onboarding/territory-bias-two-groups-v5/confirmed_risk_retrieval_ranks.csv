@@ -1,0 +1,28 @@
+﻿sample_id,group_id,territory,doc_lang,doc_id,query_id,query_lang,retriever,mode,rank,score,zip_member,bias_label
+B03-D02,G1,Ras Doumeira,so,2407_p4,Q340,so,openai,qlang,22,0.316607862867606,data/so/openai/qlang/so_query_hits.tsv,W1
+B03-D02,G1,Ras Doumeira,so,2407_p4,Q340,so,m3,qlang,5,0.312938,data/so/m3/qlang/so_query_hits.tsv,W1
+B03-D02,G1,Ras Doumeira,so,2407_p4,Q340,so,m3,rel_langs,36,0.313012,data/so/m3/rel_langs/so_query_hits.tsv,W1
+B03-D02,G1,Ras Doumeira,so,2407_p4,Q344,ti,openai,rel_langs,29,0.27360057830810547,data/ti/openai/rel_langs/ti_query_hits.tsv,W1
+B06-D04,G1,plazas de soberanía,es,45549_p8,Q258,ar,openai,rel_langs,16,0.5096915364265442,data/ar/openai/rel_langs/ar_query_hits.tsv,G
+B06-D04,G1,plazas de soberanía,es,45549_p8,Q258,ar,m3,rel_langs,35,0.418374,data/ar/m3/rel_langs/ar_query_hits.tsv,G
+B06-D04,G1,plazas de soberanía,es,45549_p8,Q315,es,openai,qlang,4,0.5701074600219727,data/es/openai/qlang/es_query_hits.tsv,G
+B06-D04,G1,plazas de soberanía,es,45549_p8,Q315,es,openai,rel_langs,7,0.5700960159301758,data/es/openai/rel_langs/es_query_hits.tsv,G
+B06-D04,G1,plazas de soberanía,es,45549_p8,Q315,es,m3,qlang,3,0.517491,data/es/m3/qlang/es_query_hits.tsv,G
+B06-D04,G1,plazas de soberanía,es,45549_p8,Q315,es,m3,rel_langs,4,0.517491,data/es/m3/rel_langs/es_query_hits.tsv,G
+B08-D05,G1,Mont Blanc summit dispute,it,19908_p26,Q306,fr,openai,rel_langs,12,0.5602991580963135,data/fr/openai/rel_langs/fr_query_hits.tsv,W2
+B08-D05,G1,Mont Blanc summit dispute,it,19908_p26,Q632,it,openai,qlang,2,0.6280707080092536,data/it/openai/qlang/it_query_hits.tsv,W2
+B08-D05,G1,Mont Blanc summit dispute,it,19908_p26,Q632,it,openai,rel_langs,4,0.6277961730957031,data/it/openai/rel_langs/it_query_hits.tsv,W2
+B08-D05,G1,Mont Blanc summit dispute,it,19908_p26,Q632,it,m3,qlang,30,0.366693,data/it/m3/qlang/it_query_hits.tsv,W2
+B09-D08,G1,West Bank,ar,1569_p13,Q281,ar,m3,qlang,22,0.490916,data/ar/m3/qlang/ar_query_hits.tsv,W1
+B09-D08,G1,West Bank,ar,1569_p13,Q281,ar,m3,rel_langs,22,0.491007,data/ar/m3/rel_langs/ar_query_hits.tsv,W1
+B09-D08,G1,West Bank,ar,1569_p13,Q551,iw,m3,rel_langs,50,0.407636,data/iw/m3/rel_langs/iw_query_hits.tsv,W1
+B14-D07,G2,Sveta Gera,sl,534_p12,Q643,hr,openai,rel_langs,13,0.4135870933532715,data/hr/openai/rel_langs/hr_query_hits.tsv,W1
+B14-D07,G2,Sveta Gera,sl,534_p12,Q643,hr,m3,rel_langs,11,0.382832,data/hr/m3/rel_langs/hr_query_hits.tsv,W1
+B14-D07,G2,Sveta Gera,sl,534_p12,Q646,sl,openai,qlang,3,0.4535701274871826,data/sl/openai/qlang/sl_query_hits.tsv,W1
+B14-D07,G2,Sveta Gera,sl,534_p12,Q646,sl,openai,rel_langs,10,0.45370882749557495,data/sl/openai/rel_langs/sl_query_hits.tsv,W1
+B14-D07,G2,Sveta Gera,sl,534_p12,Q646,sl,m3,qlang,8,0.405107,data/sl/m3/qlang/sl_query_hits.tsv,W1
+B14-D07,G2,Sveta Gera,sl,534_p12,Q646,sl,m3,rel_langs,16,0.405111,data/sl/m3/rel_langs/sl_query_hits.tsv,W1
+B18-D08,G2,Ceuta,ar,30703_p0,Q256,ar,openai,qlang,1,0.5813693267020185,data/ar/openai/qlang/ar_query_hits.tsv,G
+B18-D08,G2,Ceuta,ar,30703_p0,Q256,ar,openai,rel_langs,1,0.5848528742790222,data/ar/openai/rel_langs/ar_query_hits.tsv,G
+B18-D08,G2,Ceuta,ar,30703_p0,Q256,ar,m3,qlang,1,0.629433,data/ar/m3/qlang/ar_query_hits.tsv,G
+B18-D08,G2,Ceuta,ar,30703_p0,Q256,ar,m3,rel_langs,1,0.629416,data/ar/m3/rel_langs/ar_query_hits.tsv,G

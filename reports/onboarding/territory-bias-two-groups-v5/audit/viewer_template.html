@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>两组段落标注 · W/G/U v5</title>
+<style>
+:root{color-scheme:light;font-family:system-ui,"Microsoft YaHei",sans-serif;color:#173348;background:#f1f5f7}body{max-width:1200px;margin:0 auto;padding:24px}h1{font-size:25px;margin-bottom:6px}.hint{color:#506879;line-height:1.7}.stats{display:flex;gap:10px;flex-wrap:wrap;margin:20px 0}.stat{background:white;border:1px solid #d3dfe6;padding:12px 18px;border-radius:10px}.stat b{font-size:24px;display:block}.toolbar{position:sticky;top:0;background:#f1f5f7f5;padding:12px 0;z-index:2;display:flex;gap:8px;flex-wrap:wrap}input,select,button{font:inherit;padding:9px 10px;border:1px solid #bdced9;border-radius:6px;background:white}input{flex:1;min-width:230px}button{cursor:pointer}button.active{background:#24445c;color:white}#count{margin:10px 0;color:#506879}.card{background:white;border:1px solid #d6e0e6;border-radius:8px;margin:12px 0;overflow:hidden}.card>summary{cursor:pointer;padding:15px;line-height:1.8}.meta{color:#607785;font-size:13px}.body{padding:0 18px 18px;border-top:1px solid #e2e9ed}.tag{display:inline-block;border-radius:4px;padding:1px 7px;font-size:13px;margin:0 4px;background:#e8eef2}.confirmed{background:#ffe0d3}.uncertain{background:#fff0ad}.structure{background:#dceaff}.original{white-space:pre-wrap;line-height:1.85;overflow-wrap:anywhere;background:#f8fafb;padding:16px;border-radius:6px;max-height:650px;overflow:auto}mark{background:#ffe7a0;padding:1px 0}.finding{padding:10px;border-left:3px solid #e8b16d;background:#fffaf2;margin:10px 0;line-height:1.75}.finding p{margin:4px 0}.quote{white-space:pre-wrap;overflow-wrap:anywhere;color:#5a441b}table{border-collapse:collapse;font-size:13px;width:100%;margin-top:10px}td,th{border:1px solid #dce4e9;padding:7px;text-align:left;overflow-wrap:anywhere}.scroll{overflow:auto}a{color:#1261a0}.empty{padding:25px;background:white;border-radius:8px}footer{font-size:13px;color:#607785;line-height:1.8;margin:25px 0}
+</style>
+</head>
+<body>
+<h1>两组原样本重新标注 · W/G/U v5</h1>
+<div class="hint">沿用 G1/G2，各120条；20个领土、237个不同原段落、22种语言。原文保留，可离线查看。<br>新W1＝褒贬与情绪修辞；新W2＝确定性与可信度预设；新W3＝语义／修辞待判断。G按状态区分，U只表示结构问题。</div>
+<div class="stats" id="stats"></div>
+<div class="toolbar">
+ <input id="search" type="search" placeholder="搜索样本ID、领土、原文或中文理由" aria-label="搜索">
+ <select id="group" aria-label="分组"><option value="">全部组</option><option>G1</option><option>G2</option></select>
+ <select id="language" aria-label="语言"><option value="">全部语言</option></select>
+ <select id="type" aria-label="类型"><option value="">全部类型</option><option>W1</option><option>W2</option><option>W3</option><option>G</option><option>U</option><option>NONE</option></select>
+ <select id="mode" aria-label="状态"><option value="all">全部</option><option value="confirmed">确认W/G风险</option><option value="uncertain">待判断</option><option value="structure">U结构问题</option><option value="none">NONE</option><option value="changed">新旧标签字符串变化</option></select>
+ <button id="reset">重置</button>
+</div>
+<div id="count" aria-live="polite"></div><main id="results"></main>
+<footer>NONE不代表事实正确或完全中立。W3、G/uncertain不属于已确认偏见；U是结构问题。未进行外部事实核验或RAG实验，也未测量准确率/F1。旧版v4与新版v5同编号可能含义不同。</footer>
+<script id="annotation-data" type="application/json">__DATA__</script>
+<script>
+'use strict';
+const DATA=JSON.parse(document.getElementById('annotation-data').textContent);
+const el=id=>document.getElementById(id);
+const node=(tag,text,cls)=>{const n=document.createElement(tag);if(text!==undefined)n.textContent=text;if(cls)n.className=cls;return n;};
+const stateName=f=>f.type==='U'?'结构问题已确认':f.status==='confirmed'?'已确认':'待判断';
+for(const [label,n] of [['段落对象',DATA.rows.length],['确认W/G风险',DATA.summary.total.confirmed_WG_risk],['待判断',DATA.summary.total.uncertain],['U结构问题',DATA.summary.total.U_structure],['NONE',DATA.summary.total.NONE]]){const d=node('div',undefined,'stat');d.append(node('b',String(n)),node('span',label));el('stats').append(d);}
+for(const lang of [...new Set(DATA.rows.map(r=>r.doc_lang))].sort()){const o=node('option',lang);o.value=lang;el('language').append(o);}
+function highlighted(r){const p=node('div',undefined,'original');const spans=[];for(const f of r.findings)for(const q of f.quotes){let at=0;while((at=r.original_text.indexOf(q,at))>=0){spans.push([at,at+q.length]);at+=q.length;}}spans.sort((a,b)=>a[0]-b[0]||b[1]-a[1]);const merged=[];for(const s of spans){if(merged.length&&s[0]<=merged[merged.length-1][1])merged[merged.length-1][1]=Math.max(merged[merged.length-1][1],s[1]);else merged.push([...s]);}let at=0;for(const [a,b]of merged){p.append(document.createTextNode(r.original_text.slice(at,a)),node('mark',r.original_text.slice(a,b)));at=b;}p.append(document.createTextNode(r.original_text.slice(at)));return p;}
+function card(r){const c=node('details',undefined,'card');c.dataset.id=r.sample_id;const s=node('summary');s.append(node('strong',r.sample_id+' · '+r.territory_zh));for(const f of r.findings)s.append(node('span',f.type+' '+stateName(f),'tag '+(f.type==='U'?'structure':f.status)));if(!r.findings.length)s.append(node('span','NONE','tag'));s.append(node('div',r.group_id+' · '+r.doc_lang+' · '+r.doc_id+' · v4 '+r.previous_bias_label_v4+' → v5 '+r.bias_label,'meta'));c.append(s);let loaded=false;c.addEventListener('toggle',()=>{if(!c.open||loaded)return;loaded=true;const b=node('div',undefined,'body');b.append(node('p',r.comparison_note_zh,'hint'));if(!r.findings.length)b.append(node('p',r.reason_zh));for(const f of r.findings){const d=node('div',undefined,'finding');d.append(node('strong',f.type+' / '+f.status),node('p',f.reason));for(const q of f.quotes)d.append(node('p',q,'quote'));b.append(d);}b.append(node('h3','原始完整段落'),highlighted(r));const loc=node('p',r.raw_file+' · '+r.raw_field,'meta');if(r.source_url.startsWith('https://')){const a=node('a','维基百科来源');a.href=r.source_url;a.target='_blank';a.rel='noopener noreferrer';loc.append(document.createTextNode(' · '),a);}b.append(loc);const ranks=node('details');ranks.append(node('summary','检索来源与排名（'+r.retrieval_origins.length+'条）'));const wrap=node('div',undefined,'scroll');const t=node('table');const header=node('tr');for(const x of ['query_id','query_lang','retriever','mode','rank','score'])header.append(node('th',x));t.append(header);for(const o of r.retrieval_origins){const tr=node('tr');for(const k of ['query_id','query_lang','retriever','mode','rank','score'])tr.append(node('td',o[k]));t.append(tr);}wrap.append(t);ranks.append(wrap);b.append(ranks);c.append(b);});return c;}
+function render(){const q=el('search').value.toLocaleLowerCase().trim();const group=el('group').value,lang=el('language').value,type=el('type').value,mode=el('mode').value;const rows=DATA.rows.filter(r=>(!group||r.group_id===group)&&(!lang||r.doc_lang===lang)&&(!type||(type==='NONE'?r.bias_label==='NONE':r.findings.some(f=>f.type===type)))&&(mode==='all'||mode==='confirmed'&&r.confirmed_wg_risk||mode==='uncertain'&&r.has_uncertain||mode==='structure'&&r.has_structure_issue||mode==='none'&&r.bias_label==='NONE'||mode==='changed'&&r.label_string_changed)&&(!q||[r.sample_id,r.territory,r.territory_zh,r.doc_id,r.reason_zh,r.original_text].join(' ').toLocaleLowerCase().includes(q)));el('count').textContent='显示 '+rows.length+' / '+DATA.rows.length+' 条';el('results').replaceChildren(...(rows.length?rows.map(card):[node('div','没有符合筛选条件的段落。','empty')]));}
+for(const id of ['search','group','language','type','mode'])el(id).addEventListener(id==='search'?'input':'change',render);
+el('reset').addEventListener('click',()=>{el('search').value='';for(const id of ['group','language','type'])el(id).value='';el('mode').value='all';render();});
+render();
+</script>
+</body></html>

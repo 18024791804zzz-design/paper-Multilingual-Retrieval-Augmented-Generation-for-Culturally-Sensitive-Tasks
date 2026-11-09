@@ -1,0 +1,15 @@
+{
+  "status": "passed",
+  "checks": {
+    "all_objects": 240,
+    "confirmed": 6,
+    "uncertain": 7,
+    "structure": 4,
+    "none": 223,
+    "changed": 15,
+    "G2_structure": 3,
+    "search_expand_original_quotes_ranks": true
+  },
+  "page_errors": [],
+  "external_requests": []
+}
