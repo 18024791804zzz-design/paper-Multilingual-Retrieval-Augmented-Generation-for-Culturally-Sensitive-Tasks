@@ -1,0 +1,35 @@
+{
+  "parent_version": "claim-basis-protocol-v3",
+  "scope": "G source attribution, not source-content sufficiency",
+  "changes": [
+    {
+      "id": "S02",
+      "old": "UNK",
+      "new": "NONE",
+      "reason": "明确将结论联系到1998年的《边界协议》；按来源归属口径，不要求展示条款，不推测协议内容，因此G为NONE。"
+    },
+    {
+      "id": "S03",
+      "old": "G",
+      "new": "NONE",
+      "reason": "明确将结论归于《河道通航协议》，来源归属已经给出；正文仍有明示的依据/结论冲突，但本轮不把内容支持性或逻辑一致性计入G，因此G为NONE。"
+    },
+    {
+      "id": "S06",
+      "old": "G",
+      "new": "NONE",
+      "reason": "文本明确把结论指向前述协议条款；将未来协商写成已完成是内容/状态推论问题，按新G来源归属范围不计入G。"
+    },
+    {
+      "id": "S09",
+      "old": "G",
+      "new": "NONE",
+      "reason": "结论明确归于该协议安排；部分/整体与临时/永久的扩大仍有质量问题，但按新范围不计入G。"
+    }
+  ],
+  "additional_example": "S10",
+  "original_9_paragraphs_unchanged": true,
+  "legacy_360_labels_changed": false,
+  "corpus_reannotated": false,
+  "note": "S02/S03 follow the user request; S06/S09 follow the same narrowed scope. Internal consistency notes are not new compulsory labels. G-only demonstration verdicts are not whole-document bias verdicts."
+}
