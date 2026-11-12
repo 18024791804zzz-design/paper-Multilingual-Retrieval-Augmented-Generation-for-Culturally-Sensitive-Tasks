@@ -1,0 +1,24 @@
+{
+  "status": "passed",
+  "scope": "Artifact integrity and explicit checkpoint coverage, not annotation accuracy",
+  "complete": true,
+  "snapshot_utc": "2026-11-12T07:12:26.827480+00:00",
+  "verified_unique_judgments": 23396,
+  "total_unique_tasks": 23396,
+  "retrieval_files": 200,
+  "retrieval_rows_preserved": 150978,
+  "annotated_retrieval_rows": 150978,
+  "unprocessed_retrieval_rows": 0,
+  "other_original_data_files_byte_identical": 204,
+  "exact_quotes_checked": 2756,
+  "finding_counts": {
+    "W2/confirmed": 266,
+    "G/confirmed": 473,
+    "W1/confirmed": 427,
+    "U/confirmed": 897,
+    "G/uncertain": 43,
+    "W3/uncertain": 38
+  },
+  "original_fields_order_values_preserved": true,
+  "unprocessed_not_defaulted_to_NONE": true
+}
